@@ -1,0 +1,697 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# F
+
+# str. 55
+
+fabryka
+ fabriko
+ uzino (fabryka większa)
+
+fabrykacja
+ fabrikado, produktado
+
+fabrykant
+ fabrikanto
+
+fabrykować
+ fabriki
+
+fabuła
+ fablo
+ enhavo, teksto (treść)
+
+facecja
+ ŝercaĵo, spritaĵo
+
+facet
+ dando, elegantulo, laŭmodulo
+
+fach
+ fako
+ profesio (zawód)
+ specialaĵo (specjalność)
+
+fachowiec
+ fakulo, specialisto
+
+facjata
+ mansardo
+ vizaĝo (twarz)
+
+fagas
+ servisto (służalec)
+ flatemulo (pochlebca)
+
+fagot
+ fagoto
+
+fajans
+ fajenco
+
+fajdać
+ kaki, feki
+
+fajerka
+ fajroringo
+ incensujo (naczynie do kadzenia)
+
+fajerwerk
+ artfaraĵo, pirotekniko, raketo
+
+# str. 56
+
+fajka
+ pipo
+
+fajtać
+ ŝanceli, svingi (machać)
+ ventumi (wachlować)
+
+fakt
+ fakto
+
+faktor
+ faktoro
+ makleristo, peranto (pośrednik)
+
+faktura
+ fakturo
+
+faktoria
+ faktorio
+
+fakultet
+ fakultato
+
+fala
+ ondo
+
+falanga
+ falango
+
+falbana
+ falbalo
+
+fałda
+ faldo
+ sulko (zmarszczka)
+ pufo (bufa)
+
+fałdować
+ faldi
+ sulkigi
+
+falować
+ ondi
+ balanciĝi (kołysać się)
+
+fałsz
+ falso
+ malvero (nieprawda)
+
+fałszować
+ falsa, malvera, apokrifa
+ malsincera (obłudny)
+
+familia
+ familio
+
+fanatyczny
+ fanatika
+
+fanatyk
+ fanatikulo
+
+fanfara
+ fanfaro
+
+fant
+ garantiaĵo
+ gajnotaĵo
+
+fantazja
+ fanatzio, ĥimero
+
+fantowy
+ garantiaĵa
+
+fara
+ paroĥo, paroĥa preĝejo
+
+farba
+ farbo
+ koloro (barwa)
+ kolorigilo (barwnik)
+ tinkturo (roztwór)
+
+farbiarnia
+ kolorigejo, tinkturejo
+
+farbować
+ kolorigi, farbi
+
+farmaceuta
+ farmaciisto
+
+farmacja
+ farmacio
+
+farmazon
+ framasono
+
+farsa
+ farso
+
+fartuch
+ antaŭtuko
+
+farszować
+ farĉi
+
+fasa
+ tino, barelo
+
+fasada
+ fasado
+
+fasola
+ fazeolo
+ fabo (bób)
+
+fason
+ fasono, modelo
+
+fasować
+ plenŝtopi (napychać)
+ provizi (zaopatrzyć)
+
+fastryga
+ falsa kunkudro, kunkudreto
+
+faszerować
+ farĉi
+
+faszyna
+ fasĉino
+
+faszyzm
+ faŝismo
+
+fatalny
+ fatala
+ neevitebla (nieuchronny)
+
+fatałaszek
+ ĉifono (gałgan)
+ bagatelaĵo (drobnostka)
+ ŝercaĵo (fraszka)
+
+fatum
+ fato, fatalo, malbonŝanco
+
+fatyga
+ peno (trud)
+ laciĝo (zmęczenie)
+ fortuzo (wysiłek)
+ klopodo (staranie)
+
+fatygować się
+ klopodi (czynić zabiegi)
+ laciĝi (zmęczyć się)
+
+fauna
+ bestaro, faŭno
+
+fawor
+ favoro
+
+faworyt, faworyty
+ favorato (ulubieniec)
+ vangharoj (bokobrody)
+
+faza
+ fazo, stadio
+
+fe
+ fi, aĉe
+
+febra
+ febro
+
+fechtować się
+ skermi
+
+federacja
+ federacio, ligo
+
+felczer
+ helpkuracisto
+ razisto (cyrulik)
+
+felieton
+ felietono
+
+feminizm
+ feminismo
+
+feniks
+ fenikso
+ unikaĵo
+
+fenomen
+ fenomeno, maloftaĵo
+
+feralny
+ malsukcesa, fatala, malbonŝanca
+
+ferie
+ libertempo, ferio
+
+ferma
+ farmdomo
+
+fermentować
+ fermenti
+
+feston
+ festono
+
+festyn
+ festeno, bankedo
+
+feta
+ regalo, bankedo
+
+fetor
+ fetoro, odoraĉo
+
+fetysz
+ fetiĉo
+
+feudalny
+ feŭda
+
+fiakr
+ fiakro
+
+fiasko
+ malsukceso, fiasko
+
+fibra
+ fibro
+
+figa
+ figo
+ neniom (nic)
+
+figiel
+ petolaĵo
+
+figlarny
+ petolema
+ ŝercema (żartobliwy)
+
+# str. 57
+
+figura
+ figuro
+ talio (kibić)
+ staturo (postawa)
+ statuo (posąg)
+
+fikać
+ kaprioli (fikać kozłą)
+ salte renversiĝi
+
+fikcja
+ fikcio
+
+fiksować
+ fiksi (utrwalać)
+ freneziĝi (wariować)
+
+filantrop
+ bonfaranto, filantropo
+
+filantropia
+ filantropio, bonfaremo
+
+filar
+ pilastro
+ kolono (kolumna)
+ fosto (słup)
+ apogilo (podpora)
+
+filc
+ felto
+
+filigran
+ filigrano
+
+filiżanka
+ taso
+
+filia
+ filio
+
+filologia
+ filologio
+
+filozofia
+ filozofio
+
+filtr
+ filtrilo
+
+filtrować
+ filtri
+
+filut
+ ruzulo
+ fripono
+
+finał
+ finalo
+
+finansować
+ financi
+
+fiołek
+ violo
+
+fioletowy
+ violkolora
+
+firanka
+ kurteno
+
+fircyk
+ dando
+
+firma
+ firmo #firmao
+
+firmament
+ firmamento
+
+fiskus
+ fisko
+
+fiskalny
+ fiska
+
+fistuła
+ fistulo
+
+fiszbin
+ balenosto
+
+fizyka
+ fiziko
+
+fizjologia
+ fiziologio
+
+fizjonomia
+ fizionomio
+
+flądra
+ pleŭronekto
+
+flaga
+ flago (chorągiew)
+ pluva vetero (nawałnica)
+
+flaki
+ tripoj
+
+flakon
+ boteleto, flakono
+
+flancować
+ planti
+
+flanela
+ flanelo
+
+flaszka
+ botelo
+
+flegma
+ flegmo
+ muko (śluz)
+
+flet
+ fluto
+
+flinta
+ pafilo
+
+flirt
+ amindumo, flirto
+
+flisak
+ flosisto
+
+flora
+ kreskaĵaro, vegetaĵaro
+
+floret
+ skermilo, rapiro
+
+flota
+ ŝiparo
+ mono (pieniądze)
+
+fluid
+ fluidaĵo
+
+fochy
+ kapricoj, grimacoj
+
+foka
+ foko
+
+folga
+ cedo, intermito, kvietiĝo
+
+folwark
+ farmdomo
+
+fonetyka
+ fonetiko
+
+fontanna
+ fontano
+
+fora!
+ for!
+
+forma
+ formo
+
+formalny
+ formala
+
+format
+ formato
+
+formuła
+ formulo
+
+formułować
+ formuli
+
+fornal
+ ĉevalservisto
+
+forpoczta
+ antaŭposteno
+
+forsa
+ fortuzo (usiłowanie)
+ mono (pieniądze)
+
+fort
+ antaŭfortilaĵo
+
+forteca
+ fortikaĵo
+
+fortel
+ artifiko, ruzaĵo
+
+fortepian
+ fortepiano
+
+fortuna
+ riĉeco (bogactwo)
+ sorto (los)
+
+fortunny
+ bonsukcesa, feliĉa
+
+fortyfikować
+ fortikigi
+
+forum
+ forumo
+
+fosa
+ fosaĵo, kavo
+
+fosfor
+ fosforo
+
+fotel
+ apogseĝo
+
+fotografia
+ fotografaĵo
+
+fracht
+ transporta pago (opłata)
+ transportaĵo (transport)
+
+frak
+ frako
+
+frakcja
+ frakcio
+
+framuga
+ niĉo
+
+franko
+ afranko
+
+frankować
+ afranki
+
+rant
+ ruzulo, fripono
+
+frasować się
+ ĉagreniĝi (martwić sie)
+ zorgi (troszczyć się)
+
+fraszka
+ bagatelo (drobnostka)
+ epigramo (utwór)
+
+frazes
+ frazo
+ parolmaniero, parolturno (zwrot)
+
+# str. 58
+
+fregata
+ fregato
+
+#frędzla
+frendzla
+ franĝo
+
+front
+ fronto
+ antaŭaĵo (przód)
+
+fronton
+ frontono
+
+froterować
+ froti plankon
+
+fruwać
+ flugi
+
+fryc
+ novico
+
+fryga
+ turbo
+
+frymarczyć
+ brokanti
+ marĉandi (targować się)
+
+fryzjer
+ frizisto, kombisto
+
+fryzować
+ frizi
+
+fryzura
+ frizaĵo
+
+fujara
+ ŝalmo
+ sentaŭgulo (niedołęga)
+
+fukać
+ riproĉegi (wyrzucać)
+ insulti (łajać)
+ mallaŭdi (ganić)
+
+fundament
+ fundamento
+
+fundować
+ fondi (zakładać)
+ regali (ugościć)
+
+fundusz
+ kapitalo
+ kontantaĵo (gotówka)
+ monprovizo (zasób pieniężny)
+ kaso (kasa)
+
+funkcja
+ funkcio
+
+funkcjonować
+ funkcii
+
+funt
+ funto
+
+fura
+ veturigilo
+
+furaż
+ furaĝo
+
+furda
+ bagatelo
+
+furman
+ veturigisto
+
+furia
+ furio
+ kolorego
+ furiozo (szał)
+ frenezo (obłęd)
+
+furora
+ sukcesego
+
+fuszerować
+ fuŝi
+
+futerał
+ ingo
+
+futro
+ felo (skóra zwierzęcia)
+ pelto (kożuch)
+
+futryna
+ pordokadro
+ fenestra kadro
+
+fuzja
+ pafilo
+

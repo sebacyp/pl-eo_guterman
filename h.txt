@@ -1,0 +1,374 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# H
+
+# str. 64
+
+habit
+ monaĥa vesto
+
+hacel
+ hufumnajlo
+
+hafciarz
+ brodisto
+
+haft
+ brodaĵo
+
+haftka
+ hoketo, hoketingo
+
+haftowć
+ brodi
+
+haja
+ ŝarko
+
+hak
+ hoko
+
+hala
+ halo (hala targowa)
+ montpaŝtejo (pastwisko)
+
+halabarda
+ halebardo
+
+hałas
+ bruego
+
+hałasować
+ bruegi
+
+hałastra
+ araĉo, popolaĉo
+ kanajlaro (tłuszcza)
+
+halka
+ subjupo
+
+hamak
+ hamako
+
+hamować
+ haltigi
+ deteni
+ bremsi
+
+hamować się
+ sin deteni
+ moderiĝi (ustatkować się)
+
+hamulec
+ haltigilo
+
+hańba
+ hontego, malhonoro
+
+hańbić
+ senhonorigi
+
+handel
+ komerco
+
+handlarz
+ komercisto, negociisto
+
+handlować
+ komerci, negocii
+ brokanti (frymarczyć)
+
+hangar
+ aeroplanejo, aviadilejo
+
+haniebny
+ hontinda, malhonora, malnobla
+
+haracz
+ tributo, kontribucio
+
+harcerz
+ skolto
+
+harcować
+ bataleti (ścierać się)
+ ĉirkaŭrajdi (objeżdżać)
+
+hardy
+ obstina (uparty)
+ fiera (wyniosły)
+ impertinenta (bezczelny)
+ malhumila, maltimema (zuchwały)
+
+harem
+ haremo
+
+harfa
+ harpo
+
+hramider
+ tumulto
+
+harmonijka
+ harmoniko
+
+harmonia
+ harmonio
+ 
+harować
+ penlabori, laboregi
+
+herpun
+ harpuno
+
+hartować
+ hardi, fortikigi
+
+# str. 65
+
+hasać
+ dancsalti
+
+hasło
+ signalvorto (odzew)
+ signalo (znak)
+ devizo (dewiza)
+
+haust
+ gluto
+
+hazard
+ hazardo
+
+heban
+ ebono
+
+hebel
+ rabotilo
+
+heblować
+ raboti
+
+heca
+ kurĉaso (łowy)
+ cirka spektaklo (widowisko)
+ aventuro (awantura)
+ instigado (szczwaie)
+
+hej!
+ ho!
+
+hektar
+ hektaro
+
+heliotrop
+ heliotropo
+
+hełm
+ kasko
+
+herb
+ blazono
+
+herbata
+ teo
+
+herbatnik
+ tekuko, krakeno
+
+herbatniczka
+ teujo
+
+heretyk
+ herezulo
+
+heroiczny
+ heroa
+
+herold
+ heroldo
+
+herszt
+ bandestro
+
+hetman
+ hetmano, armestro
+
+hierarchia
+ hierarĥio
+
+hieroglif
+ hieroglifo
+
+higiena
+ higieno
+
+hipnotyzować
+ hipnotigi, hipnotizi
+
+hipokryta
+ hipokritulo
+
+hipopotam
+ hipopotamo
+
+hipoteka
+ hipoteko
+
+hipoteza
+ hipotezo
+
+histeria
+ histerio
+
+historia
+ historio
+
+hiacynt
+ hiacinto
+
+hiena
+ hieno
+
+hizop
+ hisopo
+
+hodować
+ bredi
+ kulturi, kreskigi (uprawiać)
+ eduki (wychowywać)
+ varti (niańczyć)
+
+hodowla
+ kulturado
+
+hojny
+ malavara, malŝpara
+
+hołd
+ honoro (cześć)
+ adoro (uwielbienie)
+ feŭdo (lenno)
+
+hołdować
+ honori (czcić)
+ adori (uwielbiać)
+ esti adepto (być zwolennikiem)
+
+hołota
+ kanajlaro, fiaro, ĉifonularo
+
+holować
+ tiri ŝipon
+
+homar
+ omaro
+
+honor
+ honoro
+
+honorarium
+ salajro, honorario
+
+horda
+ bando, bandego, amasaĉo
+
+horendalny
+ terura
+
+horoskop
+ horoskopo, antaŭdriro
+
+horyzont
+ horizonto
+
+hostia
+ hostio
+
+hotel
+ hotelo
+
+hoży
+ vigla
+
+hrabia
+ grafo
+
+hrabina
+ grafino
+
+hreczka
+ poligono
+
+hubka
+ tindro
+
+huczeć
+ bruegi, muĝi
+
+huczny
+ bruega
+
+hufiec
+ taĉmento, roto (kompania)
+ amaso (tłum)
+
+hufnal
+ hufnajlo
+
+huk
+ bruego
+ muĝo (szum)
+ ekkrako (łoskot)
+ multo (mnóstwo)
+
+hulać
+ diboĉi
+
+hulaka
+ diboĉulo
+
+hultaj
+ fripono (łotr)
+ diboĉulo (hulaka)
+
+humor
+ humoro
+
+humoreska
+ humoraĵo
+
+huragan
+ uragano
+
+hurmem
+ amase
+
+hurtowy
+ pogranda
+
+husarz
+ husaro
+
+huśtać
+ balanci
+
+huśtawka
+ balancilo
+
+huta
+ fandejo (odlewnia)
+ vitrofarejo (huta szkła)
+
+huzar
+ husaro
+
+hycel
+ hundkaptisto (łowca psów)
+ senhaŭtigisto, senfeligisto (oprawca)
+ fripono (szubrawiec)
+
+hymn
+ himno

@@ -1,0 +1,950 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# L
+
+# str. 85
+
+labirynt
+ labirinto
+
+laboratorium
+ laborejo
+
+lać
+ verŝi
+ fandi (odlewać)
+ ploregi (o deszczu)
+ drinki (pić)
+
+lać się
+ flui
+
+łacha
+ riverbrako
+
+ląd
+ kontinento
+
+lada
+ kesto (skrzynia)
+ magazentablo (stół sklepowy)
+
+lada
+ ĉiu ajn, iu ajn (lada który - którybądź)
+ ĉio ajn, io ajn (lada co - cokolwiek)
+ ordinara (pospolity)
+
+ladaco
+ sentaŭgulo
+
+lada jaki
+ ia ajn (jakikolwiek)
+ ordinara (pospolity)
+
+lada jako
+ iel ajn, iamaniere (w jakibądź sposób)
+ malbone (źle)
+
+# str. 86
+
+lądować
+ albordiĝi (dobić do brzegu)
+ alteriĝi (o samolotach)
+
+lądowy
+ kontinenta
+
+lagier
+ vin-surfandaĵo (osad)
+ spermo (nasienie męskie)
+
+laguna
+ laguno
+
+laik
+ laiko
+
+lak
+ sigelvakso
+
+lakier
+ lako
+
+lakierować
+ laki
+
+lakmus
+ lakmuso
+
+koniczny
+ konciza, lakona
+
+lalka
+ pupo
+ marioneto (lalka ruchoma)
+
+lama
+ lamo (zwierzę)
+ pasamento, galono (obszycie)
+ lamao (kapłan buddyjski)
+
+lament
+ lamento
+
+lamować
+ garni
+
+lampa
+ lampo
+
+lampart
+ leopardo
+ diboĉulo (hulaka)
+
+lampas
+ pasamento (lamówka)
+ strio (pas)
+
+lampka
+ lampeto
+ glaseto (szklaneczka)
+
+lamus
+ provizejo
+ trezorejo
+
+lanca
+ lanco
+
+lancet
+ lanceto
+
+langusta
+ palinuro
+
+landara
+ kaleŝego
+
+lanie
+ verŝado (lanie płynów)
+ fandado (odlewanie)
+ vipbatoj (cięgi)
+
+lansować
+ cirkuligi (puszczać w obieg)
+
+lapidarny
+ konciza
+
+lapis
+ lapiso
+
+lapsus
+ eraro
+
+larwa
+ larvo (poczwarka)
+ timigilo (straszydło)
+ masko (maska)
+
+las
+ arbaro
+
+lasecznik
+ bacilo
+
+laska
+ bastono
+
+laskowy
+ avela
+
+latać
+ flugi (fruwać)
+ kuri (biegać)
+
+latarka
+ lanterneto, lumigileto
+
+latarnia
+ lanterno
+ lanternofosto (słup latarni)
+ lumturo (latarnia morska)
+
+latawiec
+ flugludilo (zabawka)
+ aviadailo (samolot)
+ kuremulo (pędziwiatr)
+
+lata
+ jaroj
+
+latko
+ jareto (roczek)
+
+lato
+ somero
+
+latorośl
+ markoto
+ ido (potomek)
+
+latryna
+ kloako
+
+laur
+ laŭro
+
+laureat
+ premiito, laŭreato
+
+lawa
+ lafo
+
+lawenda
+ lavendo
+
+laweta
+ afusto
+
+lawina
+ lavango
+
+lawirować
+ krozi (krążyć)
+ manovri (manewrować)
+
+lazaret
+ hospitalo, malsanulejo
+
+lazur
+ lazuro, ĉielbluo
+
+lebioda
+ atriplo
+
+lec, legnąć
+ kuŝiĝi (położyć się)
+ perei (zginąć)
+ fali (upaść)
+
+lecieć
+ kuri (biegać)
+ flugi (fruwać)
+
+lecz
+ sed (ale)
+ tamen (jednak)
+
+lecznica
+ kuracejo
+
+leczniczy
+ kuraca, saniga
+ terapia
+
+leczyć
+ kuraci, resanigi
+
+ledwie, ledwo
+ apenaŭ
+ preskaŭ (prawie)
+ tuj kiam (skoro tylko)
+
+lędźwie
+ lumboj
+
+legalny
+ laŭleĝa
+
+legar
+ apogilo, apogtrabo
+
+legat
+ legato (poseł)
+ testamenta donaco (zapis)
+
+legenda
+ legendo
+
+legitymacja
+ legitimilo
+
+legitymować
+ legitimi
+
+legia
+ legio, gvardio
+
+legion
+ legio
+
+lęgnąć
+ kovi
+
+lęgnąć się
+ koviĝi
+
+legowisko
+ kuŝejo
+
+legumina
+ deserto (wety)
+ kukaĵo (ciasto)
+ legomaĵo (jarzyna)
+
+# str. 87
+
+lejce
+ gvidrimenoj, kondukilo
+
+lejek
+ funelo
+
+lejkowaty
+ funelforma
+
+lejtnant
+ leŭtnanto
+
+lek
+ medikamento, kuracilo, sanigilo
+
+lekarz
+ kuracisto, terapiisto
+
+lekceważyć
+ malŝati, malatenti, neglekti, malzorgi
+
+lekcja
+ leciono
+ lekcio (odczyt)
+
+lekki
+ malpeza (mało ważący)
+ facila (łatwy)
+ facilmova, vigla (zwinny)
+ negrava (niepoważny)
+ malforta (słaby)
+ modera (łagodny)
+ malĉasta (rozwiązły)
+
+lekkomyślny
+ senpripensa, senzorgema, malserioza
+
+lękliwy
+ timema
+
+leksykon
+ leksikono, vortaro
+
+lektor
+ lektoro
+
+lektura
+ legado
+
+lektyka
+ palankeno
+
+lemiesz
+ plugil-tranĉilo
+
+lemoniada
+ limonado
+
+len
+ lino
+
+leń, leniuch
+ mallaboremulo, maldiligentulo
+
+lenić się
+ esti malagema, esti malvigla, malfervori
+
+leniwiec
+ bradipo (zwierzę)
+ mallaboremulo, kuŝemulo (leniuch)
+
+leniwy
+ mallaborema, maldiligenta
+ malvigla (ospały)
+
+lennik
+ feŭdulo, vasalo
+
+lenno
+ feŭdo
+
+lep
+ glukaptilo
+ logilo (przynęta)
+
+lepianka
+ argildometo
+
+lepić
+ glui
+ formi (kształtować)
+
+lepiej
+ pli bone
+
+lepki
+ glueca
+
+lesisty
+ arbara, arabrplena
+
+leśniczy
+ arbargardisto
+
+leszcz
+ bramo
+
+leszczyna
+ avelujo
+
+letarg
+ letargio
+
+letni
+ somera
+ varmeta (ciepławy)
+
+letnisko
+ somerloĝejo (letnie mieszkanie)
+ libertempejo
+
+lew
+ leono
+
+lewa
+ preno (wziętka)
+
+lewar
+ levilo
+ sifono (syfon)
+
+lewatywa
+ klistero, klisterilo
+
+lewica
+ maldekstra mano (lewa ręka)
+ maldekstro [polit.]
+
+lewkonia
+ levkojo
+
+lewy
+ maldekstra
+
+leżak
+ kuŝseĝo, faldseĝo
+
+leźć
+ grimpi (wspinać się)
+ rampi (pełzać)
+
+leże
+ kuŝejo
+ tendaro (obozowisko)
+
+leżeć
+ kuŝi
+
+lgnąć
+ algluiĝi (przylepiać się)
+ eniĝi, interniĝi (zagłębiać się)
+ inkliniĝi (skłaniać się)
+
+li
+ ĉu (czy)
+ se (jeśli)
+ nur (tylko)
+
+liberalny
+ liberala
+
+liberia
+ livreo
+
+libra
+ dudek-kvar folioj
+ dekdu uncoj
+
+lice
+ vizaĝo (twarz)
+ vangoj (policzki)
+
+liceum
+ liceo
+
+licho
+ nepara nombro (liczba nieparzysta)
+ malbonaĵo (zło)
+ diablo (diabeł)
+ malbone (źle)
+
+lichtarz
+ kandelingo
+
+lichwa
+ uzuro, procentego
+
+lichwiarz
+ uzuristo
+
+lichy
+ malbona (zły)
+ mizera (nędzny)
+ senvalora (bez wartości)
+
+licować
+ konveni
+
+licytacja
+ aŭkcio
+
+liczba
+ nombro
+ cifero (cyfra)
+ numero (numer)
+ ununombro, singularo (liczba pojedyńcza)
+ multenombro, pluralo (liczba mnoga)
+
+liczebnik
+ numeralo
+
+liczman
+ ludmarko
+
+licznik
+ numeratoro [mat.]
+ mezuraparato (aparat do mierzenia)
+ taksometro (licznik samochodowy)
+
+liczny
+ multenombra, multa
+
+liczyć
+ kalkuli (rachować)
+ fidi (polegać)
+
+liczydło
+ kalkulilo
+
+liga
+ ligo
+
+lik
+ nombro
+
+bez liku
+ sennombre, multege, nekalkuleble
+
+likier
+ likvoro
+
+likwidować
+ likvidi
+
+lila
+ siringviola, siringblua
+
+liliput
+ malgrandegulo
+
+lilia
+ lilio
+
+limfa
+ limfo
+
+lin
+ tinko
+
+lina
+ ŝnurego
+
+lingwistyka
+ lingvoscienco
+
+linieć
+ ŝanĝi plumojn (zmieniać pióra)
+ senhariĝi, senfeliĝi (tracić sierść)
+
+linijka
+ linieto
+ liniilo (liniał)
+
+linia
+ linio
+ streko (kreska)
+ liniilo (liniał)
+
+liniować
+ linii
+
+lipa
+ tilio
+
+lipiec
+ julio
+
+lira
+ liro
+
+liryczny
+ lirika
+
+lis
+ vulpo
+ ruzulo (chytrus)
+
+liść
+ folio
+
+liściasty
+ foliohava
+
+liścik
+ folieto (listek)
+ letereto (mały list)
+
+lista
+ listo
+ tabelo (wykaz)
+ registro (spis)
+
+listonosz
+ leterportisto, poŝtisto
+
+listopad
+ novembro
+
+listwa
+ borderaĵo (obramowanie)
+ lato (deseczka)
+
+liszaj
+ likeno
+
+liszka
+ raŭpo (gąsienica)
+ vulpino (lisica)
+
+litania
+ litanio
+
+litera
+ litero
+
+literalnie
+ laŭlitere, laŭvorte
+
+literat
+ literaturisto, verkisto
+
+literatura
+ literaturo
+
+litografia
+ litografado
+
+litość
+ kompato
+
+litościwy
+ kompatema
+
+litować się
+ kompati
+
+litr
+ litro
+
+liturgia
+ liturgio
+
+lity
+ fandita (lany)
+ masiva (zbity)
+ firma (mocny)
+
+lizać
+ leki
+ gustumi (skosztować)
+
+lizać się
+ leki sin
+ flati (pochlebiać)
+
+lizuch
+ flatulo
+
+lniany
+ lina
+
+loch
+ kavo (dół)
+ kaverno (jama)
+ subteraĵo (podziemie)
+ karcerkelo (więzienie)
+
+lód
+ glacio
+
+lodowacieć
+ glaciiĝi
+
+lodowaty
+ glacia, glacieca
+
+lodowiec
+ glacimonto
+
+lodownia
+ glacikelo
+
+lody
+ glaciaĵo
+
+logarytm
+ logaritmo
+
+logika
+ logiko
+
+lojalny
+ lojala
+
+lok
+ buklo
+
+lokaj
+ lakeo
+
+lokal
+ ejo
+ apartamento
+ loĝejo (mieszkanie)
+ salono (sala)
+
+lokalizować
+ lokalizi
+
+lokalny
+ loka
+
+lokator
+ loĝanto, loĝejluanto
+
+lokomobila
+ lokomobilo
+
+lokomotywa
+ lokomotivo
+
+lokować
+ loki
+ loĝigi (kwaterować)
+
+lombard
+ pruntoficejo, pruntejo
+
+lont
+ meĉaĵo
+#meĉo
+
+lord
+ lordo
+
+lornetka
+ lorneto
+
+los
+ sorto (dola)
+ loto, loterbileto (bilet loteryjny)
+
+losować
+ loti, lotumi
+
+lot
+ flugo
+
+loteria
+ loterio
+
+lotnictwo
+ aviado, aernavigacio
+ aviadilaro (flota powietrzna)
+
+# str. 89
+
+lotnik
+ aviadisto, aerpiloto
+
+lotny
+ flugpova (sposobny do lotu)
+ flugrapida (szybki)
+ gasa (gazowy)
+
+loża
+ loĝio
+
+lśnić się
+ brili, brileti
+
+lub
+ aŭ
+
+lubić
+ ŝati, ameti
+
+lubieżny
+ voluptema, pornografia
+
+lubo
+ kvankam
+
+lubować się
+ raviĝi (zachwycać się)
+ ami (lubić)
+ ĝui (rozkoszować się)
+
+luby
+ kara (drogi)
+ aminda (miły)
+ agrabla (przyjemny)
+ amato (kochanek)
+
+lucerna
+ medikago (roślina pastewna)
+ lucerno (kaganek)
+
+lud
+ popolo
+ plebo (pospólstwo)
+
+ludność
+ loĝantaro
+
+ludny
+ homplena, multeloĝata
+
+ludożerca
+ hommanĝanto, kanibalo
+
+ludwisarz
+ matalfandisto
+
+ludzie
+ homoj
+
+ludzki
+ homa (człowieczy)
+ homeca
+ humana (humanitarny)
+
+ludzkość
+ homaro (rodzaj ludzki)
+ humaneco (humanitarność)
+ homeco (przyrodzenie ludzkie)
+
+lufa
+ pafiltubo
+ kanontubo
+
+lufcik
+ fenestreto
+
+luft
+ kamentruo
+
+luka
+ breĉo (wyłom)
+ truo (dziura)
+ manko (brak)
+ interrompo (przerwa)
+ malkontinuo (brak ciągłości)
+
+lukratywny
+ profitdona
+
+lukrecja
+ glicirizo
+
+luksus
+ lukso
+
+lulać
+ luli
+
+lulka
+ pipo
+
+luminarz
+ eminentulo
+
+lunąć
+ ekflui (polać się)
+ ekbategi (uderzyć)
+
+lunatyk
+ lunatiko
+
+luneta
+ lorno
+
+lupa
+ grandiga vitro, lupeo
+
+lura
+ trinkaĵaĉo
+
+lustracja
+ revizio (rewizja)
+ revuo (przegląd)
+
+lustro
+ spegulo
+
+lutnia
+ liuto
+
+lutować
+ luti
+
+luty
+ februaro (miesiąc)
+ severa (srogi)
+
+luzem
+ senbride (bez uzdy)
+ libere (wolny)
+ unuope (pojedyńczo)
+ senlige (bez związku)
+
+luźny
+ larĝa (szeroki)
+ vasta (obszerny)
+ malstreĉita (nie napięty)
+ senliga (niezwiązany)
+ malfiksa (ruchomy)
+
+luzować
+ anstataŭi, anstataŭigi (zastąpić)
+ malstreĉi (rozluźnić)
+
+lwiątko
+ leonido
+
+lwica
+ leonino
+
+lżyć
+ insulti (łajać)
+ malhonori (znieważać)
+

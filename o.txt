@@ -1,0 +1,4843 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# O
+
+# str. 117
+
+o!
+ ha!, ho!
+
+o
+ pri
+ per (za pomocą)
+ pro (z powodu)
+ en (w)
+ kun (z)
+ je
+
+oaza
+ oazo
+
+oba, obaj, obie, oboje
+ ambaŭ
+
+obaczyć
+ ekvidi, rimarki (ujrzeć)
+ observi (obserwować)
+
+obalać
+ renversi, faligi
+ neniigi (zniweczyć)
+ refuti (zbić)
+
+obarczać
+ ŝarĝi
+ pezigi (Obciążać)
+
+obarzanek
+ kringo
+
+obawa
+ timo
+
+obawiać się
+ timi
+
+obcas
+ kalkanumo
+
+obcęgi
+ prenilo
+
+obcesowy
+ senceremonia, senĝena, aroganta, atakema
+
+obchodzić
+ ĉirkaŭiri, rondiri
+ cirkuli (krążyć)
+ soleni, festi (święcić)
+ vizitadi (odwiedzać)
+ interesi (interesować)
+ koncerni (dotyczyć)
+ 
+obchodzić się
+ scii uzi (umieć używać)
+ manipuli (operować)
+ konduti (zachowywać się)
+ procedi (postępować)
+ trakti (postępoważ z kim)
+ ne bezoni (nie potrzebować)
+ kontentiĝi (poprzestawać na czymś)
+ helpi al si (dać sobie radę)
+
+obciąć
+ ĉirkaŭtranĉi, fortranĉi, detranĉi
+ tondi (strzyc)
+
+obcigać, obciągnąć
+ kovri (pokryć)
+ tegi (powlekać)
+ senfaldigi (pozbawić fałdów)
+
+obciążać, obciążyć
+ pli ŝarĝi, pezigi
+
+obcierać
+ viŝi, deviŝi, forviŝi
+ defroti
+ sekigi (osuszyć)
+
+obcinać
+ ĉirkaŭtranĉi, fortranĉi, detranĉi
+ tondi (strzyc)
+
+obcisły
+ mallarĝa
+ iom premanta
+
+obcokrajowiec
+ alilandano
+
+obcować
+ komunikiĝi, interrilatiĝi, kunvivi
+
+obcy
+ fremda
+ malpropra (cudzy)
+
+obczyzna
+ fremdaĵo (rzecz obca)
+ fremdlando (obcy kraj)
+
+obdarować
+ donaci
+ provizi, havigi (zaopatrzyć)
+ doti (wyposażyć)
+
+obdartus
+ ĉifonulo
+
+obdarty
+ ĉirkaŭŝirita, deŝirita, forŝirita
+ ĉifonvestita (w łachmanach)
+
+# str. 118
+
+obdarzać, obdarzyć
+ donaci
+ provizi, havigi (zaopatrzać)
+ doti (wyposażyć)
+
+obdukcja
+ obdukcio
+
+obdzielać
+ disdoni, dispartigi, dividi
+
+obdzierać, obedrzeć
+ ĉirkaŭŝiri, deŝiri, forŝiri
+ senhaŭtigi, senŝeligi (łupić)
+
+obecnie
+ nun, nune
+
+obecny
+ ĉeestanta
+ nuna, nuntempa (teraźniejszy)
+
+obejmować
+ ĉirkaŭpreni
+ enhavi, ampleksi (zawierać)
+ transpreni (przejąć)
+ preni sur sin (wziąć na siebie)
+
+obejrzeć
+ rigardi, pririgardi
+ vidi (widzieć)
+
+obejść
+ *obchodzić*
+
+obelga
+ insulto
+ senhonorigo (zniewaga)
+
+obelisk
+ obelisko
+
+obelżywy
+ insulta, ofenda, senhonoriga
+
+oberwać
+ *obrywać*
+
+oberwaniec
+ ĉifonulo, ĉefonvestito
+
+oberża
+ gastejo
+ enveturejo (zajazd)
+ drinkejo (karczma)
+
+oberżnąć
+ detranĉi, ĉirkaŭtranĉi
+
+oberżysta
+ gastejmastro
+
+obetrzeć
+ *obcierać*
+
+obeznawać
+ konigi, spertigi
+
+obfitować
+ abundi
+
+obfity
+ abunda
+ riĉa (bogaty)
+ sufiĉega (dostatni)
+ superflua (nadmierny)
+
+obgadywać
+ priparoli (omawiać)
+ klaĉi (plotkować)
+ kalumnii (oczerniać)
+
+obiad
+ tagmanĝo
+
+obiadować
+ tagmanĝi
+
+obić
+ *obijać*
+
+obicie
+ drapiraĵo, tapeto
+
+obiecać, obiecywać
+ promesi
+ esperigi (łudzić nadzieję)
+ antaŭdiri (przepowiadać)
+
+obiecanka
+ promeso
+
+obieg
+ ĉirkaŭiro, cirkulado
+
+obiegać
+ ĉirkaŭiri, cirkuli
+
+obierać
+ senŝeligi (zdejmować łupinę)
+ elekti (wybierać)
+ senigi (pozbawić)
+
+obierać się
+ abscesi
+
+obieralny
+ elektata, elektebla
+
+obierki
+ ŝeloj
+
+obietnica
+ promeso
+
+obieżyświat
+ mondvagisto
+
+obijać
+ faligi (strącać)
+ drapiri (drapować)
+ tegi (powlec)
+ vipi, bastoni, bati (bić)
+
+obijać się
+ aliri (dochodzić)
+ atingi (dosięgnąć)
+
+obiór
+ elekto
+
+objąc
+ *obejmować*
+
+objaśniać, objaśnić
+ klarigi, komprenigi
+ interpreti, komentarii (komentować)
+
+objaśnienie
+ klarigo, komprenigo
+ interpretaĵo, komentario (komentarz)
+
+objaw
+ simptomo
+ distingilo, rekonilo (znamię)
+ aperaĵo, fenomeno (zjawisko)
+
+objawiać, objawić
+ malkaŝi, malkovri (odkrywać)
+ elmontri (wykazywać)
+ revelacii
+ manifesti
+
+objawienie
+ malkaŝo, malkovro
+ revelacio
+ apokalipso
+
+objęcie, objęcia
+ ekpreno
+ ĉirkaŭpreno
+ brakoj (ramiona)
+
+obiekcja
+ riproĉo
+
+obiekt
+ objekto
+
+obiektyw
+ objektivo
+
+obiektywny
+ objektiva
+
+objętość
+ volumeno, amplekso
+
+objeżdżać
+ ĉirkaŭveturi, rondvojaĝi
+
+objuczać
+ pakŝarĝi
+
+oblać
+ surverŝi
+ ĉirkaŭflui (opływać)
+ inundi (zalewać)
+
+obładować
+ surŝarĝi
+ troŝarĝi
+ plenŝarĝi
+
+obłąk
+ arko, arkaĵo
+
+obłąkanie
+ frenezo, frenezeco
+
+obłąkany
+ freneza
+
+obłąkaniec
+ frenezulo
+
+# str. 119
+
+obłaskawiać
+ malsovaĝigi, dresi
+
+obława
+ pelĉaso
+
+oblec
+ *oblegać*
+ *oblekać*
+
+obłęd
+ frenezo
+ frenezeco
+ manio
+
+oblegać
+ sieĝi
+
+oblekać
+ tegi
+ kovri (pokryć)
+ vesti (wdziać)
+
+oblepiać
+ ĉirkaŭglui, surglui
+
+oblewać
+ surverŝi
+ ĉirkaŭflui (opływać)
+ inundi (zalewać)
+
+oblężenie
+ sieĝo
+
+obliczać
+ prikalkuli, elkalkuli
+
+oblicze
+ vizaĝo (twarz)
+ aspekto (wygląd)
+ ĉeesto (obecność)
+
+oblig
+ ŝuldatesto
+ kambio (weksel)
+
+obligacja
+ obligacio
+
+oblizać, oblizywać
+ leki, ĉirkaŭleki
+
+obłóczyć
+ surmeti, tegi
+ kovri (pokryć)
+ vesti (wdziać)
+
+obłok
+ nubo, nubeto, nubaĵo
+
+obłożny
+ litkuŝiga, enlitiga
+ danĝera (niebezpieczny)
+
+obłożyć
+ kovri
+ ĉirkaŭmeti, surmeti
+
+oblubieniec
+ amato
+ fianĉo
+
+obłuda
+ hipokriteco, malsincereco
+
+obłudnik
+ hipokritulo
+
+obłudny
+ hipokrita, malsincera
+
+obłupać
+ senŝeligi, senhaŭtigi
+
+obły
+ rondlonga
+
+obmawiać
+ priparoli (omawiać)
+ klaĉi (plotkować)
+ kalumnii (oczerniać)
+
+obmierzić
+ abomenigi
+
+obmierzły
+ abomena, abomeninda
+ naŭza (mdły)
+
+obmyślać, obmyśleć
+ pripensi
+ prikonsideri (rozważać)
+ zorgi (troszczyć się)
+
+obnażać, obnażyć
+ nudigi
+
+obniżać, obniżyć
+ plimalaltigi
+ malsuprenigi, mallevi (spuścić)
+
+obnosić
+ ĉirkaŭporti
+ disporti, kolporti (roznosić)
+
+obój
+ hobojo
+
+obojczyk
+ klaviklo
+
+oboje
+ ambaŭ
+
+obojętnieć
+ indiferentiĝi, neŭtraliĝi
+
+obojętność
+ indiferenteco, neŭtraleco
+ apatio, spleno (zobojętnienie)
+
+obok
+ apud
+ ĉe (przy)
+ preter (mimo)
+
+obopólny
+ ambaŭflanka (obustronny)
+ reciproka (wzajemny)
+ komuna (wspólny)
+
+obór
+ elekto
+
+obora
+ bovejo, stalo
+
+obosieczny
+ dutranĉa
+
+obostronny
+ ambaŭflanka
+ reciproka (wzajemny)
+ neŭtrala, senpartia (bezstronny)
+
+obostrzać, obostrzyć
+ pliakrigi
+ pliseverigi
+ pligravigi
+
+obowiązek
+ devo
+ obligacio (zobowiązanie)
+ ŝuldo (dług)
+ ofico (urząd)
+
+obowiązkowy
+ deviga (konieczny)
+ laŭdeva (słuszny)
+ plenumema, diligenta (pilny)
+
+obowiązywać
+ devigi, obligacii
+ ŝuldigi (nakładać dług)
+
+obóz
+ tendaro, bivakejo
+
+obozować
+ kuŝi en tendaro, bivaki
+
+obozowisko
+ tendarejo, bivakejo
+
+obrąbek
+ borderaĵo
+
+obrabiać
+ prilabori (opracować)
+ fari (robić)
+ ĉirkaŭhaki, ĉarpenti (ociosywać)
+ perfektigi (doskonalić)
+
+#obrębiać
+obrąbiać
+ borderi
+
+obrać
+ *obierać*
+
+obracać
+ turni, returni (kręcić)
+ direkti (kierować)
+ uzi (użyć)
+ aliigi (przemienić)
+
+obracać się
+ turni sin, turniĝi
+ rotacii [mech.]
+ direktiĝi (zwracać się)
+ renversiĝi (przewracać się)
+ aliiĝi (zamieniać się)
+ restadi (przebywać)
+ komunikiĝi (obcować)
+ havi rilatojn (mieć stosunki)
+
+# str. 120
+
+obrachować
+ kalkuli, prikalkuli
+
+obrachunek
+ kalkulo
+
+obrączka
+ ringo, ringeto
+
+obrada
+ interkonsiliĝo, debato
+
+obradować
+ interkonsiliĝi
+ debati (debatować)
+ ĝojigi (ucieszyć)
+
+obraniać
+ defendi
+ ŝirmi (osłaniać)
+ gardi (strzec)
+ protekti (opiekować się)
+ pledi (bronić w sądzie)
+
+obrastać
+ surkreski, superkreski, ĉirkaŭkreski
+
+obraz
+ bildo
+ pentraĵo (malowidło)
+ portreto (portret)
+ imago (wyobrażenie)
+ figuro (postać)
+ formo (kształt)
+ desegnaĵo (rysunek)
+
+obraza
+ ofendo
+
+obrażać, obrazić
+ ofendi (ubliżyć)
+ vundi (zranić)
+
+obrazek
+ bildo, bildeto, pentraĵeto, desegnaĵo
+
+obraźliwy
+ ofendiĝema (obrażający się)
+ ofenda (obrażający)
+
+obrazowy
+ bilda, bildeca
+ plastika
+
+obręb
+ rando (brzeg)
+ limo (granica)
+ sfero (sfera)
+ teritorio (obszar)
+
+obrębiać
+ borderi
+
+obręcz
+ ringego
+
+obrobić
+ *obrabiać*
+
+obrócić
+ *obracać*
+
+obrok
+ furaĝo
+
+obrona
+ defendo
+ ŝirmo (osłona)
+ protekto (opieka)
+ gardo (straż)
+ pledantaro, defendantaro (obrońcy)
+ apologio
+
+obrońca
+ defendanto, protektanto
+ advokato
+
+obronić
+ *obraniać*
+
+obronny
+ defenda
+ fortikaĵa (forteczny)
+
+obrót
+ turno, turniĝo
+ returno, direktiĝo (zwrot)
+ rotacio [mech.]
+ spezo (obrót pieniędzy)
+
+obrotny
+ turnebla (dający się obracać)
+ vigla, moviĝema (ruchliwy)
+ agema (czynny)
+ lerta (zręczny)
+ ruza (przebiegły)
+
+obrotowy
+ turnebla (dający się obracać)
+ rotacia (rotacyjny)
+ despeza, laŭspeza (od obrotu pieniężnego)
+
+obroża
+ ĉerkaŭkolaĵo
+ vekto
+
+obrus
+ tablotuko
+
+obruszać się, obruszać się
+ indigni
+
+obrywać
+ deŝiri, ĉirkaŭŝiri
+ ricevi (dostać)
+
+obrywać się
+ ĉirkaŭŝiriĝi, deŝiriĝi
+ defali (odpaść)
+
+obryzgać
+ surspruĉigi, ŝprucmakuli
+
+obrządek
+ rito, ceremonio
+ moro (obyczaj)
+ kutimo (zwyczaj)
+
+obrzęd
+ *obrządek*
+
+obrzazg
+ ranco, rancguto, rancodoro
+
+obrzękać
+ ŝveli
+
+obrzękły
+ ŝvelinta
+
+obrzezać
+ ĉirkaŭtranĉi, cirkumcidi
+
+obrzezek
+ prepucio
+
+obrzmiewać
+ ŝveli
+
+obrzucać, obrzucić
+ surĵeti, priĵeti
+ superŝuti (zasypać)
+
+obrzuszna
+ peritonco
+
+obrzydliwiec
+ abomenulo
+
+obrzydliwy
+ abomena
+ naŭza (mdły)
+
+obrzydnąć
+ abomeniĝi
+
+obrzydzać, obrzydzić
+ abomenigi
+
+obrzynać
+ detranĉi
+
+#osaczać, osaczyć
+obsaczać, obsaczyć
+ ĉirkauigi (otaczać)
+ sieĝi (oblegać)
+
+obsada
+ roldivido (obsada ról)
+
+obsadzać, obsadzić
+ ĉirkaŭplanti (obsadzać roślinami)
+ okupigi, ĉirkaŭstarigi (rozstawiać)
+
+obsadka
+ plumingo
+ ingo, tenilo (trzonek)
+
+obserwacja
+ observo, observado
+
+obserwatorium
+ observejo, oservatorio
+
+obserwować
+ observi, atenti (baczyć)
+ festi (świętować)
+ konservi (zachowywać)
+
+# str. 121
+
+obskurant
+ malklerulo
+ malprogresulo (wstecznik)
+
+obskurny
+ obskura
+
+obsługa
+ servo, servado
+ servistaro (służba)
+
+obsługiwać
+ servi, priservi
+
+obstalować
+ mendi
+
+obstalunek
+ mendaĵo
+
+obstąpić
+ ĉirkaŭi, ĉirkaŭringi
+
+obstawać
+ persisiti
+
+obstawiać
+ ĉirkaŭstarigi, ĉirkaŭigi, ĉirkaŭmeti
+
+obstępować
+ ĉirkaŭi
+
+obstrukcja
+ obstrukco
+
+obsypać, obsypywać
+ superŝuti, ĉirkaŭŝuti
+ deŝoviĝi (usunąć się)
+
+obszar
+ spaco (przestrzeń)
+ teritorio (terytorium)
+ etendaĵo, etendeco (rozciągłość)
+
+obszarnik
+ latifundisto, granda bienhavanto
+
+obszarpać
+ ĉirkaŭŝiri, deŝiri
+ ĉifonigi (postrzępić)
+
+obszarpaniec
+ ĉifonulo
+
+obszarpaniec
+ ĉifonulo
+
+obszerny
+ vasta
+ etenda
+ grandspaca, multampleksa
+ detala (szczegółowy)
+ multenhava (wiele zawierający)
+
+obszyć, obszywać
+ borderi, ĉirkaŭkudri
+
+obtykać
+ ŝtopi
+ kalfatri (obtykać szpary)
+ enŝovi (wetknąć)
+
+obuć
+ piedvesti
+
+obuch
+ hakildorso
+ martelego
+
+obudzać, obudzić
+ veki, ekveki
+
+obudzić się
+ vekiĝi
+
+obumarcie
+ mortinteco
+ letargio (letarg)
+
+obumarły
+ mortinta, ŝajnmortinta
+ sveninta (omdlały)
+
+oburaćz
+ ambaŭmane
+
+oburzać, oburzyć
+ indignigi
+
+oburzać się, oburzyć się
+ indigni, indigniĝi
+
+oburzenie
+ indigno
+
+obuwać
+ piedvesti
+
+obuwie
+ piedvestaĵo
+ ŝuoj (trzewiki)
+ botoj (buty)
+
+obwąchać, obwąchiwać
+ ĉirkaŭflari
+
+obwarować
+ fortikigi, bastonigi (fortyfikować)
+ rezervi (zawarować)
+
+obwarzanek
+ kringo
+
+obwiązać, obwiązywać
+ ĉirkaŭvolvi, ĉirkaŭligi
+ vindi
+ bandaĝi (bandażować)
+
+obwiesić, obwieszać
+ ĉirkaŭpendigi
+ mallevi (spuścić)
+
+obwieścić, obwieszczać
+ sciigi, komuniki, publikigi, avizi, anonci, deklari, proklami
+
+obwieszczenie
+ sciigo, komunikaĵo, publikigo, avizo, anonco, deklaro, proklamo
+
+obwijać
+ ĉirkaŭvolvi (zawijać)
+ vindi
+ bandaĝi (bandażować)
+
+obwiniać, obwinić
+ kulpigi
+ akuzi (oskarżać)
+
+obwisły
+ malsupren pendanta (zwisający)
+ malstreĉita (luźny)
+
+obwód
+ ĉirkaŭo
+ perimetro (obwód wieloboku)
+ periferio (obwód linii krzywej)
+ sfero (obszar)
+ distrikto (okrąg, powiat)
+
+obwódka
+ bordero, borderaĵo
+ kadreto (ramka)
+
+obwołać, obwoływać
+ proklami
+ publikigi (obwieścić)
+
+obwozić
+ ĉirkaŭveturigi, veturigadi
+
+oby
+ ke
+ Dio donu ke ... (bodajby)
+
+obyć się
+ *obywać się*
+
+obyczaj
+ moro
+ kutimo (zwyczaj)
+
+obyczajny
+ bonmora, morala
+
+obyczajowy
+ mora, kutima
+
+obydwa
+ ambaŭ
+
+obyty
+ alkutiminta, sperta
+
+obywać się
+ alkutimi (przywyknąć)
+ helpi al si sen io (dać sobie radę bez czegoś)
+ malnecesi, ne bezoni (nie potrzebować)
+
+obywatel
+ civitano, regnano, sociano, landano
+ bienhavanto (obywatel ziemski)
+
+# str. 122
+
+obżarstwo
+ manĝegemo
+
+obżerać się
+ manĝegi
+
+ocalać, ocalić
+ savi
+
+ocaleć
+ saviĝi
+ konserviĝi (zachować się)
+
+ocean
+ oceano
+
+ocel
+ *hacel*
+
+ocena
+ pritakso
+ kritiko, recenzo
+
+oceniać, ocenić
+ taksi, pritaksi (oszacować)
+ prijuĝi (osądzić)
+ ŝati, estimi (poważać)
+ kritiki, recenzi
+
+ocet
+ vinagro
+
+och!
+ ho!, ve!
+
+ochędożny
+ pura (czysty)
+ purema (schludny)
+ ordama, ordema (zamiłowany w porządku)
+
+ochędożyć
+ purigi
+
+ochlać się
+ drinki, plendrinki
+ ebriiĝi (upić się)
+
+ochładzać, ochłodzić
+ malvarmigi
+ refreŝigi (odświeżać)
+
+ochłap
+ pecego, pecaĉo
+ restaĵo
+
+ochłonąć
+ malvarmiĝi (ostygnąć)
+ trankviliĝi (uspokoić się)
+ distriĝi (rozerwać się)
+ ĉirkaŭkapti (ogarnąć)
+
+ochmistrz
+ kortegestro
+
+ochoczy
+ volonta (chętny)
+ gaja (wesoły)
+
+ochota
+ volo, volonteco (chęć)
+ intenco (zamiar)
+ deziro (pragnienie)
+ plezuro (przyjemność)
+ gajeco (wesołość)
+ ĝojo (radość)
+
+ochotnik
+ volontulo, memvolulo
+
+ochra
+ okro
+
+ochraniać
+ ŝirmi, protekti (opiekować się)
+ defendi (bronić)
+ gardi (strzec)
+ konservi (zachować)
+ savi (ocalić)
+ sekuri (zabezpieczyć)
+ profilakti (zapobiegać)
+ imunigi (uodpornić)
+
+ochrona
+ ŝirmo, protekto, defendo, gardo
+ konservoj
+ rifuĝejo, azilo (schronisko)
+
+ochronny
+ ŝirma, antaŭgarda
+ imuniga (uodparniający)
+ profilaktika [med.]
+
+ochrypnąć
+ raŭkiĝi
+
+ochrypły
+ raŭka
+
+ochrzcić
+ bapti
+ nomigi (nazwać)
+
+ociągać się
+ prokrasti (odwlekać)
+ malakceli (opóźniać)
+ heziti (wahać się)
+
+ociec, ociekać
+ deflui (spływać)
+ superveŝiĝi, inundi (zalewać się)
+
+ocielić się
+ naski bovidon
+
+ociemniały
+ blinda blindiĝinta
+ blindulo
+
+ociemnieć
+ blindiĝi
+
+ocieplać, ocieplić
+ varmigi, plivarmigi
+
+ocierać
+ viŝi, deviŝi, forviŝi
+ defroti, frotvundi (nacierać)
+
+ocierać się
+ viŝi sin, deviŝi el si
+ defrotigxi, kunfrotiĝi
+ kunpuŝiĝi, karamboli (zderzyć się)
+
+ociężały
+ peza (ciężki)
+ malvigla, nemovigema (ospały)
+ mallaborema (leniwy)
+
+ocięznik
+ palinuro
+
+ocknąć się
+ vekiĝi
+
+octowy
+ vinagra
+
+ocucać, ocucić
+ rekonsciigi, elsvenigi
+ veki (budzić)
+
+ocukrować, ocukrzyć
+ sukeri, dolĉigi
+
+oćwiczyć
+ bati, vipi, bastoni
+
+ocyganić
+ trompi
+
+oczarować
+ ensorĉi (zaczarować)
+ ĉarmi, ravi (zachwycać)
+
+oczekiwać
+ atendi
+ esperi (spodziewać się)
+
+oczerniać, oczernić
+ kalumni (spotwarzać)
+ nigrigi (poczernić)
+
+oczeret
+ kano
+ kanejo
+
+oczko
+ okuleto
+ maŝo (oczko w sicie)
+ truo (dziurka)
+ ĉelo (komórka)
+ burĝon (pąk)
+ poento (punkt, oczko w grze)
+
+oczkować
+ okulumi
+ inokuli (szczepić)
+ 
+oczny
+ okula
+
+oczodół
+ okulkavo, orbito
+
+oczyścić, oczyszczać
+ purigi
+ rafini (oczyszczać z domieszek)
+
+# str. 123
+
+oczyszczać się
+ purigi sin
+ puriĝi, senkulpiĝi, praviĝi (usprawiedliwiać się)
+
+oczytany
+ multe legint
+
+oczywisty
+ evidenta
+ klara, videbla
+
+od, ode
+ de
+ al (do)
+ por (dla)
+ kontraŭ (przeciw)
+ per (za pomocą)
+ pro (wskutek)
+ ol (niż)
+ re-
+ for-
+
+oda
+ odo
+
+odbić
+ *odbijać*
+
+odbiec, odbiegać
+ forkuri
+ flankeniri, devojiĝi (zbaczać)
+
+odbierać
+ repreni
+ forpreni (zabierać)
+ ricevi (otrzymywać)
+ akcepti (przyjmować)
+
+odbijać
+ reflekti, rebrili
+ rebati
+ reĵeti (odrzucać)
+ repuŝi (odeprzeć)
+ resaltigi
+ reakiri (odzyskać)
+ kopii, presi (robić odbitkę)
+ fornaĝi, debordiĝi (odbijać od brzegu)
+ dehaki (odrąbać)
+ liberigi (uwolnić)
+
+odbijać się
+ reflektiĝi, rebrili, respeguli
+ resalti (odkakiwać)
+ kopiiĝi (kopiować się)
+ lasi postsignon (zostawić ślad)
+ rukti (o jedzeniu)
+
+odbitka
+ kopio, represaĵo
+
+odbiór
+ ricevo, repreno
+
+odbiornik
+ ricevilo
+
+odblask
+ rebrilo, reflekto
+ haloo
+
+odbudować
+ rekonstrui
+
+odbyć, odbywać
+ plenumi (pełnić)
+ fari (robić)
+ fini (kończyć)
+ okazigi
+
+odbyt
+ anuso
+
+odbywać się
+ okazi
+ fariĝi, estiĝi (dokonywać się)
+ efektiviĝi, realiĝi (urzeczywistnić się)
+
+odchód
+ foriro, deiro
+ ekskremento (kał)
+ sekreciaĵo (wydzielina)
+
+odchodzić
+ foriri
+ perdi (tracić)
+ forlasi (opuścić)
+
+odchylać, odchylić
+ deklini
+
+odciąć
+ *odcinać*
+
+odciągać
+ detiri, fortiri
+ delogi, deflankigi (odwieść)
+ formarŝi, foriri (odejść)
+
+odcień
+ nuanco
+ modulo (modulacja)
+
+odcięty
+ detranĉita, fortranĉita
+ amputita
+ aprtigita (odłączony)
+
+odcinać
+ detranĉi, fortranĉi
+ amputi (amputować)
+ apartigi (odłączać)
+
+odcinać się
+ rebati (odbijać)
+ defendi sin (bronić się)
+
+odcinek
+ detranĉaĵo
+ kupono
+ segmento [mat.]
+
+odcisk
+ depremaĵo
+ kopio (kopia)
+ kalo (nagniotek)
+ postsigno (ślad)
+
+odciskać
+ depremi
+ kopii (kopiować)
+ kaligi (odciskać nagniotki)
+
+odczepiać, odczepić
+ dekroĉi
+ disigi (rozłączyć)
+
+odczuć, odczuwać
+ senti, eksenti
+ percepti (spostrzegać)
+
+odczyniać
+ reagi, reakcii
+
+odczynnik
+ reakciilo
+
+odczyt
+ prelego, lekcio
+
+odczytać, odczytywać
+ legi
+ tralegi
+ relegi
+
+oddać
+ *oddawać*
+
+oddali (w)
+ fore, malproksime
+
+oddalać, oddalić
+ malproksimigi, forigi
+
+oddany
+ sindona, fidela
+
+oddawać
+ doni, redoni, transdoni
+ enmanigi (wręczyć)
+ oferi (ofiarować)
+ dediĉi (poświęcać)
+ esprimi (wyrażać)
+ vomi (wymiotować)
+ rekompenci (wynagradzać)
+
+oddawca
+ transdonanto, enmaniganto
+
+oddech
+ spiro
+ respiro (wydech)
+
+odetchnąć
+ respiri
+ ripozi (odpocząć)
+
+oddychać
+ spiri, respiri
+
+oddział
+ fako, sekcio, departemento
+ klaso (klasa)
+ taĉmento, roto (hufiec)
+ filio (filia)
+
+oddziałać, oddziaływać
+ agi, reagi, reakcii
+ influi (wpływać)
+
+# str. 124
+
+oddzielać, oddzielić
+ apartigi
+ dedividi
+ disigi (rozłączyć)
+ izoli (odosobnić)
+ distingi (odróżniać)
+
+oddzielny
+ aparta
+ disigita (oddzielony)
+ speciala (specjalny)
+
+oddźwięk
+ resono, eĥo
+
+odebrać
+ *odbierać*
+
+odechcieć się, odechciewać się
+ sendeziriĝi, perdi la deziron
+
+odęcie
+ ŝvelo, ŝveliĝo
+
+odegnać
+ forpeli
+
+odegrać
+ ludi
+ regajni ludante (odzyskać)
+
+odejmować
+ depreni
+ subtrahi [mat.]
+ forpreni (zabierać)
+
+odejmowanie
+ deprenado
+ subrtraho [mat.]
+
+odejść
+ foriri
+
+odetknąć
+ malfermeti
+
+odemścić
+ revenĝi
+
+odepchnąć
+ repuŝi, forpuŝi
+
+odeprzeć
+ *odpierać*
+
+oderwać
+ *odrywać*
+
+oderwany
+ deŝirita
+ apartigita (oddzielony)
+ abstrakta (abstrakcyjny)
+
+oderżnąć
+ *odrzynać*
+
+odesłać
+ desendi, forsendi
+ indiki (wskazywać)
+
+odetchnąć
+ respiri
+ ripozi (odpocząć)
+
+odetkać, odetknąć
+ elŝtopi, eligi ŝtopilon
+
+odezwa
+ alvoko, proklamo
+
+odezwać się
+ ekaudiĝi
+ ekparoli (przemówić)
+
+odgadnąć, odgadywać
+ diveni
+ konjekti (domyślać się)
+
+odganiać
+ forpeli
+
+odgarnąć, odgarniać
+ flankenŝovi
+ forŝovi
+
+odgiąć, odginać
+ fleksi, defleksi, refleksi
+ rektigi (wyprostować)
+
+odgłos
+ sono
+ resono, eĥo
+
+odgniatać
+ depremi
+ kaligi
+
+odgniotek
+ kalo
+
+odgonić
+ forpeli
+
+odgradzać, odgrodzić
+ interbari, debari
+ limigi (ograniczać)
+
+odgraniczać
+ limigi, disigi
+
+odgrażać się, odgrozić się
+ minaci
+
+odgrywać
+ ludi
+
+odgrywać się
+ regajni
+
+odgrywać
+ ludi
+
+odgrywać się
+ regajni
+
+odgryzać
+ demordi, formordi
+
+odgrzebać
+ elfosi, elterigi
+ eltombigi (odgrzebać z grobu)
+
+odgrzać, odgrzewać
+ revarmigi
+
+odhaczać
+ dekroĉi
+
+odjąć
+ *odejmować*
+
+odjazd
+ forveturo
+ foriro
+
+odjechać
+ forveturi
+
+odjemna
+ malgrandigato
+
+odjemnik
+ deprenato, subtrahato
+
+odjeść
+ demanĝi, formanĝi
+
+odjeżdżać
+ forveturi
+
+odkąd
+ de kiam (od kiedy)
+ de kie, el kie (skąd)
+
+odkładać
+ formeti, flankenmeti
+ prokrasti (zwlekać)
+
+odklejać
+ deglui, malglui
+
+odkomenderować
+ forkomandi
+ forsendi (odesłać)
+
+odkopać, odkopywać
+ elfosi, elterigi
+
+odkrajać, odkroić
+ detranĉi
+
+odkręcać
+ maltordi
+ returni (odwrócić)
+
+odkrycie
+ malkovro
+ eltrovo (wynalazek)
+
+odkryć, odkrywać
+ malkovri
+ eltrovi (wynaleźć)
+
+odkupić, odkupywać
+ reaĉeti
+ elaĉeti (wykupić)
+ liberigi (uwolnić)
+ savi (zbawić)
+
+odkupiciel
+ reaĉetanto
+ elaĉetanto
+ liberiganto (oswobodziciel)
+ savanto (zbawiciel)
+
+odkurzać
+ senpolvigi
+
+odkurzacz
+ senpolvigilo
+
+odlać
+ *odlewać*
+
+odłączać
+ disigi, apartigi
+
+odłam
+ derompaĵo
+ fragmento
+ frakcio
+ sekto
+
+# str. 125
+
+odłamać, odłamywać
+ derompi
+
+odlatywać
+ forflugi (odfrunąć)
+ forkuri
+
+odległość
+ distanco, interspaco
+
+odległy
+ malproksima
+
+odlepiać
+ malglui, deglui
+
+odlew
+ fandaĵo, muldaĵo
+
+odlewać
+ deverŝi, forverŝi (wylewać)
+ muldi (lać w formę)
+ fandi (topić)
+ pisi (szczać)
+
+odlewnia
+ fandejo, muldejo
+
+odliczać
+ dekalkuli
+ depreni (zdjąć)
+
+odłóg
+ senkultura kampo, senkulturejo
+
+odlot
+ forflugo
+
+odłożyć
+ formeti, flankenmeti
+ prokrasti (zwłóczyć)
+
+odludek
+ homevitulo, mizantropo
+ ermito (pustelnik)
+
+odludny
+ senhoma, neloĝata
+ dezerta (pustynny)
+ homevitema, mizantropa (stroniący od ludzi)
+
+odmalować
+ pripentri
+ priskribi (opisać)
+
+odmarzać
+ defrostiĝi
+ defali (odpaść)
+
+odmawiać
+ rifuzi
+ malkonsenti, malaprobi
+ eldiri, findiri (wypowiedzieć)
+
+odmęt
+ malklaraĵo
+ profundejo (głębia)
+ konfuzo (zamieszanie)
+ senordo, ĥaoso (zamęt)
+
+odmiana
+ variaĵo
+ ŝanĝo (zmiana)
+ speco (gatunek)
+ diferenciĝo (zróżnicowanie)
+ aliformiĝo, metamorfozo (przemiana)
+ deklinacio, konjugacio, fleksio [gram.]
+
+odmieniać
+ ŝanĝi, variigi, aliigi
+ modifi
+ deklinacii, konjugacii [gram.]
+
+odmienny
+ alia, malsama, diferenca
+ variema (zmienny)
+ deklinaciebla, konjugaciebla [gram.]
+
+odmierzać
+ demezuri
+ rekompenci (wynagradzać)
+
+odmładzać, odmłodzić
+ rejunigi, plijunigi
+
+odmłodnieć
+ rejuniĝi, plijuniĝi
+
+odmowa
+ rifuzo
+ malkonsento, malaprobo
+
+odmówić
+ *odmawiać*
+
+odmowny
+ rifuza
+ malaproba
+
+odmrażać, odmrozić
+ defrosti, frostumigi, frostvundi
+
+odmyć, odmywać
+ forlavi
+
+odmykać
+ malfermeti
+
+odnaleźć
+ retrovi
+
+odnawiać
+ renovigi
+
+odnieść
+ forporti, reporti
+ atingi (osiągnąć)
+ akiri (uzyskać)
+ ricevi (otrzymać)
+ koncernigi, interrilatigi (ustosunkować)
+
+odnoga
+ branĉo (gałąź)
+ brako (ramię)
+ golfo (zatoka)
+
+odnosić
+ *odnieść*
+
+odnosić się
+ rilati, koncerni, trakti (traktować)
+
+odnośnie
+ rilate, koncerne
+ respektive (odpowiednio)
+ konforme (stosownie)
+
+odnowić
+ renovigi
+
+#od nowa
+odnowa
+ denove, dekomence
+
+odór
+ malbonodoro, odoraĉo
+
+odosobnić
+ apartigi, izoli
+
+odpadać
+ defali
+
+odpadek
+ defalaĵo, forĵetaĵo, restaĵo
+
+odpakować
+ depaki, elpaki
+
+odparcie
+ repuŝo, rebato
+
+odparować
+ repuŝi, rebati, refrapi
+
+odparzać
+ frotvundi
+ brogi (odparzać wrzątkiem)
+
+odpaść
+ *odpadać*
+
+odpasać, odpasywać
+ dezonigi
+
+odpędzać
+ forpeli
+
+odpętać
+ elkatenigi, senkatenigi
+
+odpiąć
+ debutonumi, malbutonumi (odpiąć guzik)
+ malbuki (odpiąć sprzączekę)
+ senpingligi (odpiąć szpilkę)
+ dekroĉi (odczepić)
+
+odpierać
+ repuŝi, rebati
+ rediri (powiedzieć)
+ refuti (obalać)
+
+# str. 126
+
+odpinać
+ *odpiąć*
+
+odpis
+ deskribo, kopio
+
+odpisać, odpisywać
+ deskribi, kopii (przepisywać)
+ reksribi, respondi (odpowiadać)
+ testamenti (odpisać w testamencie)
+
+odpłacać
+ pagi, repagi, rekompenci
+
+odpłynąć
+ *odpływać*
+
+odpływ
+ defluo, forfluo, refluo
+
+odpływać
+ deflui, forflui, reflui
+ fornaĝi
+
+odpocząć, odpoczywać
+ ripozi
+
+odpoczynek
+ ripozo
+
+odpokutować
+ pentofari
+
+odporny
+ imuna
+ kontraŭstara, rezista
+ defenda (obronny)
+
+odpowiadać
+ respondi
+ respondeci (być odpowiedzialnym)
+ esti konvena, esti konforma, esti respektiva (być odpowiednim)
+
+odpowiedni
+ konforma (zgodny)
+ konvena (stosowny)
+ respektiva [mat.]
+ proporcia
+
+odpowiedź
+ respondo
+
+odpowiedzialny
+ respondeca
+
+odprawa
+ forsendo, ekspedo
+ forigo
+
+odprawiać, odprawować, odprawić
+ forsendi (odsyłać)
+ ekspedi (wysyłać)
+ forigi (oddalić)
+ soleni, celebri (celebrować)
+ plenumi (spełniać)
+ fari (zrobić)
+
+odpruć
+ malkudri
+ apartigi (oddzielić)
+
+odprowadzać
+ rekonduki, forkonduki, alkonduki
+ akompani (towarzyszyć)
+
+odpruwać
+ *odpruć*
+
+odpuścić, odpuszczać
+ pardoni
+
+odpust
+ indulgenco
+
+odpychać
+ forpuŝi
+ mallogi, abomeni (budzić odrazę)
+
+odra
+ morbilo
+
+odrąbać
+ dehaki, forhaki
+
+odrabiać
+ fari
+ prepari (przygotować)
+ prilabori (opracować)
+
+odraczać
+ prokrasti
+
+odradzać, odradzić
+ dekonsili
+
+odradzać się, odrodzić się
+ renaskiĝi
+ reviviĝi, regeneri
+
+odrapać, odrapywać
+ degrati, forgrati, deskrapi
+
+odrastać
+ rekreski
+ elkreski (wyrastać)
+
+odraza
+ abomeno, antipatio
+ naŭzo (mdłości)
+
+odrażać, odrazić
+ abomeni (budzić wstręt)
+ mallogi (odpychać)
+ fortimigi (odstraszyć)
+
+odrębny
+ aparta (oddzielny)
+ malsama, malsimila, diferenca (różny)
+ specifa (szczególnY)
+
+odrętwiały
+ rigidiĝinta
+ inerta (bezwładny)
+
+odrobić
+ *odrabiać*
+
+odrobina
+ peceto
+ ero (cząśtka)
+ iometo (troszeczka)
+
+odroczyć
+ prokrasti
+
+odrodny
+ degenerinta
+
+odrodzenie
+ renaskiĝo, reviviĝo, renesanco
+ regenerado (regeneracja)
+
+odrodzić się
+ *odradzać się*
+
+odrosnąć
+ rekreski
+ elkreski (wyrosnąć)
+
+odróżniać, odróżnić
+ distingi, diferencigi
+
+odruch
+ reflekso
+
+odryna
+ fojnejo
+
+odrywać
+ deŝiri, forŝiri
+ deturni, forturni (odciągać)
+ abstrakti (abstrahować)
+
+odrzec, odrzekać
+ rediri, respondi
+
+odrzec się, odrzekać się
+ rezigni
+
+odrzucać, odrzucić
+ forĵeti
+ reĵeti
+ malakcepti, malaprobi (nie przyjąć)
+ rifuzi (odmówić)
+
+# str. 127
+
+odsadzać
+ forsidigi
+ forigi (oddalić)
+ debrustigi (odsadzać od piersi)
+
+odsetek
+ procento
+
+odsiadywać, odsiedzieć
+ resti en malliberejo
+
+odsiecz
+ helpo (pomoc)
+ liberigo (uwolnienie)
+ savo (ratunek)
+
+odskakiwać, odskoczyć
+ resalti, desalti, forsalti
+
+odsłaniać
+ odsłonić, malvuali, malkovri
+
+odsłona
+ kurtenleviĝo, akto
+
+odśrodkowy
+ decentrokura, centrifuga
+
+odśrubować
+ malŝraŭbi
+
+odstać, odstawać
+ forstari
+ forlasi (opuścić)
+
+odstać się
+ malestiĝi
+
+odstąpić
+ *odstępować*
+
+odstawiać, odstawić
+ formeti, flankenmeti, forstarigi, restarigi
+ liveri (dostarczyć)
+ alvenigi (sprowadzić)
+ debrustigi (odstawić od piersi)
+
+odstęp
+ interspaco
+
+odstępca
+ apostato, renegato
+
+odstępne
+ cedmono
+
+odstępować
+ foriĝi, malproksimiĝi (oddzlić się)
+ deflankiĝi (zabaczać)
+ cedi (ustąpić)
+ forlasi (opuścić)
+
+odstępstwo
+ cedo (ustępstwo)
+ flankeniĝo (zboczenie)
+ apostateco, renegateco (odszczepieństwo)
+ escepto (wyjątek)
+
+odstraszać, odstraszyć
+ fortimigi
+
+odstręczać, odstręczyć
+ deturni, malklinigi
+
+odsuwać
+ forŝovi, deŝovi
+ forpuŝi (odepchnąć)
+ forigi (oddalić)
+
+odświętny
+ festa
+ pompa, parada (okazały)
+
+odświeżać, odświeżyć
+ refreŝigi
+ renovigi (odnowić)
+
+odsyłać
+ resendi, forsendi
+ indiki (wskazywać)
+
+odsyłacz
+ rimarksigno, rimarkigilo, indikilo
+
+odszczepnieniec
+ herezulo, apostato, skismulo, renegato
+
+odszkodowanie
+ kompenso, rekompenso
+
+odszukać
+ serĉi, elserĉi
+ retrovi (odnaleźć)
+
+odtąd
+ de ###, de tiu tempo (od tego czasu)
+ de tie ĉi (od tego miejsca)
+
+odtajać
+ degeli
+
+odtłaczać, odtłoczyć
+ depremi (odcisnąć)
+ depresi (oddrukować)
+
+odtłuszczać
+ sengrasigi, malgrasigi
+
+odtrącać, odtrącić
+ forpuŝi, repuŝi (odepchnąć)
+ dehaki (odrąbać)
+ dekalkuli (odliczyć)
+
+odtrutka
+ kontraŭveneno, antidoto
+
+odtwarzać, odtworzyć
+ reprodukti, rekrei
+
+oduczać, oduczyć
+ malkutimigi, dekutimigi
+
+odurzać
+ narkoti
+ ebriigi (upijać)
+ surdigi (ogłuszyć)
+
+odwabić
+ delogi
+
+odwach
+ gardistejo###
+
+odwaga
+ kuraĝo
+ aŭdaco (zuchwałość)
+ braveco (dzielność)
+
+odwar
+ infuzaĵo, dekokto
+
+odważać, odważyć
+ pesi
+
+odważać się, odważyć się
+ kuraĝi, maltimi
+ riski (ryzykować)
+
+odważnik
+ pezilo
+
+odważny
+ kuraĝa
+ brava (dzielny)
+ maltimema, aŭdaca (zuchwały)
+
+odwdzięczać się
+ redanki
+ rekompenci (wynagrodzić)
+ reservi (odsłużyć)
+
+odwet
+ revenĝo (zemsta)
+ repago (odpłata)
+
+odwiązać, odwiązywać
+ malligi
+
+odwieczny
+ eterna
+
+odwiedzać, odwiedzić
+ viziti
+
+odwiedziny
+ vizito
+
+# str. 128
+
+odwieść
+ forkonduki, dekonduki
+ deturni (odwrócić)
+
+odwieźć
+ forveturigi, alveturigi, transporti
+ liveri (dostarczać)
+
+odwijać
+ malvolvi
+ deruli, devindi
+
+odwikłać
+ malimpliki, malkomplikigi
+ malnodi (odsupłać)
+ malvovli (odwinąć)
+
+odwilż
+ degelado
+
+odwilżać
+ malseketigi
+
+odwinąć
+ *odwijać*
+
+odwlekać, odwłóczyć
+ prokrasti, malakceli (zwlekać)
+ fortreni (odciągnąć)
+
+odwłoka
+ prokrasto
+
+odwód
+ remarŝo, retiriĝo (odwrót)
+ postgvardio (tylna straż)
+ refuto (odparcie zarzutów)
+
+odwodowy
+ postgvardia
+ refutanta
+
+odwodzić
+ forkonduki, dekonduki
+ deturni (odwrócić)
+ dekonsili (odradzić)
+ refuti (odpierać dowody)
+
+odwołać, odwoływać
+ revoki, repreni (odebrać)
+ malvalidigi, nuligi (unieważnić)
+
+odwołać się, odwoływać się
+ apelacii (apelować)
+ sin turni (zwrócić się)
+
+odwóz
+ forveturigo, transporto
+
+odwozić
+ forveturigi, alveturigi
+ transporti
+ liveri (dostarczać)
+
+odwaracać, odwrócić
+ turni, returni, forturni, deturni
+ ribeligi (buntować)
+ forigi (usunąć)
+
+odwrót
+ remarŝo, forkuro, retiriĝo (ucieczka)
+ returno (odwrócenie)
+ kontraŭe, male, inverse (na odwrót)
+ dorso (grzbiet)
+
+odwrotny
+ mala, inversa, kontraŭa (przeciwny)
+ revena (powrotny)
+
+odwykać, odwyknąć
+ dekutimiĝi
+
+odwzajemniać się
+ repagi (odpłacić)
+ rekomplezi, reservi (odsłużyć się)
+ rekompenci (wynagrodzić)
+
+odyniec
+ maljuna apro, aprego
+
+odżałować
+ konsoliĝi (pocieszyć się)
+
+odżegnać się
+ forigi per krucosigno (oddalić znakiem krzyża)
+ eviti (unikać)
+ forpeli (odegnać)
+
+odzew
+ voko (wołanie)
+ alvoko (odezwa)
+ sono (dźwięk)
+ resono (oddźwięk)
+ signalvorto (hasło)
+ apelacio (apelacja)
+
+odziać
+ vesti
+ tegi (powlec)
+ kovri (pokryć)
+
+oddziedziczać, oddziedziczyć
+ heredi
+
+odzienie
+ vestaĵo
+
+odzierać
+ forŝiri, deŝiri
+ senigi (pozbawić)
+ prirabi (ograbić)
+
+odziewać
+ vesti
+ tegi (powlec)
+ kovri (pokryć)
+
+odznaczać
+ marki, signi (znaczyć)
+ distingi (odróżniać)
+
+odznaczać się
+ distingiĝi
+ karakteriziĝi (charakteryzować się)
+
+odzwierciedlać
+ respeguli
+
+odźwierny
+ pordisto
+
+odzwyczajać
+ dekutimigi
+
+odżyć
+ ekvivi, viviĝi, reviviĝi
+
+odzyskać, odzyskiwać
+ regajni, rericevi, reakiri, reatingi
+
+odzywać się
+ ekaŭdiĝi
+ eksoni (zadźwięczeć)
+ ekparoli (przemówić)
+ resoni (dać oddźwięk)
+
+odżywczy
+ nutra
+ nutreca (pożywny)
+
+odżywiać
+ nutri
+
+ofensywa
+ maldefendeco, atakanteco
+
+oferma
+ civilulo (cywil)
+ sentaŭgulo (niezdara)
+
+oferta
+ oferto
+
+ofiara
+ ofero
+ oferaĵo
+ viktimo (pastwa)
+
+ofiarny
+ oferema
+ sindona
+
+ofiarować
+ oferi
+ dediĉi (poświęcić)
+
+# str. 129
+
+oficer
+ oficiro
+
+oficjalista
+ oficiato
+
+oficjalny
+ oficiala
+
+oficyna
+ domflanko (skrzydło domu)
+ vestiblo (sień)
+ laborejo (pracownia)
+
+ofuknąć
+ krirespondi, insulti
+
+ogar
+ ĉashundo
+
+ogarek
+ brulrestaĵo
+ kandelstumpo
+
+ogarniać
+ ĉirkaŭi
+ ĉirkaŭpreni
+ ekkapti (schwycić)
+
+ogień
+ fajro
+ pafado (strzelanina)
+ ardo, fervoro (zapał)
+
+ogier
+ ĉevalviro
+
+ogłada
+ klereco (oświecenie)
+ bontono, malkrudeco, poluro
+
+oglądać
+ rigardi, pririgardi
+ vidi (widzieć)
+ observi (obserwować)
+ revizii (rewidować)
+
+oglądać się
+ rigardi
+ rigardi sin
+ rigardi malantaŭen
+ atenti (zważać)
+ fidi (polegać)
+ imiti (naśladować)
+
+ogładzać
+ glatigi
+ ebenigi (wyrównywać)
+ malkrudigi (okrzesać)
+
+ogłaszać
+ anonci
+ publikigi (opublikować)
+ proklami (obwołać)
+
+oględny
+ singardema (ostrożny)
+ zorga, zorgema (staranny)
+ atenta (baczny)
+
+oględziny
+ pririgardo
+
+ogłosić
+ *ogłaszać*
+
+ogłoszenie
+ anonco
+ publikigo (publikacja)
+ proklamo (obwołanie)
+ avizo (zawiadomienie)
+
+ogłuchnąć
+ surdiĝi
+ obtuziĝi (stępieć)
+
+ogłupieć
+ malsaĝiĝi, stultiĝi
+
+ogłuszać
+ surdigi
+
+ognik
+ fajreto
+ lampiro (świetlik)
+ vaglumo, erarlumo (błędny ognik)
+ pustulo (pryszcz)
+
+ogniotrwały
+ nebruligebla, fajrorezista
+
+ognisko
+ fajrujo
+ fokuso [fiz.]
+
+ognisty
+ fajreca, fajroplena, arda, flama
+
+ogniwo
+ ĉenero
+ ligilo (więź)
+
+ogół
+ tuto, tutaĵo (całość)
+ sumo (suma)
+ ĉiuj (wszyscy)
+
+ogołacać, ogołocić
+ nudigi
+ senigi (pozbawić)
+ prirabi (ograbić)
+
+ogolić
+ razi
+
+ogólnik
+ ĝeneralaĵo
+
+ogólny
+ ĝenerala
+
+ogon
+ vosto
+
+ogonek
+ vosteto
+ vico (szerg)
+ trunketo (łodyga)
+ pedunklo (szypułka)
+
+ogoniasty
+ vostohava
+
+ogórek
+ kukumo
+
+ogorzały
+ sunbrunigita
+
+ogorzeć
+ sunbruniĝi
+
+ograbiać
+ rabi, prirabi, forrabi
+
+ograć
+ malgajnigi
+
+ogradzać
+ ĉirkaŭbari
+
+ograniczać, ograniczyć
+ limigi
+ ĉirkaŭbari (ogrodzić)
+ redukti (redukować)
+
+ograniczony
+ limigita
+
+ogród
+ ĝardeno
+
+ogródka
+ elturniĝo (wykręt)
+ skrupulo (skrupuł)
+
+ogrodnictwo
+ ĝardenkulturo
+
+ogrodnik
+ ĝardenisto, ĝardenkulturisto
+
+ogrodowiny
+ ĝardenkreskaĵoj
+ legomoj
+
+ogrodzenie
+ ĉirkaŭbarilo
+
+ogrodzić
+ ĉirkaŭbari
+
+ogrójec
+ olivĝardeno
+ amuzĝardeno (ogrójec rozrywkowy)
+
+ogrom
+ grandegeco
+ multego (mnóstwo)
+ giganteco, koloseco (kolosalność)
+ vasteco (obszerność)
+
+ogromny
+ grandega, giganta, kolosa
+
+ogrywać
+ malgajnigi
+
+ogryzać, ogryźć
+ ĉirkaŭmordi, demordi
+
+ogryzek
+ demordaĵo, manĝorestaĵo
+
+ogrzać, ogrzewać
+ varmigi
+ hejti (opalać)
+
+oho!
+ ho! ho!
+
+# str. 130
+
+ohyda
+ abomeno (obrzydzenie)
+ honto, malhonoro (hańba)
+
+ohydny
+ abomena (obrzydliwy)
+ malbelega (szkaradny)
+ hontinda, malhonora (haniebny)
+
+ohydzać, ohydzić
+ abomenigi (obrzydzić)
+ malbeligi (oszpecić)
+ senhonorigi (bezcześcić)
+
+oj!
+ ho!, ah!
+
+ojciec
+ patro
+
+ojcobójca
+ patromurdinto
+
+ojcostwo
+ patreco
+
+ojcowizna
+ patra heredaĵo, hereda propraĵo
+
+ojczym
+ duonpatro
+
+ojczysty
+ patrolanda, hejmlanda
+ patra, gepatra (ojcowski, rodzicielski)
+
+ojczyzna
+ patrujo, patrolando, hejmlando
+
+okalać
+ ĉirkaŭi
+
+okaleczać, okaleczyć
+ vundi (ranić)
+ kripligi (uczynić ułomnym)
+
+okamgnienie
+ momento
+
+#skamienieć
+okamienieć
+ ŝtoniĝi
+
+okap
+ defluilo
+
+okaryna
+ okarino
+
+okaz
+ ekspoziciitaĵo (eksponat)
+ specimeno (próbka)
+ unikaĵo, maloftaĵo (osobliwość)
+
+okazać
+ *okazywać*
+
+okazały
+ majesta, grandioza (wspaniały)
+ luksa (zbytkowny)
+ pompa (wystawny)
+ parada (odświętny)
+ komforta (wykwintny)
+
+okaziciel
+ montranto, prezentanto
+
+okazja
+ okazo
+ ŝanco (szansa)
+
+okazowy
+ specimena
+
+okazywać
+ montri
+ prezenti (przedstawić)
+ pruvi (dowieść)
+
+okazywać się
+ montriĝi
+
+okiełznać
+ bridi
+
+okienko
+ fenestreto
+ giĉeto
+
+okiennica
+ fenestra kovrilo
+
+okład
+ kompreso (kompres)
+ aldono (dodatek)
+
+okładać
+ meti, ĉirkaŭmeti
+ kovri (pokrywać)
+ bastoni, bati (bić)
+
+okładka
+ kovrilo, bindaĵo
+
+okłamać, okłamywać
+ trompi, mensogi
+
+oklaskiwać
+ manfrapi, aplaŭdi
+
+oklep (na)
+ sensele
+
+oklepany
+ banala
+ triviala
+
+okno
+ fenestro
+ ŝakto (szyb)
+
+oko
+ okulo
+ maŝo (oko w siatce)
+ poento (oko w grze)
+ atento (baczność)
+ ŝajne (z pozoru)
+
+okocić się
+ naski katidojn
+
+okół
+ ĉirkaŭo
+ periferio (obwód)
+
+okołek
+ korimbo
+
+okolić
+ ĉirkaŭi
+
+okolica
+ ĉirkaŭaĵo
+ regiono (kraina)
+
+okoliczność
+ cirkonstanco
+ situacio (stan rzeczy)
+ detalo (szczegół)
+ okazo (okazja)
+ kaŭzo (przyczyna)
+
+okolicznościowy
+ okaza
+ cirkonstanca
+
+okoliczny
+ ĉirkaŭaĵa
+ apudkuŝanta
+ najbara
+
+okólnik
+ cirkulero
+
+okólny
+ rondira, ĉirkaŭa, cirkula
+
+około
+ ĉirkaŭ
+ apud (obok)
+ ĉe (przy)
+ proksimume (w przybliżeniu)
+
+okoń
+ perko
+
+okop
+ remparo (wał)
+ tranĉeo (przekop)
+ reduto (szaniec)
+
+okopywać
+ ĉirkaŭfosi, ĉirkaŭigi per remparo, ĉirkaŭigi per reduto
+
+oków
+ forĝaĵo
+
+okowy
+ katenoj
+
+okowita
+ brando
+
+okpić
+ trompi, superruzi
+
+okra
+ okro
+
+okradać
+ priŝteli
+
+okrąg
+ rondo, cirklo (koło)
+ periferio (obwód)
+ sfero (krąg)
+ regiono (rejon)
+ distrikto (obwód terytorialny)
+
+okrąglak
+ rondaĵo
+ ronda ŝtono
+
+okrągleć
+ rondiĝi
+
+okrągły
+ ronda, rondigita
+
+# str. 131
+
+okrasa
+ graso (tłuszcz)
+ ornamaĵo (ozdoba)
+
+okraszać
+ grasigi
+ ornami (zdobić)
+ beligi (upiększać)
+
+okrawać
+ detranĉi, fortranĉi
+ ĉirkaŭtranĉi
+
+okrawek
+ detranĉaĵo
+
+okrążać, okrążyć
+ rondiri, ĉirkaŭiri, ĉirkaŭi, ĉirkaŭigi
+
+okręcać
+ ĉirkaŭvolvi (owijać)
+ vindi (powijać)
+ interplekti (spleść)
+
+okręgowy
+ distrikta
+
+okres
+ periodo, tempospaco
+ fazo, stadio, epoko
+
+określać
+ difini (definiować)
+ determini (oznaczać)
+ destini (przeznaczyć)
+ limigi (ograniczać)
+
+określenie
+ difino
+ determino
+
+określny
+ difinanta
+ difinebla
+
+okręt
+ ŝipo
+
+okrężny
+ ĉirkaŭira, rondira
+
+okrom
+ krom (oprócz)
+ escepte (z wyjątkiem)
+
+okropność
+ terureco
+ teruraĵo
+
+okropny
+ terura
+
+okruch
+ peceto, derompaĵo
+
+okrucieństwo
+ kruelaĵo
+ krueleco
+
+okruszyna
+ peceto, ereto, iometo
+
+okrutnik
+ kruelulo
+ tirano
+
+okrutny
+ kruela
+ senkompata (bezlitosny)
+ furioza (szalony)
+ netorelebla (nieznośny)
+
+okryć, okrywać
+ kovri
+ vuali (zasłonić)
+ vesti (ubrać)
+
+okrycie
+ kovro, kovrado, kovraĵo
+ vestaĵo (odzienie)
+ mantelo (płaszcz)
+
+okrzepły
+ ridiĝinta
+ firmiĝinta, malfluidiĝinta
+
+okrzesać, okrzesywać
+ ĉirkaŭhaki (obrąbać)
+ poluri (polerować)
+ klerigi (kształcić)
+ malkrudigi
+
+okrzesany
+ malkruda
+ polurita
+ klera
+
+okrzyczany
+ disfamigita (rozsławiony)
+ proklamita (obwołany)
+
+okrzyk
+ ekkrio
+ ĝojkrio
+ aklamo
+
+okrzykiwać, okrzyknąć, okrzyczeć
+ aklami, proklami
+
+oksydować
+ oksidi
+
+oktawa
+ oktavo
+
+okuć
+ ĉirkaŭforĝi, subforĝi
+ enkatenigi (okuć w kajdany)
+
+okucie
+ forĝaĵo
+
+okularnik
+ okulvitra serpento (wąż)
+ okulvitristo, optikisto (optyk)
+
+okulary
+ okulvitroj
+
+okulbaczyć
+ seli, selŝarĝigi
+
+okulista
+ okulisto
+
+okulistyka
+ okulscienco, oftalmologio
+
+okultyzm
+ okultismo
+
+#okoń
+okuń
+ perko
+
+okup
+ reaĉetmono
+
+okupacja
+ ekokupo, okupado
+
+okupant
+ okupanto
+
+okupić, okupywać
+ elaĉeti (wykupywać)
+ repagi (zapłacić)
+
+okupować
+ okupi
+
+okurzać
+ senpolvigi (odkurzać)
+ polvokovri (pokrywać kurzem)
+
+okuwać
+ *okuć*
+
+olbora
+ mindepago
+
+olbrot
+ spermaceto
+
+olbrzym
+ grandegulo
+ koloso, giganto
+ titano
+
+olbrzymi
+ grandega
+ kolosa, giganta
+
+olcha
+ alno
+
+oleander
+ oleandro
+
+oleisty
+ olehava, oleeca
+
+olej
+ oleo
+
+olejek
+ oleo
+
+olejny
+ olea
+ olefarba
+
+oleodruk
+ olepresaĵo
+
+oligarchia
+ oligarĥio
+
+oliwa
+ olivoleo, olivo
+
+oliwka
+ olivo
+ olivujo, olivarbo
+
+oliwkowy
+ oliva
+
+ołów
+ plumbo
+
+# str. 132
+
+ołówek
+ krajono
+
+ołowiany
+ plumba
+
+olśnić
+ brilblindigi (oślepić blaskiem)
+ ravi, entuziasmigi (zachwycić)
+
+olstro
+ pistolujo
+
+olsza
+ alno
+
+olszyna
+ alnaro (las)
+ alnaĵo (drewno)
+
+ołtarz
+ altaro
+
+omackiem
+ palpe, palpante
+
+omal
+ preskaŭ
+
+omamić
+ trompi (oszukiwać)
+ iluzii (łudzić)
+
+omasta
+ grasaĵo
+
+omawiać
+ priparoli, diskuti
+
+omdlały
+ sveninta
+
+omdleć, omdlewać
+ sveni
+
+omen
+ antaŭdiro (przepowiednia)
+ antaŭsigno (znak)
+
+omieszkać
+ preterlasi (przepuścić)
+ malzorgi (zaniedbać)
+ forgesi (zapominać)
+ prokrasti (zwlekać)
+
+omijać, ominąć
+ eviti (unikać)
+ preterlasi (pominąć)
+ preterpasi (przechodzić obok)
+
+omlet
+ ovkuko
+ pudingo (budyń)
+
+omłot
+ draŝaĵo, draŝita greno
+
+omnibus
+ omnibuso
+
+omotać
+ ĉirkaŭvolvi (owijać)
+ impliki (zawikłać)
+ iluzii (łudzić)
+ trompi (oszukiwać)
+
+omówić
+ priparoli, pridiskuti
+
+omówienie
+ priparolo
+ parafrazo
+
+omszeć
+ muskokovriĝi
+
+omylić się
+ erari
+
+omyłka
+ eraro
+
+omylny
+ erara, erariga
+
+omywać
+ lavi, forlavi, ĉirkaŭlavi
+
+on
+ li
+
+ona
+ ŝi
+
+ono
+ ĝi
+
+one, oni
+ ili
+
+onanista
+ onanisto
+
+onanizować się
+ onaniĝi 
+
+onegdaj
+ antaŭhieraŭ
+
+ongi
+ iam
+ antaŭe (dawniej)
+
+oniemieć
+ mutiĝi
+
+oniemiały
+ mutiĝinta
+
+onieśmielać
+ senkuraĝigi
+
+onyks
+ onikso
+
+ontologia
+ ontologio
+
+onuca
+ pieda tukpeco
+
+opactwo
+ abatejo
+
+opaczny
+ renversa (odwrócony)
+ mala (przeciwny)
+ inversa (odwrotny)
+ malĝusta (niewłaściwy)
+
+opad
+ falaĵo, defalaĵo
+ malleviĝo (spadek)
+
+opadać
+ fali, defali
+ malleviĝi
+ perdi (tracić)
+
+opak (na)
+ renverse, male, inverse
+ malĝuste (niewłaściwie)
+
+opakować
+ enpaki (zapakować)
+ plenŝarĝi (przeładować)
+
+opal
+ opalo
+
+opał
+ brulligno, hejtmaterialo, hejtaĵo
+ hejtado (opalanie)
+
+opalać, opalić
+ hejti (ogrzewać paląc)
+ brulbrunigi (czynić ogorzałym)
+ ĉirkaŭbruligi, forbruligi (spalić)
+
+opałka
+ korbo
+
+opałki, koszałki
+ sensencaĵoj
+
+opalizować
+ opaleciĝi
+
+opałowy
+ hejta
+ hejtmateriala
+
+opały
+ malfacila situacio, embaraso
+
+opamiętać się
+ ekmemori (przypomnieć sobie)
+ rekonscii (oprzytomnieć)
+ ekdeteni sin (powstrzymywać się)
+
+opanować, opanowywać
+ ekregi (zawładnąć)
+ ekokupi (zająć)
+ kapti (chwycić)
+ ekposedi (posiąść)
+ konkeri (podbić)
+ moderigi (pohamować)
+
+opar
+ vaporaĵo
+
+oparcie
+ apogo, apogilo
+
+oparzyć
+ brogi, brulvundi
+
+oparzyć się
+ brogi sin, brulvundiĝi
+
+oparzelina
+ brulvundo
+
+opasać, opasywać
+ zoni, ĉirkaŭzoni
+ ĉirkaŭi (otoczyć)
+
+opaść
+ *opadać*
+
+opaska
+ banderolo
+ zoneto (paseczek)
+ bandaĝo (bandaż)
+
+opasły
+ plennutrita, grasiginta
+
+opasywać
+ *opasać*
+
+# str. 133
+
+opat
+ abato
+
+opatentować
+ patenti
+
+opatrywać, opatrzyć
+ gardi (strzec)
+ prizorgi (troszczyć się)
+ kontentigi (zadowolić)
+ flegi (pielęgnować)
+ havigi, provizi (dostarczyć)
+ bandaĝi (bandażować)
+ kalfatri (uszczelniać)
+
+opatrzność
+ providenco, antaŭzorgo, antaŭvideco
+
+opatrzny
+ atentema (baczny)
+ singardema (ostrożny)
+ antaŭzorga (przezorny)
+
+opchać
+ *opychać*
+
+opędzać
+ forpeli (odpędzać)
+ kontentigi (zadowolić)
+ kovri (pokryć)
+
+opędzać się
+ forpeli
+ defendi sin (bronić się)
+
+opera
+ opero
+ operejo (teatr)
+
+operacja
+ operacio
+ manovro (manewr)
+
+operator
+ operaciisto
+
+operetka
+ opereto
+
+operować
+ operacii
+ manovri (manewrować)
+ agi (działać)
+
+opętać
+ ekposedi (posiąść)
+ enkatenigi (spętać)
+
+opętaniec
+ diabla posedato
+
+opieka
+ protekto
+ zorgo (piecza)
+ ŝirmo (ochrona)
+ egido, aŭspicio
+
+opiekować się
+ protekti
+ zorgi (dbać)
+ gardi (strzec)
+ ŝirmi (chronić)
+
+opiekun
+ prizorganto
+ protektanto
+ kuratoro
+
+opierać
+ apogi
+ bazi, fundamenti
+
+opierać się
+ apogi sin
+ baziĝi, fundamentiĝi (zasadzać się)
+ rezisti, kontraŭstari (stawiać opór)
+
+opieszały
+ malrapidema, prokrastema (powolny)
+ maldiligenta (leniwy)
+
+opięty
+ malvasta
+ streĉita, ĉirkaŭstreĉita
+
+opiewać
+ kanti (śpiewać)
+ glori (sławić)
+ teksti (mieć treść)
+ soni (brzmieć)
+
+opijać się
+ sattrinki (napić się)
+ drinki, ebriiĝi (upić się)
+
+opilca
+ drinkulo
+
+opiłki
+ defalaĵo
+
+opilstwo
+ drinkemo, ebriemo
+
+opinia
+ opinio
+ reputacio (renoma)
+
+opis
+ priskribo
+
+opisowy
+ priskriba
+ eposa (epiczny)
+
+opisywać
+ priskribi, ĉirkaŭskribi, ĉirkaŭstreki
+
+opłacać
+ pagi
+ kotizi (opłacać składkę)
+ afranki (opłacać porto)
+
+opłacać się
+ valori
+
+opłakać, opłakiwać
+ priplori
+ bedaŭri (żałować)
+
+opłakany
+ priplorinda, bedaŭrinda
+
+opłata
+ pago
+ depago, imposto (podatek)
+ kotizaĵo (wpłata)
+ tarifo (taryfa)
+
+oplatać
+ ĉirkaŭplekti
+
+opłatek
+ oblato
+
+opław
+ polucio
+
+opleść
+ ĉirkaŭplekti
+
+opleśniały
+ ŝimkovrita
+
+opleśnieć
+ ŝimi, ŝimkovriĝi
+
+opłukać, opłukiwać
+ ĉirkaŭlavi, forlavi (obmywać)
+ gargari (płukać gardło)
+
+opłotek
+ barilo
+
+opłucna
+ pleŭro
+
+opluć, opluwać
+ surkraĉi
+
+opływać
+ ĉirkaŭflui, ĉirkaŭnaĝi (płynąć okrążać)
+ havi superfluon, abundi (obfitować)
+ bani (kąpać się)
+
+opoczysty
+ ŝtonplena, rokplena, rokeca
+
+opodal
+ iom pli malproksime
+
+opój
+ drinkulo, ebriulo
+
+opoka
+ roko, rokaĵo
+
+opona
+ tego (powłoka)
+ kovrilego (zasłona)
+ pneŭmatika ringo (opona samochodowa)
+ meningo (opona mózgowa)
+
+opończa
+ pluvmantelo
+
+oponent
+ opoziciulo
+
+oponować
+ opozicii
+
+opór
+ kontraŭstaro, rezisto
+ opozicio
+
+oporny
+ kontraŭstara, rezista
+ obstina (uparty)
+
+# str. 134
+
+oportunizm
+ oportunismo
+
+oporządzać
+ ordigi (uporządkować)
+ ekipi (zaopatrywać)
+ pretigi (przyrządzać)
+ sentripigi (wypatroszyć)
+
+opowiadać, opowiedzieć
+ rakonti
+
+opowiadać się
+ anonci sin, deklari sin
+
+opowieść
+ rakonto
+
+opóźniać
+ malfruigi, malrapidigi (zwalniać)
+ prokrasti, malakceli (zwlekać)
+
+opóźniać się
+ malfruiĝi
+ malrapidiĝi
+ prokrastiĝi
+
+opozycja
+ opozicio
+
+oprawa
+ bindaĵo
+ kadro (ramka)
+ ingo (futerał)
+
+oprawca
+ ekzekutisto (kat)
+ senfeligisto (hycel)
+
+oprawiać
+ bindi (oprawiać książki)
+ enkadrigi (oprawiać w ramy)
+ senfeligi (zdjąć skórę)
+
+oprawny
+ bindita
+ enkadrigita
+
+opresja
+ subpremo (ucisk)
+ malbona situacio (opały)
+ malespero (rozpacz)
+
+oprócz
+ krom
+
+oprowadzać
+ konduki, gvidi
+ akompani (towarzyszyć)
+
+opryskliwy
+ malafabla
+
+opryszek
+ rabisto, bandito, krimisto
+
+oprzeć
+ *opierać*
+
+#uprzykrzać
+opkrzykrzać
+ malagrabligi
+ tedi
+
+optyk
+ optikisto
+
+optyka
+ optiko
+
+optymista
+ optimisto
+
+optymizm
+ optimismo
+
+opuchłość
+ ŝveleco
+ ŝvelaĵo
+
+opuchnąć
+ ŝveli
+
+opuścić
+ *opuszczać*
+
+opustoszały
+ dezerta, dezertigita
+
+opustoszeć
+ dezertiĝi
+
+opuszczać
+ mallevi, malsuprenigi (spuszczać w dół)
+ cedi (ustąpić)
+ forlasi
+ ellasi (wypuszczać)
+ preterlasi (przepuszczać)
+ malzorgi, neglekti (zaniedbać)
+
+opychać
+ plenŝtopi, troplenigi
+
+orać
+ plugi
+
+oracja
+ alparolo (przemówienie)
+ prediko (kazanie)
+
+orangutan
+ orangutano
+
+oranżada
+ oranĝaĵo
+
+oranżeria
+ oranĝerio, oranĝejo, plantovarmigejo
+
+oranżowy
+ oranĝkolora
+
+orator
+ oratoro
+
+oratorium
+ oratorio
+
+oraz
+ kaj (i)
+ kune (razem)
+ samtempe (zarazem)
+
+orbita
+ orbito
+
+orchidea
+ orkideo
+
+order
+ ordeno
+
+ordynacja
+ ordoregularo
+
+ordynans
+ ordonato, ser##dato
+
+ordynarny
+ ordinara (zwykły)
+ vulgara (pospolity)
+ triviala (gminny)
+ malĝentila (niegrzeczny)
+
+ordynat
+ majoratestro
+
+ordynator
+ ordonanto, hospitalestro
+
+ordynek
+ vico (szereg)
+ ordo (porządek)
+
+ordynować
+ deĵori (dyżurować)
+ konsultadi (udzielać porad)
+
+ordynus
+ ordinarulo, vulgarulo, malĝentilulo
+
+orędować
+ protekti
+
+orędownik
+ patrono, protektanto (obrońca)
+ apostolo (##siciel)
+
+orędzie
+ solena parolado (uroczyste przemówienie)
+ misio (posłannictwo)
+
+oręż
+ batalilo, armilo
+
+orężny
+ batalila, armila
+ armita (uzbrojony)
+
+organ
+ organo
+
+organiczny
+ organa
+ organika, organisma
+
+organista
+ orgenisto
+
+organizacja
+ organizo, organizado
+ organizaĵo
+
+# str. 135
+
+organizm
+ organismo
+
+organizować
+ organizi
+
+organy
+ orgeno
+
+orgia
+ orgio, diboĉaĵo
+
+orientacja
+ sinorientado
+
+orientalny
+ orienta
+
+orientować się
+ orienti sin, orientiĝi
+
+orka
+ plugado
+
+orkan
+ uragano, ciklono
+
+orkiestra
+ orkestro, kapelo
+
+orlątko, orlę
+ aglido, aglideto
+
+orli
+ agla
+
+orlica
+ aglino
+
+orlik
+ agleto (mały orzeł)
+ akvilegio (roślina)
+
+ornament
+ ornamaĵo
+
+ornamentyka
+ ornamarto
+ ornamaĵaro
+
+ornat
+ mesvestaĵo, ornato
+
+ornitologia
+ ornitologio, birdoscienco
+
+orny
+ pluga, plugebla, kulturebla
+
+orografia
+ orografio
+
+orszada
+ migdallakto
+
+orszak
+ sekvantaro
+
+ortodoksa
+ ortodoksulo
+
+ortografia
+ ortografio
+
+oryginał
+ originalo (pierwowzór)
+ unikaĵo, kuriozaĵo (osobliwość)
+ strangulo (dziwak)
+ ekstravaganculo (ekscentryk)
+
+oryginalny
+ originala
+ kurioza (osobliwy)
+ stranga (dziwaczny)
+ ekstravaganca (ekscentryczny)
+
+oryl
+ flosisto
+
+orzec
+ *orzekać*
+
+orzech
+ nukso
+ avelo (orzech laskowy)
+ juglando (orzech włoski)
+ kokoso (orzech kokosowy)
+
+orzechowy
+ nuksa, nuksobruna, nuksokolora
+
+orzeczenie
+ predikato [gram.]
+ prijuĝo (osąd)
+ decido (decyzja)
+ verdikto (wyrok)
+ sentenco
+
+orzecznik
+ atributo
+
+orzekać
+ prirdiri
+ decidi (decydować)
+ verdikti (wydać wyrok)
+
+orzeł
+ aglo
+
+orzeszek
+ nukseto
+
+orzeźwiać
+ freŝigi, plifortigi
+
+orzeźwieć
+ refreŝiĝi, plifortiĝi
+
+oś
+ akso
+
+osa
+ vespo
+
+osaczać
+ blokadi
+ ĉirkaŭi, ĉirkaŭigi (otoczyć)
+ sieĝi (oblegać)
+
+osad
+ suefundaĵo, preciptaĵo
+
+osąd
+ prijuĝo
+
+osada
+ kolonio (kolonia)
+ garnizono (załoga)
+ tenilo (rękojeść)
+ bazo (podstawa)
+ stablo (sztaluga)
+
+osadnik
+ koloniisto
+
+osadzać
+ fiksi (umocować)
+ loki (umieścić)
+ loĝigi (osiedlać)
+ enkadrigi (oprawić)
+ koloniigi (kolonizować)
+ surfundigi, preciptigi (osadzać na dnie)
+
+osadzać się
+ surfundiĝi, preciptiĝi
+
+osądzać
+ prijuĝi
+ konsideri (rozważać0
+ kondamni (skazać)
+
+osamotnieć
+ soliĝi
+
+ość
+ fiŝosto
+
+oschły
+ seka, sekiĝinta (suchy)
+ senentuziasma, malarda (bez zapału)
+
+oschnąć
+ sekiĝi
+
+oścień
+ pikilo, harpuno
+
+ościenny
+ najbara
+
+oścież
+ *na oścież*
+
+ościsty
+ osta, ostoplena
+
+oscylować
+ oscili
+ heziti (wahać się)
+ vibri (drgać)
+
+osęka
+ akriga ŝtono, akrigilo
+
+ósemka
+ oko (8)
+ okono (1/8)
+
+osep
+ grandepago
+
+osępiały
+ malgaja, melankolia
+
+oset
+ kardo
+
+osiadać
+ ekloĝi (zamieszkać)
+ eksidi (zasiąść)
+ surfundiĝi, preceptiĝi (osiadać na dnie)
+
+osiadły
+ loksida, malnomada (nie koczowniczy)
+ loĝata, homhava (zaludniony)
+
+# str. 136
+
+osiągać, osiągnąć
+ atingi
+ akiri (zdobyć)
+ ekposedi (posiąść)
+
+osiąkać, osiąknąć
+ deguti (spływać)
+ enpuŝiĝi (ugrzęznąć)
+
+osiąść
+ *osiadać*
+
+#osika
+osica
+ tremolo, trempoplo
+
+osiedlać
+ loĝigi, koloniigi
+
+osiedlić się
+ ekloĝi
+
+#osiągnąć
+osięgnąć
+ *osiągać*
+
+#osioł
+osieł
+ azeno
+
+osiem
+ ok
+
+osierdzie
+ perikardo
+
+osierocić
+ orfigi
+
+osika, osina
+ tremolo, trempoplo
+
+osiodłać
+ seli
+ subjugigi (ujarzmiać)
+
+osioł
+ azeno
+
+osiwieć
+ griziĝi, grizhariĝi
+
+oskard
+ pikhakilo
+
+oskarżać
+ kulpigi, akuzi
+
+oskarżony
+ kulpigato, akuzato
+
+oskarżyciel
+ kulpiganto, akuzanto
+ prokuratoro (prokurator)
+
+oskoma
+ agaeo (zdrętwienie zębów)
+ apetito, envio, deziro (chętka)
+
+oskrzela
+ bronko
+
+oskubać
+ senplumigi
+
+osłabiać
+ malfortigi
+
+osładzać, osłodzić
+ dolĉigi, sukerigi
+
+oślak
+ azenido
+
+osłaniać
+ vuali
+ kovri (okryć)
+ kaŝi (chować)
+ ŝirmi (chronić)
+ defendi (bronić)
+
+#rozsławiać
+osławiać
+ disfamigi (rozsławić)
+ malbonfamigi, kalumnii (oczerniać)
+
+oślę
+ azenideto
+
+oślep (na)
+ blinde
+
+oślepiać
+ blindigi
+
+oślepnąć
+ blindiĝi
+
+ośli
+ azena
+
+oślica
+ azenino
+
+ośliznąć
+ fariĝi glitiga
+
+osłoda
+ dolĉigo
+ konsolo (pociecha)
+
+osłodzić
+ *osładzać*
+
+osłona
+ vualo
+ kurteno (zasłona)
+ ŝirmo, defendo (ochrona)
+
+osłonić
+ *osłaniać*
+
+osłupieć
+ konstreniĝi
+
+osm
+ osmio
+
+#osiem
+ośm
+ ok
+
+osmalać, osmolić
+ ŝmiri, malpurigi
+ gudrumi
+
+osmalać, osmalić
+ ekbruletigi (przypalić)
+ fulgumi (okopcić)
+
+#osiemdziesiąt
+ośmdziesiąt
+ okdek
+
+ośmielać
+ kuraĝigi
+
+ośmielać się
+ kuraĝi, sentimiĝi
+
+ośmieszać
+ ridindigi
+ kompromiti (narażać na wstyd)
+
+ośmiokąt
+ okangulo
+
+ośmiokrotny
+ okfoja
+
+ośmioro
+ ok
+
+#osiemnaście
+ośmnaście
+ dekok
+
+osmoza
+ osmozo
+
+#osiemset
+ośmset
+ okcent
+
+#posmutnieć
+osmutnieć
+ malgajiĝi
+
+#ósmy
+osmy
+ oka
+
+osnowa
+ ĉenfadeno
+ temo (temat)
+ esenco, kvintesenco (istota rzeczy)
+ enhavo (treść)
+ fono (tło)
+
+osnuć, osnuwać
+ ĉirkaŭvolvi (owinąć)
+ ĉirkaŭŝpini (oprząść)
+ bazi (oprzeć)
+
+osoba
+ persono
+
+osobistość
+ personeco (osowbowość)
+ individueco (indywidualność)
+ eminentulo (znakomita osoba)
+
+osobisty
+ persona
+ privata
+
+osobliwy
+ kurioza, unika
+ stranga (dziwny)
+ specifa (odrębny)
+ escepta (wyjątkowy)
+
+osobnik
+ individuo, ulo
+
+osobny
+ aparta, izolita
+ specifa (odrębny)
+
+osobowy
+ persona
+ pasaĝera
+
+osolić
+ sali
+
+osowiały
+ malgaja, melankolia
+
+ospa
+ variolo
+
+ospały
+ malvigla
+ dormema (senny)
+ mallaborema (leniwy)
+
+ospowaty
+ varioleikatra
+
+ośrodek
+ centro
+
+ostać się
+ resti (zostać)
+ konserviĝi (zachować się)
+ persisti (wytrwać)
+ kontraŭstari, rezisti (stawiać opór)
+
+# str. 137
+
+ostateczny
+ finfina, definitiva
+ ekstrema (krańcowy)
+
+ostatek, ostatki
+ lastaĵo, restaĵo (resztka)
+ fino (koniec)
+ lastaj karnavalotagoj
+
+ostatni
+ lasta
+ ekstrema (krańcowy)
+
+ostatnio
+ laste, lastafoje, lastatempe
+
+ostawać się
+ *ostać się*
+
+ostawić
+ lasi
+
+ostemplować
+ stampi
+
+ostentacyjny
+ demonstracia
+ pompa, parada (okazały)
+
+osteologia
+ osteologio, ostoscienco
+
+ostęp
+ ĉirkaŭigo (osaczenie)
+ retoj (sieci)
+ embuskejo (zasadzka)
+
+ostnica
+ stipo
+
+ostoja
+ rifuĝejo, azilo (schronisko)
+ oazo (oaza)
+ ŝirmo (ochrona)
+ bazo (podstawa)
+
+ostokrzew
+ ilekso
+
+ostowy
+ karda
+
+ostracyzm
+ ostracismo
+
+ostroga
+ sprono
+
+ostrokół
+ palisaro
+
+#stożek
+ostrokrąg
+ konuso
+
+ostrołuk
+ ogivo
+
+ostrość
+ akreco
+ agacigeco (cierpkość)
+ severeco (surowość)
+
+ostrosłup
+ piramido
+
+ostrów
+ insuleto
+
+ostrowidz
+ linko
+
+ostrożny
+ singardema
+ antaŭzorga (przezorny)
+ atentema (oględny)
+
+ostry
+ akra
+ pinta (spiczasty)
+ agaciga (cierpki)
+ akuta [med.] [mat.]
+ severa (surowy)
+ sagaca (bystry)
+
+ostryga
+ ostro
+
+ostryż
+ kurkumo
+
+ostrze
+ tranĉrando, akraĵo
+
+ostrzec, ostrzegać
+ averti
+
+ostrzeliwać
+ ĉirkaŭpafi
+ bombardi
+
+ostrzeżenie
+ averto
+
+ostrzyć
+ akrigi
+ pintigi
+
+ostrzyc
+ tondi
+
+ostudzić
+ malvarmigi
+
+ostygnąć
+ malvarmiĝi
+
+osuszać
+ sekigi
+ dreni (osuszać grunt)
+
+osuwać
+ deŝovi, forŝovi
+
+osuwać się
+ deŝoviĝi (odsunąć się)
+ malsuprenfali, malleviĝi (opaść)
+
+oswajać
+ malsovaĝigi, dresi (tresować)
+ alkutimigi (przyzwyczajać)
+ familiarigi (spoufalić)
+ adapti (przystosować)
+
+oświadczać
+ deklari
+ esprimi (wyrazić)
+ diskonigi (podać do wiadomości)
+ konfesi (wyznać)
+
+oświadczyć się
+ deklari sin
+ konfesi amon (wyznać miłość)
+
+oświata
+ klerigo, klerigado
+ klereco
+ civilizacio
+ kulturo
+
+oświecać
+ klerigi (kształcić)
+ konsciigi (uświadomić)
+ civilizi (cywilizować)
+ lumigi, ilumini (oświetlać)
+
+oświecenie
+ *oświata*
+
+oświecony
+ lumigita (oświetlony)
+ klera (światły)
+ instruita (uczony)
+ ekscelenco (ekscelencja)
+
+oświetlać
+ lumigi
+ ilumini (iluminować)
+ klarigi (wyjaśnić)
+
+oswobodzić
+ liberigi
+ senjugigi (uwolnić z jarzma)
+
+oswobodziciel
+ liberiganto
+
+oswoić
+ *oswajać*
+
+osypka
+ grajnfuraĝo
+ skabio (świerzbiączka)
+
+osypywać
+ ĉirkaŭŝuti, superŝuti
+
+osypywać się
+ disŝutiĝi
+
+oszacować
+ pritaksi
+
+oszalały
+ freneza, furioziĝinta
+
+oszałamiać
+ *oszołomić*
+
+oszaleć
+ freneziĝi (zwariować)
+ furioziĝi (wściec się)
+
+oszańcować
+ ĉirkaŭigi per remparo
+
+oszczędny
+ ŝparema
+ ekonomia (ekonomiczny)
+
+oszczędzać
+ ŝpari
+ ŝirmi (chronić)
+ indulgi (pobłażać)
+
+oszczenić się
+ naski hundidojn
+
+# str. 138
+
+oszczep
+ ponardego, lanco
+ harpuno (oścień)
+
+oszczerca
+ kalumnianto
+
+oszczerstwo
+ kalumnio
+
+oszkalować
+ kalumnii
+
+oszklić
+ vitrumi, provizi per vitroj
+
+oszołomić
+ kaŭzi kapturnon
+ konsterni (osłupiać)
+ konfuzi (zmieszać)
+
+oszpecać
+ malbeligi
+ monstrigi
+
+oszukać
+ trompi
+
+oszukaństwo
+ trompo
+
+oszust
+ trompisto
+ ĉarlatano
+
+oszustwo
+ trompo
+
+oszwabiać
+ trompi
+ ĉarlatani
+
+otaczać
+ ĉirkaŭi
+ ĉirkaŭigi
+
+otchłań
+ senfundaĵo, profundegaĵo, abismo
+
+otłuc, otłukać
+ ĉirkaŭrompi
+ forrompi
+ bati, vipi (chłostać)
+
+otłuszczać
+ grasigi
+
+oto
+ jen, jen estas
+
+otoczenie
+ ĉirkaŭigo
+ medio (środowisko)
+
+otoczyć
+ ĉirkaŭi
+ ĉirkaŭigi
+
+otoczka
+ koronelo
+
+otok
+ puso, absceso (ropa)
+ kadraĵo (obwódka)
+
+otomana
+ divano
+
+otóż
+ jen, jen estas
+
+otrąbić
+ ĉirkaŭtrumpeti, distrumpeti
+ proklami (obwołać)
+ anonci (ogłaszać)
+
+otręby
+ brano
+
+otruć, otruwać
+ veneni
+
+otrząsać
+ skui, deskui, forskui
+
+otrząsać się, otrząsnąć się
+ skuiĝi
+ kontraŭstari (przeciwstawić się)
+ liberiĝi (uwolnić się)
+ ektremi (drgnąć)
+
+otrzaskać
+ alkutimigi al bruo
+
+otrzeć
+ viŝi, forviŝi (wycierać)
+ defroti, frotvundi (tarciem okaleczyć)
+
+otrzepać, otrzepywać
+ frapante, senpolvigi
+
+otrzewna
+ peritoneo
+
+otrzeźwieć
+ sobriĝi
+ rekonscii
+ refreŝiĝi (orzeźwić się)
+
+otrzymać, otrzymywać
+ ricevi
+ atingi (osiągnąć)
+
+otucha
+ esperigo
+ espero (nadzieja)
+ kuraĝo (odwaga)
+ fervoro (zapał)
+ fido (ufność)
+
+otulać
+ envolvi (owinąć)
+ ĉirkaŭkovri (okryć)
+
+otumanić
+ blindigi (oślepić)
+ trompi (oszukać)
+ senkonsciigi (pozbawić świadomości)
+
+otwarcie
+ malfermo, inaŭguro (otworzenie)
+ malkaŝe (jawnie)
+ sincere (szczerze)
+
+otwarty
+ malfermita (otworzony)
+ sincera (szczery)
+ malkaŝa (jawny)
+
+otwierać, otworzyć
+ malfermi
+ inaŭguri (uroczyście rozpocząć)
+ malŝlosi (otwierać kluczem)
+ fondi (zakładać)
+
+otwór
+ malfermaĵo
+ truo (dziura)
+
+otyły
+ grasa
+ dika
+ korpulenta
+
+otynkować
+ surkalki
+
+ów, owa, owo
+ tiu, tio
+
+owacja
+ ovacio
+
+owąd
+ tie, el tie
+ senkaŭze (bez przyczyny)
+ subite (nagle)
+
+owad
+ insekto
+
+owadożerny
+ insektomanĝa, insektovora
+
+owak, owako
+ tiel
+ neniel (ni tak ni owak)
+
+owaki
+ alia, alispeca
+
+owal
+ ovalo
+
+owalny
+ ovala
+
+owca
+ ŝafo
+ ŝafino
+
+owczarek
+ ŝafhundo
+
+owczarnia
+ ŝafejo, ŝafstalo
+
+owczarz
+ ŝafisto
+
+ówczesny
+ tiama, tiutempa
+
+owczy
+ ŝafa
+
+owdowieć
+ vidviĝi
+ vidviniĝi
+
+owdzie
+ tie
+ tie kaj aliloke (tu i owdzie)
+
+owiać
+ *owiewać*
+
+owies
+ aveno
+
+owiewać, owionąć
+ ĉirkaŭblovi
+ ĉirkaŭpreni (objąć)
+ penetri (przeniknąć)
+
+# str. 139
+
+owijać, owinąć
+ envolvi, ĉirkaŭvolvi
+ kaŝi (ukryć)
+
+owo
+ tio, tiu
+
+owoc
+ frukto
+ rezultato (wynik)
+
+owocarnia
+ fruktejo, fruktovendejo
+
+owocny
+ fruktodona
+
+owocorodny
+ fruktoporta
+
+owrzodziały
+ ulcerplena, ulcerkovrita
+
+owsianka
+ avenaĵo
+ avengriaĵo (kasza)
+ avena pajlo (słoma)
+
+owsiany
+ avena
+
+owszem
+ jes
+ certe jes, jes vere
+ volonte
+ ĝuste tiel
+
+ożanka
+ teŭkrio
+
+ozdabiać, ozdobić
+ ornami
+ garni (garnirować)
+ dekoracii (dekorować)
+ beligi (upiększać)
+
+ozdoba
+ ornamo, ornamaĵo
+ dekoracio
+ garnaĵo
+ vinjeto
+
+ozdobny
+ ornamita, garnita (ozdobiony)
+ eleganta (wytworny)
+
+ozdrowieć
+ resaniĝi
+
+ożenić się
+ edziĝi
+
+oziębiać
+ malvarmigi
+
+oziębły
+ malvarma
+ indiferenta (obojętny)
+ malarda (nie żarliwy)
+
+ozimina
+ vintra greno, aŭtunsemaĵo
+
+ozłacać, ozłocić
+ orumi
+ superŝuti per oro (obsypać złotem)
+
+oznaczać
+ signifi (mieć znaczenie)
+ signi, marki (zaopatrzyć znakiem)
+ determini (wyznaczać)
+
+oznajmiać
+ deklari (oświadczyć)
+ informi, sciigi (zawiadomić)
+
+oznajmujący
+ indikativo [gram.]
+
+oznaka
+ insigno, emblemo, simbolo
+ simptomo (objaw)
+
+ożóg
+ fajrincitilo, fajromovilo
+
+ozon
+ ozono
+
+ozór
+ langego, langaĉo
+
+oźrebić się
+ naski ĉevalidojn
+
+ozwać się
+ ekaŭdiĝi
+ ekparoli (przemówić)
+ resoni (dać oddźwięk)
+
+ożyć, ożywać
+ reviviĝi
+
+ożywczy
+ viviga, reviviga
+
+ożywiać
+ revivigi, plivivigi
+ plivigligi
+

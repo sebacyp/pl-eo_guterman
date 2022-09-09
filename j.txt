@@ -1,0 +1,515 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# J
+
+# str. 67
+
+ja
+ mi
+
+jabłko
+ pomo
+
+jabłoń
+ pomujo, pomarbo
+
+jąć
+ kapti (chwytać)
+ komenci (zaczynać)
+
+jąć się
+ kapti
+
+jacht
+ kutro, promenŝipo
+
+jad
+ veneno
+
+jadalnia
+ manĝejo
+
+jadalny
+ manĝebla, manĝa
+
+jadło
+ manĝaĵo
+
+jadłospis
+ menuo
+
+jadowity
+ venena
+ pikparola (zjadliwy)
+
+jądro
+ kerno (jądro owocu)
+ grajno (ziarno)
+ esenco (istota)
+ testiko (gruczoł nasienny)
+
+jagły
+ miligrio
+
+jagnię
+ ŝafido
+
+jagoda
+ bero
+
+jaguar
+ jaguaro
+
+jajecznica
+ ovaĵo
+
+jajko
+ ovo
+
+jajnik
+ ovujo
+
+jajo
+ ovo
+
+jajowaty
+ ovala, ovalforma
+
+jak
+ kiel
+ kvazaŭ (niby)
+ kiel eble plej (jak najbardziej)
+ se (jeżeli)
+ kiam (kiedy)
+
+jąkać się
+ balbuti
+
+jąkała
+ balbutulo
+
+# str. 68
+
+jakby
+ kvazaŭ (niby)
+ se (jeżeli)
+
+jaki
+ kia
+
+jakiś
+ ia
+
+jakkolwiek
+ kiel ajn (w jakibądź sposób)
+ kvankam (aczkolwiek)
+
+jako
+ kiel
+
+jakoby
+ kvazaŭ
+
+jakoś
+ iel
+
+jakość
+ kavlito
+ eco (przymiot)
+
+jakościowy
+ kvalita
+
+jałmużna
+ almozo
+
+jałowiec
+ juniptero
+
+jałówka
+ bovidino
+
+jałowy
+ senida (bez potomstwa)
+ senfrukta (bezowocny)
+ vanta (próżny)
+
+jama
+ kaverno (pieczara)
+ kavo (dół)
+ truo (dziura)
+ konkavaĵo (wklęsłość)
+
+jamnik
+ melhundo
+
+jar
+ intermontaĵo (wąwóz)
+ fosaĵo (parów)
+
+jarmark
+ foiro
+
+jarmułka
+ ĉapeto, bireto
+
+jarosz
+ vegetarano
+
+jary
+ printempa (wiosenny)
+ freŝa (świeży)
+ vigla (rześki)
+
+jarząb
+ sorpujo, sorparbo
+
+jarząbek
+ tetrao (ptak)
+
+jarzębina
+ sorpo
+
+jarzmo
+ jugo
+
+jarzyna
+ legomo
+
+jasiek
+ kapkuseneto
+
+jaskier
+ ranunkolo
+
+jaskinia
+ kaverno, groto
+
+jaskółka
+ hirundo
+
+jaskrawy
+ helega (jasny)
+ brilega (błyszczący)
+ blindiga (oślepiający)
+ frapanta (uderzający)
+
+jasło
+ manĝujo
+
+jaśmin
+ jasmeno
+
+jaśnie ...
+ ... moŝto, ekscelenco ..., eminenco ... (tytuły)
+
+jaśnieć
+ heliĝi (stać się jasnym)
+ brili (lśnić)
+
+jasny
+ luma (widny)
+ hela (jaskrawy)
+ klara (wyraźny)
+ evidenta (oczywisty)
+ serena (pogodny)
+
+jastrząb
+ akcipitro
+
+jaszczurka
+ lacerto
+
+jaszczyk
+ buterskatolo, buterujo (maślniczka)
+ pulvoveturilo (wóz na amunicję)
+
+jatki
+ viandejo
+
+jątrzyć
+ inciti (drażnić)
+ kontraŭflamigi (rozpalić)
+ abscedigi, pusigi (wywołać ropienie)
+
+jątrzyć się
+ pusi, abscesi, ulceri
+
+jawie (na)
+ maldorme
+
+jawny
+ malkaŝa (otwarty)
+ publika (publiczny)
+ evidenta (oczywisty)
+
+#jawor
+jawór
+ platano, acero
+
+jazda
+ veturo, veturado (jechanie)
+ rajdo (jazda konna)
+ kavalerio (konnica)
+
+jaźń
+ mio
+ personeco (osobowość)
+
+jechać
+ veturi
+ rajdi (jechać konno)
+ vojaĝi (podróżować)
+
+jęczeć
+ ĝemi
+
+jęczmień
+ hordeo
+
+jeden
+ unu
+
+jednać
+ unuigi (jednoczyć)
+ konkordigi, repacigi (pogodzić)
+ akiri (pozyskać)
+
+jednak
+ tamen
+ ja (przecie)
+
+jednaki
+ egala, sama, samspeca
+
+jedakowoż
+ kaj tamen
+
+jednocześnie
+ samtempe
+
+jednoczyć
+ unuigi
+
+jednogłośnie
+ unuvoĉe
+
+jednolity
+ unueca, tuteca (całościowy)
+ unuspeca (jednogatunkowy)
+ samspeca, egala (jednaki)
+
+jednomyślnie
+ unuanime, unuopinie
+
+jedność
+ unuo (jednostka)
+ unueco
+ konkordo (zgoda)
+
+jednostajny
+ ĉiam egala (zawsze jednakowy)
+ simpla (prosty)
+ simila (podobny)
+ unutona (monotonny)
+
+# str. 69
+
+jednostka
+ unuo (jedynka)
+ individuo (osobnik)
+
+jednostronny
+ unuflanka
+ tendenca, partia (stronniczy)
+
+jednoznaczny
+ unusignifa (mający tylko jedno znaczenie)
+ samsenca, sinonima (bliskoznaczny)
+ samvalora (równoznaczny)
+
+jędrny
+ kernoriĉa
+ konciza (związły)
+ fortika (krzepki)
+
+jedwab
+ silko
+ atlaso (atłas)
+
+jedwabnik
+ silkraŭpo
+
+jedynak
+ solfilo
+
+jedynie
+ nur, sole
+
+jedynka
+ unuo
+
+jedyny
+ unusola (samotny)
+ unika (osobliwy)
+
+jędza
+ furio (szał)
+ malbonulino (złośnica)
+
+jedzenie
+ manĝo
+
+jęk
+ ĝemo
+
+jęknąć
+ ekĝemi
+
+jeleń
+ cervo
+
+jelita
+ intestoj
+
+jełki
+ ranca
+
+jemioła
+ visko
+
+#generał
+jenerał
+ generalo
+
+jeniec
+ militkaptito
+
+jeno
+ nur (tylko)
+ sed (lecz)
+
+jeść
+ manĝi
+
+jesień
+ aŭtuno
+
+jesion
+ frakseno
+
+jesiotr
+ sturgo
+
+jeśli
+ se, supozite ke (przypuściwszy że)
+ kiam (kiedy)
+
+jestestwo
+ ekzisteco, ekzistado (byt)
+ estaĵo (stworzenie)
+
+jeszcze
+ ankoraŭ
+ ree (znowu)
+ pli (bardziej)
+ plue (w dalszym ciągu)
+ krom tio (nadtwo)
+
+jeż
+ erinaco
+
+jeździć
+ veturadi (jeździć wozem)
+ rajdadi (jeździć konno)
+ vojaĝi (podróżować)
+
+jeżeli
+ se, supozite ke (przypuściwszy że)
+ kiam (kiedy)
+
+jezioro
+ lago
+
+jęzor
+ langego, langaĉo
+
+jeżowiec, jeżozwierz
+ histriko
+
+jeżyć
+ hirtigi
+
+jeżyć się
+ hirtiĝi
+ severiĝi (srożyć się)
+
+języczek
+ langeto, montrilo (wskazówka)
+ kojno (klin)
+
+językoznawstwo
+ filologio
+
+jeżyna
+ rubuso
+
+jod
+ jodo
+
+jodła
+ abio
+
+jota
+ jo (litera)
+ ero (krzta)
+ detalo (szczegół)
+
+jowialny
+ ŝercema
+
+jubiler
+ juvelisto
+
+jubileusz
+ jubileo
+
+jucha
+ sangaĉo
+ fripono
+
+jucht
+ jufto
+
+juczny
+ ŝarĝsela, ŝarĝita
+
+juki
+ paksako, selpako, selsako, selŝarĝo
+
+junak
+ bravulo
+
+juszka
+ saŭco, buljono
+
+jutro
+ morgaŭ
+
+jutrzenka
+ matenkrepusko, tagiĝo (świt)
+ matena stelo (gwiazda poranna)
+
+jutrznia
+ matena meso
+
+już
+ jam
+
+jużci
+ certe, memkompreneble, ja, vere
+
+jużto ... jużto
+ jen ... jen
+

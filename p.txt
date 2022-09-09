@@ -1,0 +1,9790 @@
+# vim:set autoindent:
+
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# P
+
+# str. 139
+
+pacha
+ akselo
+
+pachciarz
+ laktofarmisto
+
+pachnąć
+ odori, bonodori
+ minaci (grozić)
+
+pachnidło
+ bonodoraĵo, aromaĵo
+ parfumo (perfumy)
+
+pacholę, pachołek
+ armilportisto (giermek)
+ paĝio (paź)
+ servisto (sługa)
+ knabeto (chłopię)
+
+pacht
+ laktofarmo
+
+pachwina
+ ingveno
+
+pacierz
+ preĝo "Patro nia"
+ vertebraro, spino (kręgosłup)
+
+paciorek
+ preĝeto (krótka modlitewka)
+ rozariero (u różańca)
+
+paciorki
+ rozario
+
+pacnąć
+ ekfrapi (uderzyć)
+ klaki (klasnąć)
+
+pacjent
+ kuracato, paciento
+
+pacyfikacja
+ pacigo
+ trankviligo (uspokojenie)
+
+pacyfizm
+ pacifismo
+
+pączek
+ burĝono (pączek roślinny)
+ patkuko (ciastko)
+
+paczka
+ pakaĵo, paketo
+
+paczula
+ paĉulo
+
+padać
+ fali
+ pluvi (o deszczu)
+ neĝi (o śniegu)
+ hajli (o gradzie)
+ morti (umierać)
+
+padaczka
+ epilepsio
+
+padalec
+ angviso
+
+padlina
+ mortaĵo
+
+padół
+ valo
+
+padwana
+ amkanto
+
+paginacja
+ paĝnumerado
+
+pagoda
+ pagodo
+
+pagórek
+ monteto
+
+# str. 140
+
+pagórkowaty
+ montetriĉa
+ malebena
+
+pajac
+ arlekeno
+ pulĉinelo
+
+pająk
+ araneo
+
+pająkowaty
+ aranesimila, araneforma
+
+pajęczyna
+ araneaĵo, aranea spinaĵo
+
+pajuk
+ ĉambristo
+
+pak
+ peĉo
+
+pąk
+ burĝono
+
+paka
+ pako
+ kesto
+
+pakiet
+ paketo
+
+pakłak
+ paktolo, drapaĉo
+
+pakować
+ paki, enpaki
+ enmeti (włożyć)
+ enŝtopi (wpychać)
+
+pakt
+ traktato, kontrakto
+
+paktować
+ intertrakti
+
+pakuły
+ stupo
+
+pakunek
+ pakaĵo
+
+pal
+ paliso
+ fosto (słUp)
+
+pałac
+ palaco
+
+pałać
+ ardi
+ bruli (palić się)
+
+palacz
+ hejtisto (przy piecu)
+ fumanto (palacz tytoniu)
+
+palad
+ paladio
+
+pałąk
+ kurba stango
+
+palankin
+ palankeno
+
+palant
+ pilkobastono, pilkobatilo
+
+pałasz
+ sabro
+
+pałaszować
+ sabri, sabrobati
+
+palatyn
+ palateno
+
+palcat
+ stango, bastoneto
+
+palec
+ fingro
+
+pałeczka
+ bastoneto
+ stangeto (pręcik)
+ streketo (kreska)
+
+paleografia
+ paleografio
+
+paleontologia
+ paleontologio
+
+palenie
+ bruligado
+ brulado (palenie się)
+ hejtado (opalanie)
+ fumado (palenie tytoniu)
+
+palestra
+ advokataro
+ jurista korporacio
+
+paleta
+ paletro
+
+palić
+ bruligi (spalać)
+ hejti (opalać)
+ fumi (palić tytoń)
+ pafi (strzelać)
+ lumigi (oświetlać)
+ rosti (smażyć)
+
+palić się
+ bruli
+ lumi (świecić)
+ ardi (pałać)
+
+palisada
+ palisaro
+
+palisander
+ palisandro
+
+paliwo
+ brulmaterialo
+
+paljatywy
+ duonrimedoj, neradikalaj rimedoj
+
+pałka
+ bastono
+ vergo (rózga)
+ kapo (głowa)
+ unuo (jedynka)
+
+palma
+ palmo
+
+palnąć
+ ekbati (uderzyć)
+ ekpafi (wystrzelić)
+ ekklaki (klasnąć)
+
+palnik
+ brulilo
+
+palny
+ brula
+ brulema (łatwopalny)
+ pafa (do strzelania)
+
+palpitacja
+ korbatado
+
+palto
+ mantelo, palto
+
+paluch
+ fingrego, fingraĉo
+
+pamflet
+ pamfleto
+
+pamiątka
+ memoraĵo
+
+pamięć
+ memoro
+ konsidero (zastanowienie)
+ memorigo (przypomnienie)
+ parkere (na pamięć)
+
+pamięciowy
+ memora
+ parkera
+
+pamiętać
+ memori
+
+pamiętnik
+ memorlibro
+
+pamiętny
+ memorinda (godny zapamiętania)
+ memoranta (pomny)
+
+pan
+ sinjoro
+ mastro (właściciel)
+ estro, reganto (panujący)
+
+pancernik
+ kirasa ŝipo (okręt)
+ kirasulo (kirasjer)
+
+pancerz
+ kiraso
+
+panegiryk
+ panegiraĵo, trolaŭdo
+
+panew
+ pato
+ kaserolo (rondel)
+ kuŝujo (łożysko)
+
+panewka
+ pato, pateto
+ pulvopato
+
+pani
+ sinjorino
+ mastrino (gospodyni)
+ estrino (rządczyni)
+
+panicz
+ sinjorido
+ junulo (młodzieniec)
+
+paniczny
+ panika
+
+panienka
+ fraŭlino, sinjoridino, junulino
+
+panieński
+ fraŭla, fraŭlineca
+
+panika
+ paniko
+
+panna
+ fraŭlino
+
+# str. 141
+
+panoptikon
+ kuriozaĵo, galerio de kuriozaĵoj
+
+panorama
+ panoramo
+
+panoszyć się
+ ekregi (zapanować)
+ disvastiĝi (rozszerzać się)
+ fanfaroni (chełpić się)
+ mastrumi (gospodarować)
+
+panować
+ regi
+ superi (górować)
+ disvastiĝi (szerzyć się)
+
+panowanie
+ regado
+ supereco (przewaga)
+
+pański
+ sinjora, sinjoreca
+ via
+
+państwo
+ ŝtato, regno, civito
+ gesinjoroj (panie i panowie)
+
+pańszczyzna
+ servuto
+
+panteizm
+ panteismo
+
+panteon
+ panteono
+
+pantera
+ pantero
+
+pantofel
+ pantoflo
+
+pantomima
+ pantomimo
+
+papa
+ patro, apĉjo (tatuś)
+ buŝaĉo (gęba)
+ peĉkartono (tektura smołowcowa)
+
+papier
+ papero
+ veleno (welin)
+ dokumento, akto (dokument)
+
+papierek
+ papereto
+ monbileto (banknot)
+
+papiernia
+ paperfarejo
+
+papieros
+ cigaredo
+
+papierośnica
+ cigaredujo
+
+papież
+ papo
+
+papilot
+ buklopapero
+
+papinki
+ frandaĵoj
+
+papinkowaty
+ delikata, dorlotita
+
+papirus
+ papiruso
+
+papka
+ kaĉo
+
+paplać
+ babili
+
+paplanina
+ babilaĵo
+
+paproć
+ filiko
+
+paprotka
+ polipodio
+
+papryka
+ papriko
+
+papuć
+ pantoflo
+
+para
+ paro, duo (dwójka)
+ kelke da (kilka)
+ vaporo (para wodna)
+
+parabola
+ parabolo
+
+parada
+ parado, pompo
+
+paradny
+ parada, pompa
+ luksa, solena (uroczysty)
+ komika (komiczny)
+
+paradoks
+ paradokso
+
+parafina
+ parafino
+
+parafia
+ paroĥo
+
+parafianin
+ paroĥano
+ krudulo (prostak)
+
+parafraza
+ parafrazo
+
+paragraf
+ paragrafo
+
+paralela
+ paralelo
+
+paralityk
+ paralizito
+
+paraliż
+ paralizo
+
+paraliżować
+ paralizi
+
+parametr
+ parametro
+
+parapet
+ randmuro, balustrado
+ remparo (szaniec)
+
+parasol
+ ombrelo
+ pluvombrelo
+ sunombrelo
+
+parawan
+ ŝirmilo, ekrano
+
+parazyt
+ parazito
+
+parcela
+ parcelo
+
+parcelować
+ parceli
+
+parch
+ favo
+ favulo
+
+parciany
+ saktola, paktola
+
+parcie
+ puŝado
+ premo (ucisk)
+ tendenco (dążenie)
+
+pardon
+ pardono
+
+pardwa
+ blanka perdriko
+
+park
+ parko
+
+parkan
+ tabulbarilo, palisaro
+ naso (więcierz)
+
+parkiet
+ pargeto
+
+parkot
+ kapra odoro
+
+paralament
+ parlamento
+
+parlamentarny
+ parlamenta
+ deca (przyzwoity)
+
+parlamentaryzm
+ parlamentismo, parlamentarismo
+
+parlamentarz
+ intersendito
+
+parlamentować
+ intertrakti
+
+parny
+ sufoka (duszny)
+ vaporplena (pełen pary)
+
+parobek
+ servisto, farma servisto
+
+parodia
+ parodio
+
+paroksyzm
+ paroksismo
+
+parostatek
+ vaporŝipo
+
+parów
+ kavo, fosaĵo (dół)
+ termontaĵo (wąwóz)
+
+parować
+ vaporigi, forvaporiĝi (zamieniać w parę)
+ rebati, repuŝi (odpierać)
+
+parowiec
+ vaporŝipo
+
+# str. 142
+
+parowóz
+ lokomotivo
+
+parowy
+ vapora
+
+parskać, parsknąć
+ ronki (chrapać)
+ ekridegi (wybuchnąć śmiechem)
+
+parszywieć
+ faviĝi
+
+parszywy
+ fava
+ skabia
+
+part
+ paktolo, saktolo
+
+partacz
+ fuŝemulo, fuŝulo
+
+partaczyć
+ fuŝi
+
+parter
+ teretaĝo, partero
+
+partia
+ partio
+ rolo (rola)
+ ludo (gra)
+ parto (część)
+
+partner
+ kunludanto
+ kontraŭulo (przeciwnik)
+ akompananto (towarzyszący)
+
+partolić
+ fuŝi
+
+partycja, partytura
+ partituro
+
+partyjny
+ partia
+
+partykuła
+ partikulo
+
+partykularny
+ speciala (specjalny)
+ ekskluziva (wyłączny)
+ privata (prywatny)
+
+partykularz
+ izolitejo
+ vilaĝo (wieś)
+ urbeto (mieścina)
+
+partyzant
+ partiano, partizano
+
+parweniusz
+ ĵusriĉiĝinto
+
+parza
+ hundfuraĝo
+
+parzyć
+ brogi, brulvundi (parzyć wrzątkiem)
+ piki (kłuć)
+ infuzi (zaparzyć)
+ parigi (kojarzyć pary)
+
+parzyć się
+ brogi sin, brulvundiĝi (oparzyć się)
+ pariĝi, kopulacii (spółkować)
+
+parzystokopytny
+ parhufa
+
+parzysty
+ para, pareca, parnombra
+
+pas
+ zono
+ regiono (okolica)
+ streko (kreska)
+ strio (pręga)
+ talio (stan)
+ pasu (passse w grze)
+
+pasamon
+ pasamento
+
+pasaż
+ trairejo, pasejo
+
+pasażer
+ pasaĝero
+
+paść
+ paŝti
+ manĝigi, nutri (żywić)
+ grasigi (tuczyć)
+ fali (padać)
+
+pasek
+ zono
+ rimeno (rzemień)
+ strieto (prążka)
+ streketo (kreska)
+ akaparo (spekulacja)
+
+paser
+ ŝtelaĵaĉetisto
+
+pasiasty
+ striata, stridesegna
+
+pasibrzuch
+ diboĉulo (hulaka)
+ parazito (pasożyt)
+
+pasieka
+ abelejo, abelĝardeno
+
+pasierb
+ duonfilo
+
+pasierbica
+ duonfilino
+
+pasja
+ pasio
+ furiozo (szał)
+
+pasjonat
+ furiozemulo, pasiulo
+
+paskować
+ akapari
+
+paskudny
+ malpurega (brudny)
+ malbelega (ohydny)
+ abomena (wstrętny)
+
+paskudzić
+ malpurigi (plugawić)
+ kaki (fajdać)
+ fuŝi (partaczyć)
+
+pasmanteria
+ pasmentaĵo
+
+pasmo
+ fadenaro
+ vico (szereg)
+ ĉeno (łańcuch)
+
+pasować
+ esti konforma (być stosownym)
+ esti konvena (być przyzwoitym)
+ koincidi (przystawać)
+ kavalirigi (pasować na rycerza)
+ zoni (opasać)
+ pasi (przechodzić)
+
+pasować się
+ lukti, barakti
+
+pasożyt
+ parazito
+
+pasta
+ pasto
+
+pastel, pastela
+ paŝtelo
+ paŝtelaĵo (obraz)
+
+pasterka
+ paŝtistino (pastuszka)
+ eklogo (pieśń pasterska)
+ kristnaska matenmeso (msza)
+
+pasternak
+ pastinako
+
+pasterstwo
+ paŝtado
+ paŝtisteco
+
+pasterz
+ paŝtisto, brutgardisto
+ pastro (kapłan)
+
+pastewny
+ paŝta
+ furaĝa
+
+pastka
+ kaptilo
+ klapo
+
+pastor
+ pastro
+
+pastorał
+ episkopa bastono
+
+pastorałka
+ idilio, eklogo
+
+pastuch
+ paŝtisto, brutgardisto
+ 
+pastwa
+ nutraĵo (pokarm)
+ paŝtaĵo (pasza)
+ viktimo (ofiara)
+ akiraĵo (łup)
+
+pastwić się
+ torturi, turmentegi, ĝui turmentadon
+
+pastwisko
+ paŝtejo
+
+# str. 143
+
+pastylka
+ pastelo
+
+pasywny
+ pasiva
+
+pasza
+ paŝtaĵo
+ furaĝo (obrok)
+
+paszcza, paszczęka
+ faŭko
+ buŝego (pysk)
+
+paszkwil
+ paskvilo
+
+pasztet
+ pasteĉo
+
+patelnia
+ pato
+
+patent
+ patento
+ diplomo
+
+patentować
+ patenti
+
+patetyczny
+ patosa
+
+patka
+ zoneto
+
+pątnik
+ pilgrimo
+
+patologia
+ patologio
+
+patos
+ patoso
+
+patriarcha
+ patriarko, prapatro
+
+patriota
+ patrioto
+
+patriotyzm
+ patriotismo
+
+patrol
+ patrolo
+
+patron
+ patrono
+ protektanto (opiekun)
+ pledanto (obrońca)
+ ŝarĝo (ładunek)
+ modelo (wzór)
+
+patronat
+ patroneco
+ patronaro, protektantaro
+
+patroszyć
+ sentripigi
+
+patrycjusz
+ patricio
+
+patrzeć
+ rigardi
+ trakti (traktować)
+ gardi (pilnować)
+ atenti (uważać)
+ atendi (oczekiwać)
+
+patyk
+ stangeto, bastoneto
+
+pauza
+ paŭzo, interrompo
+
+paw
+ pavo
+
+pawian
+ paviano
+
+pawik
+ pavido (pawię)
+ pavokula papilio (ćma)
+
+pawilon
+ pavilono
+ flago (bandera)
+
+paź
+ paĝio
+
+październik
+ oktobro
+
+paździerz
+ kanabŝelaro
+
+paznokieć
+ ungo
+
+pazucha
+ ĉebrusto
+ akseltruo
+
+pazur
+ ungo, ungego
+
+pazurowaty
+ ungohava
+
+pchać, pchnąć
+ puŝi
+ trapiki (przebić)
+ ŝtopi (opychać)
+
+pchła
+ pulo
+
+pean
+ peano
+
+pech
+ senfeliĉeco, malbonŝanco, malprospereco
+ fiasko
+
+pęcherz
+ veziko
+
+pęcina
+ hufartiko, katenartiko
+
+pęczak
+ hordea grio
+
+pęczek
+ fasko
+
+pęcznieć
+ plenbloviĝi (nadąć się)
+ ŝveliĝi (obrzęknąć)
+
+pęd
+ kuro, impeto (bieg)
+ fluo (prąd)
+ markoto (latorośl)
+
+pedagog
+ pedagogo
+
+pedagogika
+ pedagogio
+
+pedał
+ pedalo
+
+pedant
+ pedanto
+
+pedanteria
+ pedanteco
+
+pedel
+ pedelo
+
+pederatia
+ pederastio
+
+pedlować
+ vagkomerci
+
+pędrak
+ vermo (robak)
+ etulo (malec)
+ bubo (ulicznik)
+
+pędzel
+ peniko
+
+pędzić
+ postkuri (ścigać)
+ kuregi (biec)
+ peli (gnać)
+ pasigi (spędzać)
+ distili (destylować)
+
+pegaz
+ pegazo
+
+pejsy
+ vangoharoj, vangbukloj
+
+pejzaż
+ pejzaĝo
+
+pęk
+ fasko
+
+pękać, pęknąć
+ krevi, fendiĝi
+
+pękaty
+ dikventra, dika
+
+peklować
+ pekli
+
+pektorał
+ surbrustaĵo
+
+pelargonia
+ geranio
+
+pełen
+ plena
+
+peleryna
+ pelerino
+
+pelikan
+ pelikano
+
+pełnia
+ pleneco, kompleteco, absoluteco
+ plenlumo (pełnia księżyca)
+
+pełnić
+ plenumi
+
+pełno
+ plene
+ multego (mnóstwo)
+
+pełnoletni
+ plenaĝa
+
+pełnomocnik
+ rajtigito, plenpotenculo
+ sindiko
+
+pełny
+ plena
+
+pełzać, pełznąć
+ rampi (czołgać się)
+ senkoloriĝi (blaknąć)
+ malaperi (znikać)
+
+# str. 144
+
+pendent
+ sabrozono
+
+#pędzel
+pendzel
+ peniko
+
+pens
+ penco
+
+pensja
+ pensio, etato, salajro (wynagrodzenie)
+ lernejo (szkoła)
+
+pensjonat
+ pensiono
+
+pentametr
+ pentametro
+
+peonia
+ peonio
+
+pępek
+ umbiliko
+
+pepsyna
+ pepsino
+
+perecepcja
+ percepto
+
+peregrynacja
+ migrado, pilgrimado
+
+perfumeria
+ parfumejo
+
+perfumować
+ parfumi
+
+pergamin
+ pergameno
+
+period
+ periodo
+ epoko (epoka)
+ menstruacio (miesiączka)
+
+periodyczny
+ perioda
+
+perkal
+ perkalo, kalikoto
+
+perła
+ perlo
+
+perlica
+ numido
+
+perlić się
+ perli
+
+perlisty
+ perleca, perlosimila
+
+peron
+ perono
+
+perora
+ parolado, prediko
+
+perpendykuł
+ pendolo
+
+persona
+ persono
+ eminentulo, gravulo (osoba wybitna)
+
+personalia
+ personaĵoj
+
+personalny
+ persona
+
+personel
+ personaro, kunlaborantaro
+
+personifikacja
+ personigo
+
+perspektywa
+ perspektivo
+ horoskopo (zapowiedź)
+
+perswadować
+ persvadi
+ konvinki (przekonać)
+ konsili (doradzać)
+ konsoli (pocieszać)
+
+pertraktować
+ intertrakti
+ negocii
+
+peruka
+ peruko
+
+perwersja
+ malĉastaĵo (rozwiązłość)
+ renversemeco (przewrotność)
+
+peryferia
+ periferio
+
+perypetia
+ sortŝanĝo
+ malfacilaĵo
+
+persystyl
+ peristilo, kolonaro
+
+perzyć się
+ ekbruli, ekflami (zapłonąć)
+ cindriĝi (spopielić się)
+ ekkoleri (gniewać się)
+
+perzyna
+ cindraĵo
+
+pestka
+ kerno
+
+pesymizm
+ pesimismo
+
+pęta
+ katenoj
+
+pętać
+ kateni
+ kunligi (związać)
+
+petarda
+ petardo
+
+pętla, pętlica
+ banto
+ maŝo
+
+petycja
+ petskribo
+
+pewien
+ certa
+ iu (niejaki)
+ kelka (niektóry)
+ sekura (bezpieczny)
+ senduba (niewątpliwy)
+ kredinda (wiarogodny)
+ aplomba (pewien siebie)
+
+pewnie
+ certe (bez wątpienia)
+ eble (możliwie)
+
+pewnik
+ aksiomo
+
+pewny
+ *pewien*
+
+pfe
+ fi, aĉe!
+
+piać
+ kokokrii
+
+piąć się
+ grimpi
+ suprenrampi (włazić)
+ leviĝi (wznosić się)
+ suprenceli (dążyć w górę)
+
+piach
+ sablo
+
+piana
+ ŝaŭmo
+
+pianino
+ piano, fortepiano
+
+pianista
+ pianisto, pianludisto
+
+piasek
+ sablo
+
+piaskowiec
+ sabloŝtono
+
+piasta
+ aksingo
+
+piastować
+ varti (niańczyć)
+ plenumi (sprawować)
+ okupi (zajmować)
+
+piastr
+ piastro
+
+piastun
+ vartisto
+ konservisto (kustosz)
+ protektanto (opiekun)
+
+piaszczysty
+ sabla, sableca
+ sabloplena, sablara
+
+piątek
+ vendredo
+
+piątka
+ kvino
+
+piąty
+ kvina
+
+pić
+ trinki
+ drinki (pić nałogowo)
+ ebriiĝi (upijać się)
+
+picie
+ trinkado
+ trinkaĵo (napój)
+
+# str. 145
+
+piec
+ forno
+
+piec
+ baki (piec pieczywo)
+ rosti (piec mięso)
+ friti (smażyć)
+ bruligi (spalać)
+
+pięć
+ kvin
+
+pięćdziesiąt
+ kvindek
+
+piechota
+ perpiede, piedire (pieszo)
+ piedirantaro, infanterio (wojsko piesze)
+
+piechur
+ piediranto
+ piediranta soldato, infanteriano
+
+pięćset
+ kvincent
+
+piecuch
+ hejmsidulo
+ mallaboremulo (leń)
+
+piecyk
+ forneto
+
+piecza
+ zorgo (staranie)
+ protekto, aŭspicio (opieka)
+
+pieczara
+ kaverno, groto
+
+pieczątka
+ sigelilo
+ stampilo
+
+pieczęć
+ sigelo
+ sigelilo
+ stampilo
+
+pieczeń
+ rostaĵo
+
+pieczętarz
+ sigelgardisto
+ kanceliero (kanclerz)
+
+pieczętować
+ sigeli
+ stampi (stemplować)
+ konfirmi (potwierdzać)
+
+pieczołowity
+ zorgema
+
+pieczyste
+ rostaĵo
+
+pieczywo
+ bakaĵo
+
+piedestał
+ piedestalo, soklo
+
+piędź
+ manstreĉo
+ futo (stopa)
+
+piegi
+ lentugoj
+
+piegowaty
+ lentuga, lentugplena
+
+piegża
+ silvio
+
+piekarnia
+ bakejo
+
+piekarstwo
+ bakista metio, bakado
+
+piekarz
+ bakisto
+
+piekielnica
+ inferanino
+
+piekielny
+ infera
+ diabla, satana (diabelski)
+ gangreno (piekielny ogień)
+
+piekło
+ infero
+
+piękno
+ belo, beleco
+
+pięknieć
+ beliĝi
+
+piękność
+ beleco
+ belaĵo, belulino (ślicznotka)
+
+piękny
+ bela, belega
+
+pielęgnować
+ flegi
+ kreskigi (hodować)
+ varti (niańczyć)
+
+pielenie
+ sarkado
+
+pielgrzym
+ pilgrimo
+
+pielgrzymka
+ pilgrimado
+
+pielucha
+ vindilo, vindaĵo
+
+pień
+ trunko
+ ŝtipo (kłoda)
+ ĝis la lasta (do szczętu - w pień)
+
+pieniać się
+ procesadi
+
+pieniacz
+ procesemulo
+
+pieniądz
+ monero (moneta)
+ mono (pieniądze)
+
+pienić
+ ŝaŭmigi
+ kirli
+
+pienić się
+ ŝaŭmiĝi
+ kirliĝi
+
+pienie
+ kantado
+ kantaĵo
+
+pieniężny
+ mona
+
+pienisty
+ ŝaŭma, ŝaŭmoplena
+
+pieprz
+ pipro
+
+pieprzniczka
+ piprujo
+
+pieprzny
+ pipra, piprita
+ pikanta (szczypiący)
+
+pieprzyć
+ pipri
+
+pieprzyk
+ pipreco (pieprzność)
+ piprero (ziarnko pieprzu)
+
+pierdolić
+ koiti
+
+#pierdzieć
+pierdzić
+ furzi
+
+piernat
+ plummatraco, sublitaĵo
+
+piernik
+ mielkuko
+ malkapablulo (niedołęga)
+
+pieróg
+ pasteĉo
+
+pierś
+ brusto
+ mamo (wymię)
+
+pierścień
+ ringo
+
+pierścionek
+ fingroringo
+
+piersiowy
+ brusta
+
+pierwej
+ antaŭe
+
+pierwiastek
+ elemento
+ radiko
+
+pierwiosnek
+ primolo
+
+pierwociny
+ komencaĵoj (początki)
+ unuenaskitaĵoj
+ origino (początek)
+
+pierworodny
+ unuenaskita
+ hereda, denaska (dziedziczny)
+
+pierwotniak
+ protozoo
+
+pierwotny
+ komenca, origina, primitiva
+
+pierwowzór
+ prototipo, pramodelo
+ originalo
+
+pierwszeństwo
+ antaŭeco
+ prefero
+ supero (przewaga)
+
+pierwszorzędny
+ unuagrada, unuaranga, unuavica
+ ĉefa (główny)
+
+# str. 146
+
+pierwszy
+ unua
+ eminenta (przodujący)
+ prima [mat.]
+
+pierzasty
+ plumhava
+ plumsimila
+
+pierzchać
+ forkuri
+
+pierzchliwy
+ timema
+
+pierze
+ plumaro, plumoj
+ lanugo (puch)
+
+pierzeja
+ domvico
+
+pierzyna
+ plumkusenego, surlitaĵo
+
+pierzywo
+ lavotaĵo
+ malpura tolaĵo
+
+pies
+ hundo
+
+pięść
+ pugno
+
+pięściarz
+ pugnoluktisto, boksisto
+
+pieścić
+ karesi
+ dorloti (rozpieszczać)
+
+pieścić się
+ karesiĝi
+
+pieścidełko
+ karesaĵo
+
+pieśń
+ kanto
+
+pieśniarz
+ kantisto
+ bardo
+
+pieszczoch, pieszczoszek
+ karesatulo, dorlotitulo
+
+pieszczota
+ kareso
+ karesaĵo (pieścidełko)
+
+pieszczotliwy
+ karesa, karesema
+
+pieszek
+ peono
+
+pieszy
+ piediranta
+ perpieda
+
+pięta
+ kalkano
+
+piętnaście
+ dekkvin
+
+piętno
+ stampo (pieczęć)
+ brulstampo (piętno wypalone)
+ signo (znak)
+ postsigno (ślad)
+
+piętnować
+ stampi
+ karakterizi (charakteryzować)
+ mallaŭdi (ganić)
+
+piętro
+ etaĝo
+
+pietruszka
+ petroselo
+
+piętrzyć się
+ leviĝi etaĝe
+ suprenleviĝi (wznosić się)
+ amasiĝi (gromadzić się)
+
+pietyzm
+ pietismo, respektego
+
+#pigmej
+pigmejczyk
+ pigmeo
+
+pigment
+ pigmento
+
+pigułka
+ pilolo
+
+pigwa
+ cidonio
+
+pijać
+ trinki, trinkadi
+ drinki (pijać nałogowo)
+ ebriiĝi (upijać się)
+
+pijak
+ drinkulo, ebriulo, alkoholulo
+
+pijaństwo
+ drinkemo, drinkado, alkoholismo
+
+pijany
+ ebria, malsobra
+
+pijatyka
+ drinkado
+ diboĉo (hulanka)
+ drinkfesteno
+
+pijawka
+ hirudo
+
+pika
+ ponardego, lanco
+
+pikać, piknąć
+ piki
+
+pikantny
+ pikanta
+ piprita (pieprzny)
+ ekscitanta (podniecający)
+
+pikieta
+ pikedo
+
+pikować
+ piki (kłuć)
+ inciti (drażnić)
+ trakudri (przeszywać)
+ stebi (stebnować)
+
+piła
+ segilo
+
+pilaster
+ pilastro
+
+piłka
+ pilko (piłka do gry)
+ segileto (mała piła)
+
+pilnik
+ fajlilo
+
+pilnować
+ gardi (strzec)
+ atenti (baczyć)
+ flegi (pielęgnować)
+
+pilny
+ diligenta, laborema (pracowity)
+ urĝa, neprokrastebla (nieciepriący zwłoki)
+
+piłować
+ segi (rżnąć)
+ fajli (gładzić)
+
+pilot
+ piloto
+
+pilśń
+ felto
+
+pinakoteka
+ pinakoteko
+
+pinezka
+ pinĉnajlo
+
+pinceta
+ pinĉtenilo, pinĉilo
+
+pinia
+ pinio
+
+pingwin
+ pingveno
+
+piołun
+ absinto
+ amaro (gorycz)
+
+piołunówka
+ vermuto
+
+pion
+ sondilo, vertikalilo
+ peono [szach.]
+
+pionier
+ pioniro
+
+pionowy
+ vertikala
+
+piórnik
+ plumujo, plumingujo
+
+pióro
+ plumo
+ plumingo (obsadka)
+ skribado (pisanie)
+ verkado (twórczość)
+ stilo (styl)
+
+pióropusz
+ plumtufo
+
+piorun
+ tondro (grom)
+ fulmo (błyskawica)
+ #fulmotondro
+
+# str. 147
+
+piorunochron
+ fulmoŝirmilo
+
+piorunować
+ tondri, ĵeti tondrojn
+
+piosenka, piosnka
+ kanteto, kanto
+
+pipeta, pipetka
+ vitra pumpileto
+
+piramida
+ piramido
+
+piramidalny
+ piramida, piramidoforma
+ grandega, kolosa, giganta (ogromny)
+
+pirat
+ pirato, korsaro, marrabisto
+
+piróg
+ farĉita bulo, pasteĉo
+
+pirotechnika
+ pirotekniko
+
+piryt
+ pirito
+
+pisać
+ skribi
+ verki (tworzyć)
+
+pisać się
+ skribiĝi, subskribi (podpisywać)
+ konsenti (zgadzać się)
+
+pisanina
+ skribado
+
+pisanka
+ paska ovo
+
+pisarski
+ skriba, skribata
+ verkista, aŭtora (autorski)
+
+pisarz
+ skribisto (kancelista)
+ verkisto, aŭtoro, literaturisto (autor)
+
+pisemny
+ skriba, scianta skribi
+
+pisk
+ pepo
+ siblo (syk)
+
+pisklę
+ birdido (ptaszątko)
+ kokido (kurczę)
+ suĉinfano (niemowlę)
+
+piskliwy
+ pepanta, pepema
+ siblanta (syczący)
+
+piskorz [zool.]
+ misgurno
+
+pismak
+ fiskribisto
+ fiverkisto
+
+piśmiennictwo
+ literaturo
+
+piśmienny
+ skriba
+ scianta skribi
+
+pismo
+ skribo, skribaĵo
+ skribkaraktero (charakter pisma)
+ verkaro (dzieła)
+ periodaĵo, gazeto (gazeta)
+ ĵurnalo (dziennik)
+ letero (list)
+ Biblio (Pismo Święte)
+
+pisnąć
+ ekpepi
+ ekaŭdiĝi (dać się słyszeć)
+
+pisownia
+ ortografio
+
+pistacja
+ pistako
+
+pistolet
+ pistolo
+
+pisywać
+ skribadi, ofte skribi
+
+piszczałka
+ fajfilo (gwizdek)
+ ŝalmo (fujarka)
+
+piszczeć
+ pepi (świergotać)
+ ĉirpi (ćwierkać)
+ sibli (syczeć)
+ fajfi (gwizdać)
+ krii (krzyczeć)
+
+piszczel
+ tibio (goleń)
+ fajfilo (piszczałka)
+
+piwiarnia
+ bierejo
+
+piwnica
+ kelo
+
+piwniczny
+ kela
+
+piwny
+ biera
+ bierkolora
+
+piwo
+ biero
+
+piwonia
+ peonio
+
+piwowar
+ bierfaristo
+
+piwsko
+ bieraĉo
+
+piżmo
+ mosko
+
+piżmować
+ moskumi, parfumi
+
+piżmowiec
+ mosko, moskulo
+
+plac
+ placo
+
+płaca
+ pago, salajro, pensio, honorario
+
+placek
+ flano
+
+płachta
+ tolpecego
+ tukego
+
+płacić
+ pagi
+ kotizi (płacić składkę)
+ rekompenci (wynagrodzić)
+ valori (popłacać)
+
+placówka
+ posteno
+
+płacz
+ ploro, plorado
+
+płaczka
+ ploristino
+ ploremulino (beksa)
+
+płaczliwy
+ plora, lamenta
+ ploriga
+ plorema
+
+plądrować
+ rabi
+
+plafon
+ plafono
+
+plaga
+ bato (cios)
+ plago (klęska)
+ turmento (męka)
+ puno (kara)
+ aflikto (utrapienie)
+
+plagiat
+ plagiato
+
+płakać
+ plori
+ lamenti (biadać)
+ plendi (skarżyć się)
+
+plakat
+ afiŝo
+
+płaksa
+ ploremulo
+
+plama
+ makulo
+
+plamić
+ makuli
+ malpurigi (kalać)
+ senhonorigi (hańbić)
+
+plamisty
+ makula, makulhava, makulplena
+ makuliĝema (plamiący się)
+ ekzantema
+
+# str. 148
+
+plan
+ plano
+ skizo (szkic)
+ projekto (projekt)
+ skemo (zarys)
+ programo (program)
+
+plandeka
+ akvoŝirma kovrilo
+
+planeta
+ planedo
+
+planimetria
+ planimetrio
+
+planować
+ projekti (projektować)
+ intenci (zamierzać)
+ ebenigi, niveli (niwelować)
+
+plant
+ digo, remparo (wał)
+ plantejo (plantacja)
+
+plantacja
+ plantejo
+ plantado
+
+plantować
+ ebenigi, niveli (wyrównywać)
+ planti (sadzić)
+
+pląsać
+ saltedanci
+ danceti
+
+plaskać
+ plaŭdi
+
+płaski
+ plata
+ malprofunda (płytki)
+ ebena (równy)
+ supraĵa (powierzchowny)
+ banala (oklepany)
+ triviala
+
+płaskorzeźba
+ bareliefo
+
+płaskowzgórze
+ plataĵo
+
+plasować
+ loki (umieszczać)
+ okupigi (zatrudniać)
+
+plaster
+ plastro
+
+plastron
+ brustŝirmilo
+
+plastyczny
+ plastika
+
+plastyka
+ plastiko
+
+pląsy
+ dancoj
+
+płaszcz
+ mantelo
+ palto
+ burnuso
+
+płaszczyk
+ manteleto
+ vualo (osłonka)
+ preteksto (pretekst)
+
+płaszczyć
+ platigi
+
+płaszczyć się
+ platiĝi
+ humiliĝi (upokorzyć się)
+
+płaszczyzna
+ ebeno, ebenaĵo, plataĵo
+ supraĵo
+ surfaco, areo (powierzchnia)
+
+płat
+ plastro
+ peco (kawał)
+ ĉifono (gałgan)
+
+płatać
+ fendi, disfendi
+ fari (wyrządzać)
+
+plątać
+ impliki, kompliki
+ konfuzi (zmieszać)
+
+platan
+ platano
+
+plątanina
+ komplikaĵo, ĥaoso
+
+płatek
+ tukpeceto, ĉifoneto (gałganek)
+ petalo, lobo (płatek kwiatu)
+ floko (płacheć)
+ neĝero (płatek śniegu)
+
+platerować
+ arĝentumi
+
+platforma
+ platformo
+ platveturilo, platvagono
+ perono
+ programo
+
+płatnerz
+ batalilisto, armilisto, armilforĝisto
+
+płatnik
+ paganto
+
+płatny
+ paga, pagata, pagebla, pagota
+ pagenda
+
+platyna
+ plateno
+
+pław (w)
+ naĝante (pływając)
+ akva besto (wodne zwierzę)
+
+pławić
+ enakvigi (zaurzyć)
+ bani (kąpać)
+ flosigi (spławiać)
+ senŝilmigi (oczyszczać z mułu)
+
+#spławik
+pławik
+ fiŝkaptista korko
+
+płaz
+ amfibio, reptilio (zwierzę ziemnowodne)
+ sabroplata malakraĵo (płaska strona pałasza)
+ senpune (bezkarnie)
+
+plaża
+ plaĝo, sunbanejo
+
+plazma
+ plasmo
+
+płazować
+ bati per glavoplato
+
+płciowy
+ seksa
+
+pleban
+ paroĥestro
+
+plebania
+ paroĥestrejo
+
+plebejusz
+ plebano, plebulo
+
+plebiscyt
+ plebiscito
+
+plebs
+ plebo
+
+pleć
+ sarki
+
+płeć
+ sekso
+ haŭtkoloro (cera)
+
+plecionka
+ plektaĵo
+ mato
+
+pleciuch
+ babilemulo
+
+plecy
+ dorso (grzbiet)
+ ŝultro (barki)
+ protekto (protekcja)
+
+pled
+ ŝalo (szal)
+ mantelo (płaszcz)
+ kovrilo (kołdra)
+
+plejada
+ plejado
+
+plemię
+ gento
+ tribo
+ posteularo, idaro (potomstwo)
+
+plemnik
+ spermatozoo
+
+plenarny
+ plena
+ ĝenerala
+
+plenić się
+ multiĝi
+
+plenipotencja
+ rajtigo, mandato, plenpotenco
+
+pleonazm
+ pleonasmo
+
+pleść
+ plekti
+ babili (gwarzyć)
+ rakonti (opowiadać)
+
+pleśń
+ ŝimo
+
+pleśnieć
+ ŝimkovriĝi, ŝimi
+
+# str. 149
+
+pleszowaty
+ kalva
+
+pletnia
+ rimenplektaĵo
+
+płetwa
+ naĝilo
+
+plewa
+ grenŝelo
+ brano (otręby)
+
+plewić
+ sarki
+
+plika, plik
+ fasko, ligaĵo
+ pliko (kołtun)
+
+plisować
+ faldi
+
+pliszka [zool.]
+ mortacilo
+
+pliwka
+ membraneto
+
+płoć [zool.]
+ ploto
+
+płocha
+ teksokombilo
+
+płochy
+ timema (lękliwy)
+ frivola, facilanima (lekkomyślny)
+ malkonstanta (niestały)
+ nekonsiderema (nierozważny)
+ malgrava, neatentinda (błahy)
+
+płócienny
+ tola
+
+płód
+ frukto (owoc)
+ produkto (wytwór)
+ embrio, feto (zarodek)
+
+płodny
+ fruktodona, produktema, naskiga, fekunda
+ abunda (obfity)
+
+płodzić
+ naskigi
+ naski (rodzić)
+ krei (tworzyć)
+ produkti (wytwarzać)
+
+płodzić się
+ naskiĝi, produktiĝi
+ multiĝi (pomnażać się)
+
+płukać
+ laveti, ĉirkaŭlavi
+ gargari (płukać gardło, usta)
+
+plomba
+ plombo
+
+plombować
+ plombi
+
+płomień
+ flamo
+ ardo, fervoro (zapał)
+
+płomienny
+ flama, fajreca
+ arda, fervora (żarliwy)
+ pasia (namiętny)
+
+plon
+ rikoltaĵo
+ akiro (zdobycz)
+ frukto (owoc)
+ rezultato (wynik)
+ gajno (zysk)
+
+płonąć
+ flami
+ bruli (gorzeć)
+ ruĝiĝi (rumienić się)
+ ardi (pałać)
+
+plądrować
+ rabi (grabić)
+ traserĉi (przeszukać)
+
+płonica
+ skarlatino
+
+płonny
+ senfrukta
+ sterila (jałowy)
+ vana (daremny)
+
+płoszyć
+ fortimigi
+
+płot
+ barilo
+ palisaro (palisada)
+
+plotka
+ klaĉo, klaĉaĵo
+ kalumnio (potwarz)
+
+plotkować
+ klaĉi
+
+płótno
+ tolo
+ tendotolo (płótno namiotowe)
+
+płowieć
+ senkoloriĝi, paliĝi
+
+płowy
+ palflava, blonda
+ senkoloriĝinta (wyblakły)
+
+pluć
+ kraĉi
+
+płuco
+ pulmo
+
+pług
+ plugilo
+
+plugawić
+ malpurigi (powalać)
+ makuli (splamić)
+ profani (bezcześcić)
+
+plugawy
+ malpura
+ abomeninda (obrzydliwy)
+ malĉasta (sprośny)
+
+pluralizm
+ pluralismo
+
+plus
+ plus
+
+pluskać
+ plaŭdi (plaskać)
+ ŝprucigi (bryzgać)
+
+pluskiewka
+ cimeto (mała pluskwa)
+ pinĉnajlo (pinezka)
+
+pluskwa [zool.]
+ cimo
+
+plusnąć
+ *pluskać*
+
+plusz
+ pluŝo
+
+pluszczeć
+ plaŭdi, ŝpruci plaŭdante
+
+plutokracja
+ plutokratio
+
+pluton
+ pelotono, duonroto
+
+pluwiometr
+ pluvmezurilo
+
+plwać
+ kraĉi
+ sputi
+
+plwocina
+ kraĉaĵo
+
+płyn
+ fluidaĵo
+
+płynąć
+ flui
+ pasi (przemijać)
+ naĝi (pływać)
+ navigacii (żeglować)
+
+płynny
+ flua
+ fluida
+
+płyta
+ plato, plataĵo
+ lameno (cienka płyta)
+ disko (tarcza)
+ plako, kliŝo (klisza)
+
+płytki
+ malprofunda
+ supraĵa (powierzchowny)
+ plata (płaski)
+
+pływać
+ naĝi
+ flosi
+
+pływak
+ naĝanto, naĝisto
+
+pneumatyka
+ pneŭmatiko
+
+pniak
+ trunko
+ ŝtipo (polano)
+
+po
+ post (po kim, po czym)
+ po (po ile)
+ ĝis (aż do)
+ por (dla)
+ per (za pomocą)
+ laŭ (według)
+ super (ponad)
+ tra (przez)
+ sur (na)
+ dum (podczas)
+ kiel (jak)
+
+# str. 150
+
+pobajać
+ babili, rakonti fablojn
+ mensogeti (kłamać)
+ blagi
+
+pobaraszkować
+ ŝerci, iom petoli
+
+pobić
+ bati (zbić)
+ venki (zwyciężyć)
+ mortigi (zabijać)
+ buĉi (zarzynać)
+
+pobić się
+ interbatiĝi
+
+pobiec
+ ekkuri
+
+pobielać
+ blankigi
+ stanumi (pobielać cyną)
+
+pobierać
+ prenadi (brać)
+ ricevi (otrzymywać)
+
+pobierać się
+ geedziĝi
+
+pobieżny
+ supraĵa (powierzchowny)
+ diletanta (dyletancki)
+
+pobijać
+ *pobić*
+
+pobłażać
+ indulgi
+ toleri (tolerować)
+
+pobłażliwy
+ indulga, indulgema
+ tolerema
+
+pobliski
+ apuda, najbara, proksima
+ parenca (pokrewny)
+
+pobłysk
+ brilo
+
+poboczny
+ flanka
+ akcesora
+
+pobój
+ malvenko (porażka)
+ buĉo (rzeź)
+
+pobojowisko
+ batalejo, batalkampo
+
+pobór
+ prenado
+ imposto (podatek)
+ rekrutigo, enarmeigo (wcielenie do armii)
+
+poborca
+ impostprenanto
+ kvestoro
+
+poborowy
+ rekruto
+ imposta (podatkowy)
+
+pobożny
+ pia
+ bigota (przesadnie pobożny)
+
+pobrać
+ *pobierać*
+
+pobrać się
+ geedziĝi
+
+pobratać
+ fratigi
+
+pobratymca
+ samgentano
+ kunfrato, amiko
+ fratiĝinto
+
+pobratymczy
+ samgenta
+ parenca (pokrewny)
+ frateca (bratni)
+ amika (przyjacielski)
+
+pobrząkiwać
+ tintadi
+
+pobrzeże
+ bordo
+ kajo (ulica nadbrzeżna)
+
+pobudka
+ motivo, impulso, instigo, stimulo (bodziec, podnieta)
+ veksignalo (hasło powstania)
+ alarmo
+
+pobudzać
+ stimuli, eksciti (podniecać)
+ instigi (podżegać)
+ vigligi (orzeźwiać)
+ veki (obudzić)
+
+pobyć
+ iom resti, pasigi kelkan tempon
+
+pobyt
+ restado, estado
+
+pocałować
+ kisi
+
+pocenie się
+ ŝvitado
+
+pochewka
+ ingeto
+ kapsulo (torebka)
+
+pochłaniać
+ engluti (połykać)
+ ensorbi (wchłaniać)
+ absorbi (absorbować)
+
+pochlebca
+ flatanto
+ flatemulo
+
+pochlebiać
+ flati
+
+pochlebny
+ flata, flatanta
+ honora (zaszczytny)
+ laŭdinda (chwalebny)
+
+pochlebstwo
+ flatado, trolaŭdo
+ komplimento
+
+pochłonąć
+ *pochłaniać*
+
+pochmurnieć
+ nubiĝi, malsereniĝi
+
+pochmurny
+ nuba, nubkovrita, malserena
+ malhela (mroczny)
+ malgaja (smutny)
+ malankolia (smętny)
+
+pochód
+ marŝo, procesio
+
+pochodnia
+ torĉo, lumigilo
+
+pochodny
+ devena, devenigita, derivita
+
+pochodzenie
+ deveno
+ derivo
+ origino (początek)
+ genealogio (rodowód)
+
+pochodzić
+ deveni
+ esti derivita
+ havi originon
+ iom iri, promeni (pospacerować)
+
+pochop
+ kuro, impeto (pęd)
+ impulso, stimulo (bodziec)
+ okazo (sposobność)
+ volonto (ochota)
+ fervoro (zapał)
+ vervo (polot)
+
+# str. 151
+
+pochopny
+ ema, inklina (skłonny)
+ volonta (ochoczy)
+ vigla (żwawy)
+ impeta (porywczy)
+
+pochować
+ enterigi, entombigi (pogrzebać)
+ kaŝi (ukryć)
+
+pochwa
+ ingo
+ vagino (pochwa maciczna)
+
+pochwała
+ laŭdo
+ panegiraĵo (panegiryk)
+
+pochwalać
+ laŭdi
+ adori (wielbić)
+ glori (sławić)
+ aprobi (potwierdzać)
+
+pochwycić
+ kapti
+
+pochyba
+ eraro (błąd)
+ dubo (wątpliwość)
+ manko (brak)
+
+pochylać
+ klini
+ fleksi (zgiąć)
+ mallevi (opuścić)
+
+pochylić się
+ kliniĝi
+ fleksiĝi (zgiąć się)
+ malleviĝi (opuścić się)
+
+pochyły
+ oblikva (ukośny)
+ kruta (stromy)
+ dekliva (spadzisty)
+ abrupta (urwisty)
+ klinita (pochylony)
+ kursiva (o piśmie)
+
+pociąg
+ trajno
+ vagonaro (sznur wagonów)
+ inklino (skłonność)
+ instinkto (popęd)
+ tiro, ektiro (pociągnięcie)
+ jungaĵo (zaprzęg)
+
+pociągać, pociągnąć
+ tiri, ektiri, altiri
+ treni (wlec)
+ allogi (przynęcać)
+ ekgluti, ektrinki (łyknąć)
+ kaŭzi, efiki (powodować)
+ tegi (powlekać)
+ daŭri (trwać)
+ vivi (żyć)
+
+pociągły
+ longforma
+ ovala (owalny)
+
+pociągowy
+ tira, junga
+ vagonara
+
+pocić się
+ ŝviti
+ klopodegi, penlabori (mozolić się)
+
+po cichu
+ silente, mallaŭte
+
+pociecha
+ konsolo
+ ĝojo (uciecha)
+
+pociągiel
+ botista genurimeno
+
+po ciemku
+ mallume, en mallumo
+
+pocierać
+ froti (trzeć)
+ viŝi (wycierać)
+ ŝmiri (mazać)
+
+pocieszać
+ konsoli
+ kondolenci
+
+pocieszny
+ ridiga, komika, amuza, gajiga
+ konsola, konsolanta (pocieszający)
+
+pocisk
+ pafaĵo
+ ŝargo, ŝargaĵo (ładunek)
+ ĵetilo (grot)
+ sago (strzała)
+ ĵeto (rzut)
+
+po co?
+ por kio? kial?
+ pro kio? kiacele?
+
+poćwiartować
+ kvaronigi
+ distranĉi je kvaronoj
+
+począć
+ komenci
+ helpi al si (radzić sobie)
+ fari (robić)
+ konduti (prowadzić się)
+ gravediĝi (zajść w ciążę)
+
+początek
+ komenco
+ origino (pochodzenie)
+ kaŭzo (przyczyna)
+ elementoj (pierwiastki)
+ inciato (inicjatywa)
+
+początkowy
+ komenca
+ elementa
+ primitiva
+
+poczciwy
+ honesta
+
+poczęcie
+ gravediĝo
+ koncipo
+
+poczekać
+ atendi
+
+poczem
+ post tio, poste, tiam
+
+poczesny
+ honora
+
+poczęstunek
+ regalo
+
+poczet
+ nombro (liczba)
+ serio (szereg)
+ anaro (zespół)
+ sekvantaro (świta)
+
+poczta
+ poŝto
+ poŝtaĵaro, korespondaĵoj (korespondencja)
+ poŝtejo (urząd pocztowy)
+
+poczuć, poczuwać
+ eksenti
+ ekflari (powąchać)
+
+poczuwać się
+ senti devon (poczuwać się do obowiązku)
+ senti sin kulpa (poczuwać się do winy)
+ konfesi (przyznawać się)
+
+poczwara
+ monstro
+
+poczwarka
+ larvo
+ pupo, krizalido (poczwarka motyli)
+
+poczwórny
+ kvarobla
+
+poczynać
+ *począć*
+
+poczynić
+ fari (zrobić)
+ entrepreni (powziąć)
+
+poczytalny
+ konscia (świadomy)
+ akuzebla (dający się oskarżyć)
+ respondeca (odpowiedzialny)
+
+poczytywać
+ enkalkuli (wliczyć)
+ opinii (uważać, mniemać)
+ atribui (przypisywać)
+ imputi (posądzać)
+ kulpigi (obwiniać)
+
+# str. 152
+
+pod
+ sub
+ por (dla)
+ en (w)
+ apud (obok)
+ ĉirkaŭ (około)
+ proksime de (blisko)
+ kontraŭ (przeciw)
+
+podać
+ doni, transdoni
+ prezenti (przedstawić)
+ elmeti (wyłożyć)
+ mencii (wzmiankować)
+ citi (przytoczyć)
+ sugestii (podać myśl)
+ proponi (proponować)
+
+podać się
+ prezenti sin (przedstawić się)
+ meti sin (położyć się)
+
+podagra
+ podagro
+
+podagryk
+ podagrulo
+
+podanie
+ petskribo (prośba)
+ dono (danie)
+ transdono (przekazanie)
+ prezentado (przedstawienie)
+ menciado (przytoczenie)
+ legendo (legenda)
+ tradicio (tradycja)
+
+podarek, podarunek
+ donaco
+
+podarować
+ donaci (dać podarunek)
+ pardoni (przebaczyć)
+
+podatek
+ imposto, depago
+
+podawać
+ *podać*
+
+podążać
+ iri, marŝi, rapidi
+ sekci, postiri
+ celi (zmierzać)
+
+podbechtać
+ instigi
+
+podbić
+ *podbijać*
+
+podbicie
+ konkero, subjugigo (podbój)
+ plando (podeszwa)
+ subŝtofo (podszewka)
+
+podbijać
+ subbati
+ konkeri, almiliti (zdobyć)
+ subjugigi (ujarzmić)
+ venki (zwyciężyć)
+ suprenigi (podnosić)
+ tegi per subŝtofo (dać podszewkę)
+ plandumi (zelować)
+
+podbój
+ konkero, almilito
+ venko
+
+podbródek
+ mentono
+
+podburzać
+ ribeligi (buntować)
+ instigi (podżegać)
+ inciti (drażnić)
+ agiti (agitować)
+
+podchmielić sobie
+ iom drinki, iom ebriiĝi
+
+podchlebiać
+ flati
+
+podchodzić
+ aliri, alpaŝi, almarŝi (dochodzić)
+ ŝteliri (podkradać się)
+ trompi, superruzi, intrigi (oszukać podstępem)
+
+podchorąży
+ substandardisto
+ suboficiro (podoficer)
+
+podciągać, podciągnąć
+ suprentiri (podciągać ku górze)
+ suprenlevi (podnieść)
+ alkalkuli (doliczyć)
+ enkonduki (wprowadzić)
+ enmeti (wstawić)
+ enklasigi (włączyć do klasy)
+
+podczas
+ dum
+ tiam kiam (podczas gdy)
+
+podczaszy
+ pokalestro
+
+poddać
+ *poddawać*
+
+poddany
+ subulo
+ regato, civitano (obywatel)
+ feŭdulo (lennik)
+ servutulo (chłop pańszczyźniany)
+
+poddasze
+ subtegmentejo, mansardo
+
+poddawać
+ suprendoni
+ suprenlevi (podnieść)
+ fordoni (oddać)
+ submeti, elmeti (wystawiać)
+ inspiri (natchnąć)
+ sugestii (poddawać myśl)
+ komuniki
+
+poddawać się
+ subiĝi, submetiĝi
+ suprenleviĝi (wznosić się)
+ cedi (ustępować)
+ kapitulacii (kapitulować)
+
+pod dostatkiem
+ sufiĉe, abunde
+
+poddział
+ subdividaĵo, subfako
+
+podejmować
+ levi (podnosić)
+ entrepreni (przedsięwziąć)
+ gastigi, regali (gościć)
+ akcepti (przyjąć)
+
+podejrzany
+ suspektata, suspektinda
+
+podejrzewać
+ suspekti
+
+podejrzliwy
+ suspektema
+
+podejść
+ *podchodzić*
+
+podejście
+ aliro
+ rilato (stosunek)
+ ruzo (podstęp)
+ artifiko (fortel)
+
+# str. 153
+
+podeprzeć
+ apogi, subapogi
+ subteni (podtrzymywać)
+
+podeptać
+ piedpremi
+ malrespekti (nie szanować)
+
+poderwać
+ *podrywać*
+
+podeszły
+ grandaĝa, maljuna
+
+podeszwa
+ plando (podeszwa stopy)
+ plandumo (podeszwa buta)
+
+podgarnąć, podgarniać
+ ŝovi, subŝovi
+ kunŝovi, kunŝoveli
+ suprenŝovi
+
+podgiąć, podginać
+ suprenfleksi
+
+podglądać
+ rigardi
+ sekrete rigardi, ŝtelobservi, spioni (szpiegować)
+
+podgórze
+ apudmontejo
+
+podjąć
+ *podejmować*
+
+podjazd
+ alveturejo
+ kaŝobserva taĉmento (oddział wywiadowczy)
+
+podjechać, podjeżdżać
+ alveturi
+
+podium
+ podio, estrado
+
+podkasać, podkasywać
+ suprenvolvi, suprenfleksi, suprenfaldi, suprenlevi
+
+podkasały
+ longpieda
+
+podkład
+ submetaĵo (podkładka)
+ bazo, fundamento (podwalina)
+ fono (tło)
+
+podkładać
+ submeti
+
+podkolanek
+ subgenuo, poplito
+
+podkomorzy
+ ĉambelano
+
+podkop
+ subfosaĵo
+
+podkopać, podkopywać
+ subfosi, submini
+ faligi (obalić)
+ skui (wstrząsnąć)
+ malfortigi (osłabić)
+
+podkowa
+ hufferaĵo, hufumo
+
+podkradać się
+ ŝteliri, ŝtelire proksimiĝi
+
+podkreślać
+ substreki
+ akcenti (kłaść nacisk)
+
+podkuć
+ subforĝi
+ alforĝi hufferaĵon
+
+podkupić, podkupywać
+ pliproponi, proponi superprezon, aŭkcie aĉeti (kupić przetargiem)
+ korupti, subaĉeti (przekupić)
+
+podkuwać
+ subforĝi
+ alforĝi hufferaĵon
+
+podlać
+ *podlewać*
+
+podłazić
+ subrampi
+ alrampi
+
+podle
+ malnoble (nikczemnie)
+ kruele (okrutnie)
+ apud (obok)
+ ĉe (przy)
+ proksime de (blisko)
+
+podlec
+ malnoblulo (nikczemnik)
+ fripono (łotr)
+
+podleć
+ malnobliĝi
+
+podlegać
+ submetiĝi
+ esti subordigita, dependi
+ cedi (ustąpić)
+
+podległy
+ subordigita (podporządkowany)
+ obeanta (posłuszny)
+ subalterna (podwładny)
+ dependa (zależny)
+
+podlewa
+ saŭco
+
+podlewać
+ surverŝi, superverŝi
+ akvumi (nawadniać)
+
+podlewaczka
+ verŝilo
+
+podleźć
+ subrampi, alrampi
+
+podlić się
+ humiliĝi (upokorzyć się)
+
+podlizywać się
+ flati
+
+podłoga
+ planko
+
+podłość
+ malnobleco
+ malnoblaĵo, friponaĵo
+
+podlotek
+ fraŭlineto, neplenaĝa knabino
+
+podłożyć
+ submeti
+
+podług
+ laŭ
+
+podłużny
+ longforma
+ laŭlonga
+
+podły
+ malnobla (nikczemny)
+ vulgara (ordynarny)
+ fia
+
+podmajstrzy
+ submajstro
+
+podmawiać
+ instigi, agiti
+
+podmiejski
+ apudurba, ĉirkaŭurba
+
+podmiot
+ subjekto
+
+podmiotowy
+ subjekta, subjektohava
+ subjektiva
+
+podmuch
+ blovo (wiew)
+ inspiro (natchnienie)
+
+podmyć, podmywać
+ sublavi
+ forlavi (zmyć)
+ forŝiri (oderwać)
+
+podniebienie
+ palato
+
+podniecać
+ instigi (podżegnać)
+ stimuli, eksciti (pobudzać)
+ inciti (drażnić)
+ ekflamigi (rozniecić)
+
+# str. 154
+
+podnieść
+ *podnosić*
+
+podnieta
+ impulso, stimulo, motoro
+
+podniosły
+ alta (wysoki)
+ grandioza (okazały)
+ majesta (wspaniały)
+ patosa (patetyczny)
+ entuziasma (entuzjastyczny)
+ edifa (budujący)
+
+podnosić
+ levi, suprenigi, plialtigi (podwyższyć)
+ repreni (odebrać)
+ starigi (postawić)
+ laŭdi (chwalić)
+
+podnosić się
+ leviĝi
+ suprenleviĝi, supreniĝi (iść w górę)
+ plialtiĝi (podwyższyć się)
+
+podnóże
+ piedo
+ piedestalo (podstawa)
+
+podnóżek
+ subpieda benketo
+ piedbenketo
+
+podobać się
+ plaĉi
+ imponi
+
+podobać sobie
+ ekami
+
+podobieństwo
+ simileco
+ analogio
+ alegorio
+ probableco (prawdopodobieństwo)
+ ebleco (możliwość)
+
+podobizna
+ similaĵo
+ portreto
+ faksimilo (faksimile)
+
+podobno
+ ŝajne, laŭŝajne
+ onidire (jak mówią)
+
+podobny
+ simila
+ parenca (pokrewny)
+ analogia (analogiczny)
+ kredebla, probabla (prawdopodobny)
+ ebla (możliwy)
+
+podochocić sobie
+ ebrietiĝi, malsobriĝi
+
+podołać
+ kapabli
+ venki (zwyciężyć)
+
+podorędziu (na)
+ sub mano, prete
+
+pod ostatkiem
+ *pod dostatkiem*
+
+podówczas
+ tiam, tiutempe
+
+podpadać
+ subfali
+ esti subordigita (być podporządkowanym)
+ kvalifikiĝi (kwalifikuje się)
+ dependi (zależeć)
+
+podpalać
+ ekbruligi, ekfajrigi (rozniecać ogień)
+ subbruligi, submeti fajron (podłożyć ogień)
+
+podpałka
+ bruligilo
+ meĉaĵo (lont)
+ tindro (żagiew)
+
+podpatrywać, podpatrzeć
+ rigardi
+ sekrete rigardi
+ ŝtelobservi
+ spioni (szpiegować)
+
+podpiąć
+ *podpinać*
+
+podpierać
+ apogi
+ subteni (podtrzymywać)
+
+podpinać
+ buki, kunpingli
+ suprenvolvi (podwinąć)
+
+podpis
+ subskribo
+
+podpisać, podpisywać
+ subskribi
+
+podpora
+ apogilo
+ pilastro (filar)
+ helpo (pomoc)
+
+podpowiadać
+ suflori
+
+podrabiać
+ imiti (naśladować)
+ falsi (fałszować)
+
+podrastać
+ kreski, pligrandiĝi
+ plenkreski
+
+podręcznik
+ lernolibro
+
+podręczny
+ apudmana
+ helpa (pomocniczy)
+ provizora (prowizoryczny)
+
+podrobić
+ *podrabiać*
+
+podrostek
+ junuleto, fijunulo
+
+podróż
+ vojaĝo
+
+podróżnik
+ vojaĝanto
+
+podróżować
+ vojaĝi
+
+podryg
+ tremo, saltotremo, ektremo
+ vervo (zacięcie)
+
+podrywać
+ ŝiri de malsupre
+ subŝiri
+ faligi (obalać)
+ forŝiri (oderwać)
+ iom disŝiri (naderwać)
+ suprenŝiri (podrywać w górę)
+
+podrzeć
+ disŝiri
+
+podrzędny
+ subordigita (podporządkowany)
+ duaklasa, duagrada, duakategoria (drugorzędny)
+ nerimarkinda, malgrava (błahy)
+ neeminenta (niewybitny)
+ akcesora (niegłówny)
+
+podrzucać
+ subĵeti
+ subbati (podbijać)
+ suprenĵeti (rzucać w górę)
+ sekrete submeti (podłożyć)
+
+podrzutek
+ trovito
+
+podsądny
+ juĝato, akuzato, kulpigato
+
+# str. 155
+
+podścielisko
+ substernaĵo
+ kuŝejo (legowisko)
+ bazo (podstawa)
+ fono (tło)
+
+podściółka
+ sternopajlo
+
+podskakiwać, podskoczyć
+ salteti, desalti
+ suprensalti
+
+podskok
+ salto, suprensalto
+ desalto
+
+podskórny
+ subhaŭta
+
+podsłuchać, podsłuchiwać
+ subaŭskulti, spionaŭskulti, inside aŭskulti
+
+podstarzały
+ iom maljuna, maljunuĝinta
+
+podstawa
+ bazo
+ fundamento (podwalina)
+ principo (zasada)
+ racio (racja)
+ premiso (przesłanka)
+ kriterio (probierz)
+ piedestalo (podnóże)
+ stablo (warsztat)
+
+podstawić, podstawiać
+ substarigi
+ anstatŭigi (zastapić)
+ substitui [mat.]
+
+podstawka
+ pladeto, telereto, subtaso (spodek)
+ submetaĵo, apogileto (podpórka)
+
+podstęp
+ ruzo, ruzaĵo
+ artifiko (fortel)
+ intrigo (intryga)
+ insido (zasadzka)
+
+podstępny
+ ruza (przebiegły)
+ insida
+ perfida (zdradliwy)
+ embuskoplena (pełny zasadzek)
+ trompema (zwodniczy)
+
+podstoli
+ victablestro
+
+podsumować
+ sumigi, kunkalkuli
+
+podsunąć, podsuwać
+ subŝovi
+ alŝovi (dosunąć)
+ sekrete enmanigi (wręczyć potajemnie)
+ inspiri (natchnąć)
+ sugestii (poddać myśl)
+
+podsycać
+ nutri (żywić)
+ eksciti (pobudzać)
+ disflamigi (rozpalać)
+
+podszczuwać
+ instigi
+ eksciti (podniecać)
+
+podszepnąć, podszeptać, podszeptywać
+ flustri, alflustri
+ suflori (podpowiadać)
+ inklinigi (nakłonić)
+ instigi (namówić)
+
+podszewka
+ subŝtofo
+
+podszyć, podszywać
+ subkudri
+
+podszywać się
+ ludi rolon, prezenti sin
+ anonci sin
+ ŝajnigi (udawać)
+ enŝteli sin (wkraść się)
+ uzurpi (przywłaszczyć sobie)
+
+podtrzymać, podtrzymywać
+ subteni, apogi (podpierać)
+
+podupadać
+ malsuprenfali, malleviĝi (opadać)
+ kadukiĝi
+ dekadenci, bankroti (bankrutować)
+ malriĉiĝi (ubożeć)
+
+podupadły
+ malsuprenfalinta
+ dekadenca, kadukiĝinta
+ bankrotinta (upadły)
+ malriĉiĝinta (zubożały)
+ degradita
+
+podpuszczać
+ instigi
+ provoki
+ 
+poduszczka
+ kuseno
+
+podwajać
+ duobligi
+
+podwalina
+ fundamento, bazo
+
+podważać, podważyć
+ levi, sublevi
+ skui (wstrząsnąć)
+ ŝanceli (zachwiać)
+ malfirmigi
+
+podwiązka
+ ŝtrumpoligilo
+
+podwieczorek
+ antaŭvespermanĝo
+
+podwijać, podwinąć
+ subvolvi, suprenvolvi
+ okazi (przytrafić się)
+
+podwładny
+ subulo
+ subordigita (podporządkowany)
+ dependa (zależny)
+ vasalo (lennik)
+
+podwodny
+ subakva
+
+podwoić
+ duobligi
+
+podwoje
+ pordo, pordego
+ duobla pordo
+
+podwójny
+ duobla
+ hipokrita (obłudny)
+
+podwórko, podwórze
+ korto
+
+podwyżka
+ plialtigo
+
+podwyższać
+ plialtigi
+ suprenlevi (podnosić)
+
+podwyższenie
+ plialtigo
+ levo (podnoszenie)
+ podio, estrado (trybuna, estrada)
+
+podżegać
+ instigi (podmawiać)
+ subbruligi (podpalać)
+
+podżegacz
+ instiganto
+
+# str. 156
+ 
+podzelować
+ plandumi, fiksi plandon
+
+podziać
+ lasi, restigi (zostawić)
+ loki (umieścić)
+ kaŝi (schować)
+
+podziać się
+ resti (pozostać)
+ perdiĝi (zagubić się)
+ rifuĝi (schronić się)
+
+podział
+ divido, dispartigo, distribuo
+ klasifiko (klasyfikacja)
+
+podziałać
+ influi (wpłynąć)
+ impresi (zrobić wrażenie)
+ efiki (skutkować)
+
+podziałka
+ skalo
+
+podzięka, podziękowanie
+ danko
+ dankesprimo
+
+podzielać, podzielić
+ dividi, dispartigi
+ partopreni (uczestniczyć)
+ rekoni (uznawać)
+ konsenti (zgadzać się)
+ simpatii
+
+podzielny
+ dividebla
+
+podziemie
+ subteraĵo
+
+podziemny
+ subtera
+
+podziewać się
+ *podziać*
+
+podziobać
+ bekpiki
+
+podziw
+ admiro
+ miro (zdziwienie)
+ sensacio (sensacja)
+
+podziwiać
+ admiri
+
+podzwaniać
+ tinti
+ iom sonori
+
+podźwigać
+ penporti
+
+podźwignąć
+ suprenlevi (podnieść)
+ restarigi (postawić)
+ rekonstrui (odbudować)
+
+podzwrotnikowy
+ tropika
+
+poemat
+ poemo
+ poeziaĵo
+
+poenta
+ poento
+
+poeta
+ poeto, poezioverkisto
+
+poetycki
+ poezia, poeta
+
+poetyka
+ poetiko, poeziteorio
+
+poetyzować
+ poeziigi
+ revi (marzyć)
+ idealigi (idealizować)
+
+poezja
+ poezio
+
+pofatygować się
+ bonvoli (zechcieć, raczyć)
+ klopodi (postarać się)
+ laciĝi (potrudzić się)
+
+pofolgować
+ plifaciligi (ulżyć)
+ intermiti (ustępować)
+
+pofruwać
+ iom flugi
+ forflugi
+
+pogadanka
+ interparolo, interbabilo
+ diskuto (dyskusja)
+
+poganiać
+ peli, alpeli
+ rapidigi (przyspieszać)
+ laborigi (zmuszać do pracy)
+
+poganin
+ idolano, pagano
+
+pogaństwo
+ idolkulto, idolservo
+
+pogardo
+ malestimo, malŝato
+
+pogardzać
+ malestimi, malŝati
+
+pogarszać
+ plimalbonigi
+
+pogląd
+ opinio (sąd, mniemanie)
+ vidpunkto (punkt widzenia)
+ percepto (percepcja)
+
+poglądowy
+ intuicia (intuicyjny)
+ bilda (obrazowy)
+
+pogłębiać
+ profundigi, pliprofundigi
+
+pogłoska
+ famo, onidiro (wieść)
+ sciigo (wiadomość)
+ klaĉo (plotka)
+
+pognać
+ forkuri (uciec)
+ postkuri (ścigać)
+
+pognębić
+ subigi (pokonać)
+ subpremi (uciskać)
+ persekuti (prześladować)
+ pereigi (zgładzić)
+
+pogniewać się
+ ekkoleri (rozgniewać się)
+ ofendiĝi (obrazić się)
+ eksamikiĝi (zerwać przyjaźń)
+
+pogoda
+ vetero
+ belvetero
+ sereneco (pogodność)
+
+pogodny
+ serena
+ sennuba, belvetera
+ trankvila, kvieta (spokojny)
+
+pogodzić
+ interkonsentiĝi
+ pacig, repacigi
+ konkordigi, akordigi
+
+pogoń
+ postkuro
+ persekuto
+
+pogorszyć
+ plimalbonigi
+
+pogorzelec
+ brulsuferinto
+
+pogorzelisko
+ postbrulejo, bruladloko, brulruinejo
+
+pogotowie
+ preteco, rapida helpo
+ prete (w pogotowiu)
+
+pogranicze
+ apudlimejo, limzono
+
+# str. 157
+
+pogrążać
+ dronigi (zatopić)
+ subakvigi (zanurzyć)
+ enprofundigi (zagłębić)
+ enigi (wsadzić, wprowadzić)
+
+pogrom
+ plena malvenko (zupełna porażka)
+ buĉo (rzeź)
+ masakro (masakra)
+
+pogromić
+ venki (zwyciężyć)
+ masakri (masakrować)
+ frakasi (zdruzgotać)
+
+pogróżka
+ minaco
+
+pogrzeb
+ enterigo, entombigo, enterigiro
+
+pogrzebacz
+ fajromovilo, fajroŝovilo, fajrostango
+
+pogrzebowy
+ enteriga, entombiga
+ funebra (żałobny)
+
+pogwałcić
+ perforti
+ malrespekti (nie poszanować)
+ senhonorigi (hańbić)
+ profani (bezcześcić)
+ malvirgigi (gwałcić kobietę)
+
+pohamować
+ deteni (powstrzymać)
+ moderigi (ustatkować)
+ haltigi (zatrzymać)
+
+poić
+ trinkigi
+ ebriigi (upić)
+ inspiri (natchnąć)
+ sorbigi (przemaczać)
+
+pojąć
+ *pojmować*
+
+pojawiać się
+ aperi
+
+pojazd
+ veturilo
+ kaleŝo
+
+pojechać
+ forveturi, forvojaĝi
+ forrajdi, rajdi al (pojechać konno)
+
+pojęcie
+ ideo, koncepto
+ kono (znajomość)
+ kompreno (zrozumienie)
+ imago (wyobrażenie)
+ intelekto (umysł, rozsądek)
+
+pojęciowy
+ idea
+ intelekta, mensa (umysłowy)
+
+pojednać, pojednywać
+ repacigi, konkordigi (pogodzić)
+ akiri (pozyskać)
+
+pojednawczy
+ arbitracia (polubowny)
+ paciĝema, akordiĝema (zgodliwy)
+
+pojedynczy
+ unuobla, unuopa
+ singulara [gram.]
+ unusola (samotny)
+ aparta (oddzielny)
+
+pojedynczo
+ unuope, unuoble
+
+pojedynek
+ duelo
+
+pojedynkować się
+ dueli
+
+pojemność
+ amplekso, kapacito
+
+pojenie
+ trinkigo
+
+pojętny
+ komprenema
+ kapabla (zdolny)
+ inteligenta (inteligentny)
+ sagaca (bystry)
+
+pojmać
+ kapti
+ malliberigi (uwięzić)
+
+pojmować
+ kompreni, koncepti (zrozumieć)
+ konjekti (domyślać się)
+ kapti (schwytać)
+ preni (wziąć)
+ edzinigi (pojmować za żonę)
+ ampleksi, enteni (pomieścić)
+
+pójść
+ iri, ekiri
+ foriri (odejść)
+ sekvi (pójść za)
+ obei (słuchać)
+ imiti (naśladować)
+ perei (zginąć)
+ veti (zakładać się)
+ sukcesi, prosperi (powieść się)
+ edziniĝi (pójść za mąż)
+
+pojutrze
+ postmorgaŭ
+
+pokąd
+ ĝis kiam, tiel longe kiel, ne pli frue ol
+
+pokarm
+ manĝaĵo, nutraĵo
+ furaĝo (obrok)
+ lakto (mleko)
+
+pokarmowy
+ nutra, nutraĵa, manĝaĵa
+ digesta (trawienny)
+
+pokątny
+ angultroviĝa (znajdujący się w kącie)
+ flanka (poboczny)
+ kaŝita (ukryty)
+ sekreta (tajemny)
+ neoficiala (nieurzędowy)
+ nekonata (nieznany)
+
+pokaz
+ montro, demonstracio
+ ekspozicio (wystawa)
+
+pokazać, pokazywać
+ montri
+ indiki (wskazywać)
+ prezenti (przedstawić)
+ elmontri (wykazywać)
+ aperigi (ujawniać)
+ demonstracii (demonstrować)
+
+pokaźny
+ granda (duży)
+ grandsignifa, grandvalora (wartościowy)
+ grava (powazny)
+ eminenta (wybitny)
+ grandioza (wspaniały)
+ atentinda (godny uwagi)
+ imponanta (imponujący)
+
+póki
+ dum, tiel longe kiel, ĝis kiam
+ antaŭ ol (zanim)
+
+pokład
+ ferdeko (pokład okrętu)
+ tavolo (warstwa)
+
+# str. 158
+
+pokładać
+ meti, kuŝigi (położyć)
+ tavoli (nawarstwiać)
+ faligi (obalać)
+ fidi (ufać)
+ kastri (trzebić)
+
+poklask
+ aplaŭdo
+ aprobo (uznanie)
+ furoro (powodzenie)
+
+pokłócić
+ kvereligi, malpacigi
+
+pokłócić się
+ intermalpaciĝi, ekkvereli
+
+pokłon
+ riverenco, kliniĝo
+ kapklino
+ honorigo (uczczenie)
+
+pokłonić się
+ riverenci, kliniĝi
+ kapklini
+
+pokłosie
+ postrikolto, spikumo
+
+pokochać
+ ekami
+
+pokój
+ ĉambro, apartamento (pomieszczenie)
+ paco (nie wojna)
+ trankvilo (spokój, spokojność)
+
+pokojówka
+ ĉambristino
+
+pokojowy
+ ĉambristo (pokojowiec)
+ paca, pacema, pacama, pacifista (miłujący pokój)
+
+pokolenie
+ generacio
+ gento (plemię)
+ idaro (potomstwo)
+ dinastio (dynastia)
+
+pokonać, pokonywać
+ subigi, venki
+ superi (przewyższyć)
+
+pokora
+ humileco
+
+pokorny
+ humila
+
+pokorzyć
+ humiligi
+
+pokos
+ falĉaĵo
+
+pokost
+ lako
+ emajlo (emalia)
+ poluro (połysk)
+
+pokotem
+ unu apud alia, kiel falĉitaj, etenditaj
+
+pokraka
+ mallertulo (niezdarek)
+ malgraciulo (niezgrabniś)
+ grumblulo (zrzęda)
+
+pokrapiać
+ *pokropić*
+
+pokręcić
+ konfuzi (pomieszać)
+ iom turni (obracać)
+ iom tordi (poskręcać)
+
+pokrewieństo
+ parenceco
+ simileco (podobieństwo)
+ analogio (analogia)
+
+pokrewny
+ parenca
+ simila (podobny)
+ analogia (analogiczny)
+
+pokój
+ speco (gatunek)
+ skalo (skala)
+ stilo (styl)
+
+pokropić
+ guti (kapać)
+ surŝprucigi, aspergi (napryskać)
+
+pokrótce
+ mallonge, koncize
+
+pokrowiec
+ tegilo (powłoka)
+ kovrilo (pokrywa)
+ ingo (futerał)
+
+pokrwawić
+ sangigi
+ vundi ĝis sango
+
+pokryć
+ *pokrywać*
+
+pokrycie
+ kovro
+ kompenso
+ kovrilo (pokrywa)
+ tegmento (dach)
+ ŝirmilo (osłona)
+
+po kryjomu
+ sekrete
+ inkognite
+
+pokrywa, pokrywka
+ kovrilo
+ masko, ŝajnigo, preteksto (pozór)
+
+pokrywać
+ kovri
+ kaŝi (ukrywać)
+ kompensi (kompensować)
+ koincidi (przystawać)
+
+pokrzepiać
+ refreŝigi (odświeżyć)
+ nutri (posilać)
+ plifortikigi (wzmocnić)
+ plivigligi (orzeźwić)
+ esperigi (pokrzepiać na duchu)
+
+pokrzyk
+ atropo
+ beladono (pokrzyk lekarski - wilcza jagoda)
+
+pokrzywa
+ artiko
+
+pokrzyżować
+ krucumi (ukrzyżować)
+ krucigi (składać na krzyż)
+ konfuzi (pogmatwać)
+ vanigi (udaremnić)
+
+pokup
+ vendebleco, debito
+
+pokupny
+ facile vendebla, aĉetata, debithava
+
+pokusa
+ tento
+ avido (żądza)
+ fantomo (widmo)
+
+pokusić się
+ provi (spróbować)
+ peni (usiłować)
+
+pokuta
+ pento, pentofaro
+
+pokutować
+ penti, pentofari
+ esti punita (być ukaranym)
+
+pokwapić się
+ rapidi, rapidiĝi
+
+pokwitować
+ kvitanci
+ konfirmi (potwierdzić)
+
+pokwitowanie
+ kvitanco
+
+pół
+ duono
+
+poła
+ bosko
+
+# str. 159
+
+polać
+ *polewać*
+
+połać
+ domvico, domaro (rząd domów)
+ teritorio (obszar)
+
+połączenie
+ kunigo
+ unuigo (zjednoczenie)
+ kunmeto (złożenie)
+ aglomeraĵo (zlepek)
+ kontakto (kontakt)
+ komunikilo (środek komunikacji)
+ konekto [mech.]
+
+polana
+ herbejo
+
+polano
+ ŝtipo
+
+polarny
+ polusa
+
+polaryzacja
+ polarizo
+
+polatucha
+ sciuroptero
+
+półbucik
+ ŝuo
+
+pole
+ kampo
+ ebenaĵo (równina)
+ placo (plac)
+ grundo (grunt)
+ spaco (przestrzeń)
+ sfero (sfera)
+ okazo (sposobność)
+
+połeć
+ lardoflanko
+
+polec, polegnąć
+ perei (zginąć)
+ mortofali (paść martwym)
+
+polecać, polecić
+ rekomendi (rekomendować)
+ komisii (dać zlecenie)
+ ordoni (rozkazać)
+
+polecenie
+ komisio
+ rekomendado
+
+polecieć
+ forflugi, ekflugi (pofrunąć)
+ forkuri, ekkuri (pobiec)
+
+polędwica
+ lumbaĵo
+
+polegać
+ fidi (ufać)
+ baziĝi (opierać się)
+ konsisti en (zasadzać się)
+ havi esencon, havi naturon (mieć istotę)
+
+poległy
+ pereinta
+ mortfalinta
+
+polemika
+ polemiko
+
+polemizować
+ polemiki
+
+polepa
+ argilmiksaĵo
+ stukaĵo
+ mortero
+
+polepszać
+ plibonigi
+ korekti (poprawiać)
+ perfektigi (udoskonalić)
+
+polepszenie
+ plibonigo
+
+polerować
+ poluri
+ klerigi (kształcić)
+ malkrudigi (okrzesać)
+
+polewa
+ glazuro
+ emajlo (emalia)
+ poluro (politura)
+
+polewać
+ surverŝi, superverŝi
+ surŝpricigi
+ glazuri (dać polewę)
+ stani (pobielać)
+ laki (lakierować)
+ kovri (pokrywać)
+
+polewaczka
+ verŝilo (konewka)
+
+polewka
+ supo (zupa)
+ saŭco (sos)
+
+półgębkiem
+ duonvoĉe (półgłosem)
+ murmure (szemrząc)
+
+półgłówek
+ stultulo, malsaĝulo (głupiec)
+ malkapablulo (tępidło)
+ idioto (idiota)
+
+polica
+ breto
+
+policja
+ polico
+ policistaro (ogół policjantów)
+
+policjant
+ policano, policisto
+
+policzek
+ vango
+ vangofrapo, survango (uderzenie w policzek)
+
+policzkować
+ vangofrapi
+
+poligamia
+ multedzineco, poligamio
+
+poliglota
+ poligloto
+
+polip
+ polipo
+
+polisa
+ poliso, asekuratesto
+
+poliszynel
+ pulĉinelo
+
+politechnika
+ politekniko, politeknikejo
+
+politeizm
+ politeismo
+
+politowanie
+ kompato
+
+politura
+ poluro
+
+polityk
+ politikisto
+ diplomato
+
+polityka
+ politiko
+ taktiko (taktyka)
+ diplomatio (dyplomacja)
+
+polka
+ polko (taniec)
+ polino (polska kobieta)
+
+półka
+ breto
+
+połknąć
+ gluti, engluti
+
+półkole
+ duoncirklo, duonrondo
+
+półkoszulek
+ antaŭcemizeto, duonĉemizeto
+
+półkula
+ duonglobo, duonsfero
+
+półmisek
+ plado
+
+północ
+ noktomezo (dwunasta w nocy)
+ nordo (strona świata)
+
+północowschód
+ nordoriento
+
+północozachód
+ nordokcidento
+
+# str. 160
+
+polny
+ kampa
+
+polo
+ poloo
+
+połóg
+ akuŝo
+
+polor
+ poluro
+
+polot
+ flugo [lot.]
+ fantazio, imagkapablo (wyobraźnia)
+ vervo (zapał)
+
+połów
+ kaptado
+ fiŝkaptado
+
+połowa
+ duono
+
+polować
+ ĉasi
+
+polowanie
+ ĉaso
+ ĉasiro
+
+połowica
+ edzino (małżonka)
+ duono (połowa)
+
+połowiczny
+ duona, duoneca
+ neekstrema, neradikala, kompromisa (kompromisowa)
+
+polowy
+ kampa
+ faldebla (składany)
+
+połoz
+ boao
+
+położenie
+ meto, metado, kuŝigo, kuŝigado (kładzenie)
+ pozicio (pozycja)
+ situo, situacio (sytuacja)
+
+położnica
+ akuŝistino
+
+położniczy
+ akuŝa, akuŝista
+
+położony
+ metita, kuŝigita
+ situita
+
+położyć
+ meti, kuŝigi
+ faligi (obalić)
+ oferi (poświęcić)
+ situi (sytuować)
+ etendi (rozpościerać)
+ loki (umieścić)
+
+położysty
+ dekliva
+
+półrękawek
+ duonmaniko
+
+półrocze
+ duonjaro
+
+półton
+ duontono
+
+półtora
+ unu kaj duono
+
+polubić
+ ekami
+ enamiĝi (zakochać się)
+
+polubowny
+ arbitracia
+ kompromisa
+
+polucja
+ polucio
+
+południe
+ tagmezo (środek dnia)
+ sudo (strona świata)
+
+południk
+ meridiano
+
+południowiec
+ sudano
+
+południowschód, południowy wschód
+ sudoriento
+
+południozachód, południowy zachód
+ sudokcidento
+
+półwysep
+ duoninsulo
+
+połykać
+ gluti, engluti
+
+połysk
+ brilo, poluro
+
+połyskiwać
+ brili, brileti
+
+pomada
+ pomado
+
+pomagać
+ helpi
+ efiki (skutkować)
+ taŭgi (nadać się)
+
+pomału
+ malrapide (powoli)
+ pomalgrande, iom post iom (potrochu)
+ atente (uważnie)
+
+pomalutku
+ malrapide, malrapidege
+
+pomarańcza
+ oranĝo
+ oranĝarbo, oranĝujo (drzewo pomarańczowe)
+
+pomarańczarnia
+ oranĝejo, oranĝerio
+
+pomarańczówka
+ oranĝa likvoro (likier)
+ oranĝa piro (gruszka)
+
+pomarańczowy
+ oranĝa
+ oranĝkolora (żółto-czerwony)
+
+pomawiać, pomówić
+ kulpigi (obwiniać)
+ akuzi (oskarżać)
+ suspekti (podejrzewać)
+ iom paroli, iom babili (pogawędzić)
+
+pomazaniec
+ sanktoleito
+ elektito (wybraniec)
+
+pomiar
+ mezurado
+ dimensio (wymiar)
+
+pomiarkować się
+ ekkompreni (pojąć)
+ ekorienti sin (zorientować się)
+ rimarki (spostrzec)
+ moderiĝi (ustatkować się)
+
+pomiatać
+ neglekti (lekceważyć)
+ malestimi (pogardzać)
+
+pomidor
+ tomato
+
+pomiędzy
+ inter
+
+pomieniać
+ interŝanĝi (zamieniać)
+ nomi (wymieniać)
+ citi (wspomnieć)
+ mencii (wzmiankować)
+
+pomierny
+ mezurebla (wymierny)
+ mezvalora (mierny)
+ modera (umiarkowany)
+
+pomieszanie
+ intermikso, konfuzo, ĥaoso
+ frenezeco (obłęd)
+
+pomieszczać
+ loki
+ enlokigi (umieścić)
+ ampleksi, enhavi (zawierać)
+
+pomieścić się
+ ???okiĝi
+ trovi lokon (znaleźć miejsce)
+
+# str. 161
+
+pomieszczenie
+ loko (miejsce)
+ lokigo (umieszczenie)
+ lokiĝo (pomieszczenie się)
+ loĝejo (mieszkanie)
+
+pomieszkanie
+ loĝejo
+
+pomijać
+ preterpasi (minąć)
+ preterlasi (opuścić)
+ eviti (unikać)
+
+pomimo
+ malgraŭ
+
+pominąć
+ *pomijać*
+
+pomiot
+ ĵeto (rzut)
+ forĵetaĵo, balaaĵo (śmiecie)
+ ekskremento, sterko (gnój)
+ best-nasko, besta feto (płód zwierzęcy)
+
+pomiotło
+ fornbalailo
+
+pomknąć
+ *pomykać*
+
+pomnażać, pomnożyć
+ pliigi, plimultigi, multobligi
+ multipliki [mat.]
+
+pomnieć
+ memori (pamiętać)
+ rememori (przypominać sobie)
+
+pomniejszać
+ plimalgrandigi, malpliigi
+
+pomniejszy
+ malpli granda, pli malgranda
+ negrava, malgrandvalora (mało ważny)
+
+pomnik
+ monumento
+
+pomnożyć
+ *pomnażać*
+
+pomny
+ memoranta (pamiętający)
+ konsiderinta (mający na względzie)
+ atenta (baczny)
+
+pomoc
+ helpo
+ pere de, per (za pośrednictwem)
+
+pomocniczy
+ helpa
+
+pomocnik
+ helpanto, helpisto
+
+pomocny
+ helpanta, helpema
+
+pomologia
+ pomologio
+
+pomór, pomorek
+ besta epidemio, epizootio
+
+pomornik
+ arniko
+
+pomost
+ tabulplanko
+ tabulponto
+ perono
+ estrado
+ platformo
+ ferdeko
+ ponto (most)
+
+pomówić
+ *pomawiać*
+
+pompa
+ pumpilo (do pompowania)
+ pompo, parado (okazałość)
+
+pompatyczny
+ pompa, parada
+
+pompier
+ pumpisto, pumpilisto
+
+pompon
+ kvasto
+
+pompować
+ pumpi
+
+pomrowiec
+ limako
+
+pomruk
+ murmuro
+
+pomścić
+ venĝi, revenĝi
+
+pomsta
+ venĝo
+
+pomurnik
+ parietario
+
+pomyje
+ lavakvo, forverŝaĵo
+
+pomykać
+ ekkuri, antaŭeniri
+ formoviĝi
+
+pomylić
+ erarigi
+ konfuzi (pogmatwać)
+
+pomylić się
+ erariĝi
+ trompiĝi (oszukać się)
+
+pomyłka
+ eraro
+
+pomysł
+ ekpenso, elpenso
+ koncepto
+ invento
+ ideo
+
+pomyśleć
+ pripensi
+ konsideri (rozważyć)
+
+pomysłowy
+ inventema
+
+pomyślny
+ favora (przychylny)
+ prospera, sukcesa (udatny)
+ feliĉa (szczęśliwy)
+
+pomywaczka
+ vazlavistino
+
+ponad
+ super
+
+ponawiać
+ renovigi
+ ripeti (powtórzyć)
+ rekomenci (rozpocząć na nowo)
+
+poncz
+ punĉo
+
+pończocha
+ ŝtrumpo
+
+pończosznictwo
+ ŝtrumpfarado, ŝtrumpindustrio, trikmetio
+
+pończoszniczy
+ ŝtrumpa, ŝtrumpista
+
+ponęta
+ allogaĵo, logilo (przynęta)
+ ĉarmo (powab)
+
+ponętny
+ loga, loganta, alloganta
+ ĉarma (powabny)
+
+poniechać
+ forlasi (zostawić)
+ rezigni (rezygnować)
+ ĉesi (zaprzestać)
+
+poniedziałek
+ lundo
+
+poniekąd
+ kelkagrade, en kelka grado (w pewnym stopniu)
+ parte (częściowo)
+ kelkmaniere, kvazaŭ (niejako)
+
+ponieść
+ *ponosić*
+
+ponieważ
+ ĉar (gdyż)
+ tial ke (dlatego, że)
+ pro tio ke (z powodu tego, że)
+
+# str. 162
+
+ponieważać
+ malestimi
+ malbonhonori (znieważać)
+
+poniewczasie
+ tro malfrue
+
+poniewierać
+ malzorgi (zaniedbywać)
+ malestimi, profani (ponieważać)
+ ofendeme trakti (traktować ubliżająco)
+
+poniewierać się
+ vagi (wałęsać się)
+ detruiĝi (niszczyć się)
+ treniĝi (włóczyć się)
+
+poniewierka
+ malestimo, malŝato (pogarda)
+ vagado (tułaczka)
+
+poniżać
+ humiligi (upokorzyć)
+ ofendi (ubliżyć)
+
+poniżej
+ sube, iom pli malsupre
+
+poniżenie
+ humiligo
+
+pono
+ ŝajne, laŭŝajne
+
+ponosić
+ iom porti
+ forporti (unieść)
+ suferi (cierpieć)
+ kovri (pokryć)
+ preni sur sin (wziąć na siebie)
+
+ponowić
+ *ponawiać*
+
+ponownie
+ denove, refoje, ree
+ rekomence
+
+pąs
+ punco
+
+pąsowy
+ punca
+
+ponton
+ pontono
+
+ponury
+ malhela, malluma (ciemny)
+ malgaja (smętny)
+ malĝojiga (zasmucający)
+ melankolia (posępny)
+
+pontyfikalny
+ episkopa, ĉefpastra
+
+poobiedzie
+ posttagmanĝo
+ posttagmezo (popołudnie)
+
+pop
+ popo
+
+popadać, popaść
+ laŭvice fali, fali unu post la alia (upaść jeden po drugim)
+ enprofundiĝi (pogrążyć się)
+ senfavorigi (popaść w niełaskę)
+ fali
+
+poparcie
+ apogo, subteno
+
+poparzyć
+ brogi
+ brulvundi
+
+popas
+ nutrado
+ furaĝejo
+ haltejo, stacio (przystanek)
+
+popchnąć
+ *popychać*
+
+popęd
+ inklino, emo (skłonność)
+ instinkto (instynkt)
+ impulso (bodziec)
+ avido (żądza)
+
+popędliwy
+ impulsiĝema
+ kolerema (gniewliwy)
+ pasia (namiętny)
+ malhezitema (porywczy)
+
+popełnić, popełniać
+ plenumi, fari
+
+popielaty
+ cindrokolora
+
+popielec
+ cindro-merkredo
+
+popielica
+ cindrokolora sciuro
+
+popielnica
+ urno, cindrovazo
+ cindrejo
+
+popielniczka
+ cindrujo
+
+popierać
+ apogi,  subteni
+ helpi (pomagać)
+ akceli (przyśpieszać)
+ protekti (protegować)
+ esti favora (sprzyjać)
+ konfirmi (potwierdzać)
+
+popiersie
+ busto
+ 
+popiół
+ cindro
+
+popis
+ revuo (rewia)
+ parado (parada)
+ registrado (rejestr)
+
+popisowy
+ parada
+ modela (wzorowy)
+ konkursa (konkursowy)
+ rekruto (rekrut)
+
+popisywać się
+ paradi (paradować)
+ fanfaroni (chełpić się)
+ montri (pokazywać)
+
+popłacać
+ multe valori, havi latan prezon (mieć wysoką cenę)
+ profitigi (dac zysk)
+
+popłatny
+ bone pagata
+ profitiga
+
+poplecznik
+ partiano (stronnik)
+ adepto (zwolennik)
+
+popłoch
+ paniko, alarmo
+ teruro (przestrach)
+ tumulto (zgiełk)
+
+popołudnie
+ posttagmezo
+
+poprąg
+ *popręg*
+
+poprawa
+ plibonigo, korekto
+ rebonigo, riparo (naprawa)
+
+poprawiać
+ plibonigi
+ korekti, ripari (naprawiać)
+ pliperfektigi (udoskonalić)
+ ordigi (uporządkować)
+
+poprawiny
+ postedziĝfesto
+ refoja festeno
+
+poprawka
+ plibonigo, korekto
+
+poprawny
+ korekta
+ senerara (bezbłędny)
+ laŭregula (prawidłowy)
+
+# str. 163
+
+popręg
+ selrimeno
+
+po prostu
+ simple
+ ordinare (zwyczajnie)
+ laŭvorte (dosłownie)
+
+poprzeć
+ *popierać*
+
+poprzeczny
+ laŭlarĝa
+ transversa, diagonala
+
+poprzedni
+ antaŭa, antaŭiranta
+
+poprzednik
+ antaŭulo
+
+poprzedzać
+ antaŭiri
+ antaŭi
+ antaŭprovizi
+ anticipi
+
+w poprzek
+ laŭlarĝe
+ transverse, diagonale
+
+poprzestać, poprzestawać
+ ĉesi (przestać)
+ kontentiĝi (zadowolić się)
+
+populacja
+ loĝantaro
+
+popularyzować
+ popularigi
+
+popychać
+ puŝi, antaŭenpuŝi
+ stimuli (pobudzać)
+
+popychadło
+ puŝtaulo
+ marioneto (manekin)
+
+popyt
+ aĉetateco
+ serĉateco (poszukiwanie)
+ facila vendebleco
+ debito (pokup)
+
+por
+ poro (wolna przestrzeń między cząsteczkami)
+ poreo (gatunek czosnku)
+
+pora
+ tempo (czas)
+ ĝusta tempo (czas właściwy)
+ sezono (pora roku)
+
+porabiać
+ okupiĝi (zajmować się)
+ fari (robić)
+
+porachunek
+ kalkulo
+ venĝo (zemsta)
+
+porada
+ konsilo
+ konsulto
+
+poradnik
+ konsillibro
+ gvidlibro (przewodnik)
+
+poradzić
+ konsili
+ helpi (pomóc)
+ trovi rimedon (znaleźć środek)
+
+poradzić się
+ konsiliĝi
+ konsulti
+
+poranek
+ mateno
+
+poranny
+ matena
+
+porażka
+ malvenko
+ fiasko (niepowodzenie)
+
+porcelana
+ porcelano
+
+porcelanka
+ porcelana argilo, kaolino
+
+porcja
+ porcio
+ dozo (dawka)
+
+poręcz
+ manapogilo
+ balustrado
+ bariero
+
+poręczenie
+ garantio
+ kaŭcio
+
+poręczyciel
+ garantianto
+
+poręka
+ garantio (gwarancja)
+ certigo (upewnienie)
+ kaŭcio (zastaw)
+
+porfir
+ porfiro
+
+pornografia
+ pornografio
+
+poród
+ nasko
+ akuŝo (połóg)
+
+poronić
+ aborti
+
+poronienie
+ aborto
+
+porost
+ kreskado
+ surkreskaĵo
+ fikeno (liszaj - rodzaj mchu)
+
+porowaty
+ pora, porhava, porplena
+
+porównać, porównywać
+ kompari
+ analogii (analogizować)
+
+porównanie
+ komparo
+ analogio (analogia)
+ alegorio, metaforo (przenośnia)
+
+porównawczy
+ kompara
+ komparativo (stopień porównawczy) [gram.]
+
+poróżnić
+ malpacigi, kvereligi
+ disigi (rozłączyć)
+
+porozumieć się, porozumiewać się
+ interkompreniĝi
+ interkomunikiĝi
+ interkonsenti
+
+porozumienie
+ interkompreniĝo
+ interkomunikiĝo
+ interkonsento
+
+port
+ haveno
+
+portal
+ portalo
+
+porter
+ portero
+
+portfel
+ paperujo
+
+portier
+ pordisto
+
+portiera
+ pordokurteno
+
+portki
+ pantalono
+
+portmonetka
+ monujo
+
+porto, portoria
+ poŝtpago
+ afranko
+
+portrecista
+ portretisto
+
+portret
+ portreto
+# por-tret-o
+
+portyk
+ portiko
+
+poruczać
+ komisii (polecić)
+ konfidi (powierzyć)
+ rekomendi (rekomendować)
+ ordoni (rozkazać)
+
+# str. 164
+
+porucznik
+ leŭtnanto
+
+poruszać
+ movi, ekmovi
+ movigi
+ skui (wstrząsać)
+ kortuŝi, emocii (wzruszać)
+ eksctiti (podniecać)
+ tuŝi (dotknąć)
+
+poruszenie
+ movo (ruch)
+ ekscito (wzburzenie)
+ alarmo (popłoch)
+
+porwać, porywać
+ disŝiri (rozerwać)
+ forrabi, forkapti, forkonduki (uprowadzić)
+ forpreni (zabrać)
+ ravi, entuziasmigi (zachwycać)
+ kapti (chwytać)
+ ĉirkaŭpreni (ogarnąć)
+
+porwać się, porywać się
+ disŝiriĝi (rozerwać się)
+ ekmoviĝi (poruszyć się)
+ eksalti (skoczyć)
+ si ĵeti (rzucić się)
+ ataki (napaść)
+ peni atingi (usiłować dosięgnąć)
+
+poryw
+ entuziasmo (zachwyt)
+ fervoro (zapał)
+ impulso (pochop)
+ ardo (żar)
+
+porywczy
+ impulsiĝema (popędliwy)
+ rapidema (skwapliwy)
+ kolerema (gniewliwy)
+ pasia (namiętny)
+ nemoderigebla (nipohamowany)
+ impeta
+
+porządek
+ ordo
+ sinsekvo (następstwo)
+ sistemo (układ)
+ plano (plan)
+ vico (szereg)
+
+porządkować
+ ordigi (doprowadzać do porządku)
+ klasifiki, laŭklasigi (klasyfikować)
+
+porządkowy
+ orda
+ laŭvica (kolejny)
+ ordiganto (porządkujący)
+
+porządny
+ bonorda, ordigita (uporządkowany)
+ ordema, ordama (lubiący porządek)
+ regula (regularny)
+ deca, laŭdeca (przyzwoity)
+ plaĉinda
+ neriproĉinda (bez zarzutu)
+ grandega (ogromny)
+
+porzeczka
+ ribo
+
+porzucać
+ ĵeti, forĵeti (odrzucić)
+ forlasi (odpuścić)
+ rezigni (zaniechać)
+
+posada
+ posteno (stanowisko)
+ okupo (zajęcie)
+ ofico (urząd)
+ fundamento (podwalina)
+
+posądzać
+ suspekti (podejrzewać)
+ kulpigi (obwiniać)
+
+posadzić
+ sidigi
+ loki (umieścić)
+ planti (posadzić roślinę)
+
+posadzka
+ pargeto
+
+posag
+ doto
+
+posąg
+ statuo
+ figuro
+
+posażny
+ dothava
+ riĉa (bogaty)
+ provizita (zaopatrzony)
+
+pościć
+ fasti
+
+pościel
+ litaĵo, sternaĵo
+
+pościelać, pościelić
+ sterni, pretigi liton
+
+pościg
+ postkuro, persekuto
+
+poseł
+ sendito (posłannik)
+ ambasadoro (poseł państwa)
+ legato, nuncio (poseł papieski)
+ deputito, parlamentano (poseł parlamentu)
+
+poselstwo
+ ambasadorejo, legacio (ambasada)
+ senditeco, misio (posłannictwo)
+
+posępieć
+ mallumiĝi (ściemnieć)
+ malsereniĝi (pochmurnieć)
+ malgajiĝi, afliktiĝi (trapić się)
+
+posępny
+ malhela, malluma (ciemny)
+ nuba, malserena (pochmurny)
+ malgaja, melankolia (smętny)
+ afliktita (strapiony)
+
+posesja
+ posedaĵo (posiadłość)
+ domo (dom)
+
+posesor
+ posedanto
+
+posiadać
+ posedi, havi
+
+posiadać się
+ regi sin mem (panować nad sobą)
+
+posiadacz
+ posedanto
+
+posiadłość
+ posedaĵo
+ bieno (majątek ziemski)
+ teritorio
+
+posiąść
+ ekposedi, ekhavi
+
+posiedzenie
+ kunsido
+ kunveno (zebranie)
+ debato (obrady)
+
+posiew
+ semo
+ semado
+ semaĵo
+
+posilać
+ ion nutri (pożywić)
+ plifortigi (wzmocnić)
+ refreŝigi (orzeźwić)
+
+posiłek
+ nutraĵo, manĝaĵo (pożywienie)
+ plifortigo (pokrzepienie)
+ helpo (pomoc)
+
+# str. 165
+
+posiłkować się
+ helpi al si (pomagać sobie)
+ apliki (stosować)
+ uzi (używać)
+
+posiłkowy
+ helpa
+
+posilny
+ nutreca, nutropova (pożywny)
+ satiga (sycący)
+
+posinieć
+ bluiĝi
+
+poskok
+ salto, suprensalto
+
+poskramiać, poskromić
+ subigi (pokonać)
+ moderigi (ustatkować)
+ haltigi (powstrzymać)
+ obeigi (zmusić do posłuchu)
+
+posłać
+ *posyłać*
+ *pościelać*
+
+poślad
+ grenkribraĵo
+
+pośladek
+ postaĵo
+
+posłanie
+ litaĵo (pościel)
+ kuŝejo (legowisko)
+ sternado (pościelenie)
+ sendo, sendado (posyłanie)
+
+posłaniec
+ sendato, sendito (posłannik)
+ sendatisto, kuriero (goniec)
+
+posłannictwo
+ senditeco, misio
+
+posłannik
+ sendito
+ apostolo
+
+pośledni
+ malplibona (gorszy)
+ malbonspeca (gorszego gatunku)
+ vulgara (pospolity)
+ posta (tylny)
+ lasta (ostatni)
+ ordinareca (ordynarny)
+
+poślubiać, poślubić
+ edzigi
+ edzinigi
+
+posłuch
+ aŭskulto (wysłuchanie)
+ aŭdienco (audiencja)
+ obeo (posłuszeństwo)
+ famo (wieść)
+ kredo (wiara)
+
+posłuchać
+ aŭskulti (wysłuchać)
+ obei (słuchać się)
+
+posługa
+ servo
+ helpo (pomoc)
+
+posługacz
+ servisto
+
+posługiwać
+ servi
+
+posługiwać się
+ helpi al si (pomagać sobie)
+ apliki (stosować)
+ uzi (używać)
+ utiligi (korzystać)
+
+posłuszeństwo
+ obeo, obeemo
+
+posłuszny
+ obea, obeema
+
+posłużyć
+ servi (dać usługi)
+ esti utila (być pożytecznym)
+ helpi (pomóc)
+ plifaciligi (ułatwić)
+ efiki (skutkować)
+
+pośmiech, pośmiewisko
+ prirido, moko
+ ridindaĵo, mokataĵo
+ kompromito (kompromitacja)
+
+pośmiertny
+ postmorta
+ postlasita (pozostawiony)
+
+posoka
+ sango (krew)
+ puso (ropa)
+ besta sango (jucha)
+
+pośpiech
+ rapido
+ rapidemo, rapideco
+ rapidigo
+ rapidiĝo
+
+pośpieszać
+ rapidi
+
+pośpieszyć się
+ rapidi
+ tro rapidi
+
+pośpieszny
+ rapida
+ ekspresa (umyślny)
+
+pospolity
+ ordinara (zwyczajny)
+ ĝenerala (powszechny)
+ publika (publiczny)
+ kutima (zwykły)
+ ofta (częsty)
+ vulgara (ordynarny)
+ komuna
+
+pospólstwo
+ popolamaso, plebo
+
+pospołu
+ kuna (razem)
+ komune (wspólnie)
+
+pośredni
+ pera
+ malrekta (krzywy, boczny)
+ meza (średni)
+ malekstrema (niekrańcowy)
+
+pośrednictwo
+ perado, interpero
+ faktorado,maklerado
+ agenteco
+
+pośredniczyć
+ peri, interperi
+ makleri, faktori
+
+pośrednik
+ peranto
+ makleristo
+ faktoro, agento
+
+pośród
+ inter, meze de
+
+pośrodku
+ en la mezo
+
+post
+ fasto
+
+postać
+ formo (kształt)
+ figuro (figura)
+ staturo (postawa)
+ aspekto (wygląd)
+
+postanawiać, postanowić
+ decidi
+ rezolucii (uchwalić)
+ verdikti (wyrokować)
+ dekreti (rozporządzać)
+
+postanowienie
+ decido (decyzja)
+ rezolucio (uchwała)
+ verdikto (wyrok)
+ dekreto (rozporządzenie)
+
+postąpić
+ *postępować*
+
+postawa
+ staturo
+ pozicio (położenie)
+ pozo (poza)
+ mieno (mina)
+ sinteno (zachowanie się)
+ rilato (stosunek)
+
+# str. 166
+
+postawić
+ starigi
+ loki (umieścić)
+ situi (sytuować)
+ konstrui (zbudować)
+
+postawny
+ belstatura, gracia (zgrabny)
+ belforma (kształtny)
+
+postęp
+ antaŭeniro, progreso
+ progresio [mat.]
+
+postępek
+ ago, faro (uczynek)
+ konduto (zachowanie się)
+
+postępować
+ procedi
+ agi (czynić)
+ konduti (zachowywać się)
+ progresi (czynić postępy)
+
+postępowy
+ progresa
+ progresema, liberala
+
+poste-restante
+ poŝt-restante
+
+posterunek
+ posteno
+ gardstarejo
+
+posterunkowy
+ gardstaranto
+
+postny
+ fasta
+ negrasigita (nieokraszony)
+
+postój
+ halto
+ haltejo, starejo
+
+postponować
+ malestimi (nie poważać)
+ malŝati (pogardzać)
+ malfavori (upośledzać)
+
+postrach
+ timigo
+ paniko
+
+postradać
+ perdi
+ malakiri
+
+postronek
+ ŝnuro
+
+postronny
+ flanka, akcesora (poboczny)
+ fremda (obcy)
+ apuda (bliski)
+
+postrzał
+ pafvundo
+
+postrzec, postrzegać
+ ekvidi, rimarki
+ percepti
+
+postrzegalny
+ perceptebla, rimarkebla
+
+postrzelić
+ pafvundi
+
+postrzelony
+ pafvundita
+ duonfreneza (zwariowany)
+
+postrzeżenie
+ ekvido, rimarko
+ percepto
+ observo
+
+postrzyżyny
+ ŝaftondado (strzyżenie owiec)
+ hartondado (strzyżenie włosów)
+ tonsuro (tonsura)
+
+postscriptum
+ postskribo
+
+postulat
+ postulo, postulaĵo, postulato
+
+postument
+ piedestalo, soklo
+
+posucha
+ sekeco, pluvomanko
+
+posunąć, posuwać
+ ŝovi, forŝovi
+ antaŭenŝovi
+ antaŭenigi
+ puŝi (pchać)
+ akceli (przyśpieszyć)
+
+posunięcie
+ ŝovo
+ movo (ruch)
+ manovro (manewr)
+
+posuwisty
+ glitanta (ślizgający się)
+ vigla (żywy)
+
+poświadczenie
+ atesto (świadectwo)
+ konfirmo (potwierdzenie)
+ legitimacio (legitymacja)
+
+poświata
+ lumo, lunlumo
+
+poświęcać
+ dediĉi, oferi (ofiarować)
+ konsekri, sanktigi (uświęcać)
+ inaŭguri
+ aspergi (pokropić wodą święconą)
+
+poświęcenie
+ dediĉo, ofero, sinofero
+ konsekro, sanktigo
+ inaŭguro
+ aspergo
+
+poświerka
+ emberizo
+
+poświst
+ fajfo, siblo, muĝo
+
+posyłać
+ sendi, forsendi
+ ekspedi (wyprawiać)
+ deputi (wysyłać posła)
+
+posyłka
+ sendo, sendaĵo
+ pakaĵo
+
+poszanowanie
+ estimo, respekto
+
+poszczególny
+ aparta (oddzielny)
+ unuopa (pojedynczy)
+ individua (indywidualny)
+ specifa (specyficzny)
+ detala (szczegółowy)
+
+poszept
+ flustro, murmureto (szemranie)
+ instigo (podmowa)
+ inspiro (natchnienie)
+
+poszewka
+ kusentegilo
+
+poszkapić się
+ fari absurdaĵon
+
+poszkodowany
+ perdosuferinta, endomaĝigita
+ malprofitinta (stratny)
+
+poszlaka
+ postsigno (ślad)
+ suspekto (podejrzenie)
+
+pot
+ ŝvito
+ ŝvitado (pocenie się)
+
+potąd
+ ĝis tiam (dopóki)
+ tiel longe (tak długo)
+ ĝis tie ĉi (do tego miejsca)
+
+# str. 167
+
+potajemny
+ sekreta
+ okulta, mistera (tajemniczy)
+
+potakiwać
+ jesi, kapjesi
+ aprobi (pochwalać)
+
+potas
+ kalio
+
+potaż
+ potaso
+
+potęga
+ potenco
+ fortego (siła)
+ povo (moc)
+ ekstreme, ekscese (na potęgę)
+
+potęgować
+ potencigi
+ pliigi, multobligi (pomnożyć)
+ plifortigi (wzmacniać)
+
+potem
+ poste, post tio, post tiu tempo
+
+potencja
+ potenco, potencialeco
+ ebleco (możliwość)
+
+potencjalny
+ potenciala
+
+potentat
+ potenculo
+ riĉegulo (bogacz)
+ 
+potępiać
+ malaprobi (uznać za złe)
+ mallaŭdi (ganić)
+ kondamni (skazać)
+
+potępieniec
+ kondamnito
+ inferano (piekielnik)
+
+potężnieć
+ potenciĝi
+ plifortiĝi (wzmocnić się)
+ multobliĝi (pomnożyć się)
+
+potężny
+ potenca
+ fortega (bardzo silny)
+ kolosa, giganta, grandega (olbrzymi)
+
+potknąć się
+ faleti
+
+potnieć
+ ŝviti, ŝvitkovriĝi
+
+potnik
+ ŝvitprotektilo
+ ŝvittuko (chusta)
+ ŝvitbenko (ławka)
+
+po to
+ tiucele, en tiu celo
+
+potoczny, potoczysty
+ ruliĝanta, rulebla, ruliĝema (łatwo toczący się)
+ flua (płynny)
+ kuranta (bieżący)
+ ĉiutaga (codzienny)
+ ordinara (zwykły)
+
+potok
+ torento
+
+potomek
+ posteulo, ido
+
+potomność
+ estonteco (przyszłość)
+ sekvontaj tempoj (przyszłe czasy)
+ posteularo, idaro (potomstwo)
+
+potomstwo
+ idaro
+ posteularo
+
+potop
+ superakvego, inundo, diluvo
+
+potrącać
+ ekpuŝi (popchnąć)
+ forpuŝi (odepchnąć)
+ depreni (odjąć)
+ dekalkuli (odliczyć)
+ aludi (napomknąć)
+
+potrafić
+ scipovi (umieć)
+ esti kapabla (być zdolnym)
+
+potrawa
+ manĝaĵo
+
+potroić
+ triobligi
+
+potrójny
+ triobla
+
+po trosze
+ po iom, poparte (częściowo)
+ iom post iom (stopniowo)
+
+potrzask
+ birdokaptilo
+
+potrzeba
+ bezono
+ neceso (niezbędność)
+ nepreco (nieodzowność)
+ malriĉeco (ubóstwo)
+
+potrzeba
+ oni bezonas, estas bezonate, oni devas, necesas
+
+potrzebny
+ bezona, bezonata
+ necesa (niezbędny)
+ nepra (konieczny)
+
+potrzebować
+ bezoni
+ necesi
+ devi (musieć)
+
+potulny
+ obeema (posłuszny)
+ milda (łagodny)
+ humila (pokorny)
+
+poturbować
+ bati (bić)
+ maltrankviligi (niepokoić)
+
+potwarz
+ kalumnio
+ paskvilo, pamfleto (utwór spotwarzający)
+
+potwarzać
+ kalumnii
+
+potwierdzać
+ konfirmi, certigi, aŭtentikigi
+ atesti (poświadczyć)
+
+potwór
+ monstro
+ strangaĵo (dziwoląg)
+
+póty
+ tiel longe (tak długo)
+ ĝis tiam, ĝis tiu tempo (do tego czasu)
+ ĝis tie (do tego miejsca)
+
+potyczka
+ bataleto, interbatalo
+
+pouczać
+ instrui (uczyć)
+ doni instrukcion (dać instrukcję)
+ klerigi (oświecić)
+ klarigi (objaśnić)
+
+pouczający
+ instrua, instrukcia
+ didaktika
+ edifa (budujący)
+
+poufały
+ familiara
+ intima
+ impertinenta (zuchwały)
+
+pufny
+ konfidenca
+ sekreta (tajemniczy)
+ intima (zażyły)
+
+# str. 168
+# str. 169
+# str. 170
+
+poza, pozo
+ pozicio (położenie)
+ mieno (mina)
+
+pożądać
+ avidi
+ deziregi
+ soifi (łaknąć, pragnąć)
+ postuli (żądać)
+
+pożądliwy
+ avida (chciwy)
+ voluptema (lubieżny)
+ pasia (namiętny)
+
+pożalić się
+ kompati (ulitować się)
+ plendi (poskarżyć się)
+
+pożałować
+ bedaŭri
+ domaĝi (szczędzić)
+ kompati (litować się)
+ avari (skąpić)
+
+pożar
+ brulo, brulego
+
+pożarcie
+ manĝegado
+ nutraĵo (pokarm)
+
+pozbawiać
+ senigi
+ liberigi (uwolnić)
+
+pozbyć się, pozbywać się
+ seniĝi
+ liberiĝi (uwolnić się)
+ forigi (usunąć)
+
+pozdrawiać, pozdrowić
+ saluti
+
+pozdrowienie
+ saluto
+ resaniĝo (wyzdrowienie)
+
+pożegnać (się)
+ adiaŭi, adiaŭdiri
+ disiĝi (rozstać się)
+
+pożegnalny
+ adiaŭa
+ disiga
+
+pozer
+ pozulo, ŝajniganto
+
+pożerać
+ manĝegi, formanĝi
+ engluti (połykać)
+ ensorbi (pochłaniać)
+
+pozew
+ alvoko, juĝa alvoko
+
+pozierać
+ rigardi
+
+poziom
+ nivelo
+
+poziomka
+ frago
+
+poziomy
+ horizontala
+ malalta (niski)
+ vulgara (pospolity)
+ triviala (płaski, gminny)
+
+pozłota
+ orumo
+
+poznać, poznawać
+ ekkoni
+ rekoni (rozpoznać)
+ kompreni (pojąć)
+ percepti (postrzegać)
+ interkonatiĝi (zapoznać się)
+ interkonigi (zapoznać)
+ konjekti (domyśleć się)
+
+poznanie
+ ekkono
+
+późny
+ malfrua
+
+pożoga
+ brulego, fajrego
+
+pożółkły
+ flaviĝinta
+
+pozór
+ ŝajno
+ supraĵeco, eksteraĵo (powierzchowność)
+ aspekto (wygląd)
+ preteksto (pretekst)
+
+pozorny
+ ŝajna, laŭŝajna
+ iluzia (zwodniczy)
+ fikcia (podstawiony)
+
+pozostałość
+ resto, restaĵo
+ heredaĵo (spadek)
+
+pozostały
+ restinta
+ cetera, plua
+
+pozować
+ pozi
+
+pożreć
+ manĝegi, formanĝi
+ ensorbi (wchłaniać)
+
+pozwać
+ juĝe alvoki
+ plendi (skarżyć)
+
+pozwalać, pozwolić
+ permesi
+ bonvoli (raczyć, zechcieć)
+
+pozwany
+ alvokita (wezwany)
+ akuzato (oskarżony)
+
+pozwolenie
+ permeso
+ aprobo
+
+pożycie
+ kunvivo
+
+pozycja
+ pozicio
+ pozo (poza)
+ posteno (stanowisko)
+ situacio (sytuacja)
+
+pożyczać
+ prunti
+ pruntedoni (dać pożyczkę)
+ pruntepreni (wziąć pożyczkę)
+ krediti
+
+pożyczka
+ prunto
+
+pozyskać, pozyskiwać
+ gajni
+ akiri (zdobyć)
+ kapti (kaptować)
+ varbi (werbować)
+
+pożyteczny
+ utila
+ profitdona (korzystny)
+
+pożytek
+ utilo, avantaĝo
+ profito (zysk)
+
+pożytkować
+ utiligi
+ uzi (używać)
+ profiti (korzystać)
+
+pozytyw
+ pozitivo
+
+pozytywizm
+ pozitivismo
+
+pozytywka
+ gurdeto
+
+pozytywny
+ pozitiva
+
+pozywać
+ juĝe alvoki
+ plendi (skarżyć)
+
+pożywać
+ konsumi (konsumować)
+ manĝi (jeść)
+
+pożywić
+ nutri
+ satigi (nasycić)
+
+pożywienie
+ nutraĵo
+
+pożywny
+ nutra, nutreca, nutropova
+ satiga (sycący)
+ fortiga (posilny)
+
+pra-
+ pra-
+
+prababka
+ praavino
+
+prać
+ lavi
+ bati (bić)
+
+praca
+ laboro
+ peno (trud)
+ verko (dzieło)
+
+prącie
+ vergeto
+ peniso (członek męski)
+
+pracodawca
+ labordonanto
+
+pracować
+ labori
+
+pracowity
+ laborema, diligenta (pilny)
+ peniga, laciga (nużący)
+
+pracownia
+ laborejo, laborĉambro
+ metiejo (warsztat)
+
+pracownik
+ laboranto
+ laboristo (robotnik)
+ oficisto (urzędnik)
+ funkciulo (funkcjonariusz)
+
+praczka
+ lavistino
+
+prąd
+ fluo
+ kurento (prąd elektryczny)
+ tendenco (dążność)
+
+pradziad
+ praavo
+
+pragmatyczny
+ pragmatika
+
+pragmatyka
+ pragmatiko
+
+pragnąć
+ deziri, deziregi
+ avidi (pożądać)
+ soifi (pragnąć pić)
+ aspiri
+
+pragnienie
+ deziro, dezirego
+ avido (żądza)
+ soifo (pragnienie picia)
+
+prahistoria
+ prahistorio
+
+praktyczny
+ praktika
+ utila (pożyteczny)
+ uzebla (używalny)
+ aplikinda, aplikebla (stosowalny)
+
+praktyka
+ praktiko
+ sperto (doświadczenie)
+ rutino (wprawa)
+ apliko (zastosowanie)
+ rito, ceremonio (obrzęd)
+ intrigo (intryga)
+
+praktykant
+ praktikanto
+
+praktykować
+ praktiki
+ apliki (stosować)
+
+prałat
+ prelato
+
+pralnia
+ lavejo
+
+pranie
+ lavado
+ batado (bicie)
+
+praojciec
+ prapatro
+ praavo, praulo
+
+prasa
+ premilo
+ presilo (prasa drukarska)
+ gazetaro (gazety)
+
+prasować
+ gladi (prasować żelazkiem)
+ glatigi (gładzić)
+ premi (ściskać)
+
+praszczur
+ prapraavo (prapradziad)
+ prapranepo (praprawnuk)
+
+prątek
+ *pręcik*
+
+prawda
+ vero
+ vereco (prawdziwość)
+ veraĵo (rzecz prawdziwa)
+
+prawdomówny
+ verdirema
+
+prawdopodobny
+ versimila, verŝajna, kredebla, probabla
+
+prawdziwy
+ vera
+ efektiva (rzeczywisty)
+ reala (realny)
+ sincera (szczery)
+ aŭtentika (autentyczny)
+ originala (oryginalny)
+ malfalsa, nefalsita (niesfałszowany)
+
+prawić
+ malkoncize paroli, rakontadi, diradi
+ prediki (kazać)
+
+prawica
+ dekstra mano (ręka)
+ dekstra flanko (strona)
+ dekstro, dekstrularo [polit.]
+
+prawiczka
+ virgulino
+
+prawidło
+ regulo, normo (przepis)
+ maksimo, principo (zasada)
+ rektigilo (przyrząd)
+
+prawidłowy
+ regula
+ laŭregula, laŭnorma, normala
+
+prawie
+ preskaŭ
+
+prawnik
+ juristo
+
+prawnuk
+ nepido, pranepo
+
+prawny
+ leĝa
+ jura, leĝoscienca (należący do nauki prawa)
+ laŭleĝa, legitima, rajta (uprawniony)
+ juĝa (sądowy)
+
+prawo
+ leĝo (ustawa)
+ rajto (uprawnienie)
+ juro, leĝoscienco (nauka prawa)
+ regulo (prawidło)
+ normo (norma)
+
+prawo, na prawo, w prawo
+ dekstre
+ dekstren
+
+prawodawca
+ leĝdonanto
+
+prawodawstwo
+ leĝaro, kodo (kodeks)
+ leĝdonando (dawanie praw)
+
+prawołomny
+ leĝrompa
+
+prawomocny
+ valida, leĝforta
+
+# str. 172
+
+prawomyślny
+ lojala
+
+prawość
+ dekstreco (nie lewość)
+ justeco (sprawiedliwość)
+ lojaleco (prawomyślność)
+ nobleco (szlachetność)
+ laŭleĝeco (prawność)
+ rajto (uprawnienie)
+
+prawosławny
+ ortodoksa, grekokatolika
+
+prawować się
+ procesi
+
+prawowierny
+ ortodoksa
+
+prawowity
+ legitima
+ rajtigita (uprawniony)
+
+prawy
+ dekstra (nie lewy)
+ justa (sprawiedliwy)
+ lojala (prawomyślny)
+ nobla (szlachetny)
+ vera (prawdziwy)
+ laŭleĝa (prawny)
+ rajthava (uprawniony)
+
+prawzór
+ pramodelo, prototipo
+
+prążka
+ strieto
+
+prążkowany
+ striita, strietdesegna
+
+prażyć
+ rosti (skwarzyć)
+ friti (smażyć)
+ baki (piec)
+ sekigi (suszyć)
+ pafi (strzelać)
+
+prebenda
+ prebendo
+
+precedens
+ precedenco
+ modelo (wzór)
+ maksimo (zasada postępowania)
+
+pręcik
+ stangeto (mały pręt)
+ stameno (pręcik kwiatu)
+
+precyzja
+ precizeco
+
+precyzyjny
+ preciza, precizeca
+
+precyzować
+ precizigi
+
+precz
+ for, fore
+
+predestynować
+ antaŭdestini
+
+prędki
+ rapida (szybki)
+ baldaŭa (rychły)
+ frua (wczesny)
+ subita (nagły)
+ urĝa (pilny)
+ rapidema (śpieszny)
+ impulsema (porywczy)
+
+prędkość
+ rapido, rapideco
+
+predylekcja
+ pliamo, prefero, preferemo
+ inklino
+
+predysponować
+ antaŭdisponi, prepari, inklinigi
+
+predyspozycja
+ antaŭdispono, inklino
+
+prefekt
+ prefekto
+
+prefektura
+ prefektejo
+ prefekteco
+
+preferencja
+ prefero
+ supreco (wyższość)
+
+prefiks
+ prefikso
+
+pręga
+ strio
+ batstrio (cięga)
+
+pręgierz
+ malhonora kolono, punkolono, pilorio
+
+pręgowany
+ strihava, striita, stridesegna
+
+prehistoria
+ antaŭhistorio, prahistorio
+
+prekluzyjny
+ definitiva
+
+prekursor
+ anoncanto (zwiastun)
+ antaŭsigno (oznaka)
+
+prelegent
+ preleganto
+
+prelekcja
+ prelego, lekcio
+
+preliminarz
+ antaŭkalkulo
+ budĝeto, budĝetprojekto
+ provizoraĵo (prowizorium)
+
+preliminować
+ antaŭkalkuli
+ destini (przeznaczyć)
+ asigni (asygnować)
+
+preludium
+ preludo, antaŭludo
+
+premedytacja
+ antaŭpripenso, anatŭmedito
+ intenco
+
+premia
+ premio
+ rekompenco (nagroda)
+
+premier
+ ĉefministro
+
+premiera
+ unua prezentado
+
+premiować
+ premii
+
+prenumerata
+ abono
+
+prenumerować
+ aboni
+
+preparat
+ preparaĵo
+
+preparować
+ prepari
+
+preponderancja
+ supereco
+
+presbiter
+ presbitero
+
+presbiterianin
+ presbiteriano
+
+prerogatywa
+ prerogativo
+
+presja
+ premo (nacisk)
+ devigo (przymus)
+
+pręt
+ stango
+ vergo (rózga)
+ trunketo (łodyga)
+
+prestiż
+ aŭtoritato, prestiĝo
+
+pretekst
+ preteksto
+
+pretendować
+ pretendi
+
+pretensja
+ pretendo
+ riproĉo (zarzut)
+
+pretensjonalny
+ pretendema
+ aroganta (bezczelny)
+ bombasta (przesadny)
+ nenaturala (nienaturalny)
+
+prewencja
+ antaŭveno, prevencio
+
+prewencyjny
+ antaŭvena, prevencia
+
+prezencja
+ sinprezento, aspekto
+
+prezent
+ donaco
+
+prezentować
+ prezenti
+
+prezerwatywa
+ ŝirmilo
+ protektilo
+ kondomo
+
+prezes
+ prezidanto
+
+prezesura
+ prezidanteco
+
+prezydent
+ prezidanto
+ ŝtatprezidanto (prezydent państwa)
+ urbprezidanto (prezydent miasta)
+
+prezydentowa
+ prezidantedzino
+
+prezydium
+ prezidantaro
+ prezidantejo
+
+prezydować
+ prezidi
+
+primogenitura
+ unuanaskiteco
+
+primadonna
+ ĉefkantistino, primadono
+
+próba
+ provo, provaĵo
+ specimeno (próbka, okaz próbny)
+ ekzameno, esploro (zbadanie)
+ tento (pokusa)
+ peno (wysiłek)
+ eksperimento (doświadczenie)
+ noviceco (nowicjat)
+
+probierz
+ provilo
+ kriterio
+
+próbka
+ specimeno
+
+problemat
+ problemo
+
+problematyczny
+ problema
+ duba (wątpliwy)
+
+proboszcz
+ preposto
+
+próbować
+ provi
+ ekzameni
+ esplori (badać)
+ eksperimenti (eksperymentować)
+ gustumi (skosztować)
+ peni (usiłować)
+
+probówka
+ provtubeto
+
+proca
+ ĵetilo
+
+proceder
+ procedo (postępowanie)
+ profesio (zawód)
+
+procedura
+ proceduro
+
+procent
+ procento
+
+procentować
+ procenti
+
+proces
+ proceso
+
+procesja
+ procesio
+
+procesować się
+ procesi
+
+proch
+ pulvo (proch strzelniczy)
+ polvo (pył)
+
+próchnica
+ humo
+
+próchnieć
+ putri
+
+próchno
+ putrinaĵo, putrinta ligno
+
+prochownia
+ pulvejo, pulvofarejo
+
+prócz
+ krom
+ escepte (wyjąwszy)
+ ekster (poza)
+
+producent
+ produkanto
+
+produkcja
+ produktado
+
+produkcyjny
+ produkta, produktodona, produktema
+
+produkować
+ produkti
+ prezenti (przedstawiać)
+
+produkt
+ produkto, produktaĵo
+
+profan
+ profanulo
+
+profanować
+ profani, malhonori
+
+profesja
+ profesio
+
+profesor
+ profesoro
+
+profesura
+ prefesoreco
+
+profil
+ profilo
+
+profilaktyka
+ profilaktiko
+
+profit
+ profito
+
+profitka
+ kandelpladeto
+
+próg
+ sojlo
+ hejmo (dom rodzinny)
+
+prognostyk
+ antaŭsigno (oznaka)
+ antaŭdiro (przepowiednia)
+
+prognoza
+ prognozo
+
+program
+ programo
+
+progres
+ progreso
+
+progresja
+ progresio
+
+prohibicja
+ malpermeso (zakaz)
+
+projekcyjny
+ projekcia
+
+projekt
+ projekto, propono (propozycja)
+ iniciato (inicjatywa)
+ plano (plan)
+ skemo (schemat)
+ skizo (szkic)
+
+projektor
+ projekciaparato, projekciilo
+
+proklamacja
+ proklamo
+ alvoko (odezwa)
+ flugfolio (ulotka)
+
+proklamować
+ proklami
+
+prokura
+ prokuro
+
+prokurator
+ prokuroro, publika akuzanto
+
+# str. 174
+
+prokurent
+ prokuristo
+
+prolegomena
+ enkonduko (wstęp)
+ antaŭparolo (przedmowa)
+
+proletariat
+ proletariaro, proletaro
+
+proletariusz
+ proletario, proleto
+
+proletaryzować się
+ proletariĝi
+ malriĉiĝi (ubożeć)
+
+prolog
+ prologo
+
+prolongata
+ plilongigo (przedłużenie)
+ prokrasto (zwłoka)
+
+prolongować
+ plilongigi (przedłużać)
+ prokrasti (odroczyć)
+
+prom
+ pramo
+
+promenada
+ promeno, promenado
+ promenejo
+
+promień
+ radio
+
+promienieć
+ radii, brili
+
+promieniować
+ radii, disradii, ellasi radiojn
+
+promienisty
+ radiara
+ radianta
+
+promocja
+ promocio
+
+promotor
+ protektanto (opiekun)
+ iniciatinto (inicjator)
+
+promyk
+ radieto
+
+propaganda
+ propagando
+
+propagator
+ propagandisto
+
+propagować
+ propagandi
+ disvastigi (rozpowszechniać)
+
+propedeutyka
+ propedeŭtiko
+
+propeller
+ antaŭenpelilo, helico
+
+proponować
+ proponi
+
+proporcja
+ proporcio
+
+proporcjonalny
+ proporcia
+ harmonia (harmonijny)
+ belforma (kształtny)
+
+proporzec
+ standardo
+ lanca flageto (chorągiewka u lancy)
+
+propozycja
+ propono
+
+proroctwo
+ profetaĵo
+
+prorok
+ profeto
+
+prorokować
+ profeti, antaŭdiri, prognozi (przepowiadać)
+ aŭguri (wróżyć)
+
+prośba
+ peto
+ petskribo (podanie)
+
+prosektorium
+ sekcejo
+
+prosiak
+ porkido
+
+prosiany
+ milia
+
+prosić
+ peti
+ petegi (błagać)
+ postuli (żądać)
+ inviti (zapraszać)
+
+prosić się
+ petegi (błagać)
+ insiste peti (nalegać)
+ naski porkidon (urodzić prosię)
+
+prosię
+ porkido
+
+proso
+ milio
+
+prospekt
+ prospekto
+ vidaĵo (widok)
+
+prosperować
+ prosperi
+
+prostak
+ krudulo
+ simplulo
+ maldelikatulo
+ vulgarulo
+
+prostoduszny
+ simplanima
+ sincera (szczery)
+
+prostokąt
+ rektangulo, ortangulo
+
+prostokątny
+ orta
+ rektangula
+
+prostopadły
+ perpendikulara
+
+prostota
+ simpleco
+ sincereco (szczerość)
+ plebo (pospólstwo)
+
+prostować
+ rektigi, malkurbigi (wyrównywać)
+ korekti (poprawiać)
+ rebonigi (naprawiać)
+
+prostracja
+ senfortiĝo (osłabienie)
+ apatio (zobojętnienie)
+
+prosty
+ rekta, malkurba (prosto idący, nie krzywy)
+ orta (o kącie)
+ simpla, malkomplika (nie złożony)
+ facila (łatwy)
+ primitiva (pierwotny)
+ sincera (szczery)
+ vulgara (prostacki)
+ ordinara (zwyczajny)
+
+prostytuować
+ prostitui
+
+prostytutka
+ prostituistino, publikulino, malĉastulino, ĉiesulino
+
+proszek
+ pulvoro
+ pilolo (pigułka)
+
+proszkować
+ pulvorigi
+
+prószyć
+ surŝuti polvon (posypywać pyłem)
+ pudri (pudrować)
+ neĝeti (o śniegu)
+ pluveti (o deszczu)
+
+protagonista
+ protagonisto, ĉefrolulo
+
+protegować
+ protekti
+ favori (darzyć względami)
+ ŝirmi (ochraniać)
+
+# str. 175
+
+protekcja
+ protekto
+ favoro (względy)
+
+protektor
+ protektanto
+
+protektorat
+ protektorato, protektado
+
+protest
+ protesto
+
+protestant
+ protestanto
+
+protestantyzm
+ protestantismo
+
+protestować
+ protesti
+ opozicii (oponować)
+
+protokół
+ protokolo
+ raporto (sprawozdanie)
+
+protokołować
+ protokoli
+
+protoplasta
+ praavo, prapatro, praantaŭulo
+
+protoplazma
+ protoplasmo
+
+prototyp
+ prototipo, pramodelo, pratipo
+ originalo
+
+prowadzić
+ konduki, gvidi
+ direkti (kierować)
+ administri (zawiadywać)
+ estri (być zwierzchnikiem)
+ kaŭzi (powodować)
+ venigi (sprowadzać)
+
+prowadzić się
+ konduti (zachowywać się)
+
+prowent
+ enspezo
+
+prowincja
+ provinco
+
+prowincjonalizm
+ provincialismo
+
+prowizja
+ provizio
+ procentaĵo
+
+prowizor
+ farmaciejestro, farmacia komizo
+
+prowizorium
+ provizoraĵo
+
+prowizoryczny
+ provizora
+
+prowiant
+ nutraĵo, nutra provizaĵo, provianto
+
+prowiantować
+ provizi, provizumi, provianti
+
+prowokator
+ provokisto
+
+prowokować
+ provoki
+
+proza
+ prozo
+ prozaĵo (utwór prozaiczny)
+
+prozaik
+ prozisto, prozverkisto
+
+prozelita
+ prozelito, konvertito
+
+próżnia
+ malpleno, malplenejo
+ vakuo [fiz.]
+
+próżniak
+ mallaboremulo, maldiligentulo
+
+próżnować
+ mallabori, nenion fari, esti senokupa
+
+próżny
+ malplena (pusty)
+ vana, senefika (daremny, bezskuteczny)
+ vanta (czczy)
+
+prozodia
+ prozodio
+
+pruć
+ malkudri
+ fendi (rozpłatać)
+
+pruderia
+ ŝajna hontemo, prudeco
+
+pruski kwas
+ ciana acido
+
+prycza
+ tabullito, dormobenko
+
+prym
+ antaŭeco, supereco (pierwszeństwo)
+ primo [muz.]
+
+prymas
+ ĉefepiskopo, primato
+
+prymat
+ ĉefepiskopeco (arcybiskupstwo)
+ papeco (papiestwo)
+ antaŭeco (pierwszeństwo)
+ primateco
+
+prymitywny
+ primitiva
+
+prymka
+ maĉtabako
+
+prymus
+ unua lernanto
+
+pryncypał
+ ĉefo (szef)
+ mastro (gospodarz)
+
+pryncypalny
+ ĉefa
+
+pryskać, prysnąć
+ ŝpruci, ŝpricugi
+ krevi (pękać)
+ plaŭdi (pluskać)
+ diskuri, forkuri (pierzchać)
+
+pryszcz, pryszczel
+ pustulo
+ veziketo, edemo (bąbel)
+
+prysznic
+ duŝo
+
+prywata
+ privata afero
+ privata profito
+
+prywatny
+ privata
+ nepublika (niepubliczny)
+ persona (osobisty)
+ neoficiala (nieurzędowy)
+
+pryzmat
+ prismo
+
+pryzmatyczny
+ prisma
+ spektra (widmowy)
+
+prządka
+ ŝpinistino
+
+prząść
+ ŝpini
+
+przaśnica, przaśnik
+ maco
+
+przaśny
+ nefermentita, senacida
+
+prze
+ -tra-
+ trans-
+ tro-
+ ali-
+ re-
+ ege, tre
+ antaŭ-
+ preter-
+
+przebaczać
+ pardoni
+
+przebaczalny
+ pardonebla
+
+przebaczenie
+ pardono
+
+# str. 176
+
+przebąkiwać
+ murmuri (szemrać)
+ flustri (szeptać)
+
+przebić
+ *przebijać*
+
+przebieg
+ kuro, trakuro
+ proceso (proces)
+ intersekvo (następstwo)
+ historio (dzieje)
+ ruzaĵo (podstęp)
+
+przebiegły
+ sagaca, ruza
+
+przebierać
+ traserĉi (przeszukiwać)
+ elekti (wybierać)
+ alivesti (przebierać odzież)
+ fingrumi (przebierać palcami)
+ transpaŝi (przekroczyć)
+ troŝarĝi (przeładować)
+ elĉerpi (wyczerpać)
+
+przebijać
+ trabati
+ traigi (przeszyć)
+ trapiki (przekłuć)
+ trui (przedziurawić)
+ trabori (przewiercić)
+ tralasi (przepuszczać)
+ superi (przewyższać)
+
+przebijać się
+ traiĝi, penetri (przenikać, przedostać się)
+ videbliĝi, montriĝi (ukazywać)
+ trabrili (przeświecać)
+
+przebłagać
+ elpeti pardonon
+
+przebłysk
+ trabrilo
+
+przebóg!
+ pro Dio!
+
+przebój
+ trapuŝiĝo, trabatiĝo (przebicie się)
+ superilo, trarompiĝilo
+
+przebrać
+ *przebierać*
+
+przebrzmieć
+ trasoni, forsoni
+ silentiĝi (ucichnąć)
+
+przebudować
+ alikonstrui
+ rekonstrui
+
+przebudzenie się
+ vekiĝo
+
+przebyć, przebywać
+ estadi, restadi (zostawać)
+ pasigi (spędzać)
+ trairi, trapasi (przejść)
+ travivi (przeżyć)
+ transiĝi (przeprawić się)
+ venki (przezwyciężyć)
+
+przeć
+ premi (cisnąć)
+ puŝi (pchać)
+ celi (dążyć)
+
+przeceniać
+ trotaksi
+ troŝati
+
+przechadzać się
+ promeni
+
+przechadzka
+ promeno, promenado
+
+przechera
+ saĝumulo (mędrek)
+ mokemulo (kpiarz)
+ ĉarlatano (szalbierz)
+
+przechodni
+ traira, traireja
+ provizora (tymczasowy)
+ transitiva [gramat.]
+
+przechodzić
+ pasi
+ trairi
+ transiri
+ trastudi (przestudiować)
+ superi (przewyższać)
+ transpaŝi (przekraczać)
+ preteriri (mijać)
+ penetri (przenikać)
+
+przechodzień
+ preteriranto, pasanto
+
+przechować, przechowywać
+ konservi
+ kaŝi (ukrywać)
+
+przechrzcić
+ alibapti, rebapti
+ kristanigi
+ konverti (nawracać)
+ alinomigi (przemianować)
+
+przechrzta
+ kristaniĝinto, neofito
+
+przechwalać
+ trolaŭdi
+
+przechwalać się
+ trolaŭdi sin
+ fanfaroni
+
+przechwałka
+ trolaŭdo, fanfaronado
+ minaco (pogróżka)
+
+przechylać
+ klini, alklini
+ flankenklini
+
+przeciąć
+ *przecinać*
+
+przeciąg
+ trairo, tramarŝo (przemarsz)
+ traflugo (przelot)
+ trablovo (przewiew)
+ daŭro (przeciąg czasu)
+ tempospaco (okres)
+
+przeciągać, przeciągnąć
+ tratiri
+ transtiri
+ trairi
+ tramarŝi (przechodzić)
+ trakonduki (przeprowadzić)
+ plidaŭrigi (przedłużyć)
+ trostreĉi (zbyt naprężyć)
+ etendi (wyciągać)
+ varbi (zaciągać, werbować)
+
+przeciągać się
+ etendiĝi
+ plilongiĝi (przedłużać się)
+ daŭri (trwać)
+
+przeciągły
+ etendiĝanta (rozciągający się)
+ kontinua (ciągły)
+ trolonga (za długi)
+
+przecie
+ *przecież*
+
+przecięcie
+ distranĉo
+ intersekco (???)
+
+przeciekać
+ traguti, traflui
+ trafiltriĝi (przesączyć się)
+
+przecierać
+ froti
+ trafroti, frotante trui (tarciem przedziurawić)
+ viŝi, ĉirkaŭviŝi (polerować)
+ klerigi (kształcić)
+
+# str. 177
+
+przeciętny
+ meza
+ meznombra
+
+przecież
+ ja (wszakże)
+ tamen (jednak)
+ do (więc)
+ certe (pewnie)
+
+przecinać
+ tratranĉi
+ distranĉi
+ bari (zagrodzić)
+ interrompi (przerwać)
+
+przecinać się
+ intertranĉiĝi
+ intersekciĝi
+
+przecinek
+ komo
+
+przeciskać
+ trapremi, trapuŝi (przepchnąć)
+ transĵeti (przerzucić)
+
+przeciw, przeciwko
+ kontraŭ
+ kompare kun (w porównaniu)
+ spite (wbrew)
+ malgraŭ (mimo)
+
+przeciwdziałać
+ kontraŭagi
+
+przeciwgnilny
+ atisepsa
+
+przeciwić się ???
+ kontraŭstari
+ rezisti (opierać się)
+ opozicii (oponować)
+
+przeciwieństwo
+ kontraŭaĵo, malo, antitezo
+ kontraŭeco, maleco, kontraŭdiro (sprzeczność)
+ antagonismo
+ konflikto
+ kontrasto
+ malhelpaĵo (przeszkoda)
+ malfavora, malprospera (niepomyślny)
+
+przeciwko
+ *przeciw*
+
+przeciwległy
+ kontraŭsituita, kontraŭkuŝanta
+ inversa
+
+przeciwnik
+ kontraŭulo
+
+przeciwnożny
+ antipoda
+
+przeciwność
+ *przeciwieństwo*
+
+przeciwny
+ kontraŭa, mala
+ kontrasta
+ inversa (odwrotny)
+ malfavora, malprospera (niepomyślny)
+
+przeciwprostokątna
+ hipotenuzo
+
+przeciwstawiać
+ kontraŭstarigi, kontraŭmeti, kontrastigi
+
+przeciwwaga
+ kontraŭpezo
+
+przeczenie
+ neo, neado
+ negacio
+
+przeczucie
+ antaŭsento
+ intuicio
+
+przeczuć, przeczuwać
+ antaŭsenti
+ antaŭdiveni (przewidywać)
+
+przeczyć
+ nei
+ opozicii (oponować)
+
+przeczyszczać
+ purigi
+ rafini (oczyszczać z domieszek)
+ laksigi (przeczyszczać żołądek)
+
+przeczytać
+ tralegi, esti leginta
+
+przed
+ antaŭ
+
+przedać, przedawać
+ *sprzedawać*
+
+przedarcie
+ disŝiro, traŝiro
+
+przedarcie się
+ disŝiriĝo, traŝiriĝo
+ traiĝo (przedostanie się)
+
+przedawnienie
+ senvalidiĝo
+ preskripto
+
+przede wszystkim
+ antaŭe, antaŭ ĉio, unuavice, precipe
+
+przedhistoryczny
+ antaŭhistoria
+
+przedimek
+ artikolo
+
+przedkładać, przedłożyć
+ antaŭmeti
+ prezenti (przedstawić)
+ proponi (proponować)
+
+przedłużać
+ plilongigi
+
+przedmieście
+ antaŭurbo
+
+przedmiot
+ objekto
+ komplemento (dopełnienie)
+
+przedmiotowy
+ objekta
+ objektiva
+
+przedmowa
+ antaŭparolo
+ enkonduko (wstęp)
+ prologo (prolog)
+
+przedmurze
+ antaŭmuro
+ ŝirmilo (osłona)
+ fortikaĵo (forteca)
+ bastiono (warownia)
+
+przedni
+ antaŭa
+ bonega (wyśmienity)
+ eminenta (wybitny)
+ unuaspeca (pierwszogatunkowy)
+
+przednówek
+ antaŭrikolta tempo
+
+przedobiedni
+ antaŭtagmanĝa
+ antaŭtagmeza (przedpołudniowy)
+
+przedonegdaj
+ antaŭ tri tagoj
+
+przedostatni
+ antaŭlasta
+
+przedostać się, przedostawać się
+ traiĝi
+ penetri (przeniknąć)
+ transiĝi (przeprawić się)
+
+# str. 178
+
+przedpiekle
+ antaŭinfero
+
+przedpokój
+ antaŭĉambro
+ koridoro, vestiblo (korytarz)
+
+przedpołudnie
+ antaŭtagmezo
+
+przedramię
+ antaŭbrako
+
+przedrostek
+ prefikso
+
+przedruk
+ represo
+
+przedrzeźniać
+ moki, mokante imiti
+ simii (małpować)
+
+przedsiębiorca
+ entreprenanto, entreprenisto
+
+przedsiębiorczy
+ entreprenema, iniciatema
+
+przedsiębiorstwo
+ entrepreno
+
+przedsiębrać, przedsięwziąć
+ entrepreni
+
+przedsięwzięcie
+ entrepreno
+ intenco (zamiar)
+ plano (plan)
+
+przedsionek
+ vestiblo
+
+przedsmak
+ antaŭgusto
+
+przedśmiertny
+ antaŭmorta
+ agonia
+
+przedstawiać
+ prezenti
+ reprezenti (reprezentować)
+ bildigi (obrazować)
+ ludi (grać)
+
+przedstawienie
+ prezento
+ reprezentado
+ spektaklo (widowisko)
+
+przedstawiciel
+ reprezentanto
+ delegito (delegat)
+ agento (pośrednik handlowy)
+
+przedstawicielstwo
+ reprezentado, reprezentanteco
+ reprezentantejo, agentejo (agentura)
+
+przedświt
+ antaŭtagiĝo
+ aŭroro
+
+przedtem
+ antaŭe
+ pli frue (wprzód)
+ iam (niegdyś)
+ antaŭ kelka tempo (przed niejakim czasem)
+
+przedwczesny
+ trofrua, antaŭtempa
+
+przedwczoraj
+ antaŭhieraŭ
+
+przedwstępny
+ antaŭkomenca, prepara
+
+przędza
+ ŝpinaĵo
+ fadeno (nić)
+
+przędzalnia
+ ŝpinejo
+
+przedział
+ disigo
+ disigilo
+ interspaco (odtęp)
+ apartaĵo (oddział)
+ kupeo (przedział w wagonie)
+ hardisigo (przedział włosów)
+
+przedziałka
+ rubriko
+
+przedzierać
+ traŝiri
+ disŝiri
+
+przedzierać się
+ traŝiriĝi, disŝiriĝi
+ trapuŝi sin (przepychać się)
+ penetri (przenikać)
+
+przedzierzgać, przedzierzgnąć
+ tratiri (przeciągnąć)
+ aliigi, aliformigi, transformi (przekształcić)
+
+przędziwo
+ ŝpinaĵo
+ fadeno (nić)
+
+przefasonować
+ alifasonigi
+
+przegiąć, przeginać
+ fleksi
+ klini (chylić)
+ kurbigi, malrektigi (wykrzywić)
+
+przegląd
+ trarigardo
+ revuo (rewia, czasopismo)
+ inspekto (inspekcja)
+ revizio (rewizja)
+
+przeglądać, przejrzeć
+ trarigardi
+ travidi
+ penetri (przeniknąć)
+ esplori (wybadać)
+ revizii (rewidować)
+ trabrili, tralumi (przeświecać)
+ antaŭvidi (przewidywać)
+ rericevi vidkapablon (odzyskać wzrok)
+
+przeglądać się
+ speguli sin
+
+przegniły
+ putriĝinta
+
+przegrać
+ *przegrywać*
+
+przegradzać
+ interbari
+
+przegrana
+ malgajno
+
+przegroda, przegródka
+ interbaro
+ interbarilo
+ fako (przegródka półki)
+ ĉelo (komórka)
+
+przegrodzić
+ *przegradzać*
+
+przegróżka
+ minaco
+
+przegrać, przegrywać
+ malgajni, perdi (stracić)
+ ludi, antaŭludi (przegrać na instrumencie)
+
+przegrzmieć, przegrzmiewać
+ ĉesi tondri
+ ĉesi soni
+ silentiĝi (ucichnąć)
+
+przegub
+ artiko
+
+przeinaczać
+ aliigi, ŝanĝi
+
+przeinaczać
+ aliigi, ŝanĝi
+
+przeistaczać
+ aliigi, transformi
+
+przejąć
+ *przejmować*
+
+przejadać
+ formanĝi, tramordi (przegryźć)
+ konsumi (zjeść)
+ konsumi (zużyć)
+
+# str. 179
+
+przejadać się
+ tro manĝi, tro satiĝi
+ abomeniĝi (obrzydnąć)
+
+przejaw
+ apero
+ simptomo (objaw)
+ metamorfozo (przemiana)
+
+przejawiać się
+ aperi
+ manifestiĝi
+
+przejazd
+ traveturo
+ traveturejo
+ transito (tranzyt)
+
+przejażdżka
+ promenveturo
+
+przejęcie
+ transpreno
+ interkapto (przechwycenie)
+ kortuŝo (wzruszenie)
+ vervo (uniesienie)
+ entuziasmo (zapał)
+
+przejechać, przejeżdżać
+ traveturi
+ trarajdi
+ transveturi
+ preterveturi
+ surveturi (najechać)
+
+przejechać się, przejeżdżać się
+ promenveturi
+ promenrajdi
+
+przejeść
+ *przejadać*
+
+przejmować
+ transpreni
+ interkapti (przechwytywać)
+ preni sur sin (wziąć na siebie)
+ traigi (przeszyć)
+ penetri (przeniknąć)
+ kortuŝi (wzruszać)
+ impresi (podziałać)
+ entuziasmigi (zapalić)
+
+przejrzeć
+ *przeglądać*
+
+przejrzały
+ singardema (ostrożny)
+ atenta (baczny)
+ tromatura (zbyt dojrzały)
+
+przejrzysty
+ travidebla, diafana (przezroczysty)
+ klara (jasny)
+
+przejść
+ *przechodzić*
+
+przejście
+ trairo, transiro, preteriro
+ trairejo, pasejo
+ travivaĵo (przeżycie)
+
+przekabacać, przekabacić
+ alivesti (przebrać)
+ transtiri (przeciągnąć)
+ 
+przekąsem (z)
+ pikparole (z docinkiem)
+ malice (złośliwie)
+ rikane (szydersko)
+ ironie (ironicznie)
+
+przekąska
+ postmanĝo, manĝeto
+
+przekątna
+ diagonalo
+
+przekaz
+ mandato (zlecenie)
+ poŝtmandato (przekaz pocztowy)
+ asigno (asygnacja)
+
+przekazać, przekazywać
+ transdoni
+ transsendi (przesłać)
+ asigni (polecić wypłatę)
+ heredigi (przekazać dziedziczenie)
+ cedi (ustąpić)
+ komuniki
+
+przekląć
+ malbeni
+
+przekład
+ traduko
+
+przekładać
+ transmeti
+ intermeti
+ traduki (tłumaczyć)
+ prezenti (przedstawić)
+ preferi (woleć)
+ prokrasti (odraczać)
+
+przekładnia
+ inversio
+
+przeklęcie, przekleństwo
+ malbeno
+
+przeklinać
+ malbeni
+
+przekomarzać się
+ inciteti
+ tedi (dokuczać)
+ moki (kpić)
+
+przekonanie
+ konvinko
+ kredo (wiara)
+ opinio (mniemanie)
+
+przekonać, przekonywać
+ konvinki
+ kredigi, persvadi (wmówić)
+
+przekonać się
+ konvinkiĝi
+ certiĝi (upewnić się)
+
+przekop
+ trafoso
+ tranĉeo (rów oblężniczy)
+
+przekora
+ spitemo
+ kverelemo
+ obstino (upór)
+
+przekorny
+ spitema
+ kverelema (kłótliwy)
+ obstina (uparty)
+
+przekradać, przekraść
+ kontrabandi (przemycać)
+ kaŝe transporti (ukrycie przenieść)
+
+przekradać się
+ ŝtelire transpaŝi
+
+przekroczenie
+ transpaŝo
+ trapaŝo
+ eksceso (p. prawa, nadużycie)
+ delikto (przestępstwo)
+
+przekształcać
+ aliformigi, transformi
+
+przekupić
+ subaĉeti, korupti
+
+przekupień
+ revendisto
+
+przekupka
+ revendistino
+
+przekupny
+ koruptebla, subaĉetebla
+
+przekupywać
+ *przekupić*
+
+# str. 180
+
+przekwitać
+ ĉesi flori
+ tromaturiĝi (zbyt dojrzeć)
+ ekvelki (więdnąć)
+
+przelać
+ *przelewać*
+
+przeląc się
+ ektimi
+
+przeładować
+ troŝargi
+ troplenigi (przepełnić)
+ transŝargi, transporti (przenieść)
+
+przełaj (na)
+ trae
+ diagonale (w poprzek)
+ rektvoje (prostą drogą)
+
+przełamać
+ trarompi
+ venki (zwyciężyć)
+
+przełęcz
+ montselo
+ monta trairejo (przejście górskie)
+
+przelewać
+ transverŝi
+ elverŝi (wylać)
+ disverŝi (rozlać)
+ refandi, alifandi (przetopić)
+ transdoni (przekazać)
+ cedi (ustąpić)
+
+przełknąć
+ gluti, tragluti, engluti
+ iom manĝi (podjeść)
+
+przełom
+ trarompo
+ breĉo (wyłom)
+ krizo (przesilenie, kryzys)
+
+przełomowy
+ trarompa
+ kriza (krytyczny)
+ decida (decydujący)
+
+przelot
+ traflugo
+ transflugo
+ preterflugo
+
+przelotny
+ trafluga
+ pasema, efemera (przemijający)
+ mallongedaŭra (krótkotrwały)
+
+przełożony
+ transmetita
+ prokrastita (odroczony)
+ tradukita (przetłumaczony)
+ superulo, estro (zwierzchnik)
+ ĉefo (szef)
+ abato (p. zakonu)
+
+przełożyć
+ *przekładać*
+
+przeludnienie
+ troloĝateco
+
+przełyk
+ ezofago
+
+przełykać
+ engluti
+ tragluti
+
+przemądrzały
+ trosaĝa, supersaĝa
+
+przemagać
+ superi (przewyższać)
+ venki (zwyciężyć)
+ subigi (pokonać)
+
+przemawiać
+ alparoli (p. do kogo)
+ ekparoli (odezwać się)
+
+przemawiać się
+ ekdisputi (posprzeczać się)
+ ekkvereli (pokłócić się)
+
+przemian (na)
+ alterne
+ reciproke (wzajemnie)
+
+przemiana
+ ŝanĝo (zmiana)
+ aliformiĝo, transformiĝo (przekształcenie się)
+ metamorfozo (przeobrażenie)
+ variaĵo (odmiana)
+ alterno (p. kolejna)
+
+przemieniać
+ ŝanĝi, interŝanĝi, aliigi (przeinaczyć)
+ aliformigi, transformi (przekształcić)
+ permuti [mat.]
+
+Przemienienie Pańskie
+ Transfiguro de Kristo
+
+przemienny
+ ŝanĝa, ŝanĝiĝema, varia
+ alterna (kolejny)
+ komuteca, permuta [mat.]
+
+przemierzły
+ abomena
+
+przemieszczać
+ transloki
+ alistarigi (przestawić)
+
+przemijać, przeminąć
+ pasi
+ preterlasi (opuścić)
+
+przemilczeć
+ prisilenti
+ preterlasi (pominąć)
+ 
+przemknąć
+ *przemykać*
+
+przemoc
+ perforto, superforto
+ supereco (przewaga)
+
+przemóc
+ *przemagać*
+
+przemowa, przemówienie
+ alparolo, parolado
+
+przemówić
+ *przemawiać*
+
+przemnożenie
+ subigo (pokonanie)
+ venko (przezwyciężenie)
+
+przemożny
+ potenca (potężny)
+ superanta (przemagający)
+
+przemycać
+ kontrabandi
+
+przemykać
+ trakuri
+ preterkuri
+
+przemykać się
+ traŝoviĝi, sekrete trakuri, traŝtali sin
+
+przemysł
+ industrio
+
+przemyślać, przemyśliwać
+ pripensi
+ konsideri (rozważyć)
+ mediti (rozmyślać)
+
+przemyślny
+ inventema (wynalazczy)
+ entreprenema (przedsiębiorczy)
+ sagaca (przebiegły)
+
+# str. 181
+
+przemysłowiec
+ industriisto, fabrikanto
+
+przemytnik
+ kontrabandisto
+
+przenicować
+ returni, renversi (przewracać)
+ kritiki (krytykować)
+
+przenieść
+ *przenosić*
+
+przeniewierzać się ???
+ malfideliĝi
+ perfidi (zdradzić)
+
+przenigdy
+ neniam, neniam plu
+
+przenikać, przeniknąć
+ penetri
+ traigi (przeszyć)
+ ekkoni (poznać)
+ diveni (odgadnąć)
+
+przenikliwy
+ penetranta, penetrema, penetropova (przenikający)
+ penetrebla, sorba (wchłaniający)
+ sagaca (bystry, przebiegły)
+
+przenosić
+ transporti
+ preterporti
+ superi (przewyższać)
+ plivoli, preferi (woleć, przekładać)
+
+przenosić się
+ transporti sin
+ transloĝiĝi (p. się do innego mieszkania)
+
+przenośnia
+ metaforo, tropo
+
+przenośnik
+ transportilo
+ angulmezurilo
+
+przenośny
+ transportebla (mogący być przeniesiony)
+ metafora, tropa (obrazowy, tropiczny)
+
+przeoblec, przeoblekać
+ alivestigi
+
+przeobrażenie
+ transformiĝo, aliformiĝo, metamorfozo
+ variaĵo, modifaĵo (odmiana)
+ evolucio
+
+przeoczyć
+ pretervidi, ne rimarki
+ preterlasi (pominąć)
+
+przeor
+ prioro, monaĥejestro
+
+przeorysza
+ priorino
+
+przepadać
+ trafali
+ malaperi (zniknąć)
+ perdiĝi (zagubić się)
+ perei (ginąć)
+ pasie ami, adori (uwielbiać)
+
+przeparty
+ forpuŝebla
+ subigebla (pokonalny)
+ 
+przepasać
+ ĉirkaŭzoni
+
+przepaść
+ abismo
+ senfundaĵo, profundegaĵo (głębia)
+
+przepaść
+ *przepadać*
+
+przepaska
+ zoneto
+ banderolo
+
+przepasywać
+ *przepasać*
+
+przepędzać
+ trapeli
+ transpeli
+ forpeli (odpędzać)
+ distili (dystylować)
+ pasigi (p. czas)
+ travivi (przeżyć)
+
+przepełniać
+ troplenigi
+
+przepierzenie
+ tabulmuro, intermuro, vando
+
+przepiórka
+ koturno
+
+przepis
+ regulo (prawidło)
+ leĝo (prawo)
+ dispono (rozporządzenie)
+ deskribo (odpis)
+ kopio (kopia)
+ recepto (recepta)
+ instrukcio (pouczenie)
+
+przepisać, przepisywać
+ transkribi ???, deskribi, kopii
+ rekomendi (zalecać)
+ ordoni (rozkazać)
+ preskribi (p. lekarstwo)
+
+przepłacać
+ tropagi
+ korupti (przekupić)
+ 
+przeplatać, przepleść
+ interplekti, enplekti, traplekti
+
+przepona
+ diafragmo
+
+przepowiadać, przepowiedzieć
+ antaŭdiri
+ profeti (prorokować)
+ aŭguri (wróżyć)
+ prognozi
+ anonci (ogłaszać)
+
+przepowiednia
+ antaŭdiro
+ profetaĵo (proroctwo)
+ aŭguraĵo (wróżba)
+ prognozo
+ horoskopo
+ aŭspicio
+
+przepracować się
+ trolaciĝi per laboro
+
+przepraszać
+ pardonpeti, peti pardonon
+
+przeprawa
+ transigo
+ transiĝo, transveturo
+
+przeprawiać
+ transigi
+ transveturigi (przewieźć)
+
+przeprawiać się
+ transiĝi
+ transveturi (przejechać)
+
+przeprosić
+ *przepraszać*
+
+przeprosić się
+ repaciĝi
+
+przeprowadzać
+ trakonduki
+ transkonduki
+ preterkonduki
+ okazigi (urządzić)
+ instali (instalować)
+
+# str. 182
+
+przeprowadzić się
+ transporti sin (przenieść się)
+ transloĝiĝi (p. się do innego mieszkania)
+
+przepuklina
+ hernio
+
+przepuścić, przepuszczać
+ tralasi, translasi, preterlasi
+ trafiltri (przecedzić)
+ kribri (przesiać)
+
+przepustka
+ tralas-atesto
+ forpermeso (urlop)
+
+przepych
+ lukso, pompo, komforto
+
+przepyszlin
+ gardenio
+
+przepytywać się
+ informiĝi
+
+przerabiać
+ alifari, refari
+ aliigi (przeinaczyć)
+ alifasonigi (przefasonować)
+ fabriki (przetwarzać)
+ interplekti (przeplatać)
+
+przerastać
+ trakreski (p. wskroś)
+ superkreski, superi (przewyższyć)
+
+przerażać
+ teruri, ektimigi (przestraszyć)
+ konsterni (osłupić)
+
+przerażenie
+ teruro, timego
+ konsterno (osłupienie)
+ paniko (popłoch)
+
+przeraźliwy
+ terura, timiga (straszny)
+ penetranta (przenikający)
+
+przerębel, przerębla
+ glacibreĉo, glacitruo
+
+przerobić
+ *przerabiać*
+
+przeróbka
+ aliigi, ŝanĝo (zmiana)
+ modifo (modyfikacja)
+ plibonigo (poprawka)
+
+przerosnąć
+ *przerastać*
+
+przerwa
+ interrompo
+ paŭzo
+
+przerwać
+ *przerywać*
+
+przerysować
+ ree desgni
+ dedesegni
+ kopii (kopiować)
+
+przerywać
+ traŝiri, disŝiri
+ trarompi (przełamać)
+ interrompi (zrobić pauzę)
+ ĉesi (zaprzestać)
+ ĉesigi (powstrzymać)
+ intermitigi (p. czasowo)
+
+przerzedzać
+ plimaldensigi
+
+przerznąć
+ *przerzynać*
+
+przerzucać
+ transĵeti, ??? elekti (przebierać)
+ renversi (przewracać)
+ foliumi (wertować)
+
+przerzynać
+ tratranĉi, distranĉi
+
+przesąd
+ antaŭjuĝo, superstiĉo
+
+przesada
+ troigo, trograndigo
+ bombasteco (napuszoność)
+
+przesadnia
+ hiperbolo
+
+przesadny
+ troiga, troigita
+ troigema
+ hiperbola
+ bombasta (napuszony)
+
+przesądny
+ antaŭjuĝplena
+ superstiĉa (zabobonny)
+
+przesadzać
+ transsidigi, alisidigi (przesadowić)
+ transsalti (przeskoczyć)
+ transplanti (przeszczepić)
+ superi (przewyższyć)
+ troplenigi (przepełnić)
+ troigi, trograndigi (wyolbrzymiać)
+
+przesądzać
+ antaŭjuĝi
+ antaŭkondamni (z góry skazać)
+ verdikti (wyrokować)
+
+prześcieradło
+ litotuko
+
+prześcigać, prześcignąć
+ antaŭveni
+ superi (przewyższyć)
+
+przesiać
+ *przesiewać*
+
+przesiadać się
+ transsidiĝi, alisidiĝi
+ transvagoniĝi (p. do wagonu)
+
+przesiąkać, przesiąknąć
+ trasorbiĝi, ensorbiĝi (zostać wchłoniętym)
+ penetri (przenikać)
+ ensorbi (wchłaniać)
+ sorbigi (przepoić)
+ trafiltrigi ??? (przecedzić się)
+
+przesiąść się
+ *przesiadać*
+
+przesiedlać
+ transloĝigi
+
+przesiewać
+ kribri
+
+przesilenie
+ krizo
+
+przeskok
+ transsalto
+ preterlaso (pominięcie)
+
+przeskrobać
+ tragrati, traskrapi
+ ekkulpi (przewinić)
+ plenumi eksceson (popełnić wybryk)
+
+# str. 183
+
+przesłać
+ transsendi
+ alisterni, resterni (p. łóżko)
+
+prześladować
+ persekuti, ĉikani
+
+przesłanka
+ premiso
+
+przęślica
+ ŝpinilo
+
+przęsło
+ interpalisaĵo, palisligilo
+
+przesłona
+ kurteno, vualo
+
+przesłuchać
+ elaŭskulti, ekzameni
+
+przesłyszeć się
+ misaŭdi
+
+przesmyk
+ istmo
+
+przesolić
+ trosali
+ troigi (przesadzić)
+
+przestać
+ *przestawać*
+
+przestanek
+ interrompo, paŭzo, ĉeso
+ intermito
+ interpunkcio (znak pisarski)
+
+przestąpić
+ *przestępować*
+
+przestarzały
+ malnoviĝinta
+ arkaika
+ malmoderna (nie współczesny)
+ neaktuala (nieaktualny)
+ eksmoda
+ anakronisma
+
+przestawać
+ ĉesi
+ intermiti (czasowo ustępować)
+ kontentiĝi (zadowolić się)
+ kunvivi (współżyć)
+ komunikiĝi (obcować)
+
+przestępca
+ krimulo
+
+przestępny
+ krima (występny)
+ superjaro (rok przestępny)
+
+przetępować
+ transpaŝi
+ trapaŝi
+ superpaŝi
+ ekkulpi (przewinić)
+ delikti (popełnić wykroczenie)
+ krimi (popełnić zbrodnię)
+
+przestępstwo
+ transpaŝo, transpaso
+ delikto (wykroczenie)
+ krimo (zbrodnia)
+
+przestrach
+ teruro, timo
+ konsterno (osłupienie)
+
+przestraszać
+ ektimigi, teruri
+ konsterni (osłupiać)
+ 
+przestroga
+ averto
+ admono (upomnienie)
+
+przestronny
+ vasta (obszerny)
+
+przestrzał
+ trapafo
+ unu rekte kontraŭ alia, vidalvide (na przestrzał)
+ trae (na wskroś)
+
+przestrzegać
+ averti (ostrzegać)
+ admoni (upomnieć)
+ gardi (pilnować)
+ konservi (zachowywać)
+ observi (nie przekraczać)
+
+przestrzeń
+ spaco
+ interspaco (odległość)
+ etendeco (rozciągłość)
+ teritorio (obszar)
+
+przestwór
+ spaco (przestrzeń)
+ senfinaĵo (bezmiar)
+ granda etendaĵo (duży obszar)
+ firmamento (firmament)
+
+przeświadczać
+ konvinki
+
+przeświadczyć się
+ konvinkiĝi
+ certiĝi (upewnić się)
+
+przeświecać
+ esti travidebla, esti diafana (być przezroczystym)
+ tralumi, trabrili (przebijać światło)
+
+prześwietny
+ belega (piękny)
+ glora (sławny)
+ grandioza (wspaniały)
+ ekscelenca (dostojny)
+
+przesycać
+ trosatigi
+ trosaturi [chem.]
+ troplenigi (przepełnić)
+ 
+przesyłać
+ transsendi
+
+przesyłka
+ transsendo
+ transsendaĵo
+
+przesyt
+ trosatiĝo
+ trosateco
+
+przeszczepiać
+ transplanti
+
+przeszkadzać, przeszkodzić
+ malhelpi
+ ĝeni (żenować, krępować)
+
+przeszkoda
+ malhelpo, malhelpaĵo, obstaklo
+ baro (zapora)
+
+przeszło
+ pli ol
+ super
+
+przeszłość
+ estinteco
+ pasinteco
+
+przeszły
+ pasinta, estinta
+ antaŭa (poprzedni)
+ preterito (czas przeszły) [gram.]
+
+przeszyć, przeszywać
+ trakudri, alikudri
+ interplekti (przeplatać)
+ traigi (przeniknąć)
+ trapiki (przekłuć)
+
+# str. 184
+
+przetak
+ baska kribrilo
+
+przetapiać
+ alifandi, refandi
+ alimuldi
+
+przetknąć
+ *przetykać*
+
+przetłumaczyć
+ traduki
+
+przeto
+ tial, rpo tio
+ tiukaŭze (dlatego)
+ sekve do (zatem)
+
+przetopić
+ *przetapiać*
+
+przetrącać
+ derompi, forrompi (odłamać)
+ neniigi (niweczyć)
+ vanigi (udaremnić)
+ iom manĝi, manĝeti (przekąsić)
+
+przetrwać
+ daŭri, daŭri pli longe ol
+ supervivi (przeżyć)
+ persisti (wytrwać)
+ suferi (przecierpieć)
+
+przetrząsać
+ traskui
+ traserĉi (przeszukać)
+ renversi (przewracać)
+
+przetrzebiać
+ elhaki (wyciąć)
+ maldensigi (przerzedzić)
+
+przetrzeć
+ *przecierać*
+
+przetrzymać, przetrzymywać
+ teni
+ teni dum kelka tempo (trzymać przez pewien czas)
+ tro longe teni (trzymać za długo)
+ elteni (wytrzymać)
+
+przetwarzać, przetworzyć
+ aliformigi, transformi (przekształcić)
+ produkti (wytwarzać)
+ fabriki (fabrykować)
+
+przetwór
+ fabrikaĵo, industriaĵo
+
+przetyczka
+ trapuŝilo, trapikilo
+
+przetykać, przetkać, przetknąć
+ trapuŝi (przepchnąć)
+ malŝtopi (odetkać)
+ interteksi, interplekti (przeplatać)
+
+przewąchać
+ antaŭflari, elflari
+ antaŭsenti (przeczuć)
+ konjekti (domyślać się)
+
+przewaga
+ supereco
+ plimulto (większość)
+ hegemonio (p. polityczna)
+
+przewalać
+ faligi
+ renversi (przewracać)
+ transruli (przetaczać)
+
+przeważać
+ repesi (powtórnie ważyć)
+ superpezi, plipezi (mieć większą wagę)
+ superi (przewyższyć)
+
+przeważnie
+ precipe (zwłaszcza)
+ ĉefe (głównie)
+ plejparte (po największej części)
+ plejmulte, pleje (najbardziej)
+ plej grave (najdonioślej)
+
+przewiać
+ trablovi
+ ĉesi blovi (przestać wiać)
+
+przewiązać, przewiązywać
+ ĉirkaŭligi, ĉirkaŭzoni (opasać)
+ vindi (owijać)
+ bandaĝi (bandażować)
+
+przewidywać, przewidzieć
+ antaŭvidi
+
+przewieść
+ *przewozić*
+
+przewietrzać
+ aerumi, ventoli
+
+przewiew
+ trablovo
+
+przewiać
+ trablovi
+ ĉesi blovi (przestać wiać)
+
+przewiewny
+ trablova
+ flirtema (powiewny)
+
+przewieźć
+ transveturigi
+ transŝipi (p. statkiem)
+
+przewijać się, przewinąć się
+ transvolviĝi
+ ŝpiniĝi (snuć się)
+ interplektiĝi (przeplatać się)
+ preteriri, preterpasi, preterŝoviĝi (przesuwać się)
+
+przewinienie
+ ekkulpiĝo
+ peko (grzech)
+ delikto (wykroczenie)
+
+przewlec, przewlekać, przewłóczyć
+ transtreni
+ tratreni
+ pretertreni
+ tratiri (przeciągnąć)
+ surfadenigi (nanizać)
+ alitegi (zmienić powłokę)
+ etendi (rozciągać)
+ prokrasti, malakceli (odwlekać)
+
+przewlekły
+ tro etendiĝanta
+ longedaŭra (długotrwały)
+ kronika (chroniczny)
+
+przewód
+ gvido, gvidado (przewodnictwo)
+ proceso (p. sądowy)
+ kanalo (kanał) [anat.]
+
+przewodni
+ konduka, gvida
+ ĉefa (główny)
+
+przewodniczyć
+ prezidi (p. na posiedzeniu)
+ gvidi (prowadzić)
+
+# str. 185
+
+przewodnik
+ kondukanto, gvidanto
+ kondukilo, konduktoro [fiz.]
+ gvidlibro (książka)
+
+przewodzić
+ gvidi, estri, komandi (dowodzić)
+ regi (panować)
+ havi hegemonion (mieć przewództwo)
+ trakonduki, transkonduki (przeprowadzać)
+
+przewóz
+ transveturigo, transporto
+ transito (tranzyt)
+
+przewozić
+ transveturigi
+ transporti (transportować)
+
+przewoźnik
+ transveturigisto
+ pramisto (na promie)
+
+przewracać, przewrócić
+ renversi
+ faligi (obalić)
+ turni (kręcić)
+
+przewracać się
+ renversiĝi
+ turniĝi (obracać się)
+
+przewrót
+ renverso
+ revolucio
+
+przewrotny
+ facile renversebla (wywrotny)
+ malica (złośliwy)
+ perfida (zdradliwy)
+ perversa
+
+przewyżka
+ pliaĵo
+ superfluo (nadmiar)
+ supervaloro (nadwartość)
+ resto (reszta)
+
+przewyższać
+ superi
+
+przez
+ tra (na wskroś)
+ trans (na drugą stronę)
+ pro (z powodu)
+ per (za pomocą)
+ de (przyimek sprawczy)
+ dum (podczas)
+ super (ponad)
+ *prze-* (jako przedrostek)
+
+przeżegnać się
+ krucosigni sin
+ fari krucosignon
+
+przeżerać
+ tramordi
+
+przeziębiać
+ malvarmumigi
+
+przeziębiać się
+ malvarmumi
+
+przezierać
+ *przejrzeć*
+
+przeznaczać
+ destini
+ determini
+
+przeznaczenie
+ destino, antaŭdestino
+ sorto (los)
+ fatalo (fatum)
+
+przezorny
+ antaŭvidanta (przewidujący)
+ singardema (ostrożny)
+
+przezrocze
+ lumbildo
+
+przezroczysty
+ travidebla, diafana (przejrzysty)
+ serena (pogodny)
+
+przeżuć, przeżuwać
+ tramaĉi
+ remaĉi
+
+przezwać
+ *przezywać*
+
+przezwisko
+ alnomo
+ moknomo
+ epiteto (przydomek)
+
+przezwyciężać
+ venki
+ trarompi (przełamać)
+ subigi (pokonać)
+
+przezwać, przezywać
+ nomi, eknomi
+ alinomi, ŝanĝi nomon (przemianować)
+ moknomi (uszczypliwie nazywać)
+
+przeżyć, przeżywać
+ travivi
+ supervivi, plivivi (żyć dłużej niż)
+
+przeżycie
+ travivo
+ travivaĵo
+
+przód
+ antaŭo, anataŭaĵo
+ fronto (front)
+ antaŭen (naprzód)
+ antaŭe, fronte (przodem)
+ kun la vizaĝo (twarzą)
+
+przodek
+ antaŭulo
+ prapatro, praavo (pradziad)
+
+przodować
+ antaŭi, antaŭiri (poprzedzać)
+ gvidi (prowadzić)
+ superi (przewyższać)
+
+przodownik
+ antaŭanto, antaŭiranto
+ protagonisto (pionier idei)
+ korifeo (koryfeusz)
+ policserĝanto (sierżant policji) ???
+
+prztykać, prztyknąć
+ fingrofrapeti, fingroklaketi
+ risortfrapi
+
+przy
+ ĉe
+ apud (obok)
+ dum (podczas)
+ per (za pomocą)
+ kun (z)
+ preter (obok, mimo)
+ al- (do)
+ -et-, iom (trochę)
+
+przybić
+ *przybijać*
+
+przybierać
+ preni
+ alpreni (dobrać)
+ adopti (adoptować)
+ ornami, garni (przyozdabiać)
+ provizi (zaopatrzyć)
+ kreski (wzrastać)
+ leviĝi (podnosić się)
+ pliiĝi (przybywać)
+
+przybijać
+ albati
+ alnajli (p. gwoździami)
+ alfiksi (przymocować)
+ albordigi (p. do lądu)
+ aflikti (strapić)
+ ĉagreni (martwić)
+
+# str. 186
+
+przybłęda
+ alvaginto
+
+przybliżać
+ alproksimigi, pliproksimigi
+
+przybliżenie
+ proksimiĝo
+ proksimumo
+ proksimume (w przybliżeniu)
+
+przyboczny
+ apudflanka
+ akompana
+
+przybór
+ ilaro, instrumentaro (narzędzia)
+ aparato (aparat)
+ materialo (materiał)
+ akcesoriaĵoj (akcesoria)
+ leviĝo (podniesienie się)
+ pliiĝo, plikresko (przyrost)
+
+przybrać
+ *przybierać*
+
+przybrzeżny
+ apudborda
+
+przybudówka
+ alkonstruitaĵo
+
+przybyć
+ *przybywać*
+ 
+przybysz
+ alveninto
+ fremdulo (obcy)
+
+przybytek
+ pliiĝo
+ plikresko (przyrost)
+ abundeco (obfitość)
+ troviĝejo, restadejo (miejsce przebywania)
+ sanktejo (świątynia)
+
+przybywać
+ veni, alveni
+ pliiĝi (pomnażać się)
+ kreski (wzrastać)
+ leviĝi (podnosić się)
+
+przycapać ???
+ kapti, ekkapti, kapti neatendite
+
+przychód
+ enspezo
+
+przychodni
+ alvena, alvenanta
+ alveninta
+
+przychodzić
+ veni, alveni
+ naskiĝi (urodzić się)
+ resaniĝi (wyzdrowieć)
+ rekonsciiĝi (oprzytomnieć)
+ havi utilo (mieć pożytek)
+ atingi (osiągnąć)
+ ricevi (otrzymać)
+ ekposedi (posiąść)
+ sukcesi (udawać się)
+ okazi (zdarzać się)
+ sekvi (następować)
+
+przychylać się
+ alklini sin, alkliniĝi
+ inkliniĝi (stać się skłonnym)
+ favoriĝi (stać się przychylnym)
+ aprobi (pochwalić)
+
+przychylny
+ favora
+ inklina ??? (skłonny)
+
+przyciąć
+ *przycinać*
+
+przyciągać, przyciągnąć
+ altiri
+ allogi (przynęcić)
+ atrakti [fiz.]
+ graviti (ciążyć)
+ almarŝi ??? (przymaszerować)
+
+przycieś ???
+ bazo
+
+przycinać
+ iom detranĉi, ĉirkaŭtranĉi
+ mallongigi (skrócić)
+ pikparoli (docinać)
+ moki (drwić)
+
+przyciąk ???
+ ekpremo, alpremo
+ akcento (akcent)
+ leterpremileto (p. do listów)
+
+przyciskać, przycisnąć
+ premi
+ alpremi
+ kunpremi (ściskać)
+ devigi (zmusić)
+
+przyćmić, przyćmiewać
+ iom malheligi
+ iom mallumigi
+
+przyczajać się
+ inside kaŭri (czyhająco przykucnąć)
+ ŝtelkaŝiĝi (ukryć się)
+ insidi (czyhać)
+ embuskiĝi (zasadzić się)
+
+przyczepiać się
+ alkroĉi sin
+ alfiksiĝi (przymocować się)
+ alpendiĝi (uwiesić się)
+ sin altrudi (narzucać się)
+ provoki (wyzywać)
+ ataki (napadać)
+
+przyczółek
+ frontono
+
+przyczyna
+ kaŭzo
+ motivo (pobudka)
+ racio (racja)
+
+przyczynek
+ aldono
+
+przyczyniać się
+ kontribui
+ kunhelpi (pomóc)
+ kunagi (współdziałać)
+ kaŭzi (powodować)
+ interveni (interweniować)
+
+przyczynowość
+ kaŭzeco
+
+przydać
+ *przydawać*
+
+przydarzyć się
+ okazi
+
+przydatny
+ taŭga (zdatny)
+ uzebla (użyteczny)
+ utila (pożyteczny)
+
+przydawać
+ aldoni
+
+przydawać się
+ taŭgi (nadawać się)
+ utili, esti utila (przynosić pożytek)
+ servi (służyć)
+
+przydawka
+ apozicio ???
+ epiteto (epitet)
+
+# str. 187
+
+przydech
+ alspiro
+
+przydomek
+ alnomo, epiteto
+
+przydrożny
+ apudvoja
+
+przydybać
+ kapti
+
+przygana
+ mallaŭdo, riproĉo
+
+przygarniać, przygarnąć
+ alŝovi (przysuwać)
+ altiri (przyciągać)
+ akcepti (przyjmować)
+ patroni (opiekować się)
+ aneksi (zagarniać)
+
+przygasać, przygasnąć
+ iom estingiĝi
+
+przyglądać się
+ rigardi, pririgardi, alrigardi, observi
+
+przygłuszać
+ surdigi
+ mallaŭtigi (sciszyć ???)
+ obtuzigi (przytłumić)
+
+przygnębiać
+ deprimi
+ aflikti (strapić)
+
+przygnębienie
+ deprimiteco
+ aflikto (utrapienie)
+ spleno (zobojętnienie)
+
+przygniatać, przygnieść
+ alpremegi
+ malsuprenpremi
+ deprimi (przygnębiać)
+
+przygoda
+ aventuro
+ okazintaĵo (zdarzenie)
+ akcidento (wypadek)
+
+przygodny
+ okaza, hazarda (przypadkowy)
+ oportuna (dogodny)
+
+przygotować, przygotowywać
+ prepari, pretigi
+
+przygrywka
+ muzika akompano
+ preludo (przegrywka)
+
+przygwoździć
+ alnajli
+
+przyimek
+ prepozicio
+
+przyjąć
+ *przyjmować*
+
+przyjaciel
+ amiko
+
+przyjaciółka
+ amikino
+
+przyjazd
+ alveturo
+ alveno
+
+przyjaźń
+ amikeco
+
+przyjaźnić się
+ interamikiĝi
+
+przyjazny
+ amika (przyjacielski)
+ favora (sprzyjający)
+ prospera (pomyślny)
+
+przyjechać
+ *przyjeżdżać*
+
+przyjęcie
+ alpreno, akcepto
+
+przyjemność
+ plezuro
+ agrableco
+ afableco (uprzejmość)
+ ĝuo (rozkosz)
+
+przyjemny
+ agrabla
+ plezuriga (uprzyjemniający)
+ afabla (uprzejmy)
+
+przyjeżdżać
+ alveturi
+ alrajdi (p. konno)
+ alveni (przybywać)
+
+przyjmować
+ alpreni, akcepti
+ gastigi (gościć)
+ ricevi (otrzymać)
+ preni sur sin (wziąć na siebie)
+ dungi (nająć)
+
+przyjmować się
+ radikiĝi (puścić korzenie)
+ disvastiĝi (rozpowszechniać się)
+ sukcesi (udawać się)
+
+przyjść
+ *przychodzić*
+
+przyjście
+ alveno
+
+przykazanie
+ ordono
+
+przykazać, przykazywać
+ ordoni
+ disponi (rozporządzić)
+
+przykład
+ ekzemplo
+ modelo (wzór)
+ imitindaĵo (rzecz godna naśladowania)
+
+przykładać
+ almeti
+ aldoni (dodać)
+ ne ŝpari (nie oszczędzać)
+ klopodi (p. starania)
+ bati (bić)
+
+przykładać się
+ peni, klopodi (starać się)
+ esti diligenta (być pilnym)
+
+przykładny
+ imitinda, modela
+
+przyklaskiwać
+ aplaŭdi
+ aprobi (pochwalać)
+
+przykręcać
+ alturni
+ alŝraŭbi (p. śrubę)
+
+przykry
+ malagrabla, malplezura
+ teda (dokuczliwy)
+ ĉagreniga (zasmucający)
+ agaciga (cierpki)
+ kruta (stromy)
+ abrupta (urwisty)
+
+przykryć, przykrywać
+ kovri
+
+przykrywka
+ kovro, kovrilo, kovrileto
+ vualo (zasłona)
+ preteksto (pretekst)
+
+przykrzyć się
+ enui (nudzić się)
+ tediĝi (naprzykrzać się)
+
+przyłączać
+ aligi
+ kunigi (złączyć)
+ aldoni (dodać)
+ aneksi (zagarniać)
+
+przylądek
+ promontoro
+
+przylądować
+ albordiĝi
+
+# str. 188
+
+przylaszczka
+ hepatiko
+
+przylatywać, przylecieć
+ alflugi (przyfrunąć)
+ alkuri (przybiec)
+
+przyłbica
+ viziero, kasko
+
+przylegać
+ apudkuŝi
+ altuŝi, intertuŝiĝi (dotykać)
+ ??metiĝi (przyłożyć się)
+
+przyległy
+ apudkuŝanta, apude situita
+ najbara (sąsiedni)
+
+przylepka
+ algluaĵo
+ randa panpeco (p. chleba)
+ koketulino (kokietka)
+
+przylew
+ alverŝo (dolewka)
+ alfluo (przypływ)
+
+przylewać 
+ alverŝi
+
+przylgnąć
+ algluiĝi
+ alligiĝi (przywiązywać się)
+ ekami (polubić)
+
+przylizywać się
+ peni plaĉi, esti pleĉema, koketi (kokietować)
+ flati (pochlebiać)
+
+przylot
+ alflugo
+
+przyłożyć 
+ p. przykładać
+
+przymawiać
+ pikparoli (docinać)
+ riproĉi (czynić wyrzuty)
+
+przymawiać się
+ komprenigi (dac do zrozumienia)
+ aludi (napomknąć)
+
+

@@ -1,0 +1,3793 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+# 1 wydanie Warszawa 1932 r.
+# 4 wydanie (reprint) Warszawa 1965 r.
+
+# B
+
+# str. 10
+
+ba!
+ ba! envere (naprawdę)
+ sendube (bez wątpienia)
+ certe (pewnie)
+ efektive (rzeczywiście)
+
+baba
+ maljunulino (staruszka)
+ virino (kobieta)
+ almozulino (żebraczka)
+ virinaĉo, malbonulino (złośnica)
+ virineculo (niewieściuch)
+ malkuraĝulo (tchórz)
+ mallertulo (niedołęga)
+ fornsidulo (piecuch)
+ puŝilego (kafar)
+ babao (ciasto)
+
+babcia
+ avinjo, avineto
+
+bąbel
+ veziketo
+
+babiarz
+ virinemulo, virinamanto
+
+babić
+ akuŝigi
+
+babieć
+ virineciĝi (niewieścieć)
+ maljuniĝi (starzeć się)
+
+babimór
+ likopodio
+
+babiniec
+ preĝeja vestiblo
+ virinejo
+ virinaro
+
+babka
+ avino (matka ojca lub matki)
+ maljunulino (staruszka)
+ akuŝigistino (akuszerka)
+ plantago [bot.]
+ blindlufo (ślepa babka)
+ babao, potkuko (ciasto)
+
+bąblasty
+ vezikoplena
+ vezikosimila
+
+babosze
+ babuŝoj
+ pantofloj (pantofle)
+
+babrać, babrać się
+ disgrati (gmerać)
+ ŝmiri (mazać)
+ taŭzi (czochrać)
+ malpurigi (brudzić się)
+ serĉfosi (szperać)
+ skribaĉi (bazgrać)
+ perdi tempon, malrapidi (guzdrać się)
+
+babsko, babsztyl
+ virinaĉo, fivirino
+ megero (jędza)
+
+babunia
+ avinjo, avineto
+
+bać się
+ timi, malkuraĝi
+
+bachanalia
+ bakanalo
+ orgio (orgia)
+ diboĉo (hulanka)
+
+bachantka
+ bakanalanino, diboĉulino, diboĉantino
+
+bachmat
+ tatara ĉevalo
+
+bachor
+ fiinfano, infanaĉo
+
+bacik
+ vipeto
+
+bacyl
+ bacilo
+ mikrobo, bakterio
+
+baczenie
+ atento (uwaga)
+ zorgo, klopodo (troska)
+ inspekto (nadzór)
+
+baczność
+ atento
+ atentemo, singardemo (oględność)
+ konsidero (wzgląd)
+
+baczny
+ atenta
+ atentema (uważny)
+ singardema (oględny)
+ gardema, vigla (czujny)
+
+baczyć
+ atenti (uważać, zważać)
+ konsideri (rozważać)
+ observi (obserwować)
+ gardi (pilnować)
+ zorgi, klopodi (starać się)
+
+bad
+ banloko (kąpielisko)
+ kuracloko (uzdrowisko)
+
+badać
+ esplori, ekzameni
+ enketi (wypytywać)
+ studi (badać naukowo)
+ sondi (zgłębiać)
+
+badacz
+ esploristo
+ scienculo (uczony)
+
+badawczy
+ esplora, ekzamena
+ esplorema (skłonny do badania)
+ penetrema (przenikliwy)
+
+badyl
+ trunketo, tigo (łodyga)
+ herbaĉo (zielsko)
+ sekiĝinta branĉo (zeschła gałąź)
+
+bądź
+ aŭ (lub
+ kvankam (chociaż)
+ -ajn (-kolwiek)
+ estu {tryb rozk. od *być*}
+
+bądź co bądź
+ ĉiuokaze (na wszelki wypadek)
+ ja (wszakże)
+ tamen (jednakowoż)
+
+# str. 11
+
+bagatela
+ bagatelo
+ malgravaĵo (błahostka)
+ vantaĵo (rzecz marna)
+
+bagatelizować
+ bagateligi
+ neglekti (lekceważyć)
+
+bagaż
+ pakaĵo
+
+bagienny
+ marĉa, marĉeca
+
+bagier
+ skrapmaŝino, dragmaŝino
+ profundigilo (pogłębiarka)
+
+bagierować
+ dragi
+
+bagnet
+ bajoneto
+
+bagnisko
+ *bagno*
+
+bagnisty
+ marĉa, marĉoplena
+ kota (błotnisty)
+
+bagno
+ marĉo
+ koto (błoto)
+ malsekejo (mokradło)
+
+baj
+ *bajarz*
+
+bajać
+ fabelumi, fantazii, elfantazii (zmyślać)
+ mensogi, blagi (kłamać)
+
+bajadera
+ bajadero
+
+bajarz
+ fabelisto (opowiadacz baśni)
+ fabelisto (bajkopisarz)
+ babilemulo (gaduła)
+
+bajda
+ fabelo (baśń)
+ mensogo, blago (kłamstwo)
+
+bajdurzyć
+ babilaĉi (ględzić)
+ parolaĉi (paplać)
+ sensence rakonti (opowiadać bez sensu)
+
+bajeczny
+ fabela, mita
+ fantazia (zmyślony)
+ eksterordinara (niezwykły)
+ escepta (wyjątkowy)
+ belega (przepiękny)
+ impona (imponujący)
+
+bajka
+ fablo, apologo
+ fabelo (baśń)
+ malvero, mensogo (kłamstwo)
+
+bajkopisarz
+ fablisto, fabloverkisto
+ fabelisto, fabelverkisto, fabelaŭtoro
+
+bajoński
+ giganta, grandega
+
+bajoro, bajura
+ marĉeto, kotaĵo
+
+bąk
+ tabano (owad)
+ botaŭro (ptak)
+ turbo (zabawka)
+ eraro (błąd)
+ stultaĵo (głupstwo)
+ infanaĉo (dzieciak)
+ mallabori (zbijać bąki)
+
+# bakan, baken
+baka
+ buo, signalbarelo
+ flati (bakę świecić)
+
+bąkać, bąknąć
+ murmureti
+ zumi (brzęczeć)
+
+bakałarz
+ alfabetisto, instruisto
+
+bakcyl
+ *bacyl*
+
+bakfisz
+ fraŭlineto, virgulineto
+
+bakelit
+ bakelito
+
+# bokobrody
+baki, bakembardy
+ vanghraoj
+
+bakier (na)
+ malrekte (krzywo)
+ flanke (na boku)
+ oblikve (na ukos)
+ fiere (dumnie)
+ malpace (w niezgodzie)
+ malamike (wrogo)
+
+bakteria
+ bakterio, mikrobo
+
+bakteriologia
+ bakteriologio
+
+bal
+ balo, festeno (uczta)
+ tabulego (dyl)
+ trabo (belka)
+
+balada
+ *ballada*
+
+bałagan
+ fuŝaĵo (partactwo)
+ ĥaoso, misordo (nieporządek)
+
+bałałajka
+ rusa trikorda gitaro
+
+bałamucić
+ konfuzi (mącić)
+ erarigi (wprowadzać w błąd)
+ trompi (oszukiwać)
+ delogi (uwodzić)
+ devojigi (sprowadzać z właściwej drogi)
+ perdi tempon (tracić czas)
+
+bałamucić się
+ mallabori (próżnować)
+ amindumi, flirti (umizgiwać się)
+ diboĉi (hulać)
+ trompiĝi (oszukiwać się)
+ devojiĝi (zboczyć z właściwej drogi)
+
+bałamutny
+ erariga, trompa, deloga (zwodniczy)
+ konfuza, ĥaosa (bezładny)
+ babilema (gadatliwy)
+ koketa, koketema (zalotny)
+
+balans
+ balanco
+ egalpezo, ekvilibro (równowaga)
+
+balansjer
+ vekto
+
+balansować
+ balanci
+ balanciĝi
+
+balast
+ balasto
+
+baldach
+ *baldaszek*
+
+baldachim
+ baldakeno
+
+baldaszek
+ umbelo
+
+# balerina
+baleryna
+ baletistino, dancistino
+
+baleto
+ balet
+
+# str. 12
+
+baletmistrz
+ baletestro
+ dancinstruisto
+
+baletnica
+ baletistino
+ dancistino
+
+balista
+ balisto, ĵetmaŝino
+
+balistyka
+ balistiko
+
+balia
+ lavujo, lavkuvo
+
+balkon
+ balkono
+
+ballada
+ balado
+
+balon
+ balono
+ aerostato (aerostat)
+ retorto (retorta)
+
+balotować
+ baloti
+ voĉdoni (głosować)
+
+balować
+ bali, festeni (ucztować)
+ diboĉi (hulać)
+ amuziĝi (bawić się)
+
+balsam
+ balzamo
+ konsolo (pociecha)
+
+balsamina
+ balzamino (niecierpek) [bot.]
+
+balsamować
+ balzami, enbalzamigi
+
+balustrada
+ balustrado
+
+bałwan
+ idolo, fetiĉo (bożek)
+ bloko (blok, kloc)
+ ŝtipo (kłoda)
+ ondego (fala)
+ malgraciulo (niezgrabiasz)
+ stultulo (głupiec)
+ neĝhomo (bałwan ze śniegu)
+
+bałwanić
+ ondigi, kirli
+ agiti
+
+balwiernia
+ barbirejo, razejo
+
+balwierz
+ barbiro, barbisto, razisto, frizisto
+
+bałwochwalca
+ idolano
+ pagano (poganin)
+ politeisto
+
+bałwochwalstwo
+ idolkulto, idolservo
+ paganismo (pogaństwo)
+ fetiĉismo (fetyszyzm)
+ multdieco, politeismo (wielobóstwo)
+
+bambus
+ bambuo
+
+banalny
+ banala, maloriginala
+ vulgara (pospolity)
+
+banan
+ banano
+ pizango (pizang)
+
+banda
+ bando, araĉo, kanajlaro (zgraja)
+ muzikistaro, orkestro (orkiestra)
+ rando (brzeg)
+ dromrando (brzeg toru wyścigowego)
+
+bandaż
+ bandaĝo
+
+bandażować
+ bandaĝi
+
+bandera
+ ŝipflago
+
+banderia
+ kavalkado
+
+banderola
+ banderolo
+
+bandura
+ liuto (lutnia)
+ sakfajfilo (duda)
+ naivulo (naiwny)
+
+bandyta
+ bandito
+
+bania
+ kukurbo (dynia)
+ balono (naczynie)
+ kloŝo (klosz)
+
+banialuki
+ stultaĵoj (głupstwa)
+ sensencaĵoj (niedorzeczności)
+ deliraĵoj (brednie)
+
+baniasty
+ kukurbforma
+ kupolforma (kopulasty)
+ konveksa (wypukły)
+
+banicja
+ ekzilo
+
+banita
+ ekzilito
+
+bank
+ banko
+
+bańka
+ kupo [med.]
+ kloŝeto (klosik)
+ -ujo (naczynie)
+ olivujo (bańka na oliwę)
+ ladbotelo (blaszanka)
+ veziketo (pęcherzyk)
+ sapveziketo (bańka mydlana)
+
+bankier
+ bankiero, bankposedanto
+
+bankiet
+ bankedo
+ festeno (uczta)
+
+banknot
+ bankbileto, monbileto
+
+bankowiec
+ bankisto
+
+bankructwo
+ bankroto
+
+bankrut
+ bankrotinto, bankrotulo
+
+bankrutować
+ bankroti
+
+baobab
+ baobabo
+
+bar
+ bario (pierwiastek) [chem.]
+ drinkejo (szynk)
+ restoracio (restauracja)
+
+barak
+ barako
+
+baran
+ ŝafo, ŝafviro
+ murrompilo (taran)
+ stultulo (głupiec)
+ surŝultre (na baranach, na plecach)
+ ŝafpelto (futro baranie)
+
+baranek
+ ŝaeto, ŝafido
+ nubetaro, ciruso (baranki - chmurki)
+ ŝafidpelto (baranki - futro)
+
+baranieć
+ stultiĝi, idiotiĝi
+
+baranina
+ ŝafaĵo, ŝafa viando
+
+baraszki
+ petolaĵoj
+
+# str. 13
+
+baraszkować
+ petoli
+ perdi tempon (tracić czas)
+
+barbakan
+ barbakano
+ pafbreĉo (otwór strzeliczy)
+
+barbaryzm
+ barbarismo
+
+barbarzyńca
+ barbaro
+ sovaĝulo (dzikus)
+ kruelulo (okrutnik)
+
+barbarzyństwo
+ barbareco, sencivilizeco
+ sovaĝeco (dzikość)
+ krueleco (okrucieństwo)
+ malhumaneco (nieludzkość)
+ barbaraĵo (barbarzyński czyn)
+ vandalismo (wandalizm)
+
+barć
+ abelujo
+
+barchan
+ fusteno
+
+barczysty
+ larĝeŝultra, larĝaŝultra, ŝultrolarĝa
+
+bard
+ bardo
+
+bardzo
+ tre, ege
+ multe (wielce)
+ forte (silnie)
+
+bardziej
+ pli
+ plie
+
+bariera
+ bariero
+
+bark
+ *barki*
+
+barka
+ barko
+ boato (łódka)
+
+barkarola
+ barkarolo
+
+barki
+ ŝultroj
+ humero (kość ramieniowa)
+
+barłóg
+ pajlokuŝejo (legowisko)
+ pajlosternaĵo (pościółka)
+ litaĉo (nędzne łoże)
+ balaaĵo (śmiecie)
+ mizero (nędza)
+
+barłożyć
+ sterni pajlon (robić podściółkę)
+ maplurigi (zaśmiecać)
+ babili (bajać)
+ deliri (bredzić)
+
+barok
+ baroko
+
+barometr
+ barometro
+
+baron
+ barono
+
+baronia, baronostwo
+ baroneco (tytuł)
+ baronbieno (majątek)
+ gebaronoj (baron z żoną)
+
+barszcz
+ barĉo
+ herakleo (babimur, widłaczek) [bot.]
+
+bartnictwo
+ abelkulturado
+ abelbredado
+
+bartnik
+ abelisto
+ abelbredisto
+
+barwa
+ koloro
+ tembro (barwa dźwięku)
+ nuanco (odcień)
+ livreo (liberia)
+ preteksto (pozór)
+
+barwić
+ kolori
+ kolorigi, farbi (farbować)
+ ornami (zdobić)
+
+barwica, barwiczka
+ ruĝigilo (róż)
+ asperolo (marzanna) [bot.]
+
+barwinek
+ vinko
+
+barwnik
+ kolorilo, kolorigilo, pigmento
+
+barwny
+ kolora
+ vivkolora
+ ornama (strojny)
+ pentrinda, pitoreska (malowniczy)
+ daltonismo (ślepota barwna)
+
+bary
+ ŝultroj
+
+barykada
+ barikado
+
+barykadować
+ barikadi, barfermi
+
+baryła, baryłka
+ barelo (beczka)
+ dikventrulo, ventregulo (brzuchacz)
+
+baryt
+ barito
+
+baryton
+ baritono
+ baritonulo
+
+barża
+ barĝo
+ ŝarĝboato
+
+bas
+ baso
+ basulo
+
+basałyk
+ skurĝo (bicz)
+ altulo (drągal)
+ maldiligentulo (próżniak)
+ dikulo (tłuścioch)
+
+basen
+ baseno
+ akvujo
+ ujo
+ rezervujo (rezerwuar)
+
+basetla
+ basviolono
+
+basetlista, basista
+ basviolonisto
+
+baśń
+ fabelo
+ mito (mit)
+ onidiro (pogłoska)
+ mensogo (kłamstwo)
+
+bason
+ baseno, fekujo
+
+basować
+ akompani (towarzyszyć)
+ flati (pochlebiać)
+
+basowy
+ basa, basvoĉa
+ basŝlosilo, fokleo (klucz basowy)
+
+basta!
+ sufiĉe!, fino!, nienion plu!, kvito!
+
+bastard
+ bastardo (bękart)
+ hibrido (mieszaniec)
+
+bastion
+ bastiono
+
+batonada
+ bastonado
+
+bastować
+ ĉesi (przestawać)
+ kapitulaci (dać za wygraną)
+
+basy
+ batoj (razy)
+ batstrioj (pręgi)
+
+# str. 14
+
+basza
+ paŝao
+
+baszłyk
+ kapuĉo
+
+obaszta
+ bastiono
+
+bat
+ boato (łódka)
+ velboato (żaglówka)
+ ŝalupo (szalupa)
+
+bat
+ vipo (bicz)
+ batoj, punbatoj (baty, chłosta)
+
+batalia
+ batalo
+
+batalion
+ bataliono
+
+bateria
+ baterio
+ artileria taĉmento (oddział artylerii)
+ pilaro [elektr.]
+
+batóg
+ vipo, vipego, skurĝo
+
+batożyć
+ vipi, skurĝi
+
+batuto
+ taktilo, taktbastoneto
+ direktado (dyrekcja)
+
+batyst
+ batisto
+
+bawarka
+ lakto kun akvo
+ #lakto kun teo
+
+bawełna
+ kotono
+
+bawełniany
+ kotona
+
+bawełnianka
+ kotonaĵo
+
+bawialnia
+ gastoĉambro, salono
+ amuzejo
+
+bawić
+ restadi (przebywać)
+ gasti (gościć)
+ pasigi tempon (spędzać czas)
+ amuzi (zabawiać)
+ distri (rozrywać)
+ gaigi (cieszyć)
+ ridigi (śmieszyć)
+ plezurigi (sprawiać przyjemność)
+
+bawić się
+ malrapidi (ociągać się)
+ ludi (grać)
+ amuziĝi, distriĝi (rozrywać się)
+ petoli (baraszkować)
+ ĝui (rozkoszować się)
+
+bawidełko
+ ludilo, amuzilo
+
+bawół
+ bubalo
+
+bawolę
+ bubalido
+
+bawolica
+ bubalino
+
+baza
+ bazo
+
+bazalt
+ bazalto
+
+bażant
+ fazano
+
+bazar
+ bazaro, ĉiovendejo, foirejo
+
+bazgrać
+ skribaĉi, fiskribi, fuŝskribi
+
+bazgranina
+ skribaĉado
+ fiskribado, fuŝskribado
+ fiskribaĵo
+ verkaĉaro (ramota)
+
+bazylika
+ baziliko
+
+bazyliszek
+ bazilisko
+ maliculo (o człowieku)
+
+be!
+ be!
+ fi!, aĉe! (brzydko!, fe!)
+ li diras nenion, malspritulo (ani be ani me)
+
+beatyfikacja
+ beatigo
+
+bebechy
+ internaĵoj (wnętrzności)
+ intestoj (kiszki)
+ tripoj (flaki)
+
+bęben
+ tamburo
+ infanaĉo (dzieciak)
+
+bębenek
+ tambureto, tamburino
+ timpano (bębenek uszny)
+
+bębnić
+ tamburi
+
+bechtać
+ instigi, agiti (podpuszczać)
+ inciti (drażnić)
+
+bęcnąć
+ fali
+ krakfali
+ renversiĝi
+
+bęcwał
+ malgraciulo, mallertulo (niezdara)
+ stultulo (głupiec)
+
+beczeć
+ bleki
+ ploraĉi (płakać)
+
+beczka
+ barelo
+ tonelo (tonna - jednostka objętości)
+ buo (sygnał)
+
+baczułka
+ bareleto
+ ventrodikulo (oczłowieku)
+
+bednarstwo
+ barelfarado
+ barelista metio
+
+bednarz
+ barelisto, barelfaristo
+
+befsztyk
+ bifsteko
+
+begonia
+ begonio
+
+bek
+ blekado
+ ploraĉo (płacz)
+ gasbeko (palnik)
+ defendanto (obrońca)
+
+bękart
+ bastardo
+ hibrido (mieszaniec)
+
+bekas
+ skolepo
+
+bekiesza
+ surtuto, bekeŝo
+
+beknąć
+ ekbleki
+ ekploraĉi (wybuchnąć płaczem)
+ malgajni, perdegi (ponieść stratę)
+ pagi (płacić)
+
+beksa
+ ploremulo
+
+bela
+ pako (paka)
+ ŝtipo, bloko (kloc)
+ 10 rismoj (10 ryz)
+
+beladona
+ beladono
+
+beletrysta
+ beletristo, beletristikisto
+ romanisto (powieściopisarz)
+
+beletrystyka
+ beletristiko
+ beletro, belliteraturo
+
+# str. 15
+
+belfer
+ helpinstruisto
+ pedagogo
+
+belferka
+ instruado, instruista profesio
+
+belka
+ trabo
+
+bełkot
+ balbuto, balbutado
+
+bełkotać
+ balbuti (jąkać się)
+ kirli (bełtać, mącić)
+
+belkowanie
+ trabaĵo, ĉarpentaĵo
+
+bełt
+ sago (strzała)
+ markolo (cieśnina)
+
+bełtać
+ kirli
+
+belweder
+ belvedero
+
+bemol
+ bemolo
+
+beneficjum
+ pastra probendo (dochód z dóbr kościelnych)
+ feŭdo (lenno)
+ enspezo (dochód)
+
+benefis
+ benefico
+
+beniaminek
+ plej juna infano (najmłodsze dziecko)
+ favorato (ulubieniec)
+ dorlotato (pieszczoch)
+
+benzoes
+ benzoo
+
+benzol
+ benzolo
+
+benzyna
+ benzino
+
+berbeć
+ infaneto
+
+berberys
+ berberiso
+
+berdysz
+ batalhakilo, halebardo
+
+beret
+ bireto
+
+bergamota
+ bergamoto
+
+berlacz
+ feltŝuo
+
+berlinka
+ ŝarĝa velboato
+
+berło
+ sceptro
+
+beryl
+ berilo (kamień)
+ berilio (pierwiastek) [chem.]
+
+bestia
+ besto, bestaĉo
+ monstro (potwór)
+
+bestializm
+ besteco
+
+bestialny, bestialski
+ besta, besteca
+ bruta
+
+bestwieć, bestwić się
+ sovaĝiĝi (dziczeć)
+ brutiĝi (bydlęcieć)
+ furiozi (szaleć)
+
+besztać
+ insulti
+
+betel
+ betelo
+
+beton
+ betono
+
+bety
+ plumlito
+
+bez {przyimek}
+ sen
+ senmanka
+
+bez {rzeczownik}
+ siringo (bez pospolity)
+ sambuko (bez groniasty)
+ lilako (bez włoski)
+ ebulo (bez polny)
+
+beza
+ meringelo
+
+bezapelacyjny
+ senapelacia, nerevokebla
+
+bezbarwny
+ senkolora
+ akromata
+
+bezbłędny
+ senerara, korekta
+
+bezbożnik
+ sendiulo, malpiulo, senreligiulo, ateisto
+
+bezbożny
+ sendia, malpia, ateista
+
+bezbronny
+ sendefenda, senarmila
+ nearmita
+ senforta (bezsilny)
+
+bezcelowy
+ sencela
+ vana (daremny)
+
+bezcen (za)
+ malkarege, preskaŭ senpage
+
+bezcenny
+ netaksebla (nieoceniony)
+ altpreza, kostega, karega (kosztowny)
+
+bezceremonialny
+ senceremonia, senĝena, familiara
+
+bezchmurny
+ sennuba, serena
+
+bezczelny
+ senhonta, impertinenta, aroganta, cinika
+
+bezcześcić
+ senhonorigi, malhonori, profani
+ misfamigi (zniesławić)
+ malrespekti (znieważyć)
+
+bezczynny
+ senokupa (bez zajęcia)
+ malfunkcianta (nieczynny)
+
+bezdeń
+ senfundaĵo, profundegaĵo, abismo
+
+bezdenny
+ senfunda, profundega
+ abisma (przepaścisty)
+ nesondebla (niezgłębiony)
+ neelĉerpebla (niewyczerpany)
+
+bezdomny
+ senhejma
+ vaga (tułaczy)
+
+bezdroże
+ misvojo, erarvojo
+
+bezduszny
+ senanima, malvigla, apatia
+
+bezdzietny
+ senida
+ seninfana
+
+bezecny
+ senhonora
+ malnobla (nikczemny)
+ hontinda, malglora (haniebny)
+ senhonta (bezwstydny)
+ malinda (niegodziwy)
+
+# str. 16
+
+bezgraniczny
+ senlima, senfina
+
+bezgrzeszny
+ senpeka
+
+bezimienny
+ sennoma, anonima
+
+bezinteresowny
+ neprofitema
+ sensalajra
+
+bezkarny
+ senpuna, nepunita (nieukarany)
+ sendisciplina (bez karności)
+
+bezkresny
+ senfina, senlima
+
+bezkrólewie
+ senreĝeco
+ interreĝado
+
+bezkrwawy
+ sensanga
+
+bezkrwisty
+ anemia
+ pala (blady)
+
+bezkrytyczny
+ senkritika
+ nekritikema
+
+bezład
+ senordo, ĥaoso, konfuzo, anarkio
+
+bezładny
+ senorda, ĥaosa, konfuza, anarkia
+
+bezkształtny
+ senforma
+ amorfa
+
+bezleśny
+ senarbara
+
+bez liku
+ multege, sennombre
+
+bezlistny
+ senfolia
+
+bezlitosny
+ senkompata, malkopatema, kruela
+
+bezlotek
+ pingvino
+
+bezludny
+ senhoma, neloĝata, dezerta
+
+#bez mała
+bezmała
+ preskaŭ
+
+bezmiar
+ nemezurebleco (niezmierzoność)
+ senlimeco (bezkresność)
+ sennombreco (niezliczoność)
+ senfinaĵo (nieskończoność)
+
+bezmierny
+ nemezurebla
+ senlima (bezkresny)
+
+bezmyślny
+ senpensa, gapanta (gapiowaty)
+ nekonsiderema (nierozważny)
+ nekonsiderita, senpripensa (nieobmyślany)
+ sensenca (niedorzeczny)
+
+beznadziejny
+ senespera, senesperiga
+
+bezokolicznik
+ infinitivo
+
+bezokoliczny tryb
+ infinitivo
+
+bezosobowy
+ senpersona
+
+bezowocny
+ senfrukta
+ malfekunda (bezpłodny)
+ senutila (niepożyteczny)
+ vana (próżny)
+ senefika (nieskuteczny)
+
+bezparcjalny
+ *bezpartyjny*
+
+bez pardonu
+ senceremonie
+ perforte (gwałtem)
+ senindulge (niepobłażliwie)
+
+bezpartyjny
+ senpartia, eksterpartia, neŭtrala
+
+bezpieczeństwo
+ sekureco, sendanĝereco
+ trankvilo (spokój)
+
+bezpieczny
+ sekura, sendanĝera
+ trankvila (spokojny)
+
+bezpłatny
+ senpaga
+ sensalajra
+
+bezpłciowy
+ senseksa
+ neŭtra
+
+bezpłodny
+ senfrukta, malfekunda, sterila
+ senida (bezpotomny)
+
+bezpodstawny
+ senbaza, senfundamenta
+ malprava, nepravigita (nieusprawiedliwiony)
+
+bezpośredni
+ senpera, rekta
+ tuja (natychmiastowy)
+ tujposta (zaraz następujący)
+
+bezpotomny
+ senida
+
+bezpowrotny
+ senrevena, nerevenigebla
+ nerevokebla (nieodwołalny)
+ por ĉiam, por eterne (na zawsze)
+
+bezprawie
+ senleĝeco
+ eksceso (nadużycie)
+ maljustaĵo (niesprawiedliwość)
+
+bezprawny
+ senleĝa, kontraŭleĝa
+ senrajta, nerajtigita (nieuprawniony)
+
+bezprzestannie
+ senĉese, senhalte
+
+bezprzykładny
+ senekzempla, senkompara, senegala
+ kurioza (osobliwy)
+ neaŭdita (niesłychany)
+
+bezprzytomny
+ senkonscia
+
+bezradny
+ senkonsila, senhelpa
+ embarasita (zakłopotany)
+ mallerta (niezdarny)
+
+bezrobocie
+ senlaboreco, labormanko
+
+# str. 17
+
+bezrobotny
+ senlabora
+ senlaborulo
+
+bezrolny
+ senbiena, sengrunda
+
+bezrozumny
+ senprudenta
+ malsaĝa, stulta (głupi)
+ sensenca (bezsensowny)
+
+bezruch
+ senmoveco, inerteco
+
+bezrybie
+ fiŝmanko
+
+bezrząd
+ senregeco, senestreco
+ anarkio
+ senordo, misordo (bezład)
+
+bezsenny
+ sendorma
+
+bezsensowny
+ sensenca, absurda
+
+bezsilność
+ senforteco, fortomanko
+ atonio [med.]
+
+bezsilny
+ senforta
+ malforta (słaby)
+
+bezskuteczny
+ senefika
+ senfrukta (bezowocny)
+ vana (daremny)
+
+bezsporny
+ *bezsprzeczny*
+
+bezpsrzeczny
+ sendisputa
+ certa (pewny)
+ senduba, nepridubebla (niewątpliwy)
+ nekontestebla (niezaprzeczony)
+ nerefutebla (niezbity)
+
+bezstronny
+ senpartia
+ neŭtrala (neutralny)
+ justa (sprawiedliwy)
+
+bez tchu
+ senspira
+
+bezterminowy
+ senlimptempa, sentemplima
+ ĝismorta (dożywotni)
+ nedifinita, nedeterminita (nieokreślony)
+
+beztroski
+ senzorga
+
+bezustanny
+ senĉesa, senhalta
+ seninterrompa
+ senpaŭza (nieprzerwany)
+ konstanta, ĉiama (stały)
+ kontinua (ciągły)
+ daŭra (trwały)
+
+bezużyteczny
+ senutila
+ neutiligebla (niedający się zużytkować)
+ senfrukta (bezowocny)
+ vana (daremny)
+
+bezwartościowy
+ senvalora
+ sensignifa (bez znaczenia)
+
+bezwarunkowy
+ senkondiĉa
+ nepra (konieczny)
+ absoluta, malrelativa (bezwzględny)
+
+bezwąsy
+ liphara
+
+#bez wątpienia
+bezwątpienia
+ sendube
+
+bezwiedny
+ senscia
+ senkonscia (bezświadomy)
+ maŝina, aŭtomata (machinalny)
+ pretervola (mimowolny)
+ instinkta (odruchowy)
+
+bezwład, bezwładność
+ senmoveco, inerteco
+ paralizo (porażenie)
+
+bezwładny
+ senmova, inerta
+ senpova (bezsilny)
+ paralizita (ubezwładniony)
+
+bezwłosy
+ senhara
+ kalva (łysy)
+
+bezwodnik
+ anhidrido
+
+bezwodny
+ senakva
+ anhidra [chem.]
+
+bezwonny
+ senodora
+
+bezwstydnik
+ senhontulo
+
+bezwstydny
+ senhonta
+ impertinenta (bezczelny)
+ cinika (cyniczny)
+ maldeca (nieprzyzwoity)
+
+bezwyznaniowiec
+ senkonfesiulo, senreligiulo
+
+bezwyznaniowy
+ senkonfesa, senreligia
+
+bezwględny
+ absoluta
+ malrelativa, senkondiĉa (bezwarunkowy)
+ nepra (konieczny)
+ senindulga, severega, rigora (surowy)
+ despota (despotyczny)
+
+bezzasadny
+ senprincipa (bez zasady)
+ malprava (niesłuszny)
+ nemotivigita, nepravigita, senracia (nieuzasadniony)
+ senfundamenta (bezpodstawny)
+
+bezzębny
+ sendenta
+
+bezżeństwo
+ senedzineco, fraŭlineco, celibato
+
+bezzmienny
+ senŝanĝa
+ nevaria
+
+bezzwłoczny
+ senprokrasta, tuja
+
+biada!
+ ve!, ho ve!
+
+biadać
+ vei, vekrii, veplendi, lamenti
+
+białawy
+ blanketa, dubeblanka, duonblanka
+
+# str. 18
+
+białko
+ ovblanko (białko jajka)
+ albumino [chem.]
+ sklero (białko oczne)
+
+białkomocz
+ albuminurio
+
+białkówka
+ sklero, okulblanko
+
+białogłowa
+ virino, homino
+
+białogłowy
+ blankkapa, blankhara (białowłosy)
+
+białoskórnik
+ blanktanisto
+
+białowłosy
+ blankhara
+
+biały
+ blanka
+ hela (jasny)
+ pura (czysty)
+ tranĉa (sieczny - o broni)
+ tritika (pszenny - o chlebie)
+ senrima (nierymowany - o wierszu)
+
+biba, bibka
+ festeno (uczta)
+ bankedo (bankiet)
+ drinkado (pijatyka)
+
+biblia
+ biblio
+
+bibliofil
+ libroamanto
+
+bibliograf
+ bibliografiisto
+
+bibliografia
+ bibliografio
+
+biblioteka
+ biblioteko
+ libraro (księgozbiór)
+
+bibliotekarz
+ bibliotekisto
+
+bibosz
+ drinkulo
+
+bibuła
+ sorbopapero, inksorbilo
+ flugfolio (ulotka)
+
+bibułka
+ silkpapero
+
+bić
+ bati
+ frapi (uderzać)
+ marteli (bić młotem)
+ vipi (chłostać)
+ skurĝi (biczować)
+ bastoni (bić kijem)
+ venki (zwyciężać)
+ ataki (nacierać)
+ rompi (łamać)
+ mortigi (zabijać)
+ buĉi (rzezać)
+ presi (drukować)
+ stampi (stemplować)
+ stampobati (bić pieniądze)
+ kirli, ŝaŭmigi (bić pianę)
+ ŝpruci (tryskać)
+ akcenti (kłaść nacisk)
+ soni (wybijać - o zegarze)
+ sonorigi (bić w dzwony)
+ pulsi (tętnić)
+ elradii (promieniować)
+ elspiri (ziać)
+ manklaki, manaplaŭdi (klaskać)
+ rompi rekordon (bić rekord)
+ superatuti (bić kartę w grze)
+ forpreni (zabierać np. figurę w grze)
+ konstrui (budować)
+ kompaktigi, densigi (zgęszczać)
+
+bić się
+ bati sin, vipi sin (chłostać się)
+ interbatiĝi (staczać bójkę)
+ batali (walczyć)
+ lukti (pasować się)
+ barakti (szamotać się)
+
+biceps
+ bicepso
+
+bicykl
+ biciklo
+
+bicz
+ vipo
+ skurĝo (nahajka)
+ punbato (chłosta)
+
+biczować
+ vipi, skurĝi
+
+biczysko
+ viptenilo
+
+biec
+ kuri
+ flui (płynąć)
+
+bieda
+ mizero
+ malriĉeco (ubóstwo)
+ mizere vivi (biedę klepać)
+ embaraso (kłopot)
+ peno (trud)
+ apenaŭ, en kazo de bezono (zaledwie, od biedy)
+ ĉaro (wózek dwukołowy)
+
+biedactwo
+ mizerulo (biedak)
+ mizeraĵo (nędznota)
+ malriĉeco (ubóstwo)
+
+biedaczysko, biedak
+ mizerulo, kompatindulo
+ malriĉulo
+ malfeliĉulo
+
+biednieć
+ malriĉiĝi (ubożeć)
+ mizeriĝi (nędznieć)
+ malfortiĝi (słabnąć)
+
+biedny
+ malriĉa (ubogi)
+ kompatinda (godny litości)
+ mizera (nędzny)
+ malfeliĉa (nieszczęśliwy)
+
+biedota
+ malriĉeco (ubóstwo)
+ mizero (nędza)
+ mizeraĵo (rzecz licha)
+ malriĉularo (ludzie ubodzy)
+
+biedować
+ vivi mizere, suferi mizeron (cierpieć biedę)
+ vei, veplendi (biadać)
+
+biedronka
+ kokcinelo
+
+biedzić się
+ turmentiĝi (męczyć się)
+ klopodegi (starać się, zabiegać)
+ penegi (trudzić się)
+ lukti (borykać się)
+
+bieg
+ kuro
+ paŝado (chód)
+ vetkuro (wyścig)
+ sinsekvo (następstwo)
+ historio (dzieje)
+
+biegać
+ kuri
+ flui (płynąć)
+
+bieganina
+ kurado
+
+biegły
+ lerta (wprawny)
+ sperta (doświadczony)
+ rutinhava (rutynowy)
+ ekzercita (wyćwiczony)
+ flua (płynny)
+ spertulo, esperto, ekspertizisto (znawca)
+
+# str. 19
+
+biegnąć
+ *biec*
+
+biegun
+ poluso [gogr.][fiz.]
+ ekstremo (kraniec)
+ balancarko, lularko (balans u kołyski itp.)
+ kurulo, kurĉevalo (koń)
+
+biegunka
+ lakso, diareo
+ disenterio (krwawa biegunka)
+
+biegunowo
+ diametre, antipode
+
+biel
+ blanko
+ blankeco (białość)
+ blankaĵo (rzecz biała)
+ alburno (biel drzew)
+
+bielarz
+ blankigisto
+
+bielas
+ blankulo
+ albino
+
+bieleć
+ blankiĝi
+ blanki
+
+bielić
+ blankigi
+ stani (bielić cyną)
+ kalki (bielić wapnem)
+
+bielić się
+ blankigi sin
+ blankiĝi (bielieć)
+ ŝajni blanka, blanke brili (świecić białością)
+ paliĝi (blednąć)
+
+bielidło
+ blankigilo
+ blanka pudro
+
+bielizna
+ tolaĵo
+ subvesto (dessous)
+
+bieliźniarka
+ tolaĵkudristino, tolaĵistino (szwaczka)
+ tolaĵŝranko (szafa)
+
+bielmo
+ leŭkomo, katarakto
+
+bielnik
+ blankigejo
+
+bieluchny, bielusi, bieluteńki
+ tutblanka, neĝblanka
+
+bieluń
+ daturo
+ hiskiamo (blekot)
+
+biernik
+ akuzativo
+
+bierny
+ pasiva
+ malaktiva, neagema
+ cedema, malrezistema (ustępliwy)
+
+bierzmować
+ konfirmi
+
+bies
+ diablo, satano
+
+biesiada
+ festeno, bankedo
+ ĝuado (rozkoszowanie się)
+
+biesiadnik
+ festenanto
+
+biesiadować
+ festeni, bankedi
+
+bieżący
+ kuranta
+ aktuala (aktualny)
+
+bieżnia
+ kurejo, dromo
+
+bifszty
+ *befsztyk*
+
+bigam, bigamista
+ bigamiulo
+
+bigamia
+ bigamio, duedzineco
+
+bigos
+ bigoso
+ gulaŝo
+ miksaĵo (mieszanina)
+ konfuzo (zamęt)
+ embaraso (kłopot)
+
+bigot
+ bigoto, bigotulo
+
+bigoteria
+ bigoteco, bigotismo, tropieco
+
+bijatyka
+ interbatiĝo
+
+bil
+ bilo
+ leĝprojekto
+
+bila
+ bilarda globo
+
+bilans
+ bilanco
+
+bilard
+ bilardo
+ bilardejo
+
+bilboket
+ bilboko
+
+bilet
+ bileto
+ karto (karta)
+ vizitkarto (wizytówka)
+
+bileter
+ biletisto
+
+bilion
+ biliono
+
+bill
+ *bil*
+
+bilon
+ bilono, eta mono
+
+bimetalizm
+ bimetalismo
+
+binokle
+ binoklo, nazumo
+
+biodro
+ kokso
+
+biograf
+ biografiisto
+
+biografia
+ biografio
+
+biolog
+ biologiisto, biologo
+
+biologia
+ biologio
+
+birbant
+ diboĉulo
+
+bis!
+ bis!, refoje!
+
+bisior
+ bisono (tkanina)
+ bisuso (nitki z cieczy małżów)
+
+bisiorka
+ viropelo, rozariero (paciorek)
+
+biskup
+ episkopo, dicezestro
+
+biskupstwo
+ episkopeco (urząd biskupa)
+ episkopujo, episkoplando, diocezo (diecezja)
+
+biskwit
+ biskvito
+
+bisować
+ bisi, ripeti
+
+bistur
+ bisturio
+
+bisurman
+ mahometano
+ malfidelulo (niewierny)
+ fripono (łotr)
+ diboĉulo (hulaka)
+ malĉastulo (rozpustnik)
+
+biszkopt
+ biskvito
+
+bitka
+ preno (wziętka)
+
+bitny
+ batalema (waleczny)
+ kuraĝa (odważny)
+ brava (mężny)
+
+bitum
+ bitumo
+
+bitwa
+ batalo
+
+# str. 20
+
+bity
+ batita
+ kompakta (zwarty, ścisły)
+ stampobatita (o pieniądzach)
+ sagaca (nie w ciemię bity)
+
+biuletyn
+ bulteno
+
+biuralista
+ kontoristo
+ skriboficisto, oficisto (urzędnik)
+ kancelariisto (kancelista)
+ formalisto (formalista)
+ 
+
+biurko
+ skribotablo
+
+biuro
+ skribotablo (stół)
+ oficejo (urząd)
+ kontoro (kantor)
+ kancelario (kancelaria)
+ sekretariejo (sekretariat)
+ oficistaro (urzędnicy)
+
+biurokracja
+ burokrateco, burokratismo
+ formalismo
+ burokrataro
+
+biurokrata
+ burokrato
+ formalisto
+
+biust
+ busto
+ torso (tors)
+
+biusthalter, biustonosz
+ korsaĵo
+
+biwak
+ bivako, kapadejo
+
+biwakować
+ bivaki, kampadi
+
+bizmut
+ bismuto
+
+bizon
+ bizono
+
+bizun
+ skurĝo
+ skurĝobato
+
+biżuteria
+ juvelaĵo
+ juvelaro
+
+blacha
+ lado, metalfolio
+
+blacharnia
+ ladejo
+
+blacharz
+ ladisto, ferladisto
+
+błąd
+ eraro
+ malkorektaĵo (niepoprawność)
+ malĝustaĵo (niedokładność)
+ manko (brak)
+ plumeraro (błąd pisarski)
+ preseraro (błąd drukarski)
+
+bladaczka
+ *blednica*
+
+bladawy
+ iom pala, paleta, duonpala
+
+bladolicy
+ palvizaĝa
+
+blady
+ pala
+
+błądzić
+ erari
+ devojiĝi (zbaczać z drogi)
+ erarvagi, vagi (błąkać się)
+ peki (grzeszyć)
+
+blaga
+ blago
+ mensogo (kłamstwo)
+
+błagać
+ petegi, insiste peti, plorpeti
+
+błagalny
+ petega, peteganta
+
+blagier
+ blagulo
+ fanfaronulo (pyszałek)
+
+blagować
+ blagi
+ fanfaroni (przechwalać się)
+
+błahostka
+ malgravaĵo, bagatelo, vantaĵo
+
+błahy
+ malgrava, sensignifa, bagatela, neatentinda, vanta
+
+błąkać się
+ vagi, vagadi, erarvagi, vagmigri
+ vojserĉi
+
+blaknąć
+ kolorperdi, senkolorigi
+ paliĝi (blednąć)
+
+blamaż
+ kompromito, kompromitiĝo
+
+blamować się
+ kompromitiĝi
+
+blankiet
+ blanketo
+ formularo (formularz)
+ firmpapero (papier firmowy)
+
+blansz
+ blankigilo
+
+blask
+ brilo
+
+blaszany
+ lada
+
+blaszanka
+ ladbotelo, ladvazo
+
+blaszka
+ metalfolieto, lameno
+ plateto (płytka)
+
+blat
+ plato (płyta)
+ tabulo (deska)
+ folio (arkusz)
+
+bławat
+ silko, malhelblua silko
+ malhelblua koloro, cejankoloro
+
+bławatek
+ cejano
+
+bławatnik
+ silkajisto
+
+bławatny
+ silka (jedwabny)
+ ŝtofvendejo (sklep bławatny)
+ malhelblua, cejankolora (ciemnoniebieski)
+ lazura (lazurowy)
+
+błazen
+ arlekeno, burleskulo, historiono, amuzisto, klaŭno
+ malsaĝulo, stultulo (głupiec)
+
+błaźnić się, błaznować
+ arlekeni
+ ridindiĝi (ośmieszać się)
+ moki (błaźnić z kogo)
+
+blednąć, blednieć
+ paliĝi
+
+blednica
+ klorozo
+
+błędnik
+ labirinto
+
+błędny
+ erara, misa, mis-
+ malĝusta, malkorekta (niepoprawny)
+ falsa (fałszywy)
+ erariga (wprowadzający w błąd)
+ vaganta (błąkający się )
+ senelira rondo, neelirebla cirklo (błędne koło)
+
+# str. 21
+
+blejwas
+ ceruzo, plumboblanko
+
+błękit
+ bluo, ĉielbluo, lazuro
+
+błękitny
+ blua, ĉielblua, lazura
+
+blekot
+ biskiamo [bot.]
+
+blichtr
+ ŝajnbrilo, trompbrilo
+ iluzio, fantsmagorio (ułuda)
+
+bliski
+ proksima
+ parenca (pokrewny)
+ apuda, najbara (sąsiedni)
+
+bliskoznacznik
+ sinonimo
+
+bliskoznaczny
+ sinonima
+
+bliziuchny, bliziuteńki
+ proksimega, tre proksima
+
+blizna
+ cikatro
+
+bliźni
+ proksimulo, homfrato, kunhomo
+
+bliźniak, bliźnię
+ ĝemelo, dunaskito
+
+bliższy
+ pli proksima
+ rekta komplemento (dopełnienie bliższe)
+
+błociś się
+ maplurigi per koto, kotŝmiriĝi
+
+błogi
+ feliĉega, beata (szczęśliwy)
+ ĝuplena (pełen rozkoszy)
+
+błogosławić
+ beni
+ glori (wysławiać, uwielbiać)
+
+błogosławieństwo
+ beno
+
+błogosławiony
+ benita, benplena
+ feliĉega (błogi)
+ glorata (chwalony)
+ gravedeco (ciąża, błogosławiony stan)
+
+blok
+ bloko
+ ŝtipo (kloc)
+ rulbloko, levilo (dźwignia)
+ ŝirnotlibro (notes)
+ komplekso (kompleks)
+ unuiĝo (zjednoczenie)
+
+blokada
+ blokado
+
+blokować
+ bloki, blokadi, ĉirkaŭsieĝi
+
+błona
+ membrano
+ peritoneo (błona brzuszna)
+ himeno (błona dziewicza)
+ mukmembrano (błona śluzowa)
+ perikardo (błona sercowa)
+ meningo (błona mózgowa)
+ timpano (błona bębenkowa)
+ filmo (błona fotograficzna)
+
+blond
+ blonda
+
+blondyn
+ blondulo
+
+błonica
+ difterito
+
+błonie
+ herbejo, herbebenaĵo
+
+błonkowaty
+ membraneca, membransimila
+
+błotnik
+ kotŝirmilo
+
+błotnisty
+ kota
+ marĉoplena (bagnisty)
+
+błotny
+ kota, marĉa, marĉeca, ŝlima
+
+błoto
+ koto
+ marĉo (bagno)
+
+bluf
+ blufo, blago, fanfaronado
+
+bluszcz
+ hedero
+
+bluza, bluzka
+ bluzo
+
+bluzgać
+ ŝpruci, ŝprucflui
+
+bluźnić
+ blasfemi
+
+bluźnierca
+ blasfemanto, blasfemulo
+
+bluźnierstwo
+ blasfemo
+
+błysk
+ ekbrilo
+ brilo (blask)
+ poluro (połysk)
+ fulmo (błyskawica)
+
+błyskać
+ brileti, lumeti
+ fulmas (błyska się)
+
+błyskawica
+ fulmo
+
+błyskotać
+ brili (błyszczeć)
+ trembrili, flagri (migotać)
+
+błyskotka
+ brilaĵeto
+
+błyskotliwy
+ brila, briletanta
+ flagranta (migotliwy)
+
+błysnąć
+ ekbrili
+ ekfulmi
+ ekaperi (ukazać się)
+
+błyszcz
+ brilo (blask)
+ poluro (połysk)
+ ciro (szuwaks)
+ glazuro (szkliwo)
+ galeno (błyszcz ołowiany)
+
+błyszceć
+ brili
+ lumi (świecić)
+
+bo, boć
+ ĉar, tial ke, pro tio ke
+
+bób
+ fabo
+
+boa
+ boao
+
+bobak
+ marmoto
+
+bobek, bobki
+ laŭrofrukto (owoc wawrzynu)
+ ekskrementbuloj (kulki kału)
+
+bobo
+ infaneto
+
+bóbr
+ kastoro
+
+bochen, bochenek
+ panbulo
+
+bocian
+ cikonio
+
+bocianię
+ cikoniido
+
+bociek
+ cikonio
+
+boćwina
+ beto
+
+boczek
+ flanketo
+ flankaĵo, porkflankaĵo (boczek wieprzowy)
+
+# str. 22
+
+bocznica
+ flanko (bok)
+ flanka vojo, vojbrako, flanka linio (boczna linia)
+ disbranĉigo (rozgałęzienie)
+ alo (skrzydło)
+
+boczny
+ flanka
+ latera [geom.]
+
+boczyć
+ deflankiĝideturniĝi, flankeniĝi
+
+boczyć się
+ kolereti (dąsać się)
+ esti malkontenta (być niezadowolonym)
+
+bodaj, bodajże
+ Dio donu (daj Boże)
+ ke (żeby)
+ laŭŝajne (jak się zdaje)
+ verŝajne (prawdopodobnie)
+ almenaŭ (przynajmniej)
+
+bodjak
+ kratago
+
+bodnąć
+ kornopuŝi, kornobati
+ ekpiki (ukłuć)
+
+bodziec
+ stimulo (podnieta)
+ impulso (pobudka)
+ pikilo (kolec)
+
+bodziszek
+ geranio
+
+Bóg
+ Dio
+
+bogacić się
+ riĉiĝi
+
+bogactwo
+ riĉeco
+ abundeco (obfitość)
+ riĉaĵo, trezoro (skarb)
+
+bogacz
+ riĉulo
+
+Bogarodzica
+ Dipatrino
+
+bogaty
+ riĉa
+ monhava (mający pieniądze)
+ abunda (obfity)
+ luksa (zbytkowny)
+ enhavoriĉa (bogaty w treść)
+
+bogdaj
+ *bodaj*
+
+bogdanka
+ amatino
+
+bogini
+ diino
+ ĉielanino (niebianka)
+
+bogobojny
+ pia, religiema
+
+bohater
+ heroo
+
+bohaterstwo
+ heroeco (bohaterskość)
+ heroaĵo (czyn bohaterski)
+
+bohomaz
+ fuŝpentraĵo, pentraĵaĉo, bildaĉo (malowidło)
+ fuŝpentristo, fipentristo (malarz)
+
+boisko
+ drŝejo (klepisko)
+ gimnastikejo, ludejo, luktejo
+ stadiono (boisko sportowe)
+
+bój
+ batalo
+
+bojar
+ bojaro, rusa nobelo
+
+bojaźliwy
+ timema
+ malkuraĝa
+
+bojaźń
+ timo
+ fobio [med.]
+
+boje
+ naĝbareloj, buoj
+
+bójka
+ interbatiĝo
+
+bojkot
+ bojkoto
+
+bojkotować
+ bojkoti
+
+bojowiec
+ batalpartiano
+
+bojowisko
+ batalkampo (pole bitwy)
+ draŝejo (klepisko)
+
+bojówka
+ bataltaĉmento, partigvardio
+
+bojownik
+ batalanto
+
+bojowy
+ batala
+
+bok
+ flanko
+ latero [geom.]
+ rando (skraj)
+ flanken (na bok)
+ kokso (biodro)
+ apude (tuż obok, pod bokiem)
+
+bokobrody
+ vangharoj
+
+boks
+ bokso
+ pugnobato (kułak)
+
+bokser
+ boksisto, pugnoluktisto
+
+boksować (się)
+ boksi, pugnolukti
+
+ból
+ doloro
+ sufero (cierpienie)
+
+bolączka
+ ulcero (wrzód)
+ doloro (ból)
+ sufero (cierpienie)
+ sentema loko (sedno)
+ manko (brak)
+
+boleć
+ dolori, bedaŭri (żałować)
+ suferigi, dolorigi (sprawiać ból)
+
+boleść
+ doloro
+ sufero (cierpienie)
+ aflikto (strapienie)
+ mizera, malbonkvalita (lichy, od siedmiu boleści)
+
+bolesny
+ dolora, doloriga
+ suferanta (cierpiący)
+
+boleściwy
+ dolora
+ dolorplena
+
+bomba
+ bombo
+ sensacio (sensacja)
+
+bombardier
+ bombardisto, artileriisto, kanonisto
+
+bombardować
+ bombardi
+
+bombastyczny
+ bombasta
+
+bombonierka
+ bombonujo
+
+bon
+ kupono
+ mandato (przekaz)
+
+bona
+ vartistino, infanistino, guvernistino
+
+bonifikacja
+ kompenso
+
+bonifikować
+ kompensi
+
+bonza
+ bonzo, budaista patro
+
+# str. 23
+
+bonżurka
+ surtuto (surdut)
+  jako (kurtka)
+
+bor
+ borilo (świder)
+ boro (pierwiastek) [chem.]
+
+bór
+ arbaro, arbarego
+
+boraks
+ borakso
+
+bordel
+ bordelo, prostituejo
+
+bordiura
+ borderaĵo
+
+borgować
+ krediti
+
+borny kwas
+ boracido
+
+borować
+ bori
+
+borówka
+ vakcino (borówka czerwona)
+ mirtelo (borówka czarna)
+
+borowy
+ arbara (leśny)
+ arbargardisto (gajowy)
+
+borsuk
+ melo
+
+borta
+ borderaĵo, pasamento
+
+boruta
+ arkidiablo
+
+borykać się
+ lukti (pasować się)
+ barakti (szamotać się)
+
+bosak
+ nudpiedulo (bosy człowiek)
+ sandalo (sandał)
+ harpuno, hokstango (osęka)
+ nudpiede (na bosaka)
+
+bość, bodnąć
+ kornopuŝi, kornobati
+ piki (kłuć)
+ sproni (bóść ostrogami)
+
+boski
+ dia
+
+bóstwo
+ diaĵo, idolo, fetiĉo (bożyszcze)
+ idealo (ideał)
+ dieco (boskość)
+
+bosy
+ nudpieda
+
+botanik
+ botanikisto
+
+botanika
+ botaniko
+
+botwina
+ beto
+
+bowiem
+ ĉar (bo)
+ tial ke (dlatego że)
+ nome (mianowicie)
+
+bożek
+ idolo
+
+bożnica
+ juda preĝejo, sinagogo
+
+boży
+ dia
+ Kristnasko (Boże Narodzenie)
+ Kristokorpa tago (Boże Ciało)
+ kokcinelo (boża krówka)
+
+bożyszce
+ diaĵo, idolo, fetiĉo
+ adorataĵo (rzecz ubóstwiana)
+
+brać
+ frataro (bracia)
+ kolegaro (koledzy)
+
+brać, wziąć
+ preni
+ kapti (chwytać)
+ akcepti (przyjmować)
+ ricevi (otrzymywać)
+ akiri (zdobywać)
+ konkeri (podbijać)
+ venki, superi (zwyciężać)
+ transpasi (brać przeszkodę)
+ edziĝi, edziniĝi (brać ślub)
+ preni sur sin, respondi, respondumi (brać na siebie)
+ trakti, rigardi, opinii, juĝi (poczytywać)
+ konsideri (brać pod uwagę)
+ mistifiki (brać na kawał)
+ partopreni (brać udział)
+ havi originon, fonti, komenciĝi (brać początek)
+
+brać się
+ komenci, eki, ek- (brać się do czego, rozpoczynać)
+ entrepreni (przedsiębrać)
+ deveni (pochodzić)
+ rezulti (wypływać)
+ ridegi (brać się za boki, śmiać się)
+
+braciszek
+ frateto
+ monaĥo (zakonnik)
+
+bractwo
+ frataro
+ korporacio (cech)
+ ordeno, kongregacio (zakon)
+
+brak
+ manko
+ foresto, malesto (nieobecność)
+ difekto (uszkodzenie)
+ forĵetaĵoj (odpadki)
+ mankohava aĵo (rzecz brakowna)
+
+braknąć, brakować
+ manki
+ foresti, malesti
+ elsortimentigi (wysortować)
+ selekti, elekti (przebierać)
+
+brakowny
+ mankohava
+ difektohava
+
+brama
+ pordego
+ *bramka*
+
+bramanizm
+ bramanismo
+
+bramin
+ bramano
+
+bramka
+ golejo (bramka w grze) [sport.]
+ golo (goal, punkt w grze)
+
+bramkarz
+ golulo [sport.]
+
+bramować
+ borderi, garni, galoni, pasamenti
+
+braniec
+ militkaptito
+
+branka
+ militkaptitino (niewolnica wojenna)
+ enarmeigo , rekrutigo (zaciąg wojska)
+
+brankard
+ brankardo
+
+bransoleta
+ braceleto, ĉirkaŭmano, brakringo
+
+# str. 24
+
+branża
+ branĉo
+ fako (fach)
+ profesio (zawód)
+
+branzlować się
+ onani
+
+brat
+ frato
+ monaĥo (zakonnik)
+ laktofrato, nutrofrato (brat przyrodni)
+ duonfrato (brat przyrodni)
+ onklido, kuzo (brat stryjeczny, wujeczny)
+
+bratać
+ fratigi, interfratigi
+ amikigi (przyjaźnić)
+
+bratanek
+ fratido, nevo
+
+bratanka
+ fratidino, nevino
+
+bratek
+ trikoloreto (kwiat)
+ frateto (braciszek)
+
+braterstwo
+ frateco
+
+bratni
+ frata, frateca
+
+bratobójca
+ fratmurdinto, fratmortiginto
+
+bratobójstwo
+ fratmurdo, fratmortigo
+
+bratowa
+ fratedzino, bofratino
+
+brawo!
+ brave, bonege (wyśmienicie)
+ aplaŭdo (poklask)
+
+brawura
+ braveco, kuraĝo (odwaga)
+ aplombo (pewność siebie)
+ vervo (werwa)
+
+brednia
+ deliraĵo
+ sensencaĵo, absurdo (niedorzeczność)
+ stultaĵo (głupstwo)
+
+bredzić
+ deliri
+
+brek
+ bremso, haltigilo (hamulec)
+ kaleŝo (powóz)
+
+brelok
+ breloko, horloĝpendejo
+
+brener
+ brulilo, gasbeko
+
+bretnal
+ najlego
+
+brew
+ brovo
+
+breweria
+ kverelo (kłótnia)
+ skandalo (skandal)
+ tumulto (zgiełk)
+
+brewiarz
+ breviero
+ preĝolibro, preĝaro (modlitewnik)
+
+brnąć
+ vadi
+
+broczyć
+ flui, torenti (płynąć)
+ sangi (krwawić)
+ surverŝi, priverŝi (oblewać)
+
+bród
+ vadejo, travadejo
+ supermezure, abunde, sufiĉego (wbród, obficie)
+
+broda
+ barbo
+ mentono (podbródek)
+
+brodacz, brodal
+ longbarbulo
+
+brodaty
+ barba, barbhava
+
+brodawka
+ veruko
+ mamo (brodawka piersiowa)
+
+brodawnik
+ leontodo [bot.]
+ aventurino [min.]
+
+brodzić
+ vadi
+
+bróg
+ garbaro
+
+broić
+ petoli (swawolić)
+ peki (grzeszyć)
+ misfari (źle coś robić)
+ malbonfari (czynić złe rzeczy)
+
+brokat
+ brokato
+
+brom
+ bromo
+
+broń
+ armilo, batalilo, defendilo
+
+brona
+ erpilo
+
+bronchit
+ bronkito
+
+bronić
+ defendi
+ ŝirmi
+ protekti (chronić)
+ gardi (strzec)
+ malpermesi (zabraniać)
+ pledi (bronić w sądzie)
+ apologii, pravigi (usprawiedliwiać)
+
+bronować
+ erpi
+
+bronz
+ bronzo
+ bronzkoloro
+
+bronzować
+ bronzi
+
+bronzownik
+ bronzaĵisto
+
+#brązowy
+bronzowy
+ bronza
+ bronzkolora, bruna
+
+broszka
+ broĉo
+
+broszura
+ broŝuro
+
+broszurować
+ broŝuri
+
+browar
+ bierfarejo
+
+browarny
+ bierfareja
+
+#bruzda
+brózda
+ sulko
+
+#bruździć
+bróździć
+ sulkigi
+ malhelpi (przeszkadzać)
+
+brud
+ malpuraĵo
+ koto (błoto)
+
+brudny
+ malpura
+ malneta (o piśmie)
+ malhonesta (nieuczciwy)
+ malĉasta (rozwiązły)
+
+brudzić
+ malpurigi
+ makuli (plamić)
+
+bruk
+ pavimo
+ vagi (bruki zbijać)
+
+brukać
+ malpurigi
+ makuli (plamić)
+
+brukarz
+ pavimisto
+
+brukiew
+ napo
+
+brukować
+ pavimi
+
+brukowiec
+ pavimero, pavimŝtono (kamień)
+ strat-ĵurnalo (pismo)
+
+# str. 25
+
+brukowy
+ pavima
+ strata (uliczny)
+ triviala (gminny)
+
+brulion
+ malneto
+
+brunatny
+ bruna
+
+brunet
+ nigrharulo
+
+brunetka
+ nigrharulino
+ pulo (pchła)
+
+brus
+ akrigilo (osełka)
+ tabulego (dyl)
+ krudulo, malĝentilulo (gbur)
+
+brusić
+ akrigi
+
+bruśnik
+ akrigisto
+
+brusznica
+ vakcinio
+
+brutal
+ brutulo
+ krudulo, malĝentilulo
+
+brutalny
+ bruteca
+ kruda, malĝentila, maldelikata
+
+brutto
+ malneta, malneto
+ kuntara pezo (waga z opakowaniem)
+
+bryczka
+ vojaĝvetruilo
+ kaleŝo (kareta)
+ kabrioleto (kabriolet)
+ fiakro (dorożka)
+
+brygada
+ brigado
+
+brygadier
+ brigadestro
+
+bryka
+ *bryczka*
+
+brykać, bryknąć
+ kursalti
+ eksalti (podskoczyć)
+ piedbati (wierzgać)
+ galopi (cwałować)
+ petoli (swawolić)
+
+brykiet
+ briketo
+
+brylant
+ brilianto
+
+bryła
+ bulo, bloko
+ solido [geom.]
+
+brylować
+ brili
+
+bryłowaty
+ buleca, globforma (kulisty)
+ masiva, solida (zbity)
+
+bryndza
+ ŝafa fromaĝo
+ mizero (bieda)
+ semnoneco, monmanko (niedostatek pieniężny)
+ stagno (zastój)
+ fipresaĵo, fiverko (ramota)
+
+brystol
+ desegna papero
+
+brytan
+ dogo
+
+#brytfanna
+brytwana, brytwanna
+ rostujo, rostpato
+
+bryzgać
+ ŝpruci
+
+#brzdąkać
+brząkać
+ tinti
+
+#brzdąkadło
+brząkadło
+ tintilo
+
+brzask
+ tagiĝo, matena krepusko, aŭroro
+
+brzdąkać
+ tinti
+ ludaĉi (rzępolić)
+
+brzęczeć
+ tinti
+ zumi (bzykać)
+ soni (dźwięczeć)
+ murmuri (szemrać)
+
+brzeg
+ bordo (wybrzeże)
+ rando (skraj)
+ marĝeno (brzeg kartki)
+
+brzegówka
+ bordhirundo
+
+brzęk
+ tinto
+ sono (dźwięk)
+ zumo, zumado (bzykanie)
+
+brzękadło
+ tintilo
+
+brzemię
+ ŝarĝo, pezo (ciężar)
+ jugo (jarzmo)
+
+brzemienny
+ ŝarĝita (obciążony)
+ plena (pełny)
+ abuda (obfity)
+ graveda (ciężarna)
+
+brzeszczot
+ klingo
+
+brzezina
+ betularo (lasek brzozowy)
+ betulaĵo, betula ligno (drzewo brzozowe)
+
+brzeżek
+ randeto
+
+brzmieć
+ soni (dźwięczeć)
+ aŭdiĝi (dać się słyszeć)
+ teksti (mieć treść)
+
+brzmienie
+ sono (dźwięk)
+ tono (ton)
+ teksto (tekst)
+
+brzoskwinia
+ persiko (owoc)
+ persikujo, persikarbo (drzewo)
+
+brzost
+ ulmo
+
+brzoza
+ betulo
+
+brzuch
+ ventro
+
+brzuchacz, brzuchal
+ dikventrulo, ventregulo
+
+brzuchaty
+ dikventra
+ korpulenta (otyły)
+ konveksa (wypukły)
+
+brzuchomówca
+ ventroparolanto
+
+brzuszny
+ ventra
+
+brzydactwo
+ malbelaĵo
+
+brzydal
+ malbelulo
+
+brzydki
+ malbela
+ malestetika (nieestetyczny)
+ abomena (wstrętny)
+
+brzydnąć
+ malbeliĝi (stać się brzydkim)
+ tediĝi (sprzykrzyć się)
+
+# str. 26.
+
+brzydota
+ malbelo, malbeleco
+ malbelaĵo
+
+brzydzić
+ abomenigi, naŭzi (obrzydzać)
+ mallogi (odpychać)
+
+brzydzić się
+ abomeni
+
+brzytwa
+ razilo
+
+buchać, buchnąć
+ flamegi
+ ekflami, flamiĝi
+ elŝpruci (wytrysnąć)
+ eliĝi, eksteriĝi, elpenetri (wydostawać się)
+ ekbati (uderzyć)
+ ŝteli, forŝteli (kraść)
+
+buchalter
+ librotenisto
+
+buchalteria
+ librotenado
+
+buchta
+ golfo
+
+bucik
+ boteto
+ duonboto
+ ŝuo (trzewik)
+
+buczeć
+ brui (szumieć)
+ plori (płakać)
+
+buczyna
+ faga ligno (drzewo bukowe)
+ fagaro (las bukowy)
+
+buda
+ budo
+ barako (barak)
+ hundejo (psia buda)
+
+buddaizm, buddyzm
+ budaismo
+
+budowa
+ konstruo
+ konstruado (budowanie)
+ konstruaĵo, arkitekturaĵo (budowla)
+ strukturo (układ)
+
+budować
+ konstrui
+ bazi (opierać)
+ editi (budować przykładem, umoralniać)
+
+budowla
+ konstruaĵo, arkitekturaĵo
+ domo (dom)
+
+budowlany
+ konstrua
+
+budownictwo
+ konstruarto, arkitekturo
+
+budowniczy
+ konstruisto, konstruestro, arkitekturo, arkitekturisto
+
+buduar
+ buduaro
+
+budulec
+ konstruligno
+
+budyń
+ pudingo
+
+budynek
+ konstruaĵo
+
+budzić
+ veki
+ estigi (wywoływać)
+ eksciti (pobudzać)
+
+budzić się
+ vekiĝi
+
+budzik
+ vekhorloĝo
+
+budżet
+ budĝeto
+
+bufa
+ pufo
+
+bufet
+ bufedo
+
+bufiasty
+ pufa, pufhava
+
+bufon
+ komikulo
+ historiono, arlekeno (błazen)
+ fanfaronulo (pyszałek)
+
+bufonada, bufoneria
+ arlekenaĵo (błazeństwo)
+ fanfaronado (pyszałkowatość)
+
+bufor
+ bufro
+
+buhaj
+ virbovo
+
+bujać
+ ŝvebi, flupendi (unosić się w powietrzu)
+ balanci (huśtać)
+ fantazii (bujać w obłokach)
+ mensogi (kłamać)
+
+bujać się
+ balanciĝi
+
+bujny
+ fruktodona (żyzny)
+ abunda (obfity)
+ riĉa (bogaty)
+ disvolviĝinta (rozwinięty)
+ altkreska (rosły)
+
+buk
+ fago
+
+bukiet
+ bukedo
+
+bukiew
+ fagofrukto, fagnukso
+
+bukłak
+ ledosako
+
+bukowina
+ *buczyna*
+
+bukszpan
+ bukso
+
+buła
+ bulkego
+
+bułany
+ palflava, brunflava
+
+buława
+ estra bastonego
+
+bulba
+ terpomo
+
+buldog
+ buldogo
+
+bulgotać
+ plaŭdi (pluskać)
+ balbuti (jąkać się)
+
+bulion
+ buljono
+
+bułka
+ bulko
+
+bulla
+ buleo, papa dekreto
+
+bulwa
+ tubero, bulbo
+ terpomo (kartofel)
+
+bulwar
+ bulvardo
+
+bumerang
+ bumerango
+
+buńczuczny
+ pompa (okazały)
+ fiera (dumny)
+ provokema (wyzywający)
+ kverelema (zawadiacki)
+
+buńczuk
+ turka standardo (sztandar)
+ ĉevalvosto (ogon koński)
+ plumtufo (piórpusz)
+
+bunt
+ ribelo
+
+buntować
+ ribeligi
+
+buntować się
+ ribeli
+
+# str. 27
+
+buntownik
+ ribelanto, ribelulo
+
+bura
+ insulto
+ riproĉo (wyrzut)
+ admono (upomnienie)
+ mallaŭdo (nagana)
+
+buraczki
+ betaĵo
+
+buraczkowy
+ malhelruĝa, betkolora
+
+burak
+ beto
+
+burczeć
+ insulti (łajać)
+ murmuri (mruczeć)
+ intestobrui (burczeć w brzuchu)
+
+burczymucha
+ grumblulo (zrzęda)
+ ŝajnkuraĝulo (udający zucha)
+
+burda
+ kverelo (kłótnia)
+ aventuro (awantura)
+ skandalo (skandal)
+
+burdel
+ bordelo, prostituejo, malĉastulinejo
+
+burgrabia, bugraf
+ kastelestro, burgrafo
+
+burka
+ feltmantelo
+
+burknąć
+ *burczeć*
+
+burleska
+ burlesko
+
+burmistrz
+ urbestro
+
+burmistrzostwo
+ urbestreco, urbestrado
+ geurbestroj
+
+burnus
+ burnuso
+
+bursa
+ kunloĝantejo, loĝrifuĝejo (internat)
+ borso (giełda)
+
+bursz
+ studenta korporaciano (korporant)
+ studento (student)
+
+bursztyn
+ sukceno
+
+burt
+ borderaĵo, galono (obszycie)
+
+burta
+ flanko (bok)
+ bordo (brzeg)
+ krutaĵo (zbocze)
+
+bury
+ brungriza
+
+burza
+ fulmotondro, tempesto, ventego, ŝtormo (wicher)
+ uragano (huragan)
+ pluvego (ulewa)
+ maltrankvilo (niepokój)
+
+burzliwy
+ tempesta, ŝtorma (nawalny)
+ malkvieta (niespokojny)
+ tumultoplena (pełen zgiełku)
+ impetega (gwałtowny)
+ fermentema
+
+burżuazja
+ burĝaro
+
+burżuj
+ burĝo
+
+burzyć
+ detrui (niszczyć)
+ malkonstrui (rozbierać budowę)
+ kirli (mącić)
+ agiti, instigi (podpuszczać)
+ ribeligi (buntować)
+ fermentigi (fermentować)
+
+burzyć się
+ kirliĝi (mącić się)
+ agitiĝi (stawać się niespokojnym)
+ ekscitiĝi (podniecać się)
+ ribeli (buntować się)
+ boli (wrzeć)
+ ŝaumi (pienić się)
+ fermenti (o płynie)
+ eferveski [chem.]
+
+burzyciel
+ detruanto
+
+busola
+ kompaso, markompaso
+
+but
+ boto
+
+buta
+ fierego, malmodesteco (pycha)
+ malhumileco (wyniosłość)
+ tromemfido (zarozumiałość)
+ aroganteco (arogancja)
+
+butelka
+ botelo, flakono
+
+butelkować
+ enboteligi
+
+butla
+ botelego
+
+butny
+ fiera, malmodesta, malhumila, aroganta
+
+butonierka
+ butontruo
+
+butwieć
+ putri (gnić)
+ ŝimi (pleśnieć)
+ kadukiĝi (marnieć)
+
+buzdygan
+ batalestra bastono
+
+buzia, buziak
+ buŝeto (usteczka)
+ vizaĝeto (twarzyczka)
+ kiso (całus)
+
+by
+ por, ke, por ke
+
+być
+ esti, ekzisti (istnieć)
+ okazi (zdarzać się)
+ fariĝi (stawać się)
+ troviĝi (znajdować się)
+ ĉeesti (być obecnym)
+ foresti (być nieobecnym)
+ povi, kapabli (być w stanie)
+ ŝuldi (być dłużnym)
+ devi (być obowiązanym)
+#być zobowiązanym
+
+byczy
+ virbova
+ bonega (wyśmienity)
+
+byczyna
+ virbova viando
+
+bydlak, bydlę
+ bruto
+ stultulo, idioto (głupiec)
+
+bydlęcieć
+ brutiĝi
+
+bydło
+ brutaro
+
+# str. 28
+
+bydłobójnia
+ buĉejo
+
+byk
+ virbovo
+ eraro (błąd)
+
+byle
+ ke nur (żeby tylko)
+ -ajn (-kolwiek, -bądź)
+
+bylica
+ artemizio
+
+były
+ estinta
+ pasinta (miniony)
+ antaŭa (poprzedni)
+ eksa (dymisjonowany)
+
+bynajmniej
+ tute ne, absolute ne, eĉ iom ne
+
+bystrooki
+ akrevida
+
+bystry
+ rapida (szybki)
+ vigla (żwawy, czujny)
+ sentema (czuły)
+ sagaca (o umyśle)
+ penetrema (przenikliwy)
+ kruta (stromy)
+ dekliva (spadzisty)
+
+byt
+ estado, ekzistado (istnienie)
+ stato (stan)
+ vivteno (utrzymanie)
+ estaĵo, ekzistaĵo (istota)
+
+bytność
+ estado
+ ĉeesto (obecność)
+ restado (pobyt)
+
+bytować
+ ekzisti (istnieć)
+ vivi (żyć)
+
+bywać
+ estadi
+ okazadi (zdarzać się)
+ venadi (przychodzić)
+ vizitadi, frekventi (uczęszczać)
+
+bywalec
+ spertulo (doświadczony człowiek)
+ frekventanto, ofta gasto (częsty gość)
+
+bzdurny
+ sensenca, absurda (niedorzeczny)
+ senvalora (bez wartości)
+
+bzdurstwo, bzdura
+  sensencaĵo (niedorzeczność)
+  bagatelo (drobiazg)
+
+bzdurzyć
+ deliri, sensence paroli
+
+bździć
+ furzi
+
+bzik
+ tabano (owad)
+ strangulo, ekstravaganculo (dziwak)
+ maniulo (maniak)
+ frenezeto, manio (mania)
+
+bzikowaty
+ frenezeta, iom freneza, maniohava
+ stulta (głupi)
+ ekstravaganca (dziwaczny)
+
+bzykać, bzyknąć
+ zumi
+ sibli (syczeć)
+

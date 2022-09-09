@@ -1,0 +1,418 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# I
+
+# str. 66
+
+i
+ kaj
+ ankaŭ (także)
+ eĉ (nawet)
+ do (więc)
+
+ibis
+ ibiso
+
+idea
+ ideo
+
+ideał
+ idealo
+
+idealny
+ idealna, perfekta
+
+identyczny
+ identa
+
+idiom
+ idiomo
+
+idiotyczny
+ idiota
+
+idylla
+ idilio
+
+igielniczka
+ kudrilujo
+
+igła
+ kudrilo (igła do szycia)
+ pinglo (szpilka)
+
+iglasty
+ pingleca, pingloforma
+
+ignorować
+ ignori
+
+igrać
+ petoli (swawolić)
+ ludi (bawić się)
+
+igraszka
+ petolaĵo (figiel)
+ ŝercaĵo (żart)
+ ludilo (zabawka)
+ moko (kpiny)
+
+igrzysko
+ spektaklo (widowisko)
+ luktado (zapasy)
+
+ikra
+ frajo
+
+ił
+ kalkargilo
+
+ile
+ kiom
+
+iloczas
+ prozodio
+
+iloczyn
+ produto
+
+iloraz
+ kvociento
+
+ilość
+ kvanto
+
+ilościowy
+ kiomeca, kvanta
+
+iluminować
+ ilumini
+
+ilustracja
+ ilustraĵo
+
+ilustrować
+ ilustri
+
+iluzja
+ iluzio, ĥimero
+
+im ... tem ...
+ ju pli ... des pli ...
+
+imać
+ preni (brać)
+ kapti (chwytać)
+ komenci (zaczynać)
+
+imaginacja
+ imago, fantazio
+
+#imbir
+imbier
+ zingibro
+
+imbryk
+ tekruĉo
+
+imię
+ nomo, antaŭnomo (imie chrzestne)
+ reputacio (opinia)
+ substantivo (rzeczownik)
+
+imieniny
+ nomtago, nomfesto
+
+imiennik
+ samnomulo
+
+imiesłów
+ participo
+
+imigrować
+ enmigri
+
+imitacja
+ imitaĵo
+
+imperium
+ imperio
+
+impertynent
+ impertinentulo
+
+impet
+ kurforto
+
+imponować
+ imponi, ravigi
+
+impresario
+ impresario, teatra aranĝisto
+
+impreza
+ aranĝo, entrepreno
+
+impuls
+ impulso
+
+inaczej
+ alie, malsame
+
+inauguracja
+ inaŭguro, inaŭguracio, solena malfermo
+
+incognito
+ inkognito
+
+incydent
+ akcidento (wypadek)
+ kverelo (kłótnia)
+
+indagować
+ esplori, ekzameni
+
+indeks
+ indekso, listo (spis)
+ tabelo (wykaz)
+
+indukcja
+ indukto
+
+industria
+ industrio
+
+indygo
+ indigo
+
+indyk
+ meleagro
+
+indywidualny
+ individua
+
+indziej
+ aliloke (gdzie indziej)
+ alitempe (kiedy indziej)
+
+inercja
+ inerto, inerteco
+
+infanteria
+ infanterio
+
+inormować
+ informi
+
+inicjatywa
+ iniciato, iniciativo
+
+inkognito
+ inkognito
+
+inkwizycja
+ inkvizicio
+
+inkwizytor
+ inkvizitoro
+
+innowierca
+ alireligiano
+
+inny
+ alia (drugi)
+ malsama, diferenca, malsimila (odmienny)
+
+inscenizować
+ scenigi, reĝisori
+
+inspekcja
+ inspekto, kontrolo
+ inspektorejo (urząd)
+
+inspekt
+ varmejo, varmigita bedo
+
+inspektor
+ inspektoro
+
+instalacja
+ instalaĵo
+
+instancja
+ instanco
+
+instrukcja
+ instrukcio
+
+instruktor
+ instrukciisto
+
+instrument
+ instrumento
+
+instynkt
+ instinkto
+
+instytucja
+ institucio
+
+# str. 67
+
+instytut
+ instituto
+
+integralny
+ nedividebla, tuteca
+
+intelekt
+ intelekto, menso
+
+intelektualny
+ intelekta, mensa
+
+inteligencja
+ inteligenteco
+ inteligentularo
+
+inteligentny
+ inteligenta
+
+intencja
+ intenco
+
+intendent
+ intendanto, administranto
+
+intensywny
+ intensa
+
+interes
+ afero (sprawa)
+ intereso (zaciekawienie)
+ profito (zysk)
+ negoco (interes handlowy)
+ komercejo (sklep)
+
+interesant
+ interesitulo (zainteresowany)
+ kliento (klient)
+ 
+interesować
+ interesi
+
+interesować się
+ interesiĝi
+
+interesujący
+ interesa
+
+internat
+ lerneja pensiono
+
+interpelacja
+ interpelacio
+
+interpunkcja
+ interpunkcio
+
+interwiew
+ intervjuo
+
+interweniować
+ interveni
+
+intratny
+ profita
+
+introligator
+ bindisto
+
+introligatornia
+ bindejo
+
+intruz
+ entrudulo
+
+intryga
+ intrigo
+
+intuicja
+ intuicio
+
+intymny
+ intima
+
+inwalida
+ invalido
+# handikapulo
+
+inwazja
+ invado
+
+inwentarz
+ inventaro
+
+inżynier
+ inĝeniero
+
+ironia
+ ironio
+
+irytować
+ kolerigi (złościć)
+ inciti (drażnić)
+
+iść
+ iri
+
+iścić
+ realigi, efektivigi (urzeczywistniać)
+ plenumi (spełniać)
+
+iścić się
+ realiĝi, efektiviĝi, plenumiĝi
+
+iście
+ vere, efektive
+
+iskra
+ fajrero
+
+iskrzyć się
+ disfajreri
+ brilegi (błyszczeć)
+
+istnieć
+ ekzisti, estadi
+
+istny
+ vera, efektiva
+
+istota
+ estaĵo, kreitaĵo (stworzenie)
+ esenco, naturo (właściwa treść)
+
+istotny
+ esenca
+
+iż
+ ke
+
+izba
+ ĉambro (pokój)
+ kamero (komora)
+
+izbica
+ glacrompilo
+
+izolacja
+ izolado
+
+izolator
+ izolilo
+
+izolować
+ izoli
+

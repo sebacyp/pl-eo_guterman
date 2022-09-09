@@ -1,0 +1,3270 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# N
+
+# str. 101
+
+na
+ sur
+ al (ku, do)
+ por (dla)
+ kontraŭ (przeciw)
+ po (po)
+ dum (podczas)
+ en (w)
+ pro (w skutek)
+ je
+ jen! (naści!)
+
+nabawić
+ kaŭzi (spowodować)
+ amuzsatiĝi (nasycić zabawą)
+
+nabawić się
+ kaŭzi al si (sprawić sobie)
+ ekakiri, ekposedi (posiąść)
+ ĝissate amuziĝi (ubawić się do syta)
+
+nabechtać
+ instigi (podżegać)
+ inspiri (natchnąć)
+ persvadi (namówić)
+
+nabiał
+ laktaĵoj
+
+nabić
+ surbati, plenbati
+ ŝargi (nabić broń)
+ ŝarĝi (naładować)
+ plenŝtopi (napchać)
+ plenigi (napełnić)
+
+nabiegać
+ alkuri (przybiec)
+ ŝveli (nabrzmieć)
+ pleniĝi (napełnić się)
+
+nabierać
+ alpreni (wziąć)
+ aĉeti (kupować)
+ ricevi (otrzymywać)
+ ĉerpi (czerpać)
+ ŝveli (nabrzmiewać)
+ trompi (oszukać)
+ tenti (kusić)
+
+nabijać
+ *nabić*
+
+nabój
+ ŝargo, ŝargaĵo
+ pafaĵo, kartuŝo
+
+nabożeństwo
+ diservo
+
+nabożny
+ pia
+
+nabrać
+ *nabierać*
+
+nabrzmiewać
+ ŝveli
+
+nabyć
+ akiri (uzyskać)
+ aĉeti (kupić)
+ ekposedi (posiąść)
+
+nabytek
+ akiraĵo
+
+nabywca
+ akiranto, aĉetanto
+
+nachodzić
+ ekataki, invadi
+
+nachylać
+ klini, mallevi (opuścić)
+
+nachylenie
+ oblikveco
+
+naciągać
+ ekstrakti, infuzi (naparzać)
+ infuziĝi (naparzyć się)
+ streĉi (naprężać)
+ instigi (podżegać)
+ allogi (przywabić)
+ tenti (kusić)
+
+nacierać
+ froti (trzeć)
+ frotŝmiri (smarować)
+ ataki (atakować)
+
+nacisk
+ premo (ucisk)
+ akcento (akcent)
+
+naciskać
+ premi, surpremi
+ akcenti (akcentować)
+
+nacja
+ nacio
+
+nacjonalizm
+ naciismo
+
+naczelnik
+ estro, ĉefo
+
+naczelny
+ estra, ĉefa
+
+naczynie
+ vazo, ujo
+
+nad
+ super (ponad)
+ sur (na)
+ ol (niż)
+ al (do)
+ krom (oprócz)
+ tro (zbyt)
+ apud (obok)
+
+nadać
+ *nadawać*
+
+nadąć
+ plenblovi
+ ŝveligi (nabrzmieć)
+ fierigi (uczynić dumnym)
+
+nadal
+ plue, daŭrige
+
+nadaremny
+ vana (próżny)
+ senefika (bezskuteczny)
+ senutila (bezużyteczny)
+
+nadarzyć się
+ okazi, havi okazon
+
+nadąsać się
+ kolereti
+
+nadawać
+ donaci (darować)
+ investi (nadawać przywilej, urząd)
+ ekspedi (wysłać)
+ doni (dawać)
+
+nadawać się
+ taŭgi
+
+nadawca
+ ekspedanto
+
+nadbiec
+ alkuri
+
+nadbrzeże
+ bordo
+ kajo
+
+nadchodzić
+ alveni (przybywać)
+ proksimiĝi (zbliżać się)
+ sekvi (następować)
+
+nadciągać
+ proksimiĝi (zbliżać się)
+ sekvi (następować)
+
+nade
+ *nad*
+
+nadczłowiek
+ superhomo
+
+nadejście
+ alveno
+
+nader
+ tre, treege (bardzo)
+ tro (zbyt)
+
+nadęty
+ plenblovita
+ ŝvelinta (nabrzmiały)
+ malhumila, fiera (dumny)
+ bombasta (przesadny)
+
+nadgraniczny
+ apudlima
+
+nadkonduktor
+ ĉefkonduktoro
+
+nadliczbowy
+ superkontingenta
+
+nadludzki
+ superhoma
+
+nadmiar
+ supermezuro, superfluo, troeco
+
+nadmieniać
+ citi, mencii (wzmiankować)
+ diri (powiedzieć)
+
+nadmierny
+ troa, superflua, supermezura
+
+nadnaturalny
+ supernatura
+
+nadobny
+ bela, ĉarma
+
+na dół
+ malsupren
+
+nadprodukcja
+ superproduktado
+
+nadprzyrodzony
+ supernatura
+
+nadrożny
+ apudvoja
+
+nadskakiwać
+ alsalti (przyskoczyć)
+ flati (pochlebiać)
+
+nadspodziewany
+ neesperita
+
+nadstawiać
+ antaŭmeti (przedłożyć)
+ kontraŭstarigi (przeciwstawiać)
+ fliki (łatać)
+
+nadsyłać
+ alsendi
+
+nadto
+ krom tio (prócz tego)
+ tro (zbyt)
+
+nadużywać
+ trouzi, misuzi
+ ekscesi
+
+nadwyrężać
+ malfortikigi (nadwątlać)
+ malfortigi (osłabić)
+ difekti (uszkodzić)
+
+nadworny
+ kortega
+
+nadzieja
+ espero
+
+nadzienie
+ farĉaĵo
+
+nadziewać
+ farĉi (faszerować)
+ plenigi (napełniać)
+ surfadenigi (nanizać)
+ trapiki (przekłuć)
+
+nadzmysłowy
+ supersenta, transcenda
+
+nadzór
+ inspekto
+
+nadzorca
+ inspektanto, inspektoro
+
+nadzwyczaj
+ treege, ekstraordinare
+
+nadzwyczajny
+ eksterordinara, neordinara (niezywczajny)
+ ekstra (specjalny)
+ kolosa
+
+nafta
+ petrolo
+ nafto (ropa naftowa)
+
+naftalina
+ naftalino
+
+nagabywać
+ tenti (kusić)
+ instigi (podżegać)
+ tedi (naprzykrzać się)
+ ataki (napastować)
+
+# str. 103
+
+nagana
+ mallaŭdo
+
+naganiać
+ mallaŭdi (potępiać)
+ enpeli (wpędzać)
+ atingi (doścignąć)
+ peli (gnać)
+ laborigi (zmusić do pracy)
+
+naganny
+ mallaŭdinda
+
+nagi
+ nuda
+
+nagietek
+ kalendulo
+
+naginać
+ alfleksi, alklini (nachylać)
+
+nagle
+ subite
+ neatendite (nieoczekiwanie)
+
+naglić
+ urĝi
+ rapidigi (przyśpieszać)
+
+nagłówek
+ titolo
+ surkapaĵo (nagłówek w zaprzęgu)
+ kapitelo (kapitel)
+
+nagły
+ subita
+ urĝa (pilny)
+
+nagniotek
+ kalo
+
+nagolenica
+ tibiŝtrumpo, tibivesto, gamaŝo
+
+nagradzać
+ rekompenci, premii (dać nagrodę)
+ kompensi (powetować)
+
+nagrobek
+ surtombaĵo, tomba ŝtono
+ tomba monumento
+
+nagroda
+ rekompenco
+ premio (odznaczenie)
+
+nagrodzić
+ rekompenci, premii (dać nagrodę)
+ kompensi (powetować)
+
+nagromadzać
+ amasigi, arigi
+ kolekti (zbierać)
+
+nahajka
+ skurĝo
+
+naigrawać się
+ moki, ridindigi
+
+naiwny
+ naiva
+ facilkredema (łatwowierny)
+
+nająć
+ dungi (nająć kogoś)
+ lui (wynająć coś od kogoś)
+ luigi (wypuścić)
+ farmi (dzierżawić)
+
+nająć się
+ dungiĝi
+
+najadać się
+ satmanĝi
+
+najazd
+ invado
+
+najbardziej
+ plej, plej multe
+
+najdalej
+ plej malproksime
+ maksimume (najwyżej)
+ ekstreme (ostatecznie)
+ plej malfrue (najpóźniej)
+
+najechać
+ invadi (zrobić najazd)
+ ataki (napadać)
+ surveturi, surrajdi (jadąc potrącić)
+ karamboli (zderzyć się)
+
+najem
+ dungo, luo
+ lupago, dungopago
+
+najemny
+ dungebla, dungita
+
+najemnik
+ dungito
+
+najeżdżać
+ *najechać*
+
+najeżdźca
+ invadinto
+
+najeżyć
+ suprenstarigi, hirtigi
+ sulkigi (zmarszczyć)
+
+najlepszy
+ plej bona
+
+najmita
+ dungito
+
+najmować
+ dungi (namować kogoś)
+ lui (wynając coś od kogoś)
+ luigi (wypuścić)
+ farmi (dzierżawić)
+
+naprzód
+ antaŭe (przedtem)
+ antaŭ ĉio (przede wszystkim)
+ unue (po pierwsze)
+
+najście
+ invado
+
+nakaz
+ ordono (rozkaz)
+ postulo (żądanie)
+ mandato (zlecenie)
+
+nakazywać
+ ordoni
+
+nakład
+ elspezo (wydatek)
+ eldono (wydanie)
+
+nakładać
+ surmeti, ŝarĝi (ładować)
+ plenigi (napełnić)
+ elspezi (wydatkować)
+
+nakładca
+ eldonisto
+
+nakłaniać
+ alklini (nachylić)
+ alfleksi (nagiąć)
+ inklinigi, emigi (skłonić)
+ decidigi (zmusić do decyzji)
+
+na koniec
+ fine
+
+nakrapiać
+ surŝpruci, surverŝi (nalać)
+ ŝprucmakuli (upstrzyć)
+
+nakrapiany
+ ŝprucmakulita, ŝprucdesegna, punktita
+
+nakręcać
+ tordi (skręcać)
+ turni (obracać)
+ streĉi (naprężać)
+ direkti (skierować)
+ filmigi (sfilmować)
+
+nakryć
+ kovri (przykrywać)
+ elspioni (wytropić)
+
+nakrycie
+ kovraĵo, kovrilo (pokrowiec, kołdra)
+ manĝilaro (nakrycie do stołu)
+ kovrado (nakrywanie)
+
+na krzyż
+ kruce, krucforme
+
+na kształt
+ en formo de, similforme al
+ kvazaŭ (niby)
+
+# str. 104
+
+naleciałość
+ alflugaĵo
+ proprigaĵo, asimilaĵo (rzecz przyswojona)
+ fremdaĵo (rzecz obca)
+
+nalegać
+ insisti
+
+nalepiać
+ surglui
+
+naleśnik
+ patkuko
+
+nalewać
+ surverŝi
+ plenigi (napełniać)
+
+nalewka
+ brandtrinkaĵo
+
+należeć
+ aparteni
+ devi (mieć obowiązek)
+ deci (wypadać)
+ konveni (przystoić)
+
+należeć się
+ devi (mieć obowiązek)
+ deci (wypadać)
+ ŝuldi (być dłużnym)
+
+należność
+ ŝuldo (dług)
+ devo (obowiązek)
+
+należyty
+ konvena (przyzwoity)
+ konforma (odpowiedni)
+ trafa (trafny)
+
+nałóg
+ malbona alkutimiĝo, fikutimo
+
+nałożnica
+ kromedzino
+
+nałożyć
+ *nakładać*
+
+namacać
+ trovi palpante
+
+namacalny
+ palpebla, tuŝebla
+
+namaszczać
+ sanktoilei (namaszczać świętym olejem)
+ pomadi, ŝmiri (smarować)
+
+namaszczenie
+ sanktoleigo, enbalzamigo
+
+namawiać
+ persvadi
+ tenti (kusić)
+ instigi (podżegać)
+
+namiastka
+ anstataŭo, anstataŭaĵo, surogato
+
+namiestnik
+ vicreganto
+ anstataŭanto (zastępca)
+
+namiętność
+ pasio
+
+namiętny
+ pasia
+
+namiot
+ tento
+
+namowa
+ persvado, konvinkigo, instigo
+
+namydlić
+ sapumi
+
+namysł
+ pripenso, konsidero
+
+namyślać się
+ pripensi, konsideri
+
+na nic
+ vane
+
+nankin
+ nankeno
+
+nanosić
+ alporti
+ alfluigi (o rzekach)
+
+naoczny
+ ĉeestanta, apudestanta (obecny)
+ evidenta (oczywisty)
+ videbla (widoczny)
+
+na odwrót
+ inverse, kontraŭe, male
+
+na ogół
+ ĝenerale
+
+na oklep
+ sensele
+
+naokoło
+ ĉirkaŭe
+
+naonczas
+ tiam, tiutempe
+
+na opak
+ renverse, inverse
+
+na ostatek
+ fine
+
+naówczas
+ tiam, tiutempe
+
+na oścież
+ tutlarĝe
+
+napad
+ atako
+ invado (najście)
+
+napadać
+ ataki
+ invadi (najść)
+ surprizi (zaskoczyć)
+ kapti (chwycić)
+
+napajać
+ trinkigi (poić)
+ saturi (nasycać)
+ plenigi (napełnić)
+ inspiri (natchnąć)
+ ebriigi, malsobrigi (upić)
+
+napalać
+ hejti (napalać w piecu)
+ multe fumi, multe bruli (dużo spalać)
+
+na pamięć
+ parkere
+
+napar
+ infuzaĵo
+
+naparstek
+ fingringo
+
+naparzać
+ infuzi (robić nastój)
+ brogi (oparzać)
+
+napaść
+ ataki (atakować)
+ surprizi (zaskoczyć)
+ invadi (najechać)
+ kapti (chwytać)
+ paŝti, furaĝi, satigi (nasycić)
+
+napaść
+ atako
+
+napastliwy
+ atakema
+ trudema (natrętny)
+
+napastnik
+ atakanto
+
+napastować
+ ataki (napadać)
+ sin trudi (nagabywać)
+ persekuti (prześladować)
+
+napatrzyć się
+ satvidi, satrigardi
+
+napawać
+ trinkigi (poić)
+ saturi, satigi (napełnić)
+ inspiri (natchnąć)
+ ebriigi, malsobrigi (upić)
+
+napawać się
+ ĝui (rozkoszować się)
+ amuziĝi (bawić się)
+
+napełniać
+ plenigi
+
+naperzać się
+ plenbloviĝi (nadymać sie)
+ fanfaroni (chełpić się)
+
+# str. 105
+
+na pewno
+ certe
+
+napiąć
+ streĉi (naprężać)
+ etendi (naciągać)
+
+napić się
+ sattrinki
+ sensoifiĝi
+ ebriiĝi (upić się)
+
+napięcie
+ streĉo, streĉeco, intenseco
+
+napierać
+ premi (uciskać)
+ puŝi (pchać)
+ ataki (atakować)
+ insisti (nalegać)
+
+napierśnik
+ surbrustaĵo, brustkovrilo, brustotuko
+
+napiętek
+ kalkanumo
+
+napiętnować
+ stampi, brulstampi
+ mallaŭdi (potępiać)
+
+napinać
+ streĉi (naprężać)
+ etendi (rozciągać)
+
+napis
+ suskribo
+
+napitek
+ trinkaĵo
+
+napiwek
+ trinkmono
+
+napływ
+ alfluo
+
+napływać
+ alflui
+
+napocząć
+ ekkomenci
+
+napoić
+ *napawać*
+
+napój
+ trinkaĵo
+
+na pół
+ duone
+
+napoły
+ duone
+
+napominać
+ admoni, mallaŭdi
+
+napomnienie
+ admono, mallaŭdo
+
+napomknienie
+ aludo
+ mencio (wzmianka)
+
+napomykać
+ aludi
+ mencii (wzmiankować)
+
+napór
+ premo, puŝo
+
+napotykać
+ renkonti
+
+na powrót
+ ree (znowu)
+ reen (z powrotem)
+
+na pozór
+ ŝajne
+ ekstere (z zewnątrz)
+
+naprawiać
+ ripari, rebonigi
+ fliki (łatać)
+
+naprężać
+ streĉi
+
+naprowadzać
+ alkonduki, algvidi
+ direkti (skierować)
+
+na próżno
+ vane
+
+naprzeć
+ *napierać*
+
+naprzeciw
+ kontraŭ
+ kontraŭe
+
+na przekór
+ spite
+
+na przełaj
+ trae
+
+na przemian
+ alterne
+ reciproke (wzajemnie)
+
+naprzód
+ antaŭe
+ antaŭen
+
+na przykład
+ ekzemple
+
+naprzykrzać się
+ tedi, trudiĝi
+
+napuchnąć
+ ŝveli
+
+napuszony
+ fanfarona (chełpliwy)
+ bombasta, emfaza (przesadny)
+
+narabiać
+ fari multe (dużo zrobić)
+ kaŭzi (spowodować)
+ malpurigi (zanieczyścić)
+
+narada
+ interkonsiliĝo, konferenco
+
+naradzać się
+ interkonsiliĝi, konsulti
+
+naraić
+ konsili (radzić)
+ rekomendi (polecać)
+ havigi (dostarczyć)
+
+naramiennik
+ ĉirkaŭmano, braceleto
+
+narastać
+ surkreski
+ pliiĝi, multobliĝi (pomnażać się)
+
+naraz
+ subite
+
+narażać
+ elmeti (wystawiać)
+ riski (ryzykować)
+
+narażać się
+ riski (ryzykować)
+ ofendi (obrażać)
+ kolerigi (rozgniewać)
+ senfavoriĝi (popaść w niełaskę)
+
+narcyz
+ narciso
+
+naręcze
+ plenbrako
+
+nareszcie
+ fine
+
+narkotyk
+ narkotilo, narkotaĵo
+
+narobić
+ *narabiać*
+
+naród
+ nacio, popolo
+
+narodowiec
+ naciisto
+
+narodowość
+ nacio, nacieco
+
+narodzenie
+ nasko, naskiĝi
+ Kristnasko (Boże Narodzenie)
+
+narodzić się
+ naskiĝi
+
+narodziny
+ naskiĝo
+ naskiĝfesto (urodziny)
+
+narośl, narost
+ elreskaĵo
+ polipo (polip)
+
+narosnąć
+ *narastać*
+
+narów
+ fikutimo, malvirto
+ obstinemo (krnąbrność)
+
+narowisty
+ kaprica (kapryśny)
+ obstina (uparty)
+
+narożny
+ angula, diagonala
+
+narty
+ skioj
+
+# str. 106
+
+naruszać
+ difekti (uszkodzić)
+ ektuŝi (dotknąć)
+ malhelpi (przeszkadzać)
+ rompi (złamać)
+
+naruszalny
+ tuŝebla
+
+narwany
+ frenezeta (zwariowany)
+ kverelema (kłótliwy)
+
+narybek
+ fiŝkovitaro, fiŝidaro
+
+narząd
+ organo
+
+narzecze
+ dialekto
+
+narzeczona
+ fianĉino
+
+narzeczony
+ fianĉo
+
+narzędnik [gram.]
+ ablativo
+
+narzędzie
+ ilo, instrumento
+ aparato (aparat)
+
+narzekać
+ plendi, veplendi
+
+narzucać
+ surĵeti
+ surmeti (nałożyć)
+ altrudi (narzucać coś komuś)
+ akceptigi (zmusić do przyjęcia)
+
+narzucać się
+ sin trudi
+
+nasada
+ tenilo (rękojeść)
+ bazo (podstawa)
+
+nasadzać
+ surmeti (nakładać)
+ fiksi (umocować)
+ planti (plantować)
+ sidigi (posadzić)
+ kovigi (nasadzać na jajka)
+
+naścił
+ jen!; jen vi havas!
+
+nasinie
+ semo
+ grajno (ziarno)
+ spermo (płyn nasienny)
+
+naskórek
+ epidermo
+
+nasłać
+ alsendi (przysłać)
+ sterni (pościelić)
+
+naśladować
+ imiti
+ sekvi (iść za kimś)
+
+naśladownictwo
+ imitado, imitemo
+
+naśmiać się
+ satridi, priridi
+ moki (kpić)
+
+nasrożyć się
+ teruriĝi, iĝi timiga
+
+nastać
+ *nastawać*
+
+nastapić
+ surpaŝi (nadepnąć)
+ sekvi, postiri (nastawać po)
+ okazi (zdarzać się)
+
+nastarczać
+ sufiĉi (wystarczać)
+ sufiĉe havigi (dostatecznie dostarczyć)
+ satigi (nasycić)
+
+nastawać
+ sekvi (nastepować)
+ veni (nadejść)
+ ekesti (zaistnieć)
+ insisti (nalegać)
+ konsenti (zgodzić się)
+ insidi (czyhać)
+
+nastawiać
+ starigi (postawić)
+ ekspozicii (wystawić)
+ reguligi (uregulować)
+ direkti (skierować)
+
+następca
+ sekvanto, posteulo, postirinto
+ heredanto (dziedzic)
+
+następnie
+ poste, plue, sekve
+
+następnik
+ sekvo
+
+następny
+ sekvanta, sekvinta, sekvonta
+ plua
+
+następować
+ sekvi, postveni (nastawać po)
+ surpaŝi (nadepnąć)
+ okazi (zdarzyć się)
+
+następstwo
+ sekvo, konsekvenco
+ rezultato (wynik)
+
+nastrajać
+ agordi
+
+nastraszać
+ ektimigi
+
+nastręczać
+ rekomendi, makleri
+
+nastręczać się
+ prezenti sin (nadarzyć się)
+ rekomendi sin (polecać się)
+
+nastrój
+ agordo, agordiĝi
+ humoro
+
+nastroić
+ agordi
+
+nasuwać
+ alŝovi, surŝovi
+ inspiri (natchnąć)
+ proponi (nasuwać myśl)
+
+nasycać
+ satigi
+ saturi [chem.]
+ sensoifigi (nasycać pragnienie)
+
+nasyłać
+ alsendadi, supersendi
+
+nasyp
+ surŝutaĵo
+ remparo (wał)
+ digo (grobla)
+
+nasypać
+ surŝuti
+ enŝuti (wsypać)
+ disŝuti (rozsypać)
+ plenŝuti (napełnić)
+
+nasz
+ nia
+
+naszpikować
+ lardi
+
+naszyć
+ surkudri, alkudri
+ multe kudri
+
+naszyjnik
+ kolrubando, kolringo
+
+naszywka
+ alkudraĵo
+
+natarcie
+ atako
+
+natarczywy
+ trudema, atakema
+
+natchnąć
+ inspiri
+
+natchnienie
+ inspiro
+
+natężać
+ streĉi, intensigi
+
+natężenie
+ streĉo, intenseco
+
+natkać
+ plenŝtopi
+
+natknąć się
+ renkonti, trafi
+
+natłoczyć
+ enpuŝi, enpaki, plenŝtopi
+
+# str. 107
+
+natłok
+ interpremo, interpuŝo
+ amasego (nawał)
+
+natomiast
+ male, kontraŭe (przeciwnie)
+ sed tamen (lecz jednak)
+ anstataŭ tio (zamiast tego)
+
+natrafiać
+ trafi
+ renkonti (napotkać)
+ trovi (znaleźć)
+
+natrętnik
+ trudemulo
+
+natrętny
+ trudema
+
+natrysk
+ duŝo
+
+natrząsać
+ multe skui
+ surŝuti
+
+natrząsać się
+ priridi, moki
+
+natrzeć
+ enfroti
+ ataki (atakować)
+
+natura
+ naturo
+
+naturalizować
+ civitanigi
+
+naturalizm
+ naturalismo
+
+naturalnie
+ nature
+ memkompreneble
+
+naturalny
+ natura
+
+natychmiast
+ tuj
+
+nauczać
+ instrui, lernigi
+
+nauczyć się
+ lerni, ellerni
+
+nauczka
+ admono (napomnienie)
+ averto (przestroga)
+
+nauczyciel
+ instruisto
+
+nauka
+ scienco (wiedza)
+ instruado (nauczanie)
+ lernado, studado (uczenie się)
+ dogmaro (dogmatyka)
+ doktrino (teoria naukowa)
+
+naukowy
+ scienca
+
+naumyślny
+ intenca
+
+nausznik
+ oreltegilo
+
+nawa
+ navo (wnętrze kościoła)
+ ŝipo (okręt)
+
+nawadniać
+ superakvigi, akvumi, irigacii
+
+nawał
+ amaso, multego
+ interpremo (ścisk)
+
+nawalać, nawalić
+ amasigi (nagromadzić)
+ plenŝtopi (natłoczyć)
+ renversi (obalać)
+
+nawałnica
+ pluvego (ulewa)
+ tempesto, fulmotondro (burza)
+
+nawar
+ infuzaĵo
+
+nawarzyć
+ kuiri (gotować)
+ bierfari (nawarzyć piwa)
+
+nawet
+ eĉ
+
+nawiać
+ alblovi
+
+nawias
+ parentezo
+
+nawiasem
+ parenteze, flanke (ubocznie)
+ aludo (mimochodem)
+
+nawiązać
+ kunligi, interligi, interrilatigi (odnieść)
+
+nawiązka
+ bandaĝo (bandaż)
+ kompensaĵo (wynagrodzenie)
+
+nawiedzać
+ viziti (odwiedzać)
+ akcidenti, okazi (zdarzyć się)
+
+nawieść
+ direkti (skierować)
+ alkonduki (doprowadzić)
+
+nawijać, nawinąć
+ volvi, ĉirkaŭvolvi
+ bobeni (nawijać na szpulkę)
+
+nawijać się, nawinąć się
+ ĉirkaŭvovliĝi (owijać się)
+ alŝoviĝi (nasunąć się)
+ sugestiiĝi
+
+nawlec, nawlekać
+ enfadeni (nawlec igłę)
+ envicigi (nanizać)
+ tegi (powlec)
+
+nawłóczyć
+ altiri, alkonduki
+
+nawodnić
+ superakvigi, akvumi, irigacii
+
+nawój
+ volvilo
+
+nawoływać
+ vokadi, alvoki (przywoływać)
+ proklami (obwołać)
+ kunvoki (zwoływać)
+
+nawoskować
+ vaksi
+
+nawóz
+ sterko
+
+nawozić
+ sterki
+ alveturigi (przywozić)
+
+na wpół
+ duone
+
+nawracać
+ konverti (nawracać na wiarę)
+ returni (odwrócić)
+
+nawrót
+ reveno (powrót)
+ ripetiĝo (powtórzenie się)
+
+nawykać
+ alkutimi
+
+nawymyślać
+ insultegi (wyłajać)
+ elpensi (wymyślać)
+
+nawzajem
+ resiproke
+
+nazad
+ ree (znowu)
+ malantaŭen, reen (wstecz)
+
+nazajutrz
+ la sekvantan tagon, morgaŭe
+
+nazbierać
+ multe kolekti, amasigi
+
+nazbyt
+ tro
+
+# str. 108
+
+naznaczyć
+ signi, marki (opatrzyć znakiem)
+ destini (przeznaczyć)
+ nomigi (mianować)
+ fiksi (ustanowić)
+ difini, determini (określić)
+
+nażreć się
+ satmanĝegi
+
+nazwa
+ nomo
+
+nazwać
+ nomi, doni nomon
+
+nazwisko
+ nomo, familia nomo
+
+nazywać
+ nomi
+
+nazywać się
+ nomiĝi, esti nomata
+
+nęcić
+ logi, allogi
+
+nędza
+ mizero
+
+nędzarz
+ mizerulo
+
+nędznie
+ mizere
+ malbone (licho)
+
+nędznieć
+ mizeriĝi
+
+nędznik
+ mizerulo (nieszczęśliwiec)
+ fripono, kanajlo (nikczemnik)
+
+nędzny
+ mizera, kompatinda
+ malbona (lichy)
+ malhonesta (podły)
+
+negacja
+ neo
+
+negatyw
+ nagativo
+
+negliż
+ negliĝo
+
+#negocjator
+negocjant
+ negocisto
+
+negować
+ nei
+
+nękać
+ premi (gnębić)
+ turmenti (dręczyć)
+ suferigi (dokuczać)
+ persekuti (prześladować)
+
+nekrolog
+ nekrologo, mortanonco
+
+naktar
+ nektaro
+
+neofita
+ novkonvertito, ĵuskonvertito
+
+nerka
+ reno
+
+nerw
+ nervo
+
+nerwica
+ nerva malsano
+
+neseser, neseserka
+ necesaĵujo
+
+neutralizacja
+ neŭtraligo
+
+neutralny
+ neŭtrala
+
+ni
+ nek
+
+niańczyć
+ varti
+
+niańka
+ vartistino
+
+niby
+ kvazaŭ (jakby)
+ preskaŭ (prawie jak)
+ ŝajne (na pozór)
+
+nic
+ nenio, neniom
+
+nić
+ fadeno
+
+nicość
+ nenieco
+ senvaloreco, vanteco (marność)
+
+nicować
+ returni
+
+nicpoń
+ sentaŭgulo (człowiek do niczego)
+ kanajlo (łajdak)
+
+niczyj
+ nenies
+
+nie
+ ne
+
+niebaczny
+ neatentema, senatenta (nieuważny)
+ nepripensema, senkonsidera (nierozważny)
+
+niebawem
+ baldaŭ (wkrótce)
+ post nelonga tempo (po niedługim czasie)
+ tuj (natychmiast)
+ senprokraste (bezzwłocznie)
+
+niebezpieczeństwo
+ danĝero
+
+niebezpieczny
+ danĝera
+
+niebiański
+ ĉiela
+
+niebieski
+ ĉiela
+ blua
+ ĉielblua (błękitny)
+
+niebo
+ ĉielo
+
+nieboga
+ mizerulino, malfeliĉulino, kompatindulino
+
+nieborak
+ malfeliĉulo, kompatindulo
+
+nieboszczyk
+ mortinto
+
+niebotyczny
+ ĉielatinganta, ĉielalta, ĉielskrapanta
+
+niebożę
+ kompatindaĵo
+
+niebywały
+ eksterordinara
+
+niecenzuralny
+ necenzurebla
+ maldeca (nieprzyzwoity)
+
+niech, niechaj
+ -u
+
+niechcąco
+ nevole, senvole, senintence
+
+niechęć
+ malinklino, antipatio
+
+niechętny
+ nevolonta (nieochoczy)
+ malfavora (nieprzychylny)
+
+niechlujny
+ malpurema
+
+niechybny
+ certa (pewny)
+ neevitebla (nieunikniony)
+
+niecić
+ ekfalmigi, ekbruligi
+
+niecierpliwić
+ senpaciencigi
+
+niecierpliwić się
+ sencpacienciĝi
+
+niecierpliwy
+ senpacienca, malpacienca
+
+niecka
+ knedujo (dzieża)
+ trogo (koryta)
+
+# str. 109
+
+niecny
+ malhonesta, malnobla (podły)
+ senhonora (bezecny)
+
+nieco
+ iom
+
+nieczuły
+ sensenta, nesentema (niewrażliwy()
+ nekompatema (niewspółczujący)
+ apatia, indiferenta (obojętny)
+
+nieczynny
+ nefunkcianta
+ senlabora, senokupa (bezrobotny)
+ neagema, neaktiva (bierny)
+
+nieczysty
+ malpura
+ malĉasta (wszeteczny)
+
+nieczytelny
+ nelegebla
+
+niedawno
+ antaŭ nelonge
+
+niedawny
+ ĵuspasinta
+ freŝa (świeży)
+
+niedbały
+ malzorgema, senatenta
+ neglektema
+
+niedługo
+ nelonge
+ baldaŭ (wnet)
+
+niedobitki
+ armrestaĵoj
+
+niedobór
+ deficito (deficyt)
+ manko (brak)
+
+niedocieczony
+ nepenetrebla, neesplorebla, nesondebla
+
+niedogodny
+ maloportuna
+
+niedogryzek
+ manĝorestaĵo
+
+niedojrzały
+ nematura
+
+niedokładny
+ neekzakta, nepreciza (nieścisły)
+ nekompleta (niezupełny)
+ neakurata (niepunktualny)
+
+niedokonany
+ neplenumita (niespełniony)
+ neefiktivigita (nieurzeczywistniony)
+ imperfekta [gram.]
+
+niedola
+ malbonsorto (zły los)
+ malfeliĉo (nieszczęście)
+ mizero (nędza)
+
+niedołęga
+ mallertulo (niezdara)
+ malspritulo, malkapablulo (ciapa)
+ kriplulo (kaleka)
+
+niedołężnieć
+ mallertiĝi, sentaŭgiĝi
+ kripliĝi (stać się ułomnym)
+ kadukiĝi (zgrzybieć)
+
+niedołężny
+ mallerta (niezdarny)
+ malsprita, malkapabla (nieudolny)
+ kripla (ułomny)
+ kaduka (zgrzybiały)
+ marasma
+
+niedomagać
+ malsaneti, esti malsanema
+
+niedopałek
+ nefinbrulaĵo
+
+niedorostek
+ bubo
+
+niedorzeczny
+ sensenca, absurda
+
+niedościgły
+ neatingebla
+ neesplorebla (niezbadany)
+
+niedosięgły
+ neatingebla
+
+niedostateczny
+ nesufiĉa
+ nekontentiga (niezadowalający)
+ nekompleta (niezupełny)
+
+niedostatek
+ manko (brak)
+ nesufiĉeco (niedostateczność)
+ malriĉeco (bieda)
+
+niedostępny
+ nealirebla
+ neatingebla, neakirebla (nieosiągalny)
+ nekomprenebla (niepojętny)
+
+niedoszły
+ nerealiĝinta, neekzistinta, neefiktiviĝinta
+
+niedowiarek
+ nekredemulo, dubemulo, skeptikulo
+
+niedowierzać
+ malfidi (nie ufać)
+ suspekti (podejrzewać)
+
+niedozwolony
+ malpermesita
+
+niedziałka
+ atomo
+
+niedziela
+ dimanĉo
+
+niedźwiadek
+ urseto, ursido (młody niedźwiedź)
+ skorpio (skorpion)
+
+niedźwiedź
+ urso
+
+niedźwiedzica
+ ursino
+
+nieformeny
+ senforam, neregula
+
+niefortunny
+ senprospera, malprospera
+
+niefrasobliwy
+ senzorga
+
+niegdyś
+ iam, iafoje
+
+#gdzieniegdzie
+niegdzie (gdzie)
+ tie ĉi kaj tie, ialoke
+
+niegodny
+ malinda (niezasługujący)
+ malhonesta (nieuczciwy)
+ malvirta (niecny)
+
+niegodziwy
+ maldeca (nieprzyzwoity)
+ malvirta (niecny)
+ malnobla (podły)
+ malhonesta (nieuczciwy)
+
+niegrzeczny
+ malĝentila
+
+#nie inaczej
+nieinaczej
+ nealie, ĝuste tiel
+
+niejaki
+ iu (ktoś)
+ ia (jakiś)
+
+niejako
+ kvazaŭ (jakby)
+ en kelka maniero, kelkmaniere (poniekąd)
+
+#str. 110
+
+niejeden
+ pluraj
+
+niejednokrotnie
+ plurfoje, kelkfoje
+
+niekiedy
+ iafoje, de tempo al tempo
+
+niekształtny
+ senforma (bez kształtu)
+ malgracia, malbelforma (niezgrabny)
+
+niektóry, niektórzy
+ iu (któryś)
+ kelkaj (kilku)
+
+nieład
+ malordo, senordo
+
+#nie lada
+nielada
+ neordinara, nekutima
+
+niełaska
+ malfavoro
+
+nieletni
+ neplenaĝa
+
+nieliczny
+ nemulta, malmulta, malmultnombra
+
+nielitościwy
+ senkompata, nekompatema
+
+nieludzki
+ nehomeca, nehumana
+ kruela (okrutny)
+
+#nie ma
+niema
+ ne stas, forestas, ne ekzistas (nie jest, nie istnieje)
+ mankas (braknie)
+ ne troviĝas (nie znajduje się)
+
+niemal
+ preskaŭ (prawie)
+ apenaŭ ne (ledwo nie)
+
+niemało
+ ne malmulte
+
+niemiara (co)
+ sennombra amaso, amasego, multego
+
+niemieć
+ mutiĝi
+
+niemile
+ malagrable
+
+niemiłosierny
+ senkompata (bezlitosny)
+ kruela (okrutny)
+
+niemoc
+ malpovo, impotenco
+ malforto, senforteco (bezsilność)
+ sveno (omdlenie)
+
+niemota
+ muteco
+
+miemowa
+ mutulo, mutulino
+
+niemowlę
+ suĉinfano
+
+niemowlęctwo
+ suĉinfaneco, suĉaĝo
+
+niemy
+ muta
+
+nienasycony
+ nesatigebla
+ nesaturita [chem.]
+
+nienaturalny
+ nenatura
+ artefarita (sztuczny)
+ falsa (fałszywy)
+ troigita, bombasta (przesadzony)
+
+nienawidzieć
+ malami
+
+nienawiść
+ malamo
+ abomeno (odraza)
+
+nienawistny
+ malamata (nienawidzony)
+ malamanta (nienawidzący)
+ malamika (nieprzyjacielski)
+ abomena (wstrętny)
+ envia (zazdrosny)
+
+nienormalny
+ nenormala, anomalia
+
+nieobecny
+ foestanta
+
+nieobyczajny
+ malbonmorala
+ malĝentila (niegrzeczny)
+
+nieoceniony
+ netaksebla
+ grandvalora (wartościowy)
+
+nieoczekiwany
+ neatendita
+
+nieodłączny
+ nedisigebla, neapartigebla
+
+nieodmienny
+ neŝanĝebla, nealiigebla
+ nedeklinaciebla, nekonjugaciebla [gram.]
+
+nieodpowiedni
+ nekonforma, nekonvena
+
+nieodrodny
+ samspeca
+ homogena (jednorodny)
+
+nieodstępny
+ nedisigebla, nepartigebla
+ neforlasema
+
+nieodwołany
+ nerevokebla, nenuligebla, senapelacia
+
+nieodżałowany
+ eterne bedaŭrata
+ nekompensebla (niepowetowany)
+
+nieodzowny
+ necesega (niezbędny)
+ nepra (konieczny)
+
+nieogarniony
+ nekomprenebla (niepojęty)
+ neesplorebla (niedocieczony)
+
+nieoględny
+ nesingardema
+
+nieograniczony
+ nelimigita
+ senlima, absoluta (absolutny)
+
+nieokreślony
+ nedifinebla, nedeterminebla
+
+nieokrzesany
+ kruda
+
+nieomylny
+ neerarema, neerariga
+
+nieopatrzny
+ nesingarda
+ nesingardema
+
+nieostrożny
+ nesingardema
+ senprudenta (nieroztropny)
+
+# str. 111
+
+nieoszacowany
+ netaksebla
+
+niepamiętny
+ nememorebla
+ praa (pradawny)
+
+nieparzysty
+ nepara
+
+niepewny
+ necerta
+ pridubinda (wątpliwy)
+ nefidinda (niegodny zaufania)
+
+niepłodny
+ senfrukta
+ sterila
+
+niepłonny
+ nevana, nevanta
+ senduba, certa
+
+niepocieszony
+ nekonsolebla
+
+niepodległy
+ sendependa, memstara
+
+niepodobny
+ nesimila
+ malsama (inny)
+ nekredebla, neverŝajna (nieprawdopodobny)
+ neebla (niemożliwy)
+
+niepodzielny
+ nedividebla
+ neapartigebla (nierozdzielny)
+
+niepogoda
+ malbonvetero, veteraĉo
+
+niepohamowany
+ nemoderigebla, nehaltigebla, nedetenebla
+ furioza (szalony)
+
+niepojętny
+ malkapabla, malinteligenta
+
+niepojęty
+ nekomprenebla
+
+niepokalany
+ ĉasta, senmakula
+ pura (czysty)
+
+niepokaźny
+ modesta (skromny)
+ nerimarkinda (niegodny uwagi)
+
+niepokój
+ maltrankvilo, malkvieteco
+
+niepokoić
+ maltrankviligi
+
+niepomierny
+ supermezura, malmodera
+ neordinara
+
+niepomny
+ nememoranta, nerememoriĝanta
+ 
+niepomyślny
+ malprospera, malsukcesa, malfavora
+
+niepoprawny
+ nekorekta, erarhava (błędny)
+ nekorektebla, neplibonigebla (nie dający się poprawić)
+
+nieporównany
+ senkompara, nekomparebla
+ unika, nesuperebla, senkonkurenca (bezkonkurencyjny)
+
+nieporozumienie
+ miskompreno
+
+nieporządek
+ misordo, malordo, senordo
+ ĥaoso (bezład)
+
+nieporządny
+ senorda (bezładny)
+ malordema (niezachowujący porządku)
+ nehonesta (nieuczciwy)
+ malĉasta (rozwiązły)
+
+nieposkromiony
+ nemoderigebla (nieułagodzony)
+ nesubigebla (niepokonany)
+ nesubjugigebla (nieujarzmiony)
+ nedresita (niewytresowany)
+
+niepośledni
+ nemalbona, rimarkinda, nelasta
+
+nieposłuszny
+ malobeema
+
+niepospolity
+ neordinara (niezwykły)
+ eminenta (wybitny)
+
+niepostrzeżenie
+ nerimarkeble, nepercepteble, nerimarkite
+
+nieposzlakowany
+ senriproĉa (bez zarzutu)
+ nemallaŭdebla (nienaganny)
+ senmakula (niepokalany)
+
+niepotrzebny
+ nebezonata, senbezona
+ malnecesa (zbędny)
+ senutila (bezużyteczny)
+
+niepowetowany
+ nekompensebla, neregajnebla
+
+niepowodzenie
+ malsukceso, malprospero
+
+niepoznawalny
+ neekkonebla, neesplorebla
+
+niepozorny
+ nerimarkinda, nedistingebla, negrava
+ modesta (skromny)
+
+niepożyteczny
+ senutila
+
+nieprawda
+ malvero
+ mensogo (kłamstwo)
+
+nieprawowity
+ senrajta
+ neleĝa
+
+nieprawny
+ senleĝa, kontraŭleĝa, malleĝa (nielegalny)
+ needza (nie z małżeństwa)
+
+nieprzebrany
+ neelĉerpebla
+
+nieprzejednany
+ nerepacigebla (niedający się pogodzić)
+ neinklinigebla (niedający się nakłonić)
+ rezista (opierający się)
+
+# str. 112
+
+nieprzemakalny
+ netramalsekiga, akvoŝirma
+
+nieprzerwany
+ seninterrompa, senpaŭza
+ senĉesa (nieprzestanny)
+ kontinua (ciągły)
+
+nieprzestanny
+ senĉesa
+ konstanta (ustawiczny)
+
+nieprzewidzialny
+ neantaŭvidebla, neantaŭvidita
+
+nieprzezwyciężony
+ nevenkebla, nesubigebla
+ neforigebla (niedający się usunąć)
+
+nieprzychylny
+ malfavora, malbonvola, malinklina, malsukcesiga
+
+nieprzydatny
+ neuzebla, netaŭga
+
+nieprzyjaciel
+ malamiko (wróg)
+ kontraŭulo (przeciwnik)
+
+nieprzyjazny
+ malamikeca (wrogi)
+ malfavora (niesprzyjający)
+
+nieprzyjemność
+ malagrablaĵo, malagrableco
+ malplezuro
+
+nieprzyjemny
+ malagrabla, malplezuriga
+
+nieprzymuszony
+ nedevigita, memvola, libervola
+
+nieprzystępny
+ nealirebla
+ neatingebla (nieosiągalny)
+
+nieprzystojny
+ malgracia (niezgrabny)
+ malbela (brzydki)
+ maldeca (nieprzyzwoity)
+
+nieprzytomny
+ senkonscia
+
+nieprzyzwoity
+ maldeca, malkonvena
+
+nierad
+ malkontenta (niezadowolony)
+ nevolonta (niechętny)
+ vole nevole (rad nierad)
+
+nieregularny
+ malregula
+
+nierogacizna
+ senkorna brutaro
+ porkaro
+
+nierówny
+ malegala (niejednakowy)
+ malebena (nie płaski)
+ malglata (chropowaty)
+
+nierozdzielny
+ nedisigebla, neapartigebla
+
+nieroztropny
+ malprudenta
+ senkonsidera, senpripensa (nierozważny)
+
+nierozumny
+ malsaĝa, neprudenta
+
+nierozważny
+ senkonsidera, senpripensa
+
+nieruchomość
+ senmoveco, nemoviĝemo
+ inerteco (nieruchliwość)
+ nemoveblaĵo, nemovebla posedaĵo (nieruchomy majątek)
+
+nieruchomy
+ senmova, inerta (bezwładny)
+ nemovebla (niedający się ruszyć)
+ fiksa (umocowany)
+
+nierząd
+ senordo
+ senregeco, anarĥio (bezrząd)
+ malĉasteco, prostituado (rozwiązłość)
+
+nierządnica
+ malĉastulino, prostituistino, bordelanino
+
+nierządny
+ malĉasta
+
+nierzetelny
+ malhonesta
+
+nieść
+ porti
+ alporti (przynosić)
+ meti ovojn (składać jajka)
+ kaŭzi (powodować)
+
+niesforny
+ malobeema (nieposłuszny)
+ obstina (krnąbrny)
+ malĝentila (niegrzeczny)
+ nedisciplinita (niekarny)
+ senbrida (nieokiełznany)
+
+nieskazitelny
+ senmakula (bez plam)
+ senriproĉa (bez zarzutu)
+ nekoruptebla (niesprzedajny)
+
+nieskończoność
+ senlimo, senfino
+ senlimeco
+ infinito [mat.]
+
+nieskoro
+ nebaldaŭ, nerapide
+
+niesława
+ malhonoro, hontego
+
+niesłowny
+ vortrompa, malakurata
+
+nieślubny
+ needzeca, neleĝa
+
+niesłuszny
+ malprava
+ maljusta (niesprawiedliwy)
+
+niesłychany
+ neniam aŭdita, nekutima
+
+niesmaczny
+ sengusta, malbongusta
+
+niesmak
+ sengusteco, gustomanko
+ malagrableco (nieprzyjemność)
+ naŭzo (mdłość)
+ tedo (uprzykrzenie)
+ abomeno (wstręt)
+
+nieśmiały
+ timema
+
+nieśmiertelny
+ senmorta
+
+# str. 113
+
+niesnaska
+ kverelo, malpaco
+ miskompreno (nieporozumienie)
+
+niespełna
+ neplene, nekomplete
+ ĉirkaŭ (około)
+ apenaŭ (zaledwie)
+
+niespodzianka
+ surprizo
+
+niespodziany
+ surpriza, neatendita
+
+niespokojny
+ maltrankvila, malkvieta
+ maltrankviliga, malkvietiga (niepokojący)
+
+nie sposób
+ neeble, neniel eble
+
+niesprawiedliwy
+ maljusta
+
+niestały
+ nekonstanta, sporada
+ hezitema (wahający się)
+ ŝanĝema, varia (zmienny)
+ malfiksa (nieumocowany)
+
+niestaranny
+ senzorga, nezorgema
+
+niestateczny
+ nekonstanta, ŝanĝema, hezitema
+
+niestety
+ bedaŭrinde
+ domaĝe (szkoda)
+ ho ve! (biada)
+
+niestrawny
+ nedigestebla
+
+niestworzony
+ nekreebla, neekzistanta
+
+niesumienny
+ senkonscienca, malhonesta
+
+nieświadomy
+ senkonscia
+ nescianta, ignoranta (nie wiedzący)
+ neinformita (nieobeznany)
+
+nieswój
+ fremda
+ fremdeca (obcy)
+ malsaneta, malbonfarta (niedomagający)
+
+nieszczęście
+ malfeliĉo
+
+nieszczęśliwy
+ malfeliĉa
+ malbonŝanca, malsukcesa (niepomyślny)
+
+nieszczęsny
+ malfeliĉa
+ malfeliĉiga, fatala (unieszczęśliwiający)
+
+nieszkodliwy
+ nemalutila, sendomaĝa
+
+nieszpory
+ vespera diservo
+
+nieszpułka
+ mespilo
+
+nietoperz
+ vesperto
+
+nietykalny
+ netuŝebla
+
+nieubłagany
+ neelpetabla
+ neinklinigebla (niedający się nakłonić)
+ severega (surowy)
+
+nieuchronny
+ neevitebla, fatala
+
+nieuctwo
+ malklereco (ciemnota)
+ ignoro (ignorancja)
+
+nieuczciwy
+ nehonesta
+
+nieudatny
+ nesukcesinta, malprospera
+
+nieudolny
+ senkapabla
+ malkapabla (niedołężny)
+ mallerta (niezręczny)
+
+nieufny
+ malfidema
+ malkonfidema
+
+nieugaszony
+ neestingita
+ nekontentigebla (niezadowolony)
+ nesatigebla (nienasycony)
+
+nieugięty
+ nefleksebla
+ neinklinigebla (niedający się nakłonić)
+ persista (wytrwały)
+ obstina (uparty)
+
+nieuk
+ malklerulo, ignoranto
+
+nieuleczalny
+ nekuracebla, neresanigebla
+
+nieumyślnie
+ seintence
+
+nieurodzaj
+ senfrukteco, malbonrikolto
+
+nieurodzajny
+ senfrukta
+ malbonrikolta
+
+nieustanny
+ senĉesa, seninterrompa, senhalta, konstanta
+
+nieustraszony
+ netimigebla, sentima
+
+nieutulony
+ nekonsolebla, senkonsola, nekvietigebla
+
+nieuwaga
+ malatento
+
+nieuważny
+ malatenta, senatenta
+
+nieużyteczny
+ senutila, neuzebla, sentaŭga
+
+nieużytki
+ neuzeblaĵo
+ senutilaĵo
+ nekulturebla grundo
+
+niewątpliwy
+ senduba, nepridubebla
+ certa (pewny)
+
+nieważny
+ nevalida, senvalida
+ malgrava (błahy)
+ senvalora (bezwartościowy)
+
+niewczas
+ neĝusta tempo (niewłaściwy czas)
+ laciĝo (zmęczenie)
+ neĝustatempe, tro malfrue (po niewczasie)
+
+niewdzięczny
+ sendanka, nedankema
+ senkompensa (bez wynagrodzenia)
+ senplezura, malagrabla (przykry)
+
+# str. 114
+
+niewiadomy
+ nekonata, nesciata
+
+niewiara
+ malkredemo (niedowiarstwo)
+ senkredeco (brak wiary)
+ skeptikeco (sceptycyzm)
+ malfidemo (nieufność)
+
+niewiasta
+ virino
+
+niewidomy
+ blinda (ślepy)
+ nevidebla (niewidoczny)
+
+niewidzialny
+ nevidebla
+
+niewiele
+ malmulte
+
+niewierny
+ malfidela
+ perfida (zdradliwy)
+ hereza (kacerski)
+ malsamreligiano (innowierca)
+
+niwieści
+ virina
+
+niewieścieć
+ viriniĝi
+
+niewiniątko
+ senkulpulo
+
+niewinność
+ senkulpeco
+ virgeco (dziewictwo)
+
+niewinny
+ senkulpa
+ ĉasta (niepokalany)
+ virga (dziewiczy)
+
+niewłaściwy
+ neĝusta
+ nekonvena (niestosowny)
+ nedeca (nieprzyzwoity)
+
+niewód
+ naso (więcierz)
+ retego (sieć)
+
+niewola
+ mallibero, mallibereco
+ kaptiteco (niewola wojenna)
+ sklaveco (niewolnictwo)
+
+niewolić
+ sklavigi (uczynić niewolnikiem)
+ subigi (pokonać)
+ devigi (zmuszać)
+ perforti (gwałcić)
+
+niewolnica
+ sklavino
+
+niewolnictwo
+ sklaveco
+
+niewolniczo
+ sklave
+
+niewolnik
+ sklavo
+ militkaptito (jeniec)
+
+nie wolno
+ oni ne povas, oni ne devas, estas malpermesite, oni malpermesas
+
+niewprawny
+ nelerta, neekzercita, nesperta
+
+niewstrzymany
+ nehaltigebla, nedetenebla
+
+niewyczerpany
+ neelĉerpebla
+
+niewygoda
+ maoportuno, ĝeno
+
+niewygodny
+ maloportuna
+ ĝenanta (krępujący)
+
+niewymowny
+ neelparolebla, neesprimebla (niewypowiedziany)
+ neelokventa (niemający talentu krasomówczego)
+
+niewypłacalny
+ malsolventa
+
+niewypowiedziany
+ nerakontebla, nedirebla, nepriskrbebla, neesprimebla
+
+niewyraźny
+ malklara
+ nedistingebla
+
+niweysłowiony
+ neesprimebla, nedirebla
+
+niewzruszony
+ nemovebla
+ neskuebla (niezachwiany)
+ neemociigebla
+ firma (stały)
+
+niezabudka
+ miozoto
+
+niezachwiany
+ neŝancelebla, firma
+ nerefutebla (niezaprzeczony)
+
+niezadługo
+ baldaŭ, post nelonge
+
+niezadowolony
+ malkontenta
+
+niezależny
+ sendependa
+
+niezamężna
+ senedza, needzinigita
+
+niezapominajka
+ miozoto
+
+niezaprzeczony
+ nerefutebla, neneigebla
+
+niezawisły
+ sendependa
+
+niezawodny
+ neerariga (niewprowadzający w błąd)
+ senduba (niewątpliwy)
+ garantiata, certa (pewny)
+
+niezbadany
+ neesplorebla, neesplorita
+
+niezbędny
+ necesega, nepre bezonata
+
+niezbity
+ nerefutebla
+
+niezbyt
+ ne tro
+
+niezdara
+ mallertulo
+
+niezdarny
+ mallerta
+ malgracia (niezgrabny)
+
+niezdatny
+ netaŭga, sentaŭga, neuzebla
+
+niezdolny
+ nekapabla
+ malkapabla
+ netaŭga (niezdatny)
+
+niezdrów
+ nesana, malsana
+
+niezdrowy
+ nesana, malsana
+ malsaniga (szkodliwy dla zdrowia)
+
+# str. 115
+
+niezgłębiony
+ nesondebla
+ neekkonebla (niepoznawalny)
+
+niezgoda
+ malkonsento, malpaco
+ kverelo (kłótnia)
+ disputo (sprzeczka)
+ malharmonio (rozdźwięk)
+ malkonformeco (niestosowność)
+
+niezgodny
+ nekonsentema, kverelema (kłótliwy)
+ nekonforma (nieodpowiedni)
+ senharmonia (nieharmonijny)
+
+niezgorszy
+ sufiĉe bona
+ tolerebla (znośny)
+
+niezgrabny
+ malgracia
+ mallerta (niezręczny)
+
+niezliczony
+ nekalkulebla, sennombra
+
+niezłomny
+ nerompebla
+ neŝanĝebla (niezmienny)
+ neskuebla, neŝancelebla (niezachwiany)
+
+niezmienny
+ senŝanĝa, neŝanĝiĝanta (niezmieniający się)
+ neŝanĝebla, nealiigebla (niedający się zmienić)
+ firma (trwały)
+
+niezmierny
+ senmezura, nemezurebla
+ grandega (olbrzymi)
+
+niezmordowany
+ senlaca, nelacigebla
+
+nieznaczny
+ neperceptebla, nerimarkebla (niedostrzegalny)
+ nesentebla (niedający się odczuć)
+ malgrava (błahy)
+ sensignifa (bez znaczenia)
+
+nieznajomość
+ nescio, malkono, ignoro
+ fremdeco (obcość)
+
+nieznajomy
+ nekonata
+ fremda (obcy)
+
+nieznany
+ nekonata
+
+nieznośny
+ neeltenebla, netolerebla
+
+niezręczny
+ mallerta
+
+niezrównany
+ nekomparebla, unika, nesuperebla
+
+niezupełny
+ neplena, nekompleta, netuteca
+
+niezużyty
+ neeluzebla
+ neelĉerpebla (niewyczerpany)
+
+niezwalczony
+ nevenkebla, nesubigebla
+
+niezwłoczny
+ senprokrasta, neprokrastebla, tuja
+
+niezwyciężony
+ nevenkebla
+
+niezwyczajny, niezwykły
+ nekutima, neordinara
+ eksterordinara
+ unika, escepta (wyjątkowy)
+ nealkutiminta (nienawykły)
+
+nieżyt
+ kataro
+
+nieżywotny
+ senviva, malviva
+ neaktuala (nieaktualny)
+
+nieżywy
+ mortinta, senviva
+
+nigdy
+ neniam
+
+nigdzie
+ nenie
+ nenien
+
+nijaki
+ nenia
+ neŭtra (rodzaj nijaki) [gram.]
+ nedifinebla (nieokreślony)
+
+nijako
+ neniel
+ nedifineble (nieokreślenie)
+
+nikczemnieć
+ malnobliĝi (spodlić się)
+ perei (ginąć)
+
+nikczemny
+ malnobla (podły)
+ malhonesta (nieuczciwy)
+ kanajla (łajdacki)
+ fripona (łotrowski)
+
+nikiel
+ nikelo
+
+nikły
+ malaperema, pereema (znikomy)
+ pasema, efemera (przemijający)
+ eta (drobny)
+ malgrava (błahy)
+ mizera (nędzny)
+
+niknąć
+ malaperi
+ perei (ginąć)
+ perdiĝi (gubić się)
+ pasi (przechodzić)
+
+nikotyna
+ nikotino
+
+nikt
+ neniu
+
+nim
+ antaŭ ol
+
+nimb
+ nimbo, aŭreolo
+
+nimfa
+ nimfo
+
+niniejszy
+ ĉi tiu
+ jena (ten oto)
+ nuna (teraźniejszy)
+ ĉi-prezentita (oto przedstawiony)
+
+niniejszym
+ per ĉi tio
+ ĉi pere
+
+#ni stąd
+niskąd
+ el nenie
+ nenial (niskąd ni zowąd)
+
+nieski
+ malalta
+ malnobla (podły)
+ humila (uniżony)
+
+nisza
+ niĉo
+
+niszczeć
+ perei
+ neniiĝi
+ detruiĝi
+
+# str. 116
+
+niszczyć
+ detrui (burzyć)
+ ruinigi (rujnować)
+ neniigi, nuligi (niweczyć)
+ eluzi (zużywać)
+ difekti (uszkadzać)
+ malbonigi (psuć)
+
+nit
+ vinkto
+
+nitka
+ fadeno
+ fibro (włókno)
+
+nitować
+ vinkti
+
+nich
+ tabakpreno, tabakpinĉo
+
+niuchać
+ enflari, flari tabakon
+
+niwa
+ kampo, grenkampo
+
+niwecz (w)
+ en nenion
+ malesto (niebyt)
+
+niweczyć
+ neniigi, nuligi
+
+niwelować
+ ebenigi, niveli
+
+niż
+ malaltaĵo
+ valo (dolina)
+
+niż, niżeli
+ ol
+ anstataŭ (miast)
+
+nizać
+ enfadenigi, serfadenigi
+
+nizina
+ malaltaĵo
+ valo (dolina)
+
+niźli
+ ol
+
+niższy
+ malsupera
+
+nobilitować
+ nobeligi
+
+noc
+ nokto
+
+nocleg
+ nokta kuŝejo, tranoktejo
+
+nocnik
+ noktovazo, urinujo
+
+nocować
+ nokti, pasigi nokton
+ dormi (spać)
+
+noga
+ piedo
+
+nogawica
+ duonpantalono, pantalontubo
+
+nokturn
+ nokturno
+
+nomenklatura
+ nomaro, nomenklaturo
+ terminaro
+
+nominalny
+ nominala
+
+nominować
+ nomigi
+
+nonsens
+ sensencaĵo
+ absurdo
+
+nora
+ truo (dziura)
+ kaverno (jama)
+ kavo (dół)
+
+norma
+ normo
+
+normalny
+ normala, laŭforma
+
+normalizacja
+ normaligo
+
+normować
+ normigi, reguligi
+
+nos
+ nazo
+ pinto (szpic)
+ beko (dziób)
+
+nosacizna
+ nazmuka malsano
+
+nosaty
+ grandnaza
+
+nosek
+ nazeto
+ pinto (spiczasty wierzchołek)
+ beko (dziób)
+
+nosić
+ poti
+ alporti
+ meti ovojn (składać jajka)
+
+nosiciel
+ portanto
+
+nosidło
+ portilo
+
+nośność
+ portkapacito, portkapableco
+
+nosorożec
+ rinocero
+
+nostalgia
+ nostalgio
+
+nostrzyk
+ meliloto
+
+nosze
+ portilo, portlito
+ brankardo
+
+nota
+ noto
+
+notariusz
+ notario
+
+notatka
+ notaĵo
+
+notatnik, notes
+ notlibro
+
+notoryczny
+ konata, kronika
+
+notować
+ noti
+
+nów
+ novluno
+
+nowalia
+ novaĵo
+ unuenaskitaĵo, unikaĵo (osobliwość)
+
+nowator
+ naviganto
+
+nowela
+ novelo
+
+nowicjusz
+ novico
+
+nowina
+ novaĵo
+ informo, sciigo (wiadomość)
+
+nowoczesny
+ novtempa, moderna
+
+nowomodny
+ novmoda
+
+noworoczny
+ novjara
+
+nowość
+ noveco, novaĵo
+
+nowotwór
+ neologismo [gram.]
+ tumoro [med.]
+
+nowożeniec
+ ĵusedzigito, novedzo
+
+nowożytny
+ nuntempa, moderna
+
+nowy
+ nova
+
+nóż
+ tranĉilo
+
+nozdrze
+ naztruo
+
+nóżka
+ piedeto
+
+nożowiec
+ tranĉilpikisto
+
+nożownik
+ tranĉifaristo, tranĉilfabrikanto
+
+nożyce
+ tondilego
+
+nożyczki
+ tondilo, tondileto
+
+nu, nuże
+ nu, antaŭen, rapidu!
+
+nucić
+ kanteti, zumkanti
+
+nuda
+ enuo, enuiĝo, enueco
+
+nudność
+ enuigeco
+ tedo (uprzykrzenie)
+ naŭzo (mdłości)
+
+nudny
+ enuiga (nużący)
+ teda (przykrzący się)
+ naŭza (mdły)
+
+# str. 117
+
+nudziarz
+ enuigulo, tedulo
+
+nudzić
+ enuigi (nużyć)
+ tedi (naprzykrzać się)
+ naŭzi (mdlić)
+
+nudzić się
+ enui, enuiĝi
+
+numer
+ numero
+
+numeracja
+ numerado
+
+numerator
+ numerilo
+
+numerować
+ numeri
+
+numerowy
+ numera
+ numerito, numeristo
+ ĉambristo (pokojowy)
+ pordisto (odźwierny)
+
+numizmatyka
+ numismatiko
+
+nuncjusz
+ nuncio
+
+nurek
+ kolimbo (ptak)
+ subakviĝo, trempiĝo (zanurzenie się)
+ subakviĝisto
+
+nurkować
+ subakviĝi
+
+nurt
+ ondaro (fale)
+ fluo (prąd)
+
+nurtować
+ traigi (przenikać)
+ emocii (wzruszać)
+
+nurzać
+ subakvigi, enfluidigi, trempi
+
+nurzać się
+ subakviĝi, enfluidiĝi (zanurzać się)
+ bani sin (kąpać się)
+ droneti (grzęznąć)
+ enprofundiĝi (zagłębiać się)
+
+nuta
+ noto, muziknoto
+
+nuworysz
+ novriĉulo, ĵusriĉiĝinto
+
+nuż (a)
+ baldaŭ (wnet)
+ kaj eble (a może)
+
+nuże
+ nu, moviĝu
+
+nużyć
+ enuigi (nudzić)
+ lacigi (męczyć)
+ tedi (uprzykrzać się)
+
+nygus
+ mallaboremulo, maldiligentulo
+
+nynać
+ luli

@@ -1,0 +1,488 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+
+# Ł
+
+# str. 89
+
+łąbędź
+ cigno
+
+łach
+ ĉifono
+
+łacha
+ riverbrako
+
+łachman
+ ĉifonvesto
+
+łaciasty
+#łaciaty
+ deverskolore makulita
+
+łacno
+ facile, senpene
+
+łącznie
+ kune (razem)
+ inkluzive (włącznie)
+ komune (wspólnie)
+
+łącznik
+ ligilo, kunigilo
+ streketo (kreska)
+ konjunkcio (spójnik)
+
+łączyć
+ kunigi
+ unuigi (jednoczyć)
+ ligi (wiązać)
+ parigi (parzyć)
+
+łączyć się
+ kuniĝi, unuiĝi (jednoczyć się)
+ solidariĝi (solidaryzować się)
+ pariĝi (parzyć się)
+ kopulacii (spółkować)
+
+ład
+ ordo
+
+ładnieć
+ beliĝi
+
+ładny
+ bela
+
+ładować
+ ŝarĝi (obciążać)
+ ŝargi (ładować broń)
+
+ładownica
+ pafaĵujo
+ municiujo, kartoĉujo
+
+ładowny
+ multeŝarĝebla
+
+ładunek
+ ŝarĝo, ŝarĝaĵo, pakaĵo
+ pafaĵo, ŝarĝaĵo (nabój)
+
+łagiew
+ bareleto (baryłka)
+ transverŝilo (rurka do przelewania)
+
+łagodnieć
+ mildiĝi, moderiĝi, kvietiĝi, malseveriĝi
+
+# str. 90
+
+łagodny
+ milda
+ modera (umiarkowany)
+ kvieta (spokojny)
+ malsevera (nie surowy)
+
+łagodzić
+ moderigi
+ kvietigi (uśmierzać)
+
+łajać
+ insulti
+ riproĉegi (strofować)
+
+łajdak
+ kanajlo
+ fripono (łotr)
+ sentaŭgulo (niscpoń)
+ diboĉulo (hulaka)
+
+łajno
+ ekskremento
+
+łąka
+ herbejo
+
+łaknąć
+ deziregi (pragnąć)
+ avidii (pożądać)
+
+łakocie
+ frandaĵoj
+
+łakomić się
+ esti avida (byc żądnym)
+ esti frandema (być łakomym)
+
+łamać
+ rompi
+ malfideliĝi (stać się niewiernym)
+
+łamaga
+ mallertulo
+
+łamigłówka
+ enigmo (zagadka)
+ logorifo, anagramo
+
+łan
+ grenkampo
+ spikaro
+
+łańcuch
+ ĉeno
+ katenoj (pęta)
+
+łania
+ cervino
+
+łapa
+ piedo (noga u zwierzęcia)
+ manego, manaĉo (ręka u człowieka)
+
+łapać
+ kapti
+
+łapacz
+ kaptisto
+
+łapcie
+ bastŝuoj (kurpie)
+ pantofloj (pantofle)
+
+łapczywy
+ avida (chciwy)
+ rabema (drapieżny)
+
+łapka
+ piedeto (nóżka)
+ maneto (rączka)
+ kaptilo (pułapka)
+
+łapówka
+ koruptmono
+
+łasić się
+ karesiĝi, peti kareson (przymilać się)
+ esti avida (łakomić się)
+
+łasica
+ mustelo
+
+łaska
+ graco, favoro (przychylność)
+ bonfaro (dobrodziejstwo)
+ indulgo (pobłażanie)
+
+łaskawy
+ favora (przychylny)
+ bonfara (dobroczynny)
+ indulga (pobłażliwy)
+ afabla (uprzejmy)
+
+łaskotać
+ tilketi
+
+łaskotliwy
+ tiklosentema
+
+łasować
+ frandi
+
+łasuch
+ frandemulo
+
+łaszczyć się
+ esti avida
+
+łata
+ flikaĵo
+ makulo (plama)
+ lato (żerdź)
+
+łatać
+ fliki
+
+łatwowierny
+ kredema, facilkredema, naiva
+
+łatwy
+ facila
+
+ława, ławka
+ benko
+ tavolo (warstwa)
+
+ławnik
+ asesoro
+ magistrantano (ławnik magistratu)
+
+łazić
+ rampi (pełzać)
+ grimpi (wspinać się)
+ vagi (włóczyć się)
+
+łazienka
+ banejo, banĉambro, bandomo
+
+łaźnia
+ ŝvitbano, ŝvitbanejo
+ vipbatoj (chłosta)
+
+łeb
+ kapego
+ kapaĉo
+
+łechtliwość
+ tiklosentemo
+
+łechtać
+ tikli
+
+łechtaczka
+ klitoro
+
+łęk
+ arkaĵo (sklepienie)
+ selo (siodło)
+
+łepek
+ kapeto
+
+łgać
+ mensogi
+
+łgarz
+ mensogulo
+
+łkać
+ ploregi
+
+łoboda
+ artiplo
+
+łobuz
+ petolulo (psotnik)
+ fripono (łotr)
+ bubo (ulicznik)
+
+łobuzować
+ petoli
+
+łoczyga
+ laktuko
+
+łódka
+ boato
+
+łodyga
+ trunketo
+
+łódź
+ boatego, barko
+
+łoić
+ sebumi (smarować łojem)
+ bategi (bić)
+
+łój
+ sebo
+
+łojówka
+ seba kandelo
+
+łokieć
+ kubuto (u ręki)
+ ulno (miara)
+
+łom
+ rompiĝo (łamanie)
+ rompaĵo (złom)
+ rompilo (kilof)
+
+łomot
+ krako, frakasbruo
+
+łomotać
+ frakasi, krakrompi
+
+łono
+ sino
+ brusto (pierś)
+
+łopata
+ ŝovelilo (szufla)
+ fosilo (rydel)
+ ŝpato (szpadel)
+
+# str. 91
+
+łopatka
+ skapolo (kość)
+ ŝovelileto (szfelka)
+
+łopian
+ lapo
+
+łoś
+ alko
+
+łoskot
+ krako (trzask)
+ obtuza bruego (głuchy huk)
+
+łosoś
+ salmo
+
+łotr
+ fripono, kanajlo
+
+łów
+ ĉasado (polowanie)
+ kaptado (połów)
+
+łowczy
+ ĉasa
+ ĉasestro (naczelnik łowów)
+
+łowić
+ kapti (łapać)
+ fiŝkapti (łowić ryby)
+ ĉasi (polować)
+
+łoże
+ lito, kuŝejo
+ afusto (laweta)
+
+łóżko
+ lito
+
+łożyć
+ meti (kłaść)
+ elspezi (wydawać)
+ oferi (poświęcać)
+
+łożysko
+ fluejo (koryto)
+ placento (w macicy)
+ riverujo (łożysko rzeki)
+
+łubin
+ lupeno
+
+łucznik
+ pafarkisto, arbalestisto
+
+łuczywo
+ keno
+
+łudzić
+ iluziigi (mamić)
+ delogi (zwodzić)
+ trompi (oszukiwać)
+
+ług
+ lesivo
+
+łuk
+ arko
+ pafarko, arabalesto (kusza)
+
+łukowaty
+ arkforma
+
+łukowy
+ arka
+ arklampo (lampa łukowa)
+
+łuna
+ bruluĝo
+
+łup
+ akiraĵo, kaptaĵo (zdobycz)
+ rabaĵo (rabunek)
+ viktimo (ofiara)
+
+łupać
+ fendi (rozpłatać)
+ dishaki (rozrąbać)
+
+łupek
+ ardezo
+
+łupić
+ senŝeligi (zdzierać korę)
+ senfeligi, senhaŭtigi (obndzierać ze skóry)
+ rabi (grabić)
+
+łupież
+ rabaĵo, rabado (grabież)
+ skvamo (łuska)
+
+łupina
+ ŝelo
+ konko (muszla)
+
+łuska
+ skvamo
+ ŝelo (łupina)
+ grenventumaĵo (plewy)
+
+łuskać
+ senŝeligi (obierać)
+ kraki (trzeszczeć)
+
+łuszczyć
+ senŝeligi, senskvamigi
+
+łut
+ lodo
+
+łyczak
+ bastoŝnuro
+
+łydka
+ tibikarno
+
+łykać
+ gluti
+
+łyko
+ basto
+
+łypać
+ okulumi, palpebrumi
+
+łysieć
+ kalviĝi, senhariĝi
+
+łysina
+ kalvaĵo, senharaĵo
+
+łysy
+ kalva, senhara
+
+łyszczak
+#łyszczyk
+ glimo [min.]
+ aŭrikulo [bot.]
+
+łyżka
+ kulero
+
+łyżwa
+ glitilo, glitŝuo
+
+łyżwiarz
+ glitisto
+
+łza
+ larmo
+
+łzawy
+ larma
+ plorema (płaczliwy)
+ larmiga (wyciskający łzy)
+

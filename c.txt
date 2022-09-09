@@ -1,0 +1,2861 @@
+# Słownik polsko-esperancki
+# aut. Mieczysław Guterman
+# 1 wydanie Warszawa 1932 r.
+# 4 wydanie (reprint) Warszawa 1965 r.
+#
+# C
+#
+# str. 28
+
+cąber
+ dorsaĵo, dorsparto
+
+caca!
+ bele!, belege!
+
+cacanek
+ dorlotato
+
+cacanka
+ kareso
+
+cacany
+ belega (śliczny)
+ plaĉa (podobający się)
+ ĝentila (grzeczny)
+
+cackać
+ karesi, dorloti
+
+cackać się
+ interkaresiĝi (pieścić się nawzajem)
+ dediĉi multan atenton (poświęcać dużo uwagi)
+ ludi (bawić się)
+ ornami (stroić)
+
+cacko
+ belegaĵo
+ ludilo (zabawka)
+ juvelo (klejnot)
+ karesindaĵo (rzecz godna pieszczot)
+
+cal
+ colo
+
+calić
+ unuecigi
+
+całka
+ integralo
+
+całkiem
+ tute, entute, plene, komplete
+
+całkowanie
+ integrado
+
+całkowity
+ tuta
+ plena (pełny)
+ kompleta, senmanka (zupełny)
+ integra (nienaruszony)
+ entjero (liczba całkowita)
+
+całkowy
+ integrala
+
+cało
+ sendifekte (bez uszkodzenia)
+ sendomaĝe (bez szkody)
+
+całokształt
+ tuto, tutaĵo
+ sistemo, komplekso
+
+całopalenie
+ brulofero
+
+całoroczny
+ tutjara
+
+całość
+ tutaĵo, kompleto, komplekso, sistemo
+ tuteco, integreco (całkowitość)
+ entjero (liczba całkowita)
+
+całotygodniowy
+ tutsemajna
+
+całować
+ kisi
+
+calówka
+ coldika tabulo (deska)
+ colmezurilo (miara)
+
+całun
+ mortkovrilo, funebra kovrilo
+
+całus
+ kiso
+
+# str. 29
+
+calutki
+ tuta, tuttuta, kompleta
+
+cały
+ tuta
+ kompleta (zupełny)
+ plena (pełny)
+ integra (całkowity)
+ nedifektita (nieuszkodzony)
+ senmanka (niebrakowny)
+ entjera [mat.]
+ vera (prawdziwy)
+
+cap
+ kaproviro, virkapro (kozioł)
+ stultulo (głupiec)
+
+capać, capnąć
+ kapti, forkapti
+
+capstrzyk
+ revenmarŝo
+ iluminmarŝo
+
+car
+ caro
+
+carat
+ carismo, cara reĝimo
+
+carewicz
+ carido
+
+cążki
+ prenileto, pinĉtenilo
+
+ceber
+ silelego, tino
+
+cebula
+ bulbo
+
+cebulka
+ bulbeto
+
+cech
+ korporacio, gildo
+
+cecha
+ marko
+ distingilo, signo
+ eco, kvalito
+ propraĵo, atributo
+
+cechmistrz
+ korporaciestro, gildestro
+
+cechować
+ marki, signi (znaczyć)
+ karakterizi (znamionować)
+
+cedent
+ cedanto
+
+cedować
+ cedi
+
+cedr
+ cedro
+
+cedrat
+ cedrato (owoc)
+ cedratujo (drzewo)
+
+ceduła
+ registro, listo (wykaz)
+ tabelo (tabela)
+ bulteno (biuletyn)
+ bileto (bilet)
+ frajtletero (ceduła frachtowa)
+
+cedzić
+ filtri
+ kribri (przesiać)
+
+cedzidło
+ filtrilo
+ kribrilo (sito)
+
+cedziny
+ surfundaĵo, sedimento
+
+cęgi
+ prenilo
+
+cegielnia
+ brikejo, brikfarejo, brikfabriko
+
+cegiełka
+ briketo
+
+cegła
+ briko
+
+ceglasty
+ brikkolora
+
+cel
+ celo
+ trafotaĵo (rzecz mająca być trafiona)
+
+cela
+ ĉelo
+
+celebra
+ grandmeso
+
+celebrować
+ festi, soleni, celebri
+
+celibat
+ senedzineco, celibato
+
+celnik
+ doganisto, limimpostisto
+
+celny
+ dogana, limimposta (dotyczący cła)
+ trafa (trafny)
+ laŭcela (decelowy)
+ bonega (wyśmienity)
+
+celować
+ celi (mierzyć do celu)
+ superi (przewyższać)
+ distingiĝi (wyróżniać się)
+ brili (błyszczeć)
+
+celownica
+ celilo
+
+celownik
+ dativo
+
+celowy
+ laŭcela, celkonforma, celatinga
+ utila (pożyteczny)
+ praktika (praktyczny)
+ konvena (odpowiedni)
+
+celujący
+ bonega (wyśmienity)
+ modela (wzorowy)
+ distingiĝa (wyróżniający się)
+
+celuloid
+ celuloido
+
+celuloza
+ celulozo
+
+cembrować
+ ĉirkaŭtabuligi
+
+cement
+ cemento
+
+cementować
+ cementi
+ unuecigi (spajać)
+
+cena
+ prezo
+
+cenić
+ ŝati (poważać)
+ estimi (szanować)
+ taksi (oceniać)
+
+cennik
+ prezaro, tarifo
+
+cenny
+ altvalora, grandvalora
+ multvalora, alteŝatata
+ ŝatinda (szacowny)
+ multekosta (kosztowny)
+ netaksebla (nieoceniony)
+
+cent
+ cendo
+
+centaur
+ centaŭro
+
+centezymalny
+ centuma, centezimala
+
+centnar
+ funtocento
+
+centrala
+ centro, centrejo, ĉefoficejo
+
+centr
+ *centrum*
+
+centralizacja
+ centralizado, alcentrigo
+
+centralizować
+ centralizi, alcentrigi, koncentrigi
+
+centralny
+ centra
+ ĉefa (główny)
+
+# str. 30
+
+centrować
+ alcentrigi
+
+centrum
+ centro
+ mezo (środek)
+ fokuso (ognisko)
+ kerno (jądro)
+
+centryfuga
+ centrifugilo
+
+centryfugalny
+ centrufuga, decentrokura
+
+centrypetalny
+ centripeta, alcentrokura
+
+centygram
+ centigramo
+
+centylitr
+ centilitro
+
+centym
+ centimo
+
+centymetr
+ centimetro
+
+cenzor
+ cenzuristo
+
+cenzura
+ cenzuro
+ atesto (świadectwo)
+
+cenzuralny
+ cenzurebla
+
+cenzurować
+ cenzuri
+
+cenzurowane
+ mokseĝo
+ mokludo (gra)
+
+cenzus
+ cenzuso
+ kvalifiko (kwalifikacja)
+
+cep, cepy
+ draŝilo
+
+cera
+ vizaĝkoloro, haŭtkoloro (kolor skóry)
+ mieno (mina)
+ teksflikaĵo (łatka)
+
+ceramika
+ ceramiko
+
+cerata
+ vakstolo, laktolo
+
+cerber
+ cerbero, trikapa inferhundo
+ gardisto (stróż)
+
+ceregiele
+ ceremoniaĵoj
+
+ceremonia
+ ceremonio
+ pompo (pompa)
+
+ceremoniał
+ ceremoniaro, etiketo
+
+ceremonialny
+ ceremonia, laŭetiketa, ceremoniema
+
+cerkiew
+ greka preĝejo
+
+cerować
+ teksfliki
+
+cerownia
+ teksflikejo
+
+certować się
+ disputi (spierać się)
+ ĝeni sin (krępować się)
+
+certyfikat
+ atesto, certigilo
+
+cesarski
+ imperia, imperiestra
+
+cesarstwo
+ imperio
+
+cesarz
+ imperiestro
+
+cesja
+ cedo
+
+cesjonriusz
+ cedanto
+
+cętka
+ punkteto, makuleto
+
+cętkować
+ punkti
+
+cetno
+ parnombro
+
+cewka
+ bobeno (szpulka)
+ tubeto (rurka)
+ ureto (cewka moczowa)
+
+cez
+ sezio
+
+cezura
+ cezuro
+
+chaber
+ centaŭreo
+ cejano (bławatek)
+
+chabrowy
+ cejankolora
+
+chadzać
+ *chodzić*
+
+chała
+ tritika bulko
+
+chałaciarz
+ judaĉo, kitelvestita judo
+
+chałat
+ kitelo, longa surtuto
+
+chałupa
+ kabano
+
+chałupnik
+ kabanano
+ hejmlaboristo, manlaboristo (rękodzielnik)
+
+cham
+ malĝentilulo, krudulo (gbur)
+ malnoblulo (nikczemnik)
+
+chamstwo
+ krudkonduto, fiago, malnoblaĵo (podłość)
+ krudularo, plebo (motłoch)
+
+chan
+ ĥano
+
+chaos
+ ĥaoso, misordo, senordo, anarkio
+
+chaotyczny
+ ĥaosa, senorda
+
+chapać, chapnąć
+ forkapti
+
+charakter
+ karaktero, ecaro, trajtaro
+
+charakterystyczny
+ karakteriza, simptoma, trajta, tipa, distingiga
+
+charakterystyka
+ karakterizo
+
+charakteryzować
+ karakterizi
+
+charczeć, charkać, charknąć, charkotać
+ kraĉospiri
+ kraĉotusi (odchrząknąć)
+ sputi (pluć)
+ stertori (rzężeć)
+
+charłak
+ *cherlak*
+
+chart
+ leporhundo
+
+chata
+ kabano
+
+chcąc nie chcąc
+ vole nevole, devigite
+
+chcenie
+ volo, deziro
+
+chcieć
+ voli, bonvoli (raczyć)
+ deziri (pragnąć)
+ avidi (pożądać)
+ celi (dążyć)
+
+# str. 31
+
+chcieć się
+ voli
+ havi deziron (pragnąć)
+ soifi (łaknąć)
+
+chciwiec
+ avidulo
+
+chęć
+ deziro (pragnienie)
+ volo (wola)
+ avido (pożądanie)
+ intenco (zamiar)
+ inklino (skłonność)
+
+chędogi
+ pura (czysty)
+ bonorda (porządny)
+
+chędożyć
+ purigi (czyścić)
+
+chełpić się
+ fieri (być dumnym)
+ fanfaroni (przechwalać się)
+ paradi (pysznić się)
+
+chełpliwy
+ fanfaronema, mamlaŭda, sinmontrema, vantema, paradema
+
+chemiczny
+ ĥemia
+
+chemik
+ ĥemiisto
+
+chemikalia
+ ĥemiaĵoj
+
+chemia
+ ĥemio
+
+cherlać
+ kaduki
+ esti malsanema (być chorowitym)
+ misprosperi (nie mieć powodzenia)
+
+cherlak
+ kadukulo, malsanemulo, marasmulo
+
+cherlawy
+ kaduka, malsanema (chorobliwy)
+
+cherubin
+ kerubo
+
+chętka
+ deziro
+ tento (pokusa)
+ apetito (apetyt)
+
+chętnie
+ volonte
+
+chętny
+ volonta (ochoczy)
+ ema (skłonny)
+ malenvia (życzliwy)
+
+chichot
+ subrido
+
+chichotać
+ subridi, kaŝridi
+
+chimera
+ ĥimero
+
+chimeryczny
+ ĥimera
+
+chimeryk
+ ĥimerulo, fantaziulo
+
+chinina
+ kinino
+
+chiragra
+ ĥiragro
+
+chiromancja
+ ĥiromancio
+
+chiromanta
+ ĥiromanciisto, aŭguristo (wróżbiarz)
+
+chirurg
+ ĥirurgiisto, ĥirurgo
+
+chirurgia
+ ĥirurgio
+
+chlać
+ avide trinki
+ trinkaĉi (żłopać)
+ langotrinki (chłeptać)
+
+chlapać, chlapnąć
+ ŝpruci, ŝprucigi
+ malpurigi (walać)
+ plaŭdi (pluskać)
+ ekbati (uderzyć)
+
+#chlasnąć
+chlastać, chlastnąć
+ ekbati (uderzyć)
+ ekklaki (klasnąć)
+
+chleb
+ pano
+ tritika pano (chleb biały)
+ maco (chleb przaśny)
+ karobo (chleb świętojański)
+ vivpano (utrzymanie)
+
+chlebak
+ pansako
+
+chlebodajny
+ pandonanta
+ fruktodona (urodzajny)
+
+chlebodawca
+ pandonanto
+ labordonanto (pracodawca)
+
+chłeptać
+ langotrinki, ŝmactrinki
+ trinkaĉi (żłopać)
+
+chlew
+ porekjo, porkstalo
+
+chlewny
+ porkeja, porka
+
+chlipać
+ sorbi (chłonąć)
+ langotrinki (chłeptać)
+ ploregi (szlochać)
+
+chłodek
+ malvarmeto
+
+chłodnica, chłodnik
+ malvarmigejo, ombraĵo (miejsce ocienione)
+ laŭbo (altana)
+ malvarmigilo (oziębiacz)
+
+chłodny
+ malarma, malvarmeta
+ indiferenta (obojętny)
+
+chłodzić
+ malvarmigi
+ senfervorigi (odbierać zapał)
+
+chłonąć
+ sorbi, ensorbi
+ ensuĉi (wysysać)
+ engluti (połykać)
+
+chłop
+ vilaĝano, kamparano, kampulo (wieśniak)
+ terkulturisto (rolnik)
+ krudulo (gbur)
+ knabego (duży chłopak)
+ viro (męzczyzna)
+ bravulo (zuch)
+
+chłopak, chłopiec
+ knabo
+ junulo (młodzieneic)
+ grumo (lokajczyk)
+ bubo (ulicznik)
+ bottirilo (chłopak do butów)
+
+chłopięcy
+ knaba, knabeca
+ infana (dziecięcy)
+ juneca (młodzieńczy)
+
+chłopka
+ vilaĝanino, kampulino (wieśniaczka)
+
+chłopski
+ vilaĝana, kamparana (wieśniaczy)
+ terkulturista (rolniczy)
+ sana (zdrowy)
+
+# str. 32
+
+chłopstwo
+ vilaĝanaro, kampularo (chłopi)
+ krudularo (motłoch)
+
+chlor
+ kloro
+
+chlorek
+ klorido
+
+chlorofil
+ klorofilo
+
+chloroform
+ kloroformo
+
+chloroformować
+ kloroformi
+
+chłosta
+ vipado
+ skurĝado
+ vippuno
+
+chłostać
+ vipi, skurĝi, bati
+
+chluba
+ fiero, gloro, fierindaĵo
+ honoro (zaszczyt)
+ fanfaronado (przechwalanie się)
+
+chlubić się
+ fieri
+ fanfaroni (przechwalać się)
+
+chlubny
+ fierinda
+ honora (zaszczytny)
+ laŭdinda (chwalebny)
+ gloroplena (pełen chwały)
+
+chlupać, chlupnąć
+ plaŭdigi
+ kirli (mącić)
+ plaŭdi (pluskać)
+ ŝpruci (pryskać)
+
+chlustać, chlusnąć
+ plaŭdi, ekplaŭdi (plusnąć)
+ ekŝpruci (trysnąć)
+ ekbati (uderzyć)
+
+chłypać
+ palpebrumi (mrugać)
+ gluti (łykać)
+
+chłysnąć
+ engluti, englutaĉi
+
+chłystek
+ neivegulo, stultulo, malseriozulo
+ nazmukulo (smarkacz)
+ flavbekulo (żółtodziób)
+
+chmara
+ amasego
+ svarmo (rój)
+
+chmiel
+ lupolo
+
+chmielarnia
+ lupolejo, lupolkampo
+
+chmielarz
+ lupolisto, lupolkulturisto
+
+chmuro
+ nubo
+
+chmurny
+ nuba, nubkovrita
+ malserena
+
+churzyć czoło
+ malsereniĝi (posępnieć)
+ sulkigi, faldi (marszczyć)
+
+chmurzyć się
+ nubkovriĝi, malsereniĝi
+ kolereti (dąsać się)
+
+choć, chociaż
+ kvankam, malgraŭ ke (aczkolwiek)
+ almenaŭ (przynajmniej)
+
+choćby, chociażby
+ se eĉ
+ almenaŭ (przynajmniej)
+
+chochlik
+ gnomo, koboldo
+ petolaĵo (figiel)
+
+chód
+ iro, irado, paŝado, irmaniero
+
+chodaczkowy szlachcic
+ etnobelo, mizera nobelo
+
+chodak
+ bastŝuo
+ ŝuaĉo
+
+chodnik
+ trotuaro, irejo
+ koridoro (korytarz)
+ tapiŝo (dywan)
+
+chodzący
+ iranta, paŝanta (kroczący)
+ vera (prawdziwy)
+ enkorpiĝinta (wcielony)
+
+chodzić
+ iri, iradi
+ paŝi, marŝi (maszerować)
+ promeni (spacerować)
+ klopodi (robić starania)
+ viziti (odwiedzać)
+ frekventi (uczęszczać)
+ porti, esti vestita (nosić, być ubranym)
+ cirkuli (krążyć)
+ temi (chodzić o co)
+ koncerni (dotyczyć)
+ gravas (jest rzeczą ważną)
+ celi (zmierzać)
+
+choina
+ pino
+
+choinka
+ pineto
+ Kristnaskarbeto
+
+chojak
+ pino, pinarbo
+
+cholera
+ ĥolero
+
+choleryczny
+ ĥolera
+ kolerika
+
+choleryk
+ kolerikulo
+
+cholewa
+ tibiingo, ŝutubo
+
+chomąt, chomąto
+ ĉirkaŭkolo
+
+chomik
+ hamstro
+
+chopać, chopnąć
+ ekbategi (uderzyć)
+ eksalti (skoczyć
+
+chór
+ ĥoro
+
+chorągiew
+ standardo
+ falgo (flaga)
+ taĉmento (hufiec)
+ skadro (szwadron)
+
+chorał
+ ĥoraĵo, ĥorkanto
+
+chorąży
+ standardisto, standardportisto
+ leŭtnanto (porucznik)
+ propagandisto (propagator)
+
+choreografia
+ ĥoreografio
+ dancarto, baletarto
+
+choroba
+ malsano, malbonfarto
+
+# str. 33
+
+chorobliwy
+ malsaneca, malsanema
+ patologia
+
+chorobotwórczy
+ malsaniga
+
+chorować
+ malsani, esti malsana
+ malbonfarti (źle się czuć)
+
+chorowity
+ malsanema
+
+chory
+ malsana, malbonfarta
+ malsanulo, kuracato, paciento (pacjent)
+
+chorzeć
+ malsani
+
+chórzysta
+ ĥorano, ĥoristo
+
+chów
+ bredado (hodowla)
+ kulturado (uprawa)
+
+chować
+ kaŝi (ukrywać)
+ konservi (przechowywać)
+ sekretigi (taić)
+ kulturi (uprawiać)
+ bredi (hodować)
+ flegi (pielęgnować)
+ eduki (wychowywać)
+ enterigi, entombigi (pogrzebać)
+ rifuĝigi (dać schronienie)
+
+chowany
+ bredata (hodowany)
+ malsovaĝigita (oswojony)
+ dresita (wytresowany)
+ kaŝludo (gra w chowanego)
+
+chrabąszcz
+ majskarabo
+ melolonto
+
+chrap, chrapy
+ naztruo (nozdrze)
+ nazego (nosisko)
+
+chrapać
+ ronki
+
+chrapanie, chrapanina
+ ronkado
+
+chrapka
+ kontraŭemo, antagonismo (zawiść)
+ deziro (pragnienie)
+ apetito (apetyt)
+
+chrapliwy
+ ronka
+ raŭka (ochrypły)
+
+chrestomatia
+ krestomatio
+
+chrobot
+ brueto (szelest)
+ krakado (trzesk)
+ knaro (skrzyp)
+ grinco (zgrzyt)
+
+chrobotać
+ brueti (szeleścić)
+ kraki (trzeszczeć)
+ knari (skrzypieć)
+ grinci (zgrzytać)
+
+chrobry
+ brava
+
+chrom
+ kromo
+
+chromować
+ lami
+
+chromatyczny
+ kromata
+
+chromy
+ lama
+
+chronić
+ ŝirmi, protekti
+ defendi (bronić)
+ gardi (strzec)
+ rifuĝigi (dać przytułek)
+
+chroniczny
+ kronika, longedaŭra
+
+chronologiczny
+ kronologia
+
+chronologia
+ kronologio
+
+chronometr
+ kronometro
+
+chropawy, chropowaty
+ malglata, raspa, hirta
+
+chrust
+ branĉetaĵo
+ fasĉino (faszyna)
+ densejo (gąszcz)
+
+chrupać
+ kraketigi, krakmaĉi
+
+chrustać
+ krakmanĝi, krakmaĉi
+
+chryja
+ kverelo (klótnia)
+ skandalo (skandal)
+
+chrypka
+ raŭkiĝo, raŭko
+
+chrypnąć
+ raŭkiĝi
+
+chrypliwy
+ raŭka
+ obtuza (przytłumiony)
+ raspa (chropawy)
+
+chrystianizm
+ kristanismo
+
+Chrystus
+ Kristo
+
+#chryzantema
+chryzantem
+ krizantemo
+
+chrząkać, chrząknąć
+ kraĉotusi (chrakać)
+ grunti (chrząkać jak świnia)
+
+chrzan
+ kreno
+
+chrząstka
+ kartilago
+
+chrząstkowaty
+ katilageca, kartilagsimila
+
+chrząszcz
+ skarabo, koleoptero
+
+chrzciciel
+ baptisto
+
+chrzcić
+ bapti
+ kristanigi (nawrócić na chrześcijaństwo)
+
+chrzcielnica
+ baptokuvo, baptopelvo
+
+chrzciny
+ baptofesto
+
+chrzczony
+ baptita
+ kristanigita
+
+chrzęścić
+ tinti (pobrzękiwać)
+ kraksoni (trzeszczeć)
+
+chrześcijanin
+ kristano
+
+chrześcijański
+ kristana
+
+chrześcijaństwo
+ kristanismo
+ kristaneco (chrześcijańskość)
+ kristanaro (ogół chrześcijan)
+
+chrześniaczka
+ baptofilino
+
+chrześniak
+ baptofilo
+
+chrzest
+ bapto
+ nomigo (nazwanie)
+
+# str. 34
+
+chrzęst
+ tinto, tintado (szczęk)
+ krako, krakado (trzask)
+
+chrzestny
+ bapta
+ baptopatro (ojciec chrzestny)
+ baptopatrino (matka chrzestna)
+
+chuchać, chuchnąć
+ spirblovi
+ spirvarmigi (grzać oddechem)
+ dorloti (rozpieszczać)
+ forŝteli (ukraść)
+
+chuć
+ voluptemo
+
+chuchrak, chuchro
+ malfortulo, kadukulo (charłak)
+
+chuderlawy
+ malgrasa, maldika, malkorpulenta
+
+chudeusz
+ malgrasulo
+
+chudnąć
+ malgrasiĝi
+ kadukiĝi (podupadać)
+
+chudoba
+ havaĵo (mienie)
+ propraĵo, posedaĵo (własność)
+ brutaro (bydło)
+
+chudopachołek
+ senhavulo, mizerulo
+
+chudy
+ malgrasa
+ maldika (szczupły)
+ mizera (nędzny)
+
+chuj
+ peniso
+
+chuligan
+ huligano
+
+chusta, chustka
+ tuko
+
+chwacki
+ brava
+
+chwała
+ gloro
+ famo (sława)
+ majesto (wspaniałość)
+ dankon al Dio (chwała Bogu)
+
+chwalba
+ fanfaronado, memlaŭdo
+
+chwalca
+ laŭdanto, gloranto
+ adoranto (wielbiciel)
+ panegiristo (panegirista)
+
+chwalebny
+ laŭdinda (godny pochwały)
+ glora, glorplena (pełen chwały)
+ honora (zaszczytny)
+
+chwalić
+ laŭdi
+ glori (sławić)
+ adori (uwielbiać)
+ kulti (czcić)
+ rekomendi (zalecać)
+
+chwalić się
+ laŭdi sin
+ glori sin
+ fieri (chełpić się)
+ fanfaroni (przechwalać się)
+
+chwast
+ herbaĉo (zielsko)
+ lolo (kąkol)
+ kvasto (kutas)
+
+chwaścić się
+ kovriĝi per herbaĉoj (pokryć się chwastami)
+ diskreski (rozrastać się)
+
+chwaścisty
+ herbaĉoplena
+
+chwat
+ bravulo
+
+chwiać
+ ŝanceli
+ skui (potrząsać)
+ balanci (kołysać)
+
+chwiać się
+ ŝanceliĝi
+ heziti (wahać się)
+
+chwiejny
+ ŝanceliĝema
+ malfirma, nestarema (niestały)
+ malcerta (niepewny)
+ ŝanĝema (zmienny)
+ hezitema (niezdecydowany)
+
+chwila
+ momento
+
+chwilka
+ momenteto
+
+chwilowy
+ momenta, dummomenta
+ maldaŭra, sendaŭra, nedaŭra, provizora, duma (czasowy)
+
+chwycić, chwytać
+ kapti, ekkapti
+
+chwytać się
+ kapti sin
+ entrepreni (przesięwziąć)
+ uzi (użyć)
+ kroĉiĝi (czepić się)
+ alteniĝi (przylgnąć)
+
+chwytny
+ kaptipova
+
+chyba
+ eble nur (może tylko)
+ escepte nur se (chyba że, wyjąwszy o ile)
+ verŝajne, laŭŝajne, supoze (przypuszczalnie)
+
+chybiać
+ maltrafi
+ malsukcesi (nie udać się)
+ trafe maltrafe, trafpove, laŭhazarde (na chybił trafił)
+
+chybiony
+ maltrafa, malĝusta
+ malsukcesinta (nieudany)
+
+chybki
+ rapida (szybki)
+ vigla (żwawy)
+ lerta (zwinny)
+
+chybotać
+ ŝanceli (chwiać)
+ balanci (kołysać)
+ agiti, skui (wstrząsać)
+
+chylić
+ klini
+
+chyłkiem
+ kliniĝinte, kaŭrinte (przyczaiwszy się)
+ ŝtelire, kaŝe (ukradkiem)
+
+chynąć się
+ kliniĝi
+
+chytrek
+ ruzulo, sagaculo
+
+chytry
+ ruza
+ sagaca (przebiegły)
+ avida (chciwy)
+
+# str. 35
+
+chyży
+ rapida, vigla
+
+ci
+ al vi (tobie)
+ tiuj (nie tamci)
+ jen (a to ci)
+
+ciąć
+ tranĉi
+ haki (rabać)
+ sabri (ciąć szablą)
+
+ciąg
+ tiro (pociągnięcie)
+ sinsekvo (następstwo)
+ fadeno (wątek)
+ inklino (pociąg)
+ dum, en daŭro (w ciągu)
+ daŭrigo, daŭriga parto, plua parto (dalszy ciąg)
+ plue (w dalszym ciągu)
+
+ciągiem, ciągle
+ kontinue, senĉese, senhalte, senpaŭze, seninterrompe, konstante
+
+ciągły
+ kontinua, konstanta, ĉiamdaŭra, ĉiama (ustawiczny)
+ senhalta, senĉesa, senpaŭza, seninterrompa (bezustanny)
+ etendebla (ciągliwy)
+
+ciągnąć
+ tiri, treni (wlec)
+ etendi (rozciągać)
+ daŭrigi, kontinuigi, plue fari (ciągnąć dalej)
+ trati (ciągnąć weksel, trasować)
+ paŝi, marŝi (iść)
+ proksimiĝi (zbliżać się)
+ sekvigi (prowadzić za sobą)
+ etendi (rozciągać)
+ longigi (przedłużać)
+ fumi (ciągnąć np. fajkę)
+
+ciągnienie
+ tirado
+ lotado (losowanie)
+
+ciałko
+ korpeto
+ globeto (kulka)
+ sangero (ciałko krwi)
+
+ciało
+ korpo
+ karno (mięso)
+ organismo (organizm)
+ substanco (substancja)
+ materio (materia)
+ astro (ciało niebieskie)
+ kadavro (trup)
+ institucio (instytucja)
+ korporacio (stowarzyszenie)
+ personaro (personel)
+ Kristkorpa festo (Boże Ciało)
+
+ciamajda
+ sentaŭgulo
+ malspritulo
+
+ciapa
+ sentaŭgulo (niedołęga)
+ mallertulo (niezdara)
+
+ciapać, ciapnąć
+ filtri (cedzić)
+ ekbati (uderzyć)
+ brodpaŝi (człapać)
+
+ciarki
+ frostotremo
+ timtremo
+
+ciasny
+ malvasta, malgrandspaca
+ malgrandaspekta
+ mallarĝa (wąski)
+ limigita (ograniczony)
+
+ciastko
+ kuko, kukaĵo
+ krakeno (herbatnik)
+
+ciasto
+ pasto (mąka rozczyniona)
+ kuko (ciasto upieczone)
+ babao (babka)
+
+ciąża
+ gravedeco
+
+ciążenie
+ gravito
+ inklino (skłonność)
+
+ciążyć
+ pezi, graviti
+ premi (uciskać)
+ devi (mieć obowiązek)
+ inklini, emi, tendenci (skłaniać się)
+
+cichaczem
+ mallaŭte, senbrue
+
+cichnąć
+ mallaŭtiĝi, silentiĝi
+
+cichy
+ mallaŭta, senbrua, silenta
+ trankvila, kvieta (spokojny)
+ obtuza (przytłumiony)
+ anonima (anonimowy)
+
+ciec
+ flui
+ guti (kapać)
+ traflui, trafiltriĝi (przeciekać)
+ esti truita (być dziurawym)
+
+cieciorka
+ tetrino
+
+cięciwa
+ tendeno
+
+ciecz
+ fluido, fluidaĵo, fluaĵo, likvaĵo
+
+cięgi
+ batostrioj (pręgi)
+ vippuno (chłosta)
+ malvenko (porażka)
+ plago (klęska)
+
+cięgiem
+ *ciągle*
+
+ciekać się
+ pariĝi
+
+ciekawość
+ sciemo, scivolemo (chęć dowiedzenia się)
+ intereseco, atentindeco, kuriozeco (osobliwość)
+ kuriozaĵo (rzecz ciekawa)
+
+ciekawy
+ sciema, scivola, sciavida (pragnący wiedzieć)
+ interesa (wzbudzający ciekawość)
+ atentinda (godny uwagi)
+ kurioza (osobliwy)
+
+ciekły
+ flua, fluida, likva
+
+cieknąć
+ *ciec*
+
+cielę, cielak
+ bovido
+ foko (cielę morskie)
+ stultulo (głupiec)
+
+cielec
+ bovido, granda bovido
+ idolo (bałwan)
+
+# str. 36
+
+cielęcina
+ bovidaĵo, bovida viando
+
+cielęcy
+ bovida
+ stulta (głupi)
+
+cielesny
+ korpa, korpeca, metria, materiala
+
+cielić się
+ naski bovidon
+
+cieliczka
+ bovidino
+
+cielisty
+ karnokolora
+
+cielna
+ graveda
+
+cielsko
+ korpego
+ korpaĉo
+
+ciemię
+ verto
+ parietosto (kość ciemieniowa)
+ sprita (nie w ciemię bity)
+
+ciemięga
+ penego (mozół)
+ tempoperdo (strata czasu)
+ sentaŭgulo (niedołęga)
+ tedulo (nudziarz)
+
+ciemiężca, ciemiężyciel
+ premeganto, tirano, satrapo
+
+ciemiężyć
+ premi, premegi, subpremi, tirani (tyranizować)
+
+ciemnia
+ mallumejo, senlumejo
+ mallumĉambro, senluma kamero
+
+ciemnica
+ senluma kamero, mallumejo (ciemnia)
+ karcero (karcer)
+
+ciemnieć
+ malheliĝi, mallumiĝi
+ blindiĝi (oślepnąć)
+
+ciemność, ciemnota
+ mallumo (mrok)
+ malklareco (zawiłość)
+ malheleco (ciemnobarwność)
+ malklereco (nieośieconość)
+ krudularo (motłoch)
+ blindeco (ślepota)
+
+ciemny
+ malluma, senluma, malhela
+ mlaklara (zawiły)
+ malklera (nieoświecony)
+ kruda (nieukształtowany)
+ blinda (ślepy)
+
+cień
+ ombro
+ fantomo (duch)
+
+cieńczyć
+ maldikigi (czynić cieńszym)
+ maldensigi, dilui (rozcieńczać)
+
+cieniować
+ ombri (rzucać cień)
+ ombrumi (cieniować w rysunku)
+ moduli (cieniować w śpiewie)
+ nuanci (nadawać odcień)
+
+cienisty
+ ombra, ombroplena
+
+cienki
+ maldika
+ delikata (delikatny)
+ gracia (wysmukły)
+ soprana (o głosie)
+ maldensigita, diluita (rozcieńczony)
+
+cieplarnia
+ varmplantejo, varmkulturejo, oranĝerio
+
+cieplica
+ ŝvitbanejo (łaźnia)
+ varmfontoj (źródła ciepła)
+
+ciepło
+ varmo
+ temperaturo (ciepłota)
+ varme
+
+ciepłomierz
+ termometro
+
+ciepłostka
+ kalorio
+
+ciepłota
+ temperaturo
+
+ciepły
+ varma
+ kora (serdeczny)
+
+cierlica
+ linrompilo
+ kanaborompilo
+
+cierń
+ dorno, pikilo
+ aflikto (utrapienie)
+
+ciernisty
+ dorna, dornoplena
+
+cierpieć
+ suferi
+ toleri (znosić)
+
+cierpienie
+ sufero
+ turmento (udręka)
+ doloro (ból)
+
+cierpki
+ agaciga
+ malagrabla (przykry)
+ malafabla (nieuprzejmy)
+
+cierpliwość
+ pacienco
+
+cierpliwy
+ pacienca, eltenema
+
+cierpnąć, cierpnieć
+ rigidiĝi (drętwieć)
+ agaciĝi (o zębach)
+
+cieśla
+ ĉarpentisto
+
+cieślica
+ ĉarpentilo
+
+cieśń
+ mallarĝejo
+ mallarĝeco (ciasnota)
+ interpuŝo, interpremo (ścisk)
+
+cieśnina
+ markolo
+
+cieszyć
+ ĝojigi
+ gajigi (rozweselać)
+ amuzi, distri (zabawiać)
+
+cieszyć się
+ ĝoji (radować się)
+ plezuri (mieć przyjemność)
+ ĝui (doznawać)
+
+cietrzew
+ tetro
+
+cięty
+ tranĉita, hakita (siekany)
+ pikparolema, pikema
+ mokema, ironiema (zjadliwy)
+ elokventa (wymowny)
+
+ciężar
+ pezo
+ pezaĵo
+ ŝarĝo (ładunek)
+ balasto (balast)
+ pakaĵo (bagaż)
+
+ciężarek
+ pezilo
+
+ciężarna
+ graveda
+
+ciężki
+ peza, multpeza
+ mallerta (niezwinny)
+ nemoviĝema (nieruchliwy)
+ malfacilmova (ociężały)
+ grava (np. rana)
+ malfacila (trudny)
+ teda (przykry)
+ laciga (nużący)
+
+# str. 37
+
+ciężyć
+ *ciążyć*
+
+ciocia
+ onklino
+
+ciołek
+ bovido, virboveto
+ stultulo (głupiec)
+
+cios
+ bato, ekbato
+
+ciosać
+ ĉarpenti
+ kvadratigi (ciosać w kwadrat)
+
+cioteczny
+ onklina
+ kuzo (cioteczny brat)
+
+ciotka
+ onklino
+
+cis
+ taksuso
+
+cisawy
+ kaŝtanbruna, nuksobruna
+
+ciskać, cisnąć
+ ĵeti (miotać)
+ premi (uciskać)
+
+ciskać sie
+ ĵetiĝadi (rzucać się)
+ premiĝi (tłoczyć się)
+ koleri (gniewać się)
+
+ciśnienie
+ premo
+
+cisza
+ silento, senbrueco
+ mallaŭteco (cichość)
+ kvieto (spokój)
+ stagno (zastój)
+
+#ciuciubabka
+ciciubabka
+ blindludo
+
+ciułać
+ ŝparegi
+
+ciupa
+ malliberejo, arestejo, karcero (więzienie)
+ malluma kamero (ciemnica)
+
+ciupaga
+ montana bastono
+
+ciura
+ tendarservisto, oficirservisto (posługacz)
+ mallertulo (niedołęga)
+
+ciurkiem
+ gutope (kroplami)
+ torente (strumieniem)
+
+ciżba
+ amasego, popolamaso (tłum)
+ interpuŝo (ścisk)
+
+ciżmy
+ laĉbotoj (sznurowane buty)
+ duonbotoj (półbuty)
+
+ckliwy
+ naŭza, vomiga (mdły)
+ sengusta (niesmaczny)
+ teda (przykry)
+ trodolĉa (zbyt słodki)
+
+cklić sie, cknąć, cknić
+ senti vomemon, senti naŭzon
+
+clić
+ fiksi doganon
+
+cło
+ limimposto, dogano
+
+ćma
+ nokta papilio (motyl nocny)
+ mallumo (mrok)
+ amasego (mnóstwo)
+ svarmo (rój)
+
+cmentarz, cmentarzysko
+ tombejo
+
+ćmić
+ mallumigi, malheligi, malklarigi (zaciemniać)
+ eklipsi (zaćmiewać)
+ fumi (ćmić np. fajkę)
+
+cmokać, cmoknąć
+ ŝmaci
+ lipklaki, langoklaki
+ kisi (pocałować)
+ suĉi (ssać)
+ fumi (np. fajkę)
+
+cmoktać
+ *cmokać*
+
+cnota
+ virto
+
+cnotliwy
+ virta, morala
+
+cny
+ honesta (uczciwy)
+ estiminda (czcigodny)
+ nobla (szlachetny)
+
+cna (do)
+ ĝisfunde, tuttute
+
+co
+ kio
+ kiu (który)
+ iom (trochę)
+ ĉiu (każdy, wszystek)
+ tuta (cały)
+ kiom (ile)
+ kiel eble plej (możliwie naj...)
+ koncerne (co się tyczy)
+ ĵus (tylko co)
+ kia (jaki)
+ io (coś)
+ kial (dlaczego)
+
+codzienny
+ ĉiutaga
+ ordinara (zwykły)
+
+cofać, cofnąć
+ malantaŭenigi, reenigi, postenigi, malprogresigi
+ retiri
+ revoki (odwołać)
+ senvalidigi (unieważnić)
+ cedigi (zmusić do ustąpienia)
+
+cokół
+ soklo, piedestalo
+
+cokolwiek
+ iom (trochę)
+ iom ajn, kiom ajn (ilekolwiek)
+ kion ajn (co tylko)
+
+#cokolwiek bądź
+cokolwiekbądź
+ ĉiuokaze, kio ajn estu
+
+#do najwyżej
+conajwyżej
+ maksimume
+
+córa, córka
+ filino
+ malĉastulino (wesoła córka)
+
+coraz
+ ĉiufoje, ĉiam pli, pli kaj pli
+
+coroczny
+ ĉiujara
+
+coś
+ io
+ iel (jakoś)
+ ĉirkaŭ (około)
+ ial (niewiadomo dlaczego)
+ iom (trochę)
+
+# str. 38
+
+cóż
+ kio do
+
+cuchnąć
+ malbonodori, odoraĉi
+
+cucić
+ malsvenigi, elsvenigi
+ rekonscii
+
+cud
+ miraklo
+
+cudak
+ strangulo, ekstravaganculo
+
+cudny
+ mirakla (cudowny)
+ mirinda (przedziwny)
+ rava (zachwycający)
+ admirinda (godny podziwu)
+ superbela (przepiękny)
+
+cudo
+ belegaĵo, mirindaĵo
+
+cudotwórca
+ miraklofaranto
+
+cudowne dziecko
+ mirinfano
+
+cudowny
+ *cudny*
+
+cudzołóstwo
+ adulto
+
+cudzołożnica
+ adultino, adultulino
+
+cudzołożyć
+ adulti
+
+cudzoziemiec
+ eksterlandano, alilandulo, fremdlandano
+
+cudzoziemski
+ alilanda, fremdlanda
+ eksterlanda (zagraniczny)
+
+cudzy
+ fremda, malpropra
+
+cudzysłów
+ citsigno
+
+cug
+ trablovo (przeciąg)
+ kunjungitaĵo, jungo (zaprząg)
+ tiro (pociągnięcie)
+ movo (ruch)
+
+cugiel, cugle
+ brido, kondukrimeno, kondukilo
+
+cukier
+ sukero
+ kando (cukier lodowaty)
+ sukeraĵoj, dolĉaĵoj (cukry, słodycze)
+
+cukierek
+ bombono
+
+cukierkowy
+ dolĉa (słodki)
+ sentimentala (sentymeentalny)
+ banala (oklepany)
+
+cukiernia
+ sukeraĵejo
+ kafejo (kawiarnia)
+
+cukiernica
+ sukerujo
+
+cukiernik
+ sukeraĵisto
+
+cukrować
+ sukeri
+ dolĉigi (słodzić)
+
+cukrownia
+ sukerfarejo
+
+cukrownictwo
+ sukerfabrikado, sukerindustrio
+
+cukrownik
+ sukerfabrikanto
+
+cukrowy
+ sukera
+ diabeto (choroba cukrowa)
+
+cukrzyć
+ sukeri
+
+cukrzyca
+ diabeto
+
+cuma
+ ŝipalligilo
+
+cwał
+ galopego
+
+cwałować
+ galopegi
+
+ćwiartka
+ kvarono
+ kvaronfolio (ćwiartka papieru)
+ femuro (ćwiartka mięsa)
+
+ćwiczenie
+ ekzerco
+
+ćwiczyć
+ ekzerci, lertigi (wprawiać)
+ dresi (tresować)
+ vipi (chłostać)
+ gimnastiki (gimnastykować)
+
+ćwiek
+ najlo (gwóżdź)
+ lignonajlo, stifto (sztyft)
+
+ćwierć
+ kvarono
+
+ćwierkać
+ ĉirpi, pepi
+
+ćwik
+ duonkapono (kogut)
+ spertulo, veterano (weteran)
+ sagaculo (przebieglec)
+
+ćwikła
+ beto, betaĵo
+
+cybet
+ cibeto
+
+cyborium
+ ciborio
+
+cybuch
+ piptubo
+
+cyc, cycek
+ mamo, mamplato (pierś)
+ indieno (perkal)
+
+cydr
+ cidro, pomvino
+
+cyferblat
+ ciferplato
+
+cyfra
+ cifero
+
+cyfrować
+ ciferi, numeri (numerować)
+ ĉifri (wyrażać szyfrem)
+
+cyga
+ turbo
+
+cygan
+ cigano
+ ĉarlatano (szalbierz)
+ vagulo (włóczęga)
+
+cyganić
+ trompi, ĉarlatani
+
+cygarnica
+ cigarujo
+
+cygarniczka
+ cigaringo
+
+cygaro
+ cigaro
+
+cykać, cyknąć
+ tiktaki (o zegarze)
+
+cyka
+ citronaĵo
+
+cykl
+ ciklo
+
+cyklista
+ ciklisto, velocipedisto
+
+cyklon
+ ciklono, kirloventego
+
+cyklop
+ ciklopo
+
+cykoria
+ cikorio
+
+cykuta
+ cikuto
+
+cylinder
+ cilindro
+
+cymbał
+ cimbalo (instrument)
+ stultulo (głupiec)
+
+# str. 39
+
+cymbalista
+ cimbalisto
+
+cyna
+ stano
+
+cynadry
+ renoj (nerki)
+ renaĵo (potrawa z nerek)
+
+cynamon
+ cinamo
+
+cynfolia
+ stanfolio, staniolo
+
+cyngiel
+ ĉano
+
+cyniczny
+ cinika
+
+cynik
+ cinikulo
+
+cynizm
+ cinikismo, cinikeco
+
+cynk
+ zinko
+
+cynober
+ cinabro
+
+cynować
+ stani
+
+cypel
+ pinto
+ promontoro (przylądek)
+
+cyprys
+ cipreso
+
+cyranka
+ kerkedolo, sovaĝa anaso
+
+cyrk
+ cirko
+
+cyrkiel
+ cirkelo
+
+cyrkowiec
+ cirkisto
+
+cyrkówka
+ cirkistino
+
+cyrkuł
+ distrikto, kantono (w kraju)
+ kvartalo (w mieście)
+
+cyrkulacja
+ cirkulado
+
+cyrkularz
+ cirkulero
+
+cyrkulować
+ cirkuli
+
+cyrkumfleks
+ cirkumflekso
+
+cyrulik
+ barbiro, barbisto, razisto
+
+cysterna
+ cisterno
+
+cytat
+ cito, citaĵo, citato
+
+cytadela
+ citadelo
+
+cytować
+ citi
+
+cytra
+ citro
+
+cytryna
+ citrono
+
+cywil
+ civilulo
+
+cywilizacja
+ civilizo, civilizado, civilizeco, civilizacio
+
+cywilizować
+ civilizi
+ 
+cywilny
+ civila
+ civitana (obywatelski)
+
+cyzelować
+ cizeli
+
+czad
+ haladzo
+
+czaić sie
+ embuskiĝi (zasadzać się na kogoś)
+ ŝtelkaŝiĝi (ukryć się)
+ insidi (czyhać)
+
+czajka
+ vanelo (ptak)
+ boatego (łódź)
+
+czajnik
+ tekruĉo
+
+czako
+ ĉako
+
+czapka
+ ĉapo
+ kufo (czepek)
+ kepo (kepi)
+ bireto (beret)
+
+czapkować
+ depreni la ĉapon (zdjąć czapkę)
+ riverenci (ukłonić się)
+ flati (pochlebiać)
+ bati per ĉapo (bić czapką)
+
+czapla
+ ardeo
+
+czapnik
+ ĉapisto
+
+czaprak
+ ĉabraki, subselaĵo
+
+czar
+ sorĉo
+ sorĉaĵo
+ ĉarmo (urok)
+
+czara
+ kaliko (kielich)
+ pokalo (puchar)
+
+czarnoksięstwo
+ sorĉarto, magio
+
+czarnoksiężnik
+ sorĉisto, magiisto
+ ĵonglisto (kuglarz)
+
+czarnoziem
+ humo
+
+czarny
+ nigra
+
+czarodziej
+ sorĉisto, magiisto
+ ĵonglisto (kuglarz)
+
+czarodziejski
+ sorĉa, magia, sorĉista
+
+czarować
+ sorĉi
+ ĉarmi, ravi (zachwycać)
+
+czarownica
+ sorĉistino
+ fivirino (babsko)
+
+czarownik
+ sorĉisto
+
+czarowny
+ ĉarma, rava (zachwycający)
+ sorĉa (czarnoksięski)
+
+czart
+ diablo, satano, demono
+
+czas
+ tempo
+
+czasami, czasem
+ kelkfoje, iafoje, de tempo al tempo (niekiedy)
+ hazarde (przypadkiem)
+
+czasopismo
+ perioda gazeto
+ revuo (przegląd)
+
+czasownik
+ verbo
+
+czasowy
+ tempa
+ ĝistempa, nedaŭra (niedługotrwały)
+ momenta (chwilowy)
+ provizora, duma (tymczasowy)
+ tempohava (mający czas)
+
+cząsteczka
+ ereto
+ molekulo
+
+cząstka
+ parteto, ero
+ peceto (kawałeczek)
+
+czasza
+ kaliko (kielich)
+ pokalego (puchar)
+
+# str. 40
+
+czaszka
+ kranio
+
+czatować
+ spioni (szpiegować)
+ insidi (czyhać)
+ embuski (zasadzać się)
+
+czaty
+ embusko (zasadzka)
+ gardo (straż)
+ pikedo (czaty wojskowe)
+ spionado (przeszpiegi)
+
+czcić
+ adori (uwielbiać)
+ honori (oddawać cześć)
+ respekti, estimi (poważać)
+ kulti (czić religijnie)
+
+czciciel
+ adoranto
+
+czcigodny
+ honorinda, estiminda
+
+czcionka
+ preslitero
+
+czczo (na)
+ ne manĝinte
+
+czczy
+ vanta
+ vana (daremny)
+ malplena (pusty)
+
+czeczuga
+ sterledo
+
+czego
+ de kio, de kiu
+ kial (dlaczego)
+
+czek
+ ĉeko
+
+czekać
+ atendi
+
+czekolada
+ ĉokolado
+
+czeladnik
+ helpmetiisto
+ submajstro (podmajstrzy)
+
+czeladź
+ servistaro, helpistaro
+
+czelność
+ impertinenteco
+ senhonteco (bezwstyd)
+ maltimo, aŭdaco (zuchwalstwo)
+
+czeluść
+ faŭko (paszcza)
+ makzelo (szczęka)
+ truego (dziura)
+ abismo (przepaść)
+
+czemu
+ al kio
+ kial, pro kio (dlaczego)
+ po kiom (po czemu)
+
+czepek, czepiec
+ kufo
+
+czepiać
+ alkroĉi, alligi, alfiksi
+
+czepiać sie
+ alpendiĝi (zawieszać się)
+ alkroĉiĝi (przyczepiać się)
+ alteniĝi (lgnąć)
+ grimpi (wspinać się)
+ provoki (wyzywać)
+
+czereda
+ arego, amaso
+ bando (zgraja)
+
+czeremcha
+ frangolo
+
+czerep
+ kranio (czaszka)
+ disrompaĵo, rompopeco (odłamek)
+ rubaĵo (gruz)
+ ŝelo (skorupa)
+
+czereśnia
+ ĉerizo, morizo
+
+czerń
+ nigraĵo, nigrigilo (czernidło)
+ popolamaso, popolaĉo, plebo (gmin)
+
+czernić
+ nigrigi
+ kalumnii (spotwarzać)
+ malbonfamigi (zniesławiać)
+
+czernica
+ miertelo (czarna borówka)
+
+czernidło
+ nigrilo
+ ciro (szuwaks)
+
+czernieć
+ nigriĝi, nigri
+
+czerpać
+ ĉerpi
+
+ĉerpak
+ ĉerpilo
+
+czerstwieć
+ sekiĝi, malreŝiĝi
+
+czerstwy
+ sekiĝinta (wyschły)
+ malfreŝa (nieświeży)
+ fortika (krzepki)
+ vigla (rześki)
+
+czerwiec
+ junio
+
+czerwień
+ ruĝo, skarlato
+ kero (w kartach)
+
+czerwienić się
+ ruĝiĝi
+
+czerwonka
+ disenterio
+
+czerwonoskóry
+ ruĝhaŭta
+ indiano
+
+czerwony
+ ruĝa
+
+czesać
+ kombi
+ frizi (ufryzować)
+ strigli (czesać zgrzebłem)
+
+cześć
+ honoro, respekto
+ kulto (cześć religijna)
+
+część
+ parto
+ konsistigilo (składnik)
+ ono (ułamek)
+
+częściowy
+ parta, poparta
+
+często
+ ofte
+
+czesne
+ lerneja pago
+
+częstokół
+ palisaro
+
+częstokroć
+ multfoje, plurfoje
+
+częstoliwość
+ multfojeco, ofta ripetiĝo
+ frekvenco [elektr.]
+
+częstować
+ regali
+
+częsty
+ ofta
+
+czkać
+ singulti
+
+czkawka
+ singulto
+
+człapać
+ piedklaki, iraĉi (leźć)
+ klaktreniĝi (wlec się)
+
+człek
+ homo
+
+członek
+ membro
+ ano (członek towarzystwa)
+ peniso (członek męski)
+
+członkować
+ dismembrigi
+ dispartigi (rozdzielić)
+
+# str. 41
+
+człowieczeństwo
+ homeco, humaneco
+
+człowiek
+ homo
+ persono
+
+czmychać
+ forkuri, fuĝi
+
+czochrać
+ taŭzi
+
+czołg
+ tanko
+
+czołgać się
+ rampi
+
+czółno
+ boato
+ navedo (czółno tkackie)
+
+czoło
+ frunto
+ fronto (przód)
+
+czołobitny
+ bumilega
+
+czołowy
+ frunta
+ fronta (przedni)
+ ĉefa (główny)
+ elita (doborowy)
+
+czop
+ ŝtopilego (zatyczka)
+ bolto (bełt)
+ krano (kran)
+ pivoto (czop zawiaski)
+
+czopek
+ ŝtopileto
+ boluso [med.]
+
+czosnek
+ ajlo
+
+czterdzieści
+ kvardek
+
+czternaście
+ dekkvar
+
+cztery
+ kvar
+
+czterysta
+ kvarcent
+
+czub
+ tufo (kosmyk)
+ pinto (koniec)
+ kresto (grzebień koguci)
+
+czubatka
+ kresta paruo
+
+czubaty
+ tufhava
+ kresthava (posiadający grzebień)
+ pinta (szpiczasty)
+
+czubek
+ tufo
+ plumfasko (czubek piór)
+ pinto (szczyt)
+
+czubić się
+ interbatiĝi (bić się)
+ kvereli (kłócić się)
+ intertaŭzi sin (czochrać się)
+
+czuć
+ senti (doznawać)
+ flari (czuć węchem)
+ odori (mieć zapach)
+
+czuć się
+ senti sin
+ farti (o zdrowiu)
+
+czucie
+ eksento, sentumaĵo, sensaĵo
+ sentokapablo
+ tuŝsenso (zmysł dotyku)
+ impreso (wrażenie)
+
+czujny
+ vigla, gardema
+
+czule
+ kore (serdecznie)
+ karese (pieszczotliwie)
+
+czułek
+ mimozo (roślina)
+ anteno, tentaklo (macka)
+
+czuły
+ sentema (wrażliwy)
+ karesema (pieszczotliwy)
+ kortuŝa (wzruszający)
+ zorga (dbały)
+ impresebla, impresiĝema
+
+czupiradło
+ ĉapelaĉo (kapeluszysko)
+ strang-gustulino (kobieta z dziwacznym smakiem)
+
+czupryna
+ hartufo
+
+czupurny
+ atakema
+ kverelema (kłótliwy)
+ provokema (wyzywający)
+
+czuwać
+ maldormi (nie spać)
+ gardi (pilnować)
+ gardestari (stać na straży0
+ inspekti (dozorować)
+ atenti (baczyć)
+
+czwartek
+ ĵaŭdo
+
+czwarty
+ kvara
+
+czworak
+ servista loĝejo, loĝejo por kvar familioj
+
+czworakach (na)
+ kvarpiede
+
+czwórka
+ kvaro
+
+czworo
+ kvar
+
+czworobok, czworokąt
+ kvarangulo
+
+czy
+ ĉu
+ aŭ (albo)
+
+czyhać
+ insidi
+
+czyj
+ kies, de kiu
+
+czyjś
+ ies
+ fremda (cudzy)
+
+czyli
+ tio estas, tio signifas
+ aŭ
+ alivorte
+ sekve do
+
+czyn
+ ago
+ fakto (fakt)
+
+czynić
+ agi, fari
+ igi (czynić jakimś)
+ procedi (postępować)
+
+czynnik
+ faktoro, koeficiento
+
+czynność
+ agado (działanie)
+ funkcio
+ aktiveco (aktywność)
+
+czynny
+ aktiva, agema
+ funkcianta (spełniający czynność)
+
+czynsz
+ lupago, farmpago
+ tributo (danina)
+
+czynszownik
+ lupaganto, farmopaganto
+ farmanto, farmisto (dzierżawca)
+
+czyrak
+ furunko
+
+czyścić
+ purigi
+ laksigi (czyścić żołądek)
+ kastri (trzebić)
+ rafini [chem.]
+ rektifi (czyścić wódkę)
+
+czyściec
+ purgatorio
+
+czysty
+ pura
+ ĉasta (niepokalany)
+ neta (o piśmie, o dochodizie, netto)
+ nura (bez domieszek)
+
+czytać
+ legi
+
+# str. 42
+
+czytanka
+ legaĵo
+ legolibro
+
+czytelnia
+ legejo
+
+czytelnik
+ leganto
+
+czytelny
+ legebla
+
+czytywać
+ legadi
+
+czyż?
+ ĉu do?, ĉu eble?
+
+czyżyk
+ fringelo
+
